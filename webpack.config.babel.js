@@ -1,19 +1,20 @@
 import {join} from 'path'
 
-const include = join(__dirname, 'src')
+const context = join(__dirname, 'src')
 
 export default {
-  entry: './src/index',
+  context,
+  entry: './index',
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'starWarsNames',
+    library: 'snesGameNames',
   },
   devtool: 'source-map',
   module: {
     loaders: [
-      {test: /\.js$/, loader: 'babel', include},
-      {test: /\.json$/, 'loader': 'json', include},
-    ]
-  }
+      {test: /\.js$/, loaders: ['babel'], include: context},
+      {test: /\.json$/, loaders: ['json'], include: context},
+    ],
+  },
 }

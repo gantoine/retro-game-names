@@ -100,7 +100,8 @@
       "path": "cz-conventional-changelog"
     },
     "ghooks": {
-      "pre-commit": "npm run validate"
+      "pre-commit": "npm run validate",
+      "commit-msg": "validate-commit-msg"
     }
   }
 }

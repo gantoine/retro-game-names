@@ -25,6 +25,7 @@ npm install snes-game-names
 var games = require('snes-game-names');
 var allNames = games.all;
 var randomName = games.random();
+var threeRandomNames = games.random(3);
 ```
 
 ## Other
@@ -40,7 +41,7 @@ with Node 6). You'll also need a recent version of [git](https://git-scm.com/) i
 as well.
 
 ```
-npm run setup:fem
+npm run setup
 ```
 
 If you get any failures at this point something is wrong and needs to be fixed. Remember,

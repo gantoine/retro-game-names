@@ -1,22 +1,37 @@
 import uniqueRandomArray from 'unique-random-array'
-const snesNames = require('./snes-game-names.json')
+import snesNames from './snes-game-names.json'
+import _ from 'underscore'
 
-const getRandomItem = uniqueRandomArray(snesNames);
+const getRandomItem = uniqueRandomArray(snesNames)
 
 const mainExport = {
   all: snesNames,
-  random: random
+  random: random,
+  find: find
 };
 
-function random(number) {
-  if (number === undefined) {
+function random(arg) {
+  if (arg === undefined) {
     return getRandomItem();
-  } else {
+  } else if (typeof arg === 'string') {
+    const foundNames = _.filter(snesNames, (s) => s.includes(arg))
+    return uniqueRandomArray(foundNames)()
+  }
+  else {
     const randomItems = [];
-    for (let i = 0; i < number; i++) {
+    for (let i = 0; i < arg; i++) {
       randomItems.push(getRandomItem());
     }
     return randomItems;
+  }
+}
+
+function find(name, number) {
+  const foundNames = _.filter(snesNames, (s) => s.includes(name))
+  if (number === undefined) {
+    return foundNames
+  } else {
+    return foundNames.slice(0, number)
   }
 }
 

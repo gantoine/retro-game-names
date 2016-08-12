@@ -23,9 +23,42 @@ npm install snes-game-names
 
 ```javascript
 var games = require('snes-game-names');
-var allNames = games.all;
-var randomName = games.random();
-var threeRandomNames = games.random(3);
+```
+#### games.all
+Return an array containing all the games.
+
+#### games.random([arg])
+
+Returns a random game form the game list.
+```javascript
+var randomGame = games.random();
+// 'Battletoads'
+```
+
+Passing a *number* as the argument will return an array of random games, of length *arg*.
+```javascript
+var randomGame = games.random(3);
+// ['Alien³', 'Populous', 'Football Fury']
+```
+
+Passing a *string* as the argument will return a random game that contains that string.
+```javascript
+var randomGame = games.random('Ninja');
+// 'Ninja Warriors'
+```
+
+#### games.find(name, [length])
+
+Finds all games that contain the given string.
+```javascript
+var randomGame = games.find('Cool');
+// ['Chester Cheetah: Too Cool to Fool', 'Cool Spot', 'Cool World']
+```
+
+Passing in a length will limit the size of the returned array.
+```javascript
+var randomGame = games.find('Cool', 2);
+// ['Chester Cheetah: Too Cool to Fool', 'Cool Spot']
 ```
 
 ## Other

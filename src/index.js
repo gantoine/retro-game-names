@@ -17,8 +17,7 @@ function random(arg) {
   } else if (typeof arg === 'string') {
     const foundNames = _.filter(snesNames, (s) => s.includes(arg))
     return new Game(uniqueRandomArray(foundNames)())
-  }
-  else {
+  } else {
     const randomItems = [];
     for (let i = 0; i < arg; i++) {
       randomItems.push(new Game(getRandomItem()))
@@ -27,15 +26,21 @@ function random(arg) {
   }
 }
 
-function find(name, number = -1) {
+function find(name, number) {
   const foundNames = _.filter(snesNames, (s) => s.includes(name))
 
   const names = []
   for (let i = 0; i < foundNames.length; i++){
     names.push(new Game(foundNames[i]))
   }
-  return names.slice(0, number)
+
+  if (number === undefined) {
+    return names
+  } else {
+    return _.shuffle(names).slice(0, number)
+  }
 }
+
 
 
 export default mainExport

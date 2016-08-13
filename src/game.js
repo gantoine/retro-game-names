@@ -8,8 +8,7 @@ class Game {
   get prettyPrint() {
     if (this.id){
       return `${this.id}: ${this.title} - ${this.platform} - ${this.releaseDate.getDate()}/${this.releaseDate.getMonth()}/${this.releaseDate.getFullYear()}`
-    }
-    else {
+    } else {
       return 'Error: no valid ID. Call query() on Game to query from TheGamesDB.'
     }
   }

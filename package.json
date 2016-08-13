@@ -1,6 +1,6 @@
 {
   "name": "snes-game-names",
-  "version": "0.0.4-semantically-released",
+  "version": "0.2.1",
   "description": "Get random SNES game names",
   "main": "dist/index.js",
   "scripts": {

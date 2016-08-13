@@ -20,46 +20,99 @@ npm install snes-game-names
 ```
 
 ## Usage
-
 ```javascript
-var games = require('snes-game-names');
+import games from 'snes-game-names'
 ```
+
+Most functions will return a [Game](#game) object.
+```javascript
+Game {id, title, releaseDate, platform}
+```
+
+Running `query()` on a `Game` will fetch it's information from thegamesdb.com
+```javascript
+const mario = games.find('Mario', 1) // Returns a Game
+const query = mario.query() // Return a Promise
+query.then(() => {
+  // Will print the mario Game object, now with id, releaseDate and platform
+  console.log(mario)
+})
+```
+
+## The Library
+
 #### games.all
-Return an array containing all the games.
+Return an array *of strings* containing all the games.
 
 #### games.random([arg])
 
 Returns a random game form the game list.
 ```javascript
-var randomGame = games.random();
-// 'Battletoads'
+const randomGame = games.random()
+// Game {title: 'Battletoads'}
 ```
 
 Passing a *number* as the argument will return an array of random games, of length *arg*.
 ```javascript
-var randomGame = games.random(3);
-// ['Alien³', 'Populous', 'Football Fury']
+const randomGames = games.random(3)
+// [Game {title: 'Alien³'}, Game {title: 'Populous'}, Game {title: 'Football Fury'}]
 ```
 
 Passing a *string* as the argument will return a random game that contains that string.
 ```javascript
-var randomGame = games.random('Ninja');
-// 'Ninja Warriors'
+const randomGame = games.random('Ninja')
+// Game {title: 'Ninja Warriors'}
 ```
 
 #### games.find(name, [length])
 
 Finds all games that contain the given string.
 ```javascript
-var randomGame = games.find('Cool');
-// ['Chester Cheetah: Too Cool to Fool', 'Cool Spot', 'Cool World']
+const foundGames = games.find('Cool')
+// [Game {title: 'Cool Spot'}, Game {title: 'Cool World'}]
 ```
 
 Passing in a length will limit the size of the returned array.
 ```javascript
-var randomGame = games.find('Cool', 2);
-// ['Chester Cheetah: Too Cool to Fool', 'Cool Spot']
+const foundGames = games.find('Cool', 1)
+// [Game {title: 'Cool Spot'}]
 ```
+
+<a name="game"/>
+## Game.js - The Game Object
+
+#### constructor()
+Constructs a `Game`, given a title
+```javascript
+const game = new Game('Super Adventure')
+// Game {title: "Super Adventure"}
+```
+
+#### game.prettyPrint
+Returns a single, pretty string with of the game's info
+```javascript
+const game = new Game('Super Mario World')
+game.query().then(() => {
+  console.log(game.prettyPrint)
+})
+// 26095: Super Mario World - Super Nintendo (SNES) - 1/1/2005
+```
+
+Note: Passing in an `Game` that hasn't been `query()`-ed will return an error message.
+```javascript
+const game = new Game('Super Mario World')
+console.log(game.prettyPrint)
+// 'Error: no valid ID. Call query() on Game to query from TheGamesDB.'
+```
+
+#### game.query()
+Returns a Promise
+```javascript
+const game = new Game('Super Mario World')
+game.query()
+// Promise { <pending> }
+```
+See the above examples for how to use this promise
 
 ## Other
 

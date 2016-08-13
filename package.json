@@ -29,7 +29,8 @@
     "gaming"
   ],
   "files": [
-    "dist"
+    "dist",
+    "examples"
   ],
   "author": "Georges-Antoine Assi <georges.antoine.assi@gmail.com> (http://gantoine.com/)",
   "license": "MIT",
@@ -96,6 +97,7 @@
       }
     }
   },
+  "tonicExampleFilename": "examples/tonic.example.js",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"

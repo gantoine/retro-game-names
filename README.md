@@ -24,96 +24,60 @@ npm install retro-game-names
 import games from 'retro-game-names'
 ```
 
-Most functions will return a [Game](#game) object.
-```javascript
-Game {id, title, releaseDate, platform}
-```
-
-Running `query()` on a `Game` will fetch it's information from thegamesdb.com
-```javascript
-const mario = games.find('Mario', 1) // Returns a Game
-const query = mario.query() // Return a Promise
-query.then(() => {
-  // Will print the mario Game object, now with id, releaseDate and platform
-  console.log(mario)
-})
-```
-
 ## The Library
 
 #### games.all
-Return an array *of strings* containing all the games.
 
-#### games.random([arg])
+Return an object of platforms, each with an array of titles
+```javascript
+{
+  nes:
+   [titles],
+  snes:
+   [titles]
+}
+```
+
+#### games.platform(platform)
+
+Returns an array of titles for the given platform
+```javascript
+const titles = games.platform('nes')
+// ['10-Yard Fight', '1942', ...]
+```
+
+#### games.random(options = {})
 
 Returns a random game form the game list.
 ```javascript
 const randomGame = games.random()
-// Game {title: 'Battletoads'}
+// {title: 'Battletoads', platform: 'snes'}
 ```
 
-Passing a *number* as the argument will return an array of random games, of length *arg*.
+The `platform` option can be passed in, which will return a random game from that platform
 ```javascript
-const randomGames = games.random(3)
-// [Game {title: 'Alien³'}, Game {title: 'Populous'}, Game {title: 'Football Fury'}]
+const randomGames = games.random({platform: 'snes'})
+// {title: 'The Adventures of Dr. Franken', platform: 'snes'}
 ```
 
-Passing a *string* as the argument will return a random game that contains that string.
+#### games.find(options = {})
+
+The options hash acceps the following:
+ - **title** *(required)*: The partial/exact title of the game (case sensitive)
+ - **platform** *(optional)*: The tag of the platform ('snes', 'nes', etc.)
+
+Returns an object with multiple {platform, [titles]}
 ```javascript
-const randomGame = games.random('Ninja')
-// Game {title: 'Ninja Warriors'}
+const foundGames = games.find({title: '-1'})
+// { nes: [ 'F-117A Stealth Fighter', 'F-15 Strike Eagle' ],
+//  snes: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
 ```
 
-#### games.find(name, [length])
-
-Finds all games that contain the given string.
+Passing a platform in the options returns a single {platform, [titles]}
 ```javascript
-const foundGames = games.find('Cool')
-// [Game {title: 'Cool Spot'}, Game {title: 'Cool World'}]
+const foundGames = games.find({title: '-1', platform: 'nes'})
+// { platform: 'snes', titles: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
 ```
-
-Passing in a length will limit the size of the returned array.
-```javascript
-const foundGames = games.find('Cool', 1)
-// [Game {title: 'Cool Spot'}]
-```
-
-<a name="game"/>
-
-## Game.js - The Game Object
-
-#### constructor()
-Constructs a `Game`, given a title
-```javascript
-const game = new Game('Super Adventure')
-// Game {title: "Super Adventure"}
-```
-
-#### game.prettyPrint
-Returns a single, pretty string with of the game's info
-```javascript
-const game = new Game('Super Mario World')
-game.query().then(() => {
-  console.log(game.prettyPrint)
-})
-// 26095: Super Mario World - Super Nintendo (SNES) - 1/1/2005
-```
-
-Note: Passing in an `Game` that hasn't been `query()`-ed will return an error message.
-```javascript
-const game = new Game('Super Mario World')
-console.log(game.prettyPrint)
-// 'Error: no valid ID. Call query() on Game to query from TheGamesDB.'
-```
-
-#### game.query()
-Returns a Promise
-```javascript
-const game = new Game('Super Mario World')
-game.query()
-// Promise { <pending> }
-```
-See the above examples for how to use this promise
 
 ## Other
 

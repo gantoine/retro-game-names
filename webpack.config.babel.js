@@ -17,4 +17,7 @@ export default {
       {test: /\.json$/, loaders: ['json'], include: context},
     ],
   },
+  node: {
+    fs: "empty"
+  }
 }

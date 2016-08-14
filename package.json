@@ -38,6 +38,8 @@
   },
   "homepage": "https://github.com/GAntoine/retro-game-names#readme",
   "dependencies": {
+    "thegamesdb": "0.1.2",
+    "underscore": "1.8.3",
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {
@@ -60,8 +62,6 @@
     "nyc": "7.1.0",
     "rimraf": "2.5.4",
     "semantic-release": "4.3.5",
-    "thegamesdb": "0.1.2",
-    "underscore": "1.8.3",
     "validate-commit-msg": "2.6.1",
     "webpack": "1.13.1"
   },

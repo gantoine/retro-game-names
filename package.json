@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/GAntoine/retro-game-names#readme",
   "dependencies": {
-    "thegamesdb": "0.1.2",
+    "glob": "7.0.5",
     "underscore": "1.8.3",
     "unique-random-array": "1.0.0"
   },

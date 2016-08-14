@@ -1,16 +1,23 @@
 import uniqueRandomArray from 'unique-random-array'
-import platforms from './data/platforms.js'
+import platforms from './imports/platforms.js'
 import _ from 'underscore'
 
 const mainExport = {
   all: platforms,
-  platform: platform,
+  games: platformGames,
+  platforms: platformList,
   random: random,
   find: find
 };
 
-function platform(console) {
-  return platforms[console]
+// Returns an array of titles
+function platformGames(platform) {
+  return platforms[platform]
+}
+
+// Returns an array of platform tags ([3do, amiga, acorn_electron, ...])
+function platformList() {
+  return Object.keys(platforms)
 }
 
 // Returns an object of type {title, platform}

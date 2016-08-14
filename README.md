@@ -21,12 +21,12 @@ npm install retro-game-names
 
 ## Usage
 ```javascript
-import games from 'retro-game-names'
+import retro from 'retro-game-names'
 ```
 
 ## The Library
 
-#### games.all
+#### retro.all
 
 Return an object of platforms, each with an array of titles
 ```javascript
@@ -38,29 +38,37 @@ Return an object of platforms, each with an array of titles
 }
 ```
 
-#### games.platform(platform)
+#### retro.platforms()
+
+Returns an array of platform tags
+```javascript
+const consoles = retro.platforms()
+// ['3do', 'amiga', 'acorn_electron', ...]
+```
+
+#### retro.games(platform)
 
 Returns an array of titles for the given platform
 ```javascript
-const titles = games.platform('nes')
+const titles = retro.platform('nes')
 // ['10-Yard Fight', '1942', ...]
 ```
 
-#### games.random(options = {})
+#### retro.random(options = {})
 
 Returns a random game form the game list.
 ```javascript
-const randomGame = games.random()
+const randomGame = retro.random()
 // {title: 'Battletoads', platform: 'snes'}
 ```
 
 The `platform` option can be passed in, which will return a random game from that platform
 ```javascript
-const randomGames = games.random({platform: 'snes'})
+const randomGames = retro.random({platform: 'snes'})
 // {title: 'The Adventures of Dr. Franken', platform: 'snes'}
 ```
 
-#### games.find(options = {})
+#### retro.find(options = {})
 
 The options hash acceps the following:
  - **title** *(required)*: The partial/exact title of the game (case sensitive)
@@ -68,14 +76,14 @@ The options hash acceps the following:
 
 Returns an object with multiple {platform, [titles]}
 ```javascript
-const foundGames = games.find({title: '-1'})
+const foundGames = retro.find({title: '-1'})
 // { nes: [ 'F-117A Stealth Fighter', 'F-15 Strike Eagle' ],
 //  snes: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
 ```
 
 Passing a platform in the options returns a single {platform, [titles]}
 ```javascript
-const foundGames = games.find({title: '-1', platform: 'nes'})
+const foundGames = retro.find({title: '-1', platform: 'nes'})
 // { platform: 'snes', titles: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
 ```
 

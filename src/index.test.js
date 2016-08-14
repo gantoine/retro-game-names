@@ -7,17 +7,26 @@ describe('retro-game-names', () => {
       const all = retroNames.all
 
       expect(all).to.be.an('object')
-      expect(all).to.have.all.keys(['snes', 'nes'])
+      expect(all).to.have.any.keys(['amiga_cd32', 'nintendo_wii'])
     })
 
     it('should contain the game `Casper`', () => {
-      expect(retroNames.all.snes).to.include('Casper')
+      expect(retroNames.all.super_nintendo_snes).to.include('Casper')
     })
   })
 
-  describe('platform', () => {
+  describe('platforms', () => {
+    it('should return an array of platforms', () => {
+      const platforms = retroNames.platforms()
+
+      expect(platforms).to.be.instanceof(Array)
+      expect(platforms).to.include('super_nintendo_snes')
+    })
+  })
+
+  describe('games', () => {
     it('should return an array of games for the given plarform', () => {
-      const games = retroNames.platform('snes')
+      const games = retroNames.games('super_nintendo_snes')
 
       expect(games).to.be.instanceof(Array)
       expect(games).to.include('Super Mario World')
@@ -32,9 +41,9 @@ describe('retro-game-names', () => {
     })
 
     it('should return a random {title, platform} when given a platform', () => {
-      const randomItem = retroNames.random({platform: 'snes'})
+      const randomItem = retroNames.random({platform: 'super_nintendo_snes'})
 
-      expect(retroNames.all.snes).to.include(randomItem.title)
+      expect(retroNames.all.super_nintendo_snes).to.include(randomItem.title)
     })
   })
 
@@ -42,15 +51,15 @@ describe('retro-game-names', () => {
     it('should return an object with multiple {platform, [titles]}', () => {
       const foundNames = retroNames.find({title: 'Aero'})
 
-      expect(foundNames.snes).to.include('Aero Fighters')
+      expect(foundNames.super_nintendo_snes).to.include('Aero Fighters')
     })
 
     it('should return a {platform, [titles]} when given a platform', () => {
-      const foundNames = retroNames.find({platform: 'snes', title: 'Battle'})
+      const foundNames = retroNames.find({platform: 'super_nintendo_snes', title: 'Battle'})
 
-      expect(foundNames.platform).to.equal('snes')
+      expect(foundNames.platform).to.equal('super_nintendo_snes')
       foundNames.titles.forEach(function(item) {
-        expect(retroNames.all.snes).to.include(item)
+        expect(retroNames.all.super_nintendo_snes).to.include(item)
       })
     })
 

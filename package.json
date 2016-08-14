@@ -1,7 +1,7 @@
 {
-  "name": "snes-game-names",
-  "version": "0.2.1",
-  "description": "Get random SNES game names",
+  "name": "retro-game-names",
+  "version": "1.0.0",
+  "description": "Get random retro game names",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
@@ -20,11 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GAntoine/snes-game-names.git"
+    "url": "git+https://github.com/GAntoine/retro-game-names.git"
   },
   "keywords": [
     "random",
-    "snes",
     "retro",
     "gaming"
   ],
@@ -35,9 +34,9 @@
   "author": "Georges-Antoine Assi <georges.antoine.assi@gmail.com> (http://gantoine.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GAntoine/snes-game-names/issues"
+    "url": "https://github.com/GAntoine/retro-game-names/issues"
   },
-  "homepage": "https://github.com/GAntoine/snes-game-names#readme",
+  "homepage": "https://github.com/GAntoine/retro-game-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },

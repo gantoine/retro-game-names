@@ -1,27 +1,27 @@
-# snes-game-names
+# retro-game-names
 
-[![travis build](https://img.shields.io/travis/GAntoine/snes-game-names.svg?style=flat-square)](https://travis-ci.org/GAntoine/snes-game-names)
-[![codecov coverage](https://img.shields.io/codecov/c/github/GAntoine/snes-game-names.svg?style=flat-square)](https://codecov.io/github/GAntoine/snes-game-names)
-[![version](https://img.shields.io/npm/v/snes-game-names.svg?style=flat-square)](http://npm.im/snes-game-names)
-[![downloads](https://img.shields.io/npm/dm/snes-game-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=snes-game-names&from=2015-08-01)
-[![MIT License](https://img.shields.io/npm/l/snes-game-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![travis build](https://img.shields.io/travis/GAntoine/retro-game-names.svg?style=flat-square)](https://travis-ci.org/GAntoine/retro-game-names)
+[![codecov coverage](https://img.shields.io/codecov/c/github/GAntoine/retro-game-names.svg?style=flat-square)](https://codecov.io/github/GAntoine/retro-game-names)
+[![version](https://img.shields.io/npm/v/retro-game-names.svg?style=flat-square)](http://npm.im/retro-game-names)
+[![downloads](https://img.shields.io/npm/dm/retro-game-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=retro-game-names&from=2015-08-01)
+[![MIT License](https://img.shields.io/npm/l/retro-game-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
-Get random names from SNES games.
+Get random names from retro games!
 
-![snes-game-names](other/snes.gif)
+![retro-game-names](other/snes.gif)
 
 ## Installation
 
 This package is distributed via npm:
 
 ```
-npm install snes-game-names
+npm install retro-game-names
 ```
 
 ## Usage
 ```javascript
-import games from 'snes-game-names'
+import games from 'retro-game-names'
 ```
 
 Most functions will return a [Game](#game) object.
@@ -79,6 +79,7 @@ const foundGames = games.find('Cool', 1)
 ```
 
 <a name="game"/>
+
 ## Game.js - The Game Object
 
 #### constructor()

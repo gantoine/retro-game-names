@@ -8,7 +8,7 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'snesGameNames',
+    library: 'retroGameNames',
   },
   devtool: 'source-map',
   module: {

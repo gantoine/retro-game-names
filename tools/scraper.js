@@ -18,7 +18,6 @@ function missing() {
 
 function findMissing(platforms) {
   platforms.forEach((platform) => {
-    console.log(platform)
     const platName = platform.alias.split('-').join('_')
     fs.exists(`./src/data/${platName}.json`, function (exists) {
       if (!exists && !_.contains(blacklist, platName)) {

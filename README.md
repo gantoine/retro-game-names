@@ -105,3 +105,12 @@ npm run setup
 
 If you get any failures at this point something is wrong and needs to be fixed. Remember,
 [Google](https://google.com) and [StackOverflow](https://stackoverflow.com) are your friends.
+
+### Scraper
+
+Included is `scraper.js`, which will scrape platforms/games from TheGamesDB.
+```javascript
+scraper = require('./tools/scraper.js')
+scraper.missing()
+```
+Using `missing()` is prefered over `all()`, as it will hit TheGamesDB's API only when needed.

@@ -1,7 +1,29 @@
-const thegamesdb = require('thegamesdb')
-const jsonfile = require('jsonfile')
+const thegamesdb = require('thegamesdb');
+const jsonfile = require('jsonfile');
+const fs = require('fs');
 
-thegamesdb.getPlatformsList().then(gotPlatforms)
+const mainExport = {
+  missing: missing,
+  all: all
+};
+
+function missing() {
+  thegamesdb.getPlatformsList().then(findMissing)
+}
+
+function findMissing(platforms) {
+  platforms.forEach((platform) => {
+    fs.exists(`./src/data/${platform.alias.split('-').join('_')}.json`, function (exists) {
+      if (!exists) {
+        thegamesdb.getPlatformGames({ id: platform.id }).then(gotGames.bind(platform))
+      }
+    });
+  })
+}
+
+function all() {
+  thegamesdb.getPlatformsList().then(gotPlatforms)
+}
 
 function gotPlatforms(platforms) {
   platforms.forEach((platform) => {
@@ -19,3 +41,5 @@ function gotGames(gamesArray) {
     console.error(err)
   })
 }
+
+module.exports = mainExport // for CommonJS compatibility

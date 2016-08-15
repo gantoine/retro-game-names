@@ -35,9 +35,13 @@ function find(options = {}) {
     const names = _.filter(platforms[options.platform], (s) => s.includes(options.title))
     return {platform: options.platform, titles: names}
   } else {
-    return _.mapObject(platforms, (games) => {
+    const found = _.mapObject(platforms, (games) => {
       return _.filter(games, (s) => s.includes(options.title))
     })
+    return _.reduce(found, (memo, value, key) => {
+      if (!_.isEmpty(value)) {memo[key] = value}
+      return memo
+    }, {})
   }
 }
 

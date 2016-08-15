@@ -1,11 +1,16 @@
-const thegamesdb = require('thegamesdb');
-const jsonfile = require('jsonfile');
-const fs = require('fs');
+const fs = require('fs')
+const path = require('path')
+
+const thegamesdb = require('thegamesdb')
+const jsonfile = require('jsonfile')
+const _ = require('underscore')
+
+const blacklist = require(path.resolve('./src/imports/blacklist.json'))
 
 const mainExport = {
   missing: missing,
   all: all
-};
+}
 
 function missing() {
   thegamesdb.getPlatformsList().then(findMissing)
@@ -13,11 +18,13 @@ function missing() {
 
 function findMissing(platforms) {
   platforms.forEach((platform) => {
-    fs.exists(`./src/data/${platform.alias.split('-').join('_')}.json`, function (exists) {
-      if (!exists) {
+    console.log(platform)
+    const platName = platform.alias.split('-').join('_')
+    fs.exists(`./src/data/${platName}.json`, function (exists) {
+      if (!exists && !_.contains(blacklist, platName)) {
         thegamesdb.getPlatformGames({ id: platform.id }).then(gotGames.bind(platform))
       }
-    });
+    })
   })
 }
 

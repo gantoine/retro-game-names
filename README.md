@@ -83,7 +83,7 @@ const foundGames = retro.find({title: '-1'})
 
 Passing a platform in the options returns a single {platform, [titles]}
 ```javascript
-const foundGames = retro.find({title: '-1', platform: 'nes'})
+const foundGames = retro.find({title: '-1', platform: 'snes'})
 // { platform: 'snes', titles: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
 ```
 

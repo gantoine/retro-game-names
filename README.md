@@ -31,9 +31,9 @@ import retro from 'retro-game-names'
 Return an object of platforms, each with an array of titles
 ```javascript
 {
-  nes:
+  nintendo_entertainment_system_nes:
    [titles],
-  snes:
+  super_nintendo_snes:
    [titles]
 }
 ```
@@ -50,7 +50,7 @@ const consoles = retro.platforms()
 
 Returns an array of titles for the given platform
 ```javascript
-const titles = retro.platform('nes')
+const titles = retro.platform('nintendo_entertainment_system_nes')
 // ['10-Yard Fight', '1942', ...]
 ```
 
@@ -59,32 +59,45 @@ const titles = retro.platform('nes')
 Returns a random game form the game list.
 ```javascript
 const randomGame = retro.random()
-// {title: 'Battletoads', platform: 'snes'}
+// {title: 'Battletoads', platform: 'super_nintendo_snes'}
 ```
 
 The `platform` option can be passed in, which will return a random game from that platform
 ```javascript
-const randomGames = retro.random({platform: 'snes'})
-// {title: 'The Adventures of Dr. Franken', platform: 'snes'}
+const randomGames = retro.random({platform: 'super_nintendo_snes'})
+// {title: 'The Adventures of Dr. Franken', platform: 'super_nintendo_snes'}
+```
+
+Likewise, `platforms` can be used in place of `platform`, and will return a random game from a list of platforms
+```javascript
+const randomGames = retro.random({platforms: ['super_nintendo_snes', 'sega_cd']})
+// {title: 'Armed Dragon Fantasy Villgust - The Vanished Girl', platform: 'super_nintendo_snes'}
 ```
 
 #### retro.find(options = {})
 
 The options hash acceps the following:
  - **title** *(required)*: The partial/exact title of the game (case sensitive)
- - **platform** *(optional)*: The tag of the platform ('snes', 'nes', etc.)
+ - **platform** *(optional)*: The tag of the platform ('super_nintendo_snes', 'sega_cd', etc.)
+ - **platforms** *(optional)*: An array of platform tags (['super_nintendo_snes', 'sega_cd'], for example)
 
 Returns an object with multiple {platform, [titles]}
 ```javascript
 const foundGames = retro.find({title: '-1'})
-// { nes: [ 'F-117A Stealth Fighter', 'F-15 Strike Eagle' ],
-//  snes: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
+// { nintendo_entertainment_system_nes: [ 'F-117A Stealth Fighter', 'F-15 Strike Eagle' ],
+//  super_nintendo_snes: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
 ```
 
 Passing a platform in the options returns a single {platform, [titles]}
 ```javascript
-const foundGames = retro.find({title: '-1', platform: 'snes'})
-// { platform: 'snes', titles: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
+const foundGames = retro.find({title: '-1', platform: 'super_nintendo_snes'})
+// { platform: 'super_nintendo_snes', titles: [ 'GP-1', 'GP-1: Part II', 'Redline F-1 Racer' ] }
+```
+
+Passing `platforms` returns an object of platforms, with a filtered array of titles
+```javascript
+const foundGames = retro.find({title: '-1', platforms: ['super_nintendo_snes', 'sega_cd']})
+// { sega_cd: [ 'A/X-101'], super_nintendo_snes" ['GP-1', 'GP-1: Part II', 'Redline F-1 Racer'] }
 ```
 
 ## Other

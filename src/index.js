@@ -22,7 +22,7 @@ function platformList() {
 
 // Returns an object of type {title, platform}
 function random(options = {}) {
-  const _platform = options.platform || _randomPlatform()
+  const _platform = options.platform || _randomPlatform(options.platforms)
   const game = uniqueRandomArray(platforms[_platform])()
   return {title: game, platform: _platform}
 }
@@ -35,18 +35,27 @@ function find(options = {}) {
     const names = _.filter(platforms[options.platform], (s) => s.includes(options.title))
     return {platform: options.platform, titles: names}
   } else {
-    const found = _.mapObject(platforms, (games) => {
-      return _.filter(games, (s) => s.includes(options.title))
-    })
-    return _.reduce(found, (memo, value, key) => {
-      if (!_.isEmpty(value)) {memo[key] = value}
-      return memo
-    }, {})
+    return _findAll(options)
   }
 }
 
-function _randomPlatform() {
-  const keys = Object.keys(platforms)
+function _findAll(options) {
+  const _platforms = _.clone(platforms)
+  if (options.platforms) {
+    const unwanted = _.difference(Object.keys(_platforms), options.platforms)
+    _.each(unwanted, (platform) => delete _platforms[platform])
+  }
+  const found = _.mapObject(_platforms, (games) => {
+    return _.filter(games, (s) => s.includes(options.title))
+  })
+  return _.reduce(found, (memo, value, key) => {
+    if (!_.isEmpty(value)) {memo[key] = value}
+    return memo
+  }, {})
+}
+
+function _randomPlatform(wanted) {
+  const keys = wanted || Object.keys(platforms)
   return uniqueRandomArray(keys)()
 }
 

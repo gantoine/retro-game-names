@@ -50,7 +50,7 @@ const consoles = retro.platforms()
 
 Returns an array of titles for the given platform
 ```javascript
-const titles = retro.platform('nintendo_entertainment_system_nes')
+const titles = retro.games('nintendo_entertainment_system_nes')
 // ['10-Yard Fight', '1942', ...]
 ```
 

@@ -86,6 +86,13 @@ describe('retro-game-names', () => {
       })
     })
 
+    it('should return case-insensitive results', () => {
+      const foundNames = retroNames.find({title: 'Yoshi', ignoreCase: true})
+
+      expect(foundNames.super_nintendo_snes).to.include('Yoshi\'s Cookie')
+      expect(foundNames.super_nintendo_snes).to.include('Panic in Nakayoshi World')
+    })
+
     it('should return an error string if a title is not passed', () => {
       const foundNames = retroNames.find()
 

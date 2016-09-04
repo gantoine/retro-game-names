@@ -32,7 +32,7 @@ function find(options = {}) {
   if (_.isEmpty(options) || !options.title) {
     return 'Error: You must pass options containing a title (required).'
   } else if (options.platform) {
-    const names = _.filter(platforms[options.platform], (s) => s.includes(options.title))
+    const names = _.filter(platforms[options.platform], (s) => _inString(options, s))
     return {platform: options.platform, titles: names}
   } else {
     return _findAll(options)
@@ -46,12 +46,20 @@ function _findAll(options) {
     _.each(unwanted, (platform) => delete _platforms[platform])
   }
   const found = _.mapObject(_platforms, (games) => {
-    return _.filter(games, (s) => s.includes(options.title))
+    return _.filter(games, (s) => _inString(options, s))
   })
   return _.reduce(found, (memo, value, key) => {
     if (!_.isEmpty(value)) {memo[key] = value}
     return memo
   }, {})
+}
+
+function _inString(options, string) {
+  if (options.ignoreCase) {
+    return string.toLowerCase().includes(options.title.toLowerCase())
+  } else {
+    return string.includes(options.title)
+  }
 }
 
 function _randomPlatform(wanted) {

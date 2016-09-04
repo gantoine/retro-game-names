@@ -80,6 +80,7 @@ The options hash acceps the following:
  - **title** *(required)*: The partial/exact title of the game (case sensitive)
  - **platform** *(optional)*: The tag of the platform ('super_nintendo_snes', 'sega_cd', etc.)
  - **platforms** *(optional)*: An array of platform tags (['super_nintendo_snes', 'sega_cd'], for example)
+ - **ignoreCase** *(optional)*: If true, the search is case-insensitive.
 
 Returns an object with multiple {platform, [titles]}
 ```javascript

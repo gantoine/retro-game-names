@@ -24,9 +24,9 @@ describe('retro-game-names', () => {
     })
   })
 
-  describe('games', () => {
-    it('should return an array of games for the given plarform', () => {
-      const games = retroNames.games('super_nintendo_snes').titles
+  describe('info', () => {
+    it('should return all the information for the given plarform', () => {
+      const games = retroNames.info('super_nintendo_snes').titles
 
       expect(games).to.be.instanceof(Array)
       expect(games).to.include({title: 'Super Mario World', tgdb_id: 136})

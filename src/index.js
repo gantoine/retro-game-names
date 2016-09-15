@@ -4,13 +4,13 @@ import _ from 'underscore'
 
 const mainExport = {
   all: platforms,
-  games: platformGames,
+  info: platformGames,
   platforms: platformList,
   random: random,
   find: find
 };
 
-// Returns an array of titles
+// Returns all info for a platform
 function platformGames(platform) {
   return platforms[platform]
 }
@@ -20,14 +20,14 @@ function platformList() {
   return Object.keys(platforms)
 }
 
-// Returns an object of type {title, platform}
+// Returns an object of type {title, tgdb_id, platform}
 function random(options = {}) {
   const _platform = options.platform || _randomPlatform(options.platforms)
   const game = uniqueRandomArray(platforms[_platform].titles)()
   return {title: game.title, tgdb_id: game.tgdb_id, platform: _platform}
 }
 
-// Returns on object of type {platform, [titles]}
+// Returns an object of type {platform, [titles]}
 function find(options = {}) {
   if (_.isEmpty(options) || !options.title) {
     return 'Error: You must pass options containing a title (required).'

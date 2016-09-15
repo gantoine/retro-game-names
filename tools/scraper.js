@@ -49,6 +49,7 @@ function gotConsole(info) {
   thegamesdb.getPlatformGames({ id: info.id }).then(gotGames.bind(info))
 }
 
+/* eslint-disable no-console, no-invalid-this */
 function gotGames(gamesArray) {
   const platformInfo = {
     tgbd_id: this.id,

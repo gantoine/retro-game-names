@@ -61,8 +61,8 @@ describe('retro-game-names', () => {
     it('should return an object with multiple {platform, [titles]}', () => {
       const foundNames = retroNames.find({title: 'Aero'})
 
-      expect(foundNames.super_nintendo_snes.titles)
-        .to.include({title: 'Aero Fighters', tgdb_id: 7888})
+      expect(foundNames.super_nintendo_snes)
+        .to.include({title: 'Aero Fighters', tgdb_id: 203})
     })
 
     it('should return a {platform, [titles]} when given a platform', () => {
@@ -93,9 +93,9 @@ describe('retro-game-names', () => {
     it('should return case-insensitive results', () => {
       const foundNames = retroNames.find({title: 'Yoshi', ignoreCase: true})
 
-      expect(foundNames.super_nintendo_snes.titles)
+      expect(foundNames.super_nintendo_snes)
         .to.include({title: 'Yoshi\'s Cookie', tgdb_id: 6368})
-      expect(foundNames.super_nintendo_snes.titles)
+      expect(foundNames.super_nintendo_snes)
         .to.include({title: 'Panic in Nakayoshi World', tgdb_id: 25235})
     })
 

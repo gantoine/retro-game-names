@@ -1,109 +1,435 @@
-[
-  "Loom",
-  "Terramex",
-  "Bomb Jack",
-  "Cannon Fodder",
-  "Sundog: Frozen Legacy",
-  "Oids",
-  "Time Bandit",
-  "Lethal Xcess",
-  "Barbarian: The Ultimate Warrior",
-  "Interphase",
-  "3D Construction Kit",
-  "9 Lives",
-  "A320 Airbus",
-  "Aaargh!",
-  "Action Fighter",
-  "The Addams Family",
-  "Advanced Destroyer Simulator",
-  "Advanced Fruit Machine Simulator",
-  "Advanced Rugby Simulator",
-  "The Adventures of Robin Hood",
-  "L' Affaire",
-  "After the War",
-  "After Burner",
-  "Air Bucks",
-  "Airball",
-  "Airborne Ranger",
-  "Alcatraz",
-  "Alien Storm",
-  "Alien Syndrome",
-  "Alien World",
-  "Altered Beast",
-  "Amazon",
-  "Amberstar",
-  "Anarchy",
-  "The Ancient Art of War in the Skies",
-  "Another World",
-  "Apache Flight",
-  "Archer Maclean's Pool",
-  "Archipelagos",
-  "Arena",
-  "Arkanoid",
-  "Arkanoid: Revenge of Doh",
-  "Armour-Geddon",
-  "Asgard",
-  "Astaroth",
-  "Astate",
-  "Asterix: Operation Getafix",
-  "Atomic Robo-Kid",
-  "Atomino",
-  "Atomix",
-  "Austerlitz",
-  "Awesome",
-  "B.A.T.",
-  "Baal",
-  "Back to the Future Part II",
-  "Back to the Future Part III",
-  "Backgammon Royale",
-  "Backgammon",
-  "Bad Dudes Vs. DragonNinja",
-  "Badlands Pete",
-  "Balance of Power",
-  "Ballistix",
-  "Barbarian",
-  "Barbarian II",
-  "Batman: The Caped Crusader",
-  "Batman: The Movie",
-  "Battle Chess",
-  "Battle Command",
-  "Battlehawks 1942",
-  "Battleships",
-  "Beast Busters",
-  "Better Dead Than Alien!",
-  "Beverly Hills Cop",
-  "Beyond the Ice Palace",
-  "Beyond Zork",
-  "Bio Challenge",
-  "Bionic Commando",
-  "Bismarck",
-  "The Black Cauldron",
-  "Black Lamp",
-  "Black Tiger",
-  "Blasteroids",
-  "Blinky's Scary School",
-  "Block Out",
-  "Blood Money",
-  "Blue Max: Aces of the Great War",
-  "Blue War III",
-  "Bob Winner",
-  "Bombuzal",
-  "Borodino",
-  "Borrowed Time",
-  "Boulder Dash Construction Kit",
-  "Brataccas",
-  "Brides of Dracula",
-  "Bridge Player 2000",
-  "Buggy Boy",
-  "Bully's Sporting Darts",
-  "Bureaucracy",
-  "Butcher Hill",
-  "Cadaver",
-  "Cadaver: The Payoff",
-  "Captain Blood",
-  "The Amazing Spider-Man",
-  "Baby Jo - Going Home",
-  "Road Runner",
-  "North & South",
-  "BoBo"
-]
+{
+  "tgbd_id": 4937,
+  "tgdb_alias": "atari-st",
+  "name": "Atari ST",
+  "titles": [
+    {
+      "tgdb_id": 36010,
+      "title": "Loom"
+    },
+    {
+      "tgdb_id": 33317,
+      "title": "Terramex"
+    },
+    {
+      "tgdb_id": 32104,
+      "title": "Bomb Jack"
+    },
+    {
+      "tgdb_id": 32157,
+      "title": "Cannon Fodder"
+    },
+    {
+      "tgdb_id": 33532,
+      "title": "Sundog: Frozen Legacy"
+    },
+    {
+      "tgdb_id": 33538,
+      "title": "Oids"
+    },
+    {
+      "tgdb_id": 33539,
+      "title": "Time Bandit"
+    },
+    {
+      "tgdb_id": 33541,
+      "title": "Lethal Xcess"
+    },
+    {
+      "tgdb_id": 36836,
+      "title": "Barbarian: The Ultimate Warrior"
+    },
+    {
+      "tgdb_id": 37029,
+      "title": "Interphase"
+    },
+    {
+      "tgdb_id": 38061,
+      "title": "3D Construction Kit"
+    },
+    {
+      "tgdb_id": 38062,
+      "title": "9 Lives"
+    },
+    {
+      "tgdb_id": 38063,
+      "title": "A320 Airbus"
+    },
+    {
+      "tgdb_id": 38064,
+      "title": "Aaargh!"
+    },
+    {
+      "tgdb_id": 38065,
+      "title": "Action Fighter"
+    },
+    {
+      "tgdb_id": 38067,
+      "title": "The Addams Family"
+    },
+    {
+      "tgdb_id": 38068,
+      "title": "Advanced Destroyer Simulator"
+    },
+    {
+      "tgdb_id": 38069,
+      "title": "Advanced Fruit Machine Simulator"
+    },
+    {
+      "tgdb_id": 38070,
+      "title": "Advanced Rugby Simulator"
+    },
+    {
+      "tgdb_id": 38071,
+      "title": "The Adventures of Robin Hood"
+    },
+    {
+      "tgdb_id": 38073,
+      "title": "L' Affaire"
+    },
+    {
+      "tgdb_id": 38074,
+      "title": "After the War"
+    },
+    {
+      "tgdb_id": 38075,
+      "title": "After Burner"
+    },
+    {
+      "tgdb_id": 38076,
+      "title": "Air Bucks"
+    },
+    {
+      "tgdb_id": 38077,
+      "title": "Airball"
+    },
+    {
+      "tgdb_id": 38078,
+      "title": "Airborne Ranger"
+    },
+    {
+      "tgdb_id": 38079,
+      "title": "Alcatraz"
+    },
+    {
+      "tgdb_id": 38080,
+      "title": "Alien Storm"
+    },
+    {
+      "tgdb_id": 38081,
+      "title": "Alien Syndrome"
+    },
+    {
+      "tgdb_id": 38082,
+      "title": "Alien World"
+    },
+    {
+      "tgdb_id": 38083,
+      "title": "Altered Beast"
+    },
+    {
+      "tgdb_id": 38084,
+      "title": "Amazon"
+    },
+    {
+      "tgdb_id": 38085,
+      "title": "Amberstar"
+    },
+    {
+      "tgdb_id": 38086,
+      "title": "Anarchy"
+    },
+    {
+      "tgdb_id": 38087,
+      "title": "The Ancient Art of War in the Skies"
+    },
+    {
+      "tgdb_id": 38088,
+      "title": "Another World"
+    },
+    {
+      "tgdb_id": 38089,
+      "title": "Apache Flight"
+    },
+    {
+      "tgdb_id": 38091,
+      "title": "Archer Maclean's Pool"
+    },
+    {
+      "tgdb_id": 38092,
+      "title": "Archipelagos"
+    },
+    {
+      "tgdb_id": 38093,
+      "title": "Arena"
+    },
+    {
+      "tgdb_id": 38094,
+      "title": "Arkanoid"
+    },
+    {
+      "tgdb_id": 38095,
+      "title": "Arkanoid: Revenge of Doh"
+    },
+    {
+      "tgdb_id": 38096,
+      "title": "Armour-Geddon"
+    },
+    {
+      "tgdb_id": 38097,
+      "title": "Asgard"
+    },
+    {
+      "tgdb_id": 38098,
+      "title": "Astaroth"
+    },
+    {
+      "tgdb_id": 38099,
+      "title": "Astate"
+    },
+    {
+      "tgdb_id": 38100,
+      "title": "Asterix: Operation Getafix"
+    },
+    {
+      "tgdb_id": 38101,
+      "title": "Atomic Robo-Kid"
+    },
+    {
+      "tgdb_id": 38102,
+      "title": "Atomino"
+    },
+    {
+      "tgdb_id": 38103,
+      "title": "Atomix"
+    },
+    {
+      "tgdb_id": 38104,
+      "title": "Austerlitz"
+    },
+    {
+      "tgdb_id": 38105,
+      "title": "Awesome"
+    },
+    {
+      "tgdb_id": 38106,
+      "title": "B.A.T."
+    },
+    {
+      "tgdb_id": 38107,
+      "title": "Baal"
+    },
+    {
+      "tgdb_id": 38108,
+      "title": "Back to the Future Part II"
+    },
+    {
+      "tgdb_id": 38109,
+      "title": "Back to the Future Part III"
+    },
+    {
+      "tgdb_id": 38110,
+      "title": "Backgammon Royale"
+    },
+    {
+      "tgdb_id": 38111,
+      "title": "Backgammon"
+    },
+    {
+      "tgdb_id": 38112,
+      "title": "Bad Dudes Vs. DragonNinja"
+    },
+    {
+      "tgdb_id": 38116,
+      "title": "Badlands Pete"
+    },
+    {
+      "tgdb_id": 38117,
+      "title": "Balance of Power"
+    },
+    {
+      "tgdb_id": 38118,
+      "title": "Ballistix"
+    },
+    {
+      "tgdb_id": 38119,
+      "title": "Barbarian"
+    },
+    {
+      "tgdb_id": 38120,
+      "title": "Barbarian II"
+    },
+    {
+      "tgdb_id": 38121,
+      "title": "Batman: The Caped Crusader"
+    },
+    {
+      "tgdb_id": 38122,
+      "title": "Batman: The Movie"
+    },
+    {
+      "tgdb_id": 38123,
+      "title": "Battle Chess"
+    },
+    {
+      "tgdb_id": 38124,
+      "title": "Battle Command"
+    },
+    {
+      "tgdb_id": 38125,
+      "title": "Battlehawks 1942"
+    },
+    {
+      "tgdb_id": 38126,
+      "title": "Battleships"
+    },
+    {
+      "tgdb_id": 38127,
+      "title": "Beast Busters"
+    },
+    {
+      "tgdb_id": 38128,
+      "title": "Better Dead Than Alien!"
+    },
+    {
+      "tgdb_id": 38129,
+      "title": "Beverly Hills Cop"
+    },
+    {
+      "tgdb_id": 38130,
+      "title": "Beyond the Ice Palace"
+    },
+    {
+      "tgdb_id": 38131,
+      "title": "Beyond Zork"
+    },
+    {
+      "tgdb_id": 38132,
+      "title": "Bio Challenge"
+    },
+    {
+      "tgdb_id": 38133,
+      "title": "Bionic Commando"
+    },
+    {
+      "tgdb_id": 38134,
+      "title": "Bismarck"
+    },
+    {
+      "tgdb_id": 38135,
+      "title": "The Black Cauldron"
+    },
+    {
+      "tgdb_id": 38136,
+      "title": "Black Lamp"
+    },
+    {
+      "tgdb_id": 38137,
+      "title": "Black Tiger"
+    },
+    {
+      "tgdb_id": 38138,
+      "title": "Blasteroids"
+    },
+    {
+      "tgdb_id": 38139,
+      "title": "Blinky's Scary School"
+    },
+    {
+      "tgdb_id": 38140,
+      "title": "Block Out"
+    },
+    {
+      "tgdb_id": 38141,
+      "title": "Blood Money"
+    },
+    {
+      "tgdb_id": 38142,
+      "title": "Blue Max: Aces of the Great War"
+    },
+    {
+      "tgdb_id": 38143,
+      "title": "Blue War III"
+    },
+    {
+      "tgdb_id": 38144,
+      "title": "Bob Winner"
+    },
+    {
+      "tgdb_id": 38145,
+      "title": "Bombuzal"
+    },
+    {
+      "tgdb_id": 38146,
+      "title": "Borodino"
+    },
+    {
+      "tgdb_id": 38147,
+      "title": "Borrowed Time"
+    },
+    {
+      "tgdb_id": 38148,
+      "title": "Boulder Dash Construction Kit"
+    },
+    {
+      "tgdb_id": 38149,
+      "title": "Brataccas"
+    },
+    {
+      "tgdb_id": 38150,
+      "title": "Brides of Dracula"
+    },
+    {
+      "tgdb_id": 38151,
+      "title": "Bridge Player 2000"
+    },
+    {
+      "tgdb_id": 38152,
+      "title": "Buggy Boy"
+    },
+    {
+      "tgdb_id": 38153,
+      "title": "Bully's Sporting Darts"
+    },
+    {
+      "tgdb_id": 38154,
+      "title": "Bureaucracy"
+    },
+    {
+      "tgdb_id": 38155,
+      "title": "Butcher Hill"
+    },
+    {
+      "tgdb_id": 38156,
+      "title": "Cadaver"
+    },
+    {
+      "tgdb_id": 38157,
+      "title": "Cadaver: The Payoff"
+    },
+    {
+      "tgdb_id": 38158,
+      "title": "Captain Blood"
+    },
+    {
+      "tgdb_id": 38429,
+      "title": "The Amazing Spider-Man"
+    },
+    {
+      "tgdb_id": 38464,
+      "title": "Baby Jo - Going Home"
+    },
+    {
+      "tgdb_id": 38465,
+      "title": "Road Runner"
+    },
+    {
+      "tgdb_id": 38466,
+      "title": "North & South"
+    },
+    {
+      "tgdb_id": 38467,
+      "title": "BoBo"
+    }
+  ]
+}

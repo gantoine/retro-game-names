@@ -1,6 +1,23 @@
-[
-  "YU-NO: A girl who chants love at the bound of this world",
-  "Rusty",
-  "Night Slave",
-  "Recoil"
-]
+{
+  "tgbd_id": 4934,
+  "tgdb_alias": "pc98",
+  "name": "PC-98",
+  "titles": [
+    {
+      "tgdb_id": 31865,
+      "title": "YU-NO: A girl who chants love at the bound of this world"
+    },
+    {
+      "tgdb_id": 31867,
+      "title": "Rusty"
+    },
+    {
+      "tgdb_id": 31871,
+      "title": "Night Slave"
+    },
+    {
+      "tgdb_id": 35404,
+      "title": "Recoil"
+    }
+  ]
+}

@@ -1,408 +1,1631 @@
-[
-  "Star Fox 64",
-  "BattleTanx",
-  "BattleTanx: Global Assault",
-  "Blues Brothers 2000",
-  "Body Harvest",
-  "Bomberman Hero",
-  "Castlevania: Legacy of Darkness",
-  "Chopper Attack",
-  "Conker's Bad Fur Day",
-  "Donkey Kong 64",
-  "Doom 64",
-  "Fighter Destiny 2",
-  "Fighting Force 64",
-  "Forsaken 64",
-  "1080° Snowboarding",
-  "007: The World Is Not Enough",
-  "A Bug's Life",
-  "Army Men: Sarge's Heroes",
-  "64 Hanafuda: Tenshi no Yakusoku",
-  "Mario Party",
-  "Turok: Dinosaur Hunter",
-  "Paper Mario",
-  "GoldenEye 007",
-  "The Legend of Zelda: Ocarina of Time",
-  "Banjo-Kazooie",
-  "Perfect Dark",
-  "The Legend of Zelda: Majora's Mask",
-  "Banjo-Tooie",
-  "Diddy Kong Racing",
-  "Super Mario 64",
-  "Cruis'n USA",
-  "Cruis'n World",
-  "Cruis'n Exotica",
-  "Star Wars: Shadows of the Empire",
-  "Gauntlet Legends",
-  "Hercules: The Legendary Journeys",
-  "Hey You, Pikachu!",
-  "Hydro Thunder",
-  "Indiana Jones and the Infernal Machine",
-  "Jet Force Gemini",
-  "Killer Instinct Gold",
-  "Kirby 64: The Crystal Shards",
-  "Knockout Kings 2000",
-  "Duck Dodgers Starring Daffy Duck",
-  "Mario Kart 64",
-  "Madden NFL 99",
-  "Madden NFL 2001",
-  "Madden NFL 2002",
-  "Mario Party 2",
-  "Major League Baseball Featuring Ken Griffey, Jr.",
-  "NBA In the Zone '99",
-  "Pokémon Snap",
-  "Pokémon Stadium",
-  "Pokémon Stadium 2",
-  "Rampage: World Tour",
-  "Rayman 2: The Great Escape",
-  "Ready 2 Rumble Boxing",
-  "Resident Evil 2",
-  "San Francisco Rush 2049",
-  "South Park Rally",
-  "South Park: Chef's Luv Shack",
-  "Star Wars: Episode I - Battle for Naboo",
-  "Star Wars: Episode I - Racer",
-  "Star Wars: Rogue Squadron",
-  "Super Smash Bros.",
-  "Tetrisphere",
-  "Tony Hawk's Pro Skater",
-  "Turok 2: Seeds of Evil",
-  "Turok: Rage Wars",
-  "Vigilante 8: 2nd Offense",
-  "Waialae Country Club: True Golf Classics",
-  "Wave Race 64",
-  "WCW Backstage Assault",
-  "WinBack: Covert Operations",
-  "World Driver Championship",
-  "WWF Attitude",
-  "WWF No Mercy",
-  "WWF WrestleMania 2000",
-  "Xena: Warrior Princess - The Talisman of Fate",
-  "Yoshi's Story",
-  "NFL Blitz 2000",
-  "WWF War Zone",
-  "Mia Hamm Soccer 64",
-  "Midway's Greatest Arcade Hits: Volume 1",
-  "Namco Museum 64",
-  "Extreme-G",
-  "Extreme-G: XG2",
-  "Flying Dragon",
-  "Mario Party 3",
-  "Pilotwings 64",
-  "Road Rash 64",
-  "Top Gear Rally",
-  "Vigilante 8",
-  "Aerofighters Assault",
-  "AeroGauge",
-  "Aidyn Chronicles: The First Mage",
-  "Air Boarder 64",
-  "All Star Tennis 99",
-  "All-Star Baseball 99",
-  "All-Star Baseball 2000",
-  "All-Star Baseball 2001",
-  "Armorines: Project S.W.A.R.M.",
-  "Army Men: Sarge's Heroes 2",
-  "Asteroids Hyper 64",
-  "Automobili Lamborghini",
-  "Bassmasters 2000",
-  "Batman Beyond: Return of the Joker",
-  "Battle Zone: Rise of the Black Dogs",
-  "Beetle Adventure Racing!",
-  "Big Mountain 2000",
-  "Bio F.R.E.A.K.S.",
-  "Blast Corps",
-  "Bomberman 64: The Second Attack!",
-  "Bomberman 64",
-  "Bottom of the 9th",
-  "Brunswick Circuit Pro Bowling",
-  "Buck Bumble",
-  "Custom Robo",
-  "Bust-A-Move 2: Arcade Edition",
-  "Bust-A-Move '99",
-  "California Speed",
-  "Carmageddon 64",
-  "Centre Court Tennis",
-  "Chameleon Twist",
-  "Chameleon Twist 2",
-  "Charlie Blast's Territory",
-  "ClayFighter: Sculptor's Cut",
-  "CyberTiger",
-  "Dark Rift",
-  "Deadly Arts",
-  "Destruction Derby 64",
-  "Donald Duck: Goin' Quackers",
-  "Dr. Mario 64",
-  "Dual Heroes",
-  "Duke Nukem: Zero Hour",
-  "Duke Nukem 64",
-  "Earthworm Jim 3D",
-  "ECW Hardcore Revolution",
-  "Sesame Street: Elmo's Letter Adventure",
-  "Excitebike 64",
-  "F1 Pole Position 64",
-  "F1 Racing Championship",
-  "F-1 World Grand Prix",
-  "F-1 World Grand Prix II",
-  "FIFA: Road to World Cup 98",
-  "FIFA 99",
-  "FIFA Soccer 64",
-  "Fighters Destiny",
-  "Fox Sports College Hoops '99",
-  "Gex 3: Deep Cover Gecko",
-  "Gex 64: Enter the Gecko",
-  "Glover",
-  "Goemon's Great Adventure",
-  "Golden Nugget 64",
-  "GT 64: Championship Edition",
-  "Harvest Moon 64",
-  "Hexen",
-  "Hot Wheels Turbo Racing",
-  "Hybrid Heaven",
-  "Iggy's Reckin' Balls",
-  "Indy Racing 2000",
-  "Bass Hunter 64",
-  "International Superstar Soccer 64",
-  "International Superstar Soccer '98",
-  "International Superstar Soccer 2000",
-  "International Track & Field 2000",
-  "Jeremy McGrath Supercross 2000",
-  "John Romero's Daikatana",
-  "Ken Griffey Jr.'s Slugfest",
-  "Knife Edge: Nose Gunner",
-  "Kobe Bryant in NBA Courtside",
-  "Lego Racers",
-  "Lode Runner 3-D",
-  "Mace: The Dark Age",
-  "Madden Football 64",
-  "Madden NFL 2000",
-  "Magical Tetris Challenge",
-  "Mario Golf",
-  "Mario Tennis",
-  "Mega Man 64",
-  "Mickey's Speedway USA",
-  "Micro Machines 64 Turbo",
-  "Mike Piazza's Strike Zone",
-  "Milo's Astro Lanes",
-  "Mischief Makers",
-  "Monaco Grand Prix",
-  "Monster Truck Madness 64",
-  "Mortal Kombat 4",
-  "Mortal Kombat Mythologies: Sub-Zero",
-  "Mortal Kombat Trilogy",
-  "MRC: Multi-Racing Championship",
-  "Ms. Pac-Man Maze Madness",
-  "Mystical Ninja Starring Goemon",
-  "Nagano Winter Olympics '98",
-  "NASCAR 2000",
-  "NBA Courtside 2 Featuring Kobe Bryant",
-  "NBA Hangtime",
-  "NBA In The Zone '98",
-  "NBA in the Zone 2000",
-  "NBA Jam 99",
-  "NBA Jam 2000",
-  "The New Tetris",
-  "NFL Blitz: Special Edition",
-  "NFL Blitz",
-  "Superman",
-  "NFL Quarterback Club 98",
-  "NFL Quarterback Club 99",
-  "NFL Quarterback Club 2000",
-  "NFL Quarterback Club 2001",
-  "NHL 99",
-  "NHL Blades of Steel '99",
-  "NHL Breakaway 98",
-  "NHL Breakaway 99",
-  "Nightmare Creatures",
-  "Nuclear Strike 64",
-  "Off Road Challenge",
-  "Ogre Battle 64: Person of Lordly Caliber",
-  "Olympic Hockey 98",
-  "Paperboy",
-  "Penny Racers",
-  "PGA European Tour",
-  "Pokémon Puzzle League",
-  "Polaris SnoCross",
-  "Power Rangers: Lightspeed Rescue",
-  "The Powerpuff Girls: Chemical X-traction",
-  "Quest 64",
-  "Rakuga Kids",
-  "Rally Challenge 2000",
-  "Rat Attack!",
-  "Razor Freestyle Scooter",
-  "Ready 2 Rumble Boxing: Round 2",
-  "Re-Volt",
-  "Roadsters",
-  "Robotron 64",
-  "Rocket: Robot on Wheels",
-  "RR64 Ridge Racer 64",
-  "Rugrats: Scavenger Hunt",
-  "Rush 2: Extreme Racing USA",
-  "SCARS",
-  "San Francisco Rush: Extreme Racing",
-  "Scooby-Doo! Classic Creep Capers",
-  "Shadowgate 64: Trials of the Four Towers",
-  "Snowboard Kids",
-  "Snowboard Kids 2",
-  "South Park",
-  "Space Station Silicon Valley",
-  "Star Soldier: Vanishing Earth",
-  "StarCraft 64",
-  "Starshot: Space Circus Fever",
-  "Stunt Racer 64",
-  "Super Bowling",
-  "Supercross 2000",
-  "Taz Express",
-  "Tigger's Honey Hunt",
-  "Tom and Jerry in Fists of Furry",
-  "Tom Clancy's Rainbow Six",
-  "Tonic Trouble",
-  "Tony Hawk's Pro Skater 2",
-  "Tony Hawk's Pro Skater 3",
-  "Top Gear Hyper-Bike",
-  "Top Gear Overdrive",
-  "Top Gear Rally 2",
-  "Toy Story 2: Buzz Lightyear to the Rescue!",
-  "Transformers: Beast Wars Transmetals",
-  "Triple Play 2000",
-  "Turok 3: Shadow of Oblivion",
-  "Twisted Edge Extreme Snowboarding",
-  "Virtual Chess 64",
-  "Virtual Pool 64",
-  "V-Rally Edition 99",
-  "War Gods",
-  "Wayne Gretzky's 3D Hockey",
-  "WCW Mayhem",
-  "WCW Nitro",
-  "WCW Vs. nWo: World Tour",
-  "WCW/nWo Revenge",
-  "Wetrix",
-  "Wipeout 64",
-  "World Cup 98",
-  "Worms Armageddon",
-  "Command & Conquer",
-  "G.A.S.P! Fighter's NEXTream",
-  "Bust-A-Move 3 DX",
-  "Army Men: Air Combat",
-  "Rugrats in Paris: The Movie",
-  "Wheel of Fortune",
-  "Wayne Gretzky's 3D Hockey '98",
-  "NBA Showtime: NBA on NBC",
-  "NBA Live 99",
-  "NBA Live 2000",
-  "NASCAR 99",
-  "Mission: Impossible",
-  "Jeopardy!",
-  "Castlevania",
-  "Monopoly",
-  "NFL Blitz 2001",
-  "Quake",
-  "Quake II",
-  "Rampage 2: Universal Tour",
-  "Spider-Man",
-  "Sesame Street: Elmo's Number Journey",
-  "Disney's Tarzan",
-  "Space Invaders",
-  "Robotech: Crystal Dreams",
-  "Michael Owen's WLS 2000: World League Soccer",
-  "Premier Manager 64",
-  "Custom Robo V2",
-  "Sin and Punishment",
-  "Super Mario Star Road",
-  "Super Mario Star Road Multiplayer",
-  "ClayFighter 63 1/3",
-  "F-Zero X",
-  "64 Professional Sumo Wrestling 2",
-  "64 Professional Sumo Wrestling",
-  "Animal Forest",
-  "Neon Genesis Evangelion",
-  "64 Trump Collection - Alice's Exciting Trip to Trump World",
-  "AI Shogi 3",
-  "Bakuretsu Muteki Bangaioh",
-  "Bakushō Jinsei 64: Mezase! Resort Ō",
-  "Bass Rush:  Ecogear PowerWorm Championship",
-  "The Legend of Zelda: Ocarina of Time Master Quest",
-  "Mystical Ninja 2 Starring Goemon",
-  "O.D.T.",
-  "40 Winks",
-  "Mahjong 64",
-  "Mahjong Master",
-  "Mario no Photopi",
-  "Tetris 64",
-  "Toukon Road: Brave Spirits",
-  "Toukon Road 2: The Next Generation",
-  "Super Mario 64 Multiplayer",
-  "Frogger 2: Swampy's Revenge",
-  "Glover 2",
-  "Wonder Project J2: Koruro no Mori no Jozet",
-  "Puyo Puyo Sun 64",
-  "Jikkyo Powerful Pro Yakyuu 4",
-  "Jikkyo J.League Perfect Striker",
-  "Masters '98 Harukanaru Augusta",
-  "Derby Stallion 64",
-  "Tamagotchi 64: Minna de Tamagotchi World",
-  "Choro Q 64 2: Hachamecha Grand Prix Race",
-  "Dezaemon 3D",
-  "Doraemon: Nobita to Mittsu no Seireiseki",
-  "Doraemon 2: Nobita to Hikari no Shinden",
-  "Doraemon 3: Nobita no Machi SOS!",
-  "Eikō no Saint Andrews",
-  "Ucchannanchan no Honō no Challenger: Denryū Iraira Bō",
-  "Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō!",
-  "Goemon: Mononoke Sugoroku",
-  "Last Legion UX",
-  "Pro Mahjong Kiwame",
-  "Power League 64",
-  "J-League Dynamite Soccer 64",
-  "J-League Tactics Soccer",
-  "Morita Shogi 64",
-  "Dance Dance Revolution: Disney Dancing Museum",
-  "Sim City 2000",
-  "J-League Live 64",
-  "Puyo Puyo~n Party",
-  "Susume! Taisen Puzzle Dama ~Toukon! Marutama Chou~",
-  "GoldenEye X",
-  "Rockman Dash - Hagane no Boukenshin",
-  "Shadow Man",
-  "Mario Artist: Talent Studio",
-  "F-Zero X Expansion Kit",
-  "HSV Adventure Racing",
-  "Virtual Pro Wrestling 64",
-  "Virtual Pro Wrestling 2: Ōdō Keishō",
-  "Racing Simulation 2",
-  "Tsumi to Batsu: Hoshi no Keishousha",
-  "Bomberman 64 Arcade Edition",
-  "Onegai Monsters",
-  "J.League Eleven Beat 1997",
-  "Densha de Go! 64",
-  "Super Robot Taisen 64",
-  "Chou Kuukan Night Pro Yakyuu King",
-  "Chou Kuukan Night Pro Yakyuu King 2",
-  "Doubutsu no Mori",
-  "Famista 64",
-  "Ide Yosuke no Mahjong Juku",
-  "Jangou Simulation Mahjong Michi 64",
-  "Jikkyou G1 Stable",
-  "Fire Electric Pen",
-  "Donald Duck: Quack Attack",
-  "Mario Story",
-  "Robot Ponkottsu 64: Caramel of the 7 Seas",
-  "King Hill 64: Extreme Snowboarding",
-  "Super Mario 64: Shindou Edition",
-  "Sonic Wings Assault",
-  "Super Bowling 64",
-  "Wave Race 64: Shindou Edition",
-  "Dragon Sword 64",
-  "Mini Racers",
-  "Tamiya Racing 64",
-  "Wonder Project J2: Corlo no Mori no Josette",
-  "Sydney 2000",
-  "Tommy Thunder",
-  "WildWaters",
-  "Super Luigi 64",
-  "Super Kirby 64",
-  "Super Mario 64: The Missing Stars",
-  "Super Mario 74",
-  "Luigi's Mansion 64",
-  "Biohazard 2",
-  "Pocket Monsters Stadium"
-]
+{
+  "tgbd_id": 3,
+  "tgdb_alias": "nintendo-64",
+  "name": "Nintendo 64",
+  "titles": [
+    {
+      "tgdb_id": 4,
+      "title": "Star Fox 64"
+    },
+    {
+      "tgdb_id": 241,
+      "title": "BattleTanx"
+    },
+    {
+      "tgdb_id": 242,
+      "title": "BattleTanx: Global Assault"
+    },
+    {
+      "tgdb_id": 243,
+      "title": "Blues Brothers 2000"
+    },
+    {
+      "tgdb_id": 244,
+      "title": "Body Harvest"
+    },
+    {
+      "tgdb_id": 245,
+      "title": "Bomberman Hero"
+    },
+    {
+      "tgdb_id": 246,
+      "title": "Castlevania: Legacy of Darkness"
+    },
+    {
+      "tgdb_id": 247,
+      "title": "Chopper Attack"
+    },
+    {
+      "tgdb_id": 249,
+      "title": "Conker's Bad Fur Day"
+    },
+    {
+      "tgdb_id": 250,
+      "title": "Donkey Kong 64"
+    },
+    {
+      "tgdb_id": 251,
+      "title": "Doom 64"
+    },
+    {
+      "tgdb_id": 252,
+      "title": "Fighter Destiny 2"
+    },
+    {
+      "tgdb_id": 253,
+      "title": "Fighting Force 64"
+    },
+    {
+      "tgdb_id": 254,
+      "title": "Forsaken 64"
+    },
+    {
+      "tgdb_id": 237,
+      "title": "1080° Snowboarding"
+    },
+    {
+      "tgdb_id": 238,
+      "title": "007: The World Is Not Enough"
+    },
+    {
+      "tgdb_id": 239,
+      "title": "A Bug's Life"
+    },
+    {
+      "tgdb_id": 240,
+      "title": "Army Men: Sarge's Heroes"
+    },
+    {
+      "tgdb_id": 16127,
+      "title": "64 Hanafuda: Tenshi no Yakusoku"
+    },
+    {
+      "tgdb_id": 42,
+      "title": "Mario Party"
+    },
+    {
+      "tgdb_id": 68,
+      "title": "Turok: Dinosaur Hunter"
+    },
+    {
+      "tgdb_id": 141,
+      "title": "Paper Mario"
+    },
+    {
+      "tgdb_id": 160,
+      "title": "GoldenEye 007"
+    },
+    {
+      "tgdb_id": 161,
+      "title": "The Legend of Zelda: Ocarina of Time"
+    },
+    {
+      "tgdb_id": 162,
+      "title": "Banjo-Kazooie"
+    },
+    {
+      "tgdb_id": 173,
+      "title": "Perfect Dark"
+    },
+    {
+      "tgdb_id": 175,
+      "title": "The Legend of Zelda: Majora's Mask"
+    },
+    {
+      "tgdb_id": 176,
+      "title": "Banjo-Tooie"
+    },
+    {
+      "tgdb_id": 178,
+      "title": "Diddy Kong Racing"
+    },
+    {
+      "tgdb_id": 216,
+      "title": "Super Mario 64"
+    },
+    {
+      "tgdb_id": 228,
+      "title": "Cruis'n USA"
+    },
+    {
+      "tgdb_id": 229,
+      "title": "Cruis'n World"
+    },
+    {
+      "tgdb_id": 230,
+      "title": "Cruis'n Exotica"
+    },
+    {
+      "tgdb_id": 231,
+      "title": "Star Wars: Shadows of the Empire"
+    },
+    {
+      "tgdb_id": 255,
+      "title": "Gauntlet Legends"
+    },
+    {
+      "tgdb_id": 256,
+      "title": "Hercules: The Legendary Journeys"
+    },
+    {
+      "tgdb_id": 257,
+      "title": "Hey You, Pikachu!"
+    },
+    {
+      "tgdb_id": 258,
+      "title": "Hydro Thunder"
+    },
+    {
+      "tgdb_id": 259,
+      "title": "Indiana Jones and the Infernal Machine"
+    },
+    {
+      "tgdb_id": 260,
+      "title": "Jet Force Gemini"
+    },
+    {
+      "tgdb_id": 261,
+      "title": "Killer Instinct Gold"
+    },
+    {
+      "tgdb_id": 262,
+      "title": "Kirby 64: The Crystal Shards"
+    },
+    {
+      "tgdb_id": 264,
+      "title": "Knockout Kings 2000"
+    },
+    {
+      "tgdb_id": 265,
+      "title": "Duck Dodgers Starring Daffy Duck"
+    },
+    {
+      "tgdb_id": 266,
+      "title": "Mario Kart 64"
+    },
+    {
+      "tgdb_id": 267,
+      "title": "Madden NFL 99"
+    },
+    {
+      "tgdb_id": 268,
+      "title": "Madden NFL 2001"
+    },
+    {
+      "tgdb_id": 269,
+      "title": "Madden NFL 2002"
+    },
+    {
+      "tgdb_id": 270,
+      "title": "Mario Party 2"
+    },
+    {
+      "tgdb_id": 271,
+      "title": "Major League Baseball Featuring Ken Griffey, Jr."
+    },
+    {
+      "tgdb_id": 272,
+      "title": "NBA In the Zone '99"
+    },
+    {
+      "tgdb_id": 390,
+      "title": "Pokémon Snap"
+    },
+    {
+      "tgdb_id": 391,
+      "title": "Pokémon Stadium"
+    },
+    {
+      "tgdb_id": 392,
+      "title": "Pokémon Stadium 2"
+    },
+    {
+      "tgdb_id": 394,
+      "title": "Rampage: World Tour"
+    },
+    {
+      "tgdb_id": 395,
+      "title": "Rayman 2: The Great Escape"
+    },
+    {
+      "tgdb_id": 396,
+      "title": "Ready 2 Rumble Boxing"
+    },
+    {
+      "tgdb_id": 397,
+      "title": "Resident Evil 2"
+    },
+    {
+      "tgdb_id": 398,
+      "title": "San Francisco Rush 2049"
+    },
+    {
+      "tgdb_id": 399,
+      "title": "South Park Rally"
+    },
+    {
+      "tgdb_id": 400,
+      "title": "South Park: Chef's Luv Shack"
+    },
+    {
+      "tgdb_id": 401,
+      "title": "Star Wars: Episode I - Battle for Naboo"
+    },
+    {
+      "tgdb_id": 402,
+      "title": "Star Wars: Episode I - Racer"
+    },
+    {
+      "tgdb_id": 403,
+      "title": "Star Wars: Rogue Squadron"
+    },
+    {
+      "tgdb_id": 404,
+      "title": "Super Smash Bros."
+    },
+    {
+      "tgdb_id": 405,
+      "title": "Tetrisphere"
+    },
+    {
+      "tgdb_id": 406,
+      "title": "Tony Hawk's Pro Skater"
+    },
+    {
+      "tgdb_id": 407,
+      "title": "Turok 2: Seeds of Evil"
+    },
+    {
+      "tgdb_id": 408,
+      "title": "Turok: Rage Wars"
+    },
+    {
+      "tgdb_id": 409,
+      "title": "Vigilante 8: 2nd Offense"
+    },
+    {
+      "tgdb_id": 410,
+      "title": "Waialae Country Club: True Golf Classics"
+    },
+    {
+      "tgdb_id": 411,
+      "title": "Wave Race 64"
+    },
+    {
+      "tgdb_id": 412,
+      "title": "WCW Backstage Assault"
+    },
+    {
+      "tgdb_id": 413,
+      "title": "WinBack: Covert Operations"
+    },
+    {
+      "tgdb_id": 414,
+      "title": "World Driver Championship"
+    },
+    {
+      "tgdb_id": 415,
+      "title": "WWF Attitude"
+    },
+    {
+      "tgdb_id": 416,
+      "title": "WWF No Mercy"
+    },
+    {
+      "tgdb_id": 417,
+      "title": "WWF WrestleMania 2000"
+    },
+    {
+      "tgdb_id": 418,
+      "title": "Xena: Warrior Princess - The Talisman of Fate"
+    },
+    {
+      "tgdb_id": 419,
+      "title": "Yoshi's Story"
+    },
+    {
+      "tgdb_id": 581,
+      "title": "NFL Blitz 2000"
+    },
+    {
+      "tgdb_id": 2759,
+      "title": "WWF War Zone"
+    },
+    {
+      "tgdb_id": 3222,
+      "title": "Mia Hamm Soccer 64"
+    },
+    {
+      "tgdb_id": 3223,
+      "title": "Midway's Greatest Arcade Hits: Volume 1"
+    },
+    {
+      "tgdb_id": 3224,
+      "title": "Namco Museum 64"
+    },
+    {
+      "tgdb_id": 957,
+      "title": "Extreme-G"
+    },
+    {
+      "tgdb_id": 958,
+      "title": "Extreme-G: XG2"
+    },
+    {
+      "tgdb_id": 959,
+      "title": "Flying Dragon"
+    },
+    {
+      "tgdb_id": 960,
+      "title": "Mario Party 3"
+    },
+    {
+      "tgdb_id": 961,
+      "title": "Pilotwings 64"
+    },
+    {
+      "tgdb_id": 962,
+      "title": "Road Rash 64"
+    },
+    {
+      "tgdb_id": 963,
+      "title": "Top Gear Rally"
+    },
+    {
+      "tgdb_id": 964,
+      "title": "Vigilante 8"
+    },
+    {
+      "tgdb_id": 1052,
+      "title": "Aerofighters Assault"
+    },
+    {
+      "tgdb_id": 1053,
+      "title": "AeroGauge"
+    },
+    {
+      "tgdb_id": 1054,
+      "title": "Aidyn Chronicles: The First Mage"
+    },
+    {
+      "tgdb_id": 1055,
+      "title": "Air Boarder 64"
+    },
+    {
+      "tgdb_id": 1056,
+      "title": "All Star Tennis 99"
+    },
+    {
+      "tgdb_id": 1057,
+      "title": "All-Star Baseball 99"
+    },
+    {
+      "tgdb_id": 1058,
+      "title": "All-Star Baseball 2000"
+    },
+    {
+      "tgdb_id": 1059,
+      "title": "All-Star Baseball 2001"
+    },
+    {
+      "tgdb_id": 1060,
+      "title": "Armorines: Project S.W.A.R.M."
+    },
+    {
+      "tgdb_id": 1061,
+      "title": "Army Men: Sarge's Heroes 2"
+    },
+    {
+      "tgdb_id": 1062,
+      "title": "Asteroids Hyper 64"
+    },
+    {
+      "tgdb_id": 1063,
+      "title": "Automobili Lamborghini"
+    },
+    {
+      "tgdb_id": 1064,
+      "title": "Bassmasters 2000"
+    },
+    {
+      "tgdb_id": 1065,
+      "title": "Batman Beyond: Return of the Joker"
+    },
+    {
+      "tgdb_id": 1066,
+      "title": "Battle Zone: Rise of the Black Dogs"
+    },
+    {
+      "tgdb_id": 1067,
+      "title": "Beetle Adventure Racing!"
+    },
+    {
+      "tgdb_id": 1068,
+      "title": "Big Mountain 2000"
+    },
+    {
+      "tgdb_id": 1069,
+      "title": "Bio F.R.E.A.K.S."
+    },
+    {
+      "tgdb_id": 1070,
+      "title": "Blast Corps"
+    },
+    {
+      "tgdb_id": 1071,
+      "title": "Bomberman 64: The Second Attack!"
+    },
+    {
+      "tgdb_id": 1072,
+      "title": "Bomberman 64"
+    },
+    {
+      "tgdb_id": 1073,
+      "title": "Bottom of the 9th"
+    },
+    {
+      "tgdb_id": 1074,
+      "title": "Brunswick Circuit Pro Bowling"
+    },
+    {
+      "tgdb_id": 1075,
+      "title": "Buck Bumble"
+    },
+    {
+      "tgdb_id": 16995,
+      "title": "Custom Robo"
+    },
+    {
+      "tgdb_id": 1076,
+      "title": "Bust-A-Move 2: Arcade Edition"
+    },
+    {
+      "tgdb_id": 1077,
+      "title": "Bust-A-Move '99"
+    },
+    {
+      "tgdb_id": 1078,
+      "title": "California Speed"
+    },
+    {
+      "tgdb_id": 1079,
+      "title": "Carmageddon 64"
+    },
+    {
+      "tgdb_id": 1080,
+      "title": "Centre Court Tennis"
+    },
+    {
+      "tgdb_id": 1081,
+      "title": "Chameleon Twist"
+    },
+    {
+      "tgdb_id": 1082,
+      "title": "Chameleon Twist 2"
+    },
+    {
+      "tgdb_id": 1083,
+      "title": "Charlie Blast's Territory"
+    },
+    {
+      "tgdb_id": 1084,
+      "title": "ClayFighter: Sculptor's Cut"
+    },
+    {
+      "tgdb_id": 1085,
+      "title": "CyberTiger"
+    },
+    {
+      "tgdb_id": 1086,
+      "title": "Dark Rift"
+    },
+    {
+      "tgdb_id": 1087,
+      "title": "Deadly Arts"
+    },
+    {
+      "tgdb_id": 1088,
+      "title": "Destruction Derby 64"
+    },
+    {
+      "tgdb_id": 1089,
+      "title": "Donald Duck: Goin' Quackers"
+    },
+    {
+      "tgdb_id": 1090,
+      "title": "Dr. Mario 64"
+    },
+    {
+      "tgdb_id": 1091,
+      "title": "Dual Heroes"
+    },
+    {
+      "tgdb_id": 1092,
+      "title": "Duke Nukem: Zero Hour"
+    },
+    {
+      "tgdb_id": 1093,
+      "title": "Duke Nukem 64"
+    },
+    {
+      "tgdb_id": 1094,
+      "title": "Earthworm Jim 3D"
+    },
+    {
+      "tgdb_id": 1095,
+      "title": "ECW Hardcore Revolution"
+    },
+    {
+      "tgdb_id": 1096,
+      "title": "Sesame Street: Elmo's Letter Adventure"
+    },
+    {
+      "tgdb_id": 1097,
+      "title": "Excitebike 64"
+    },
+    {
+      "tgdb_id": 1098,
+      "title": "F1 Pole Position 64"
+    },
+    {
+      "tgdb_id": 1099,
+      "title": "F1 Racing Championship"
+    },
+    {
+      "tgdb_id": 1100,
+      "title": "F-1 World Grand Prix"
+    },
+    {
+      "tgdb_id": 1101,
+      "title": "F-1 World Grand Prix II"
+    },
+    {
+      "tgdb_id": 1102,
+      "title": "FIFA: Road to World Cup 98"
+    },
+    {
+      "tgdb_id": 1103,
+      "title": "FIFA 99"
+    },
+    {
+      "tgdb_id": 1104,
+      "title": "FIFA Soccer 64"
+    },
+    {
+      "tgdb_id": 1105,
+      "title": "Fighters Destiny"
+    },
+    {
+      "tgdb_id": 1106,
+      "title": "Fox Sports College Hoops '99"
+    },
+    {
+      "tgdb_id": 1108,
+      "title": "Gex 3: Deep Cover Gecko"
+    },
+    {
+      "tgdb_id": 1109,
+      "title": "Gex 64: Enter the Gecko"
+    },
+    {
+      "tgdb_id": 1110,
+      "title": "Glover"
+    },
+    {
+      "tgdb_id": 1111,
+      "title": "Goemon's Great Adventure"
+    },
+    {
+      "tgdb_id": 1112,
+      "title": "Golden Nugget 64"
+    },
+    {
+      "tgdb_id": 1113,
+      "title": "GT 64: Championship Edition"
+    },
+    {
+      "tgdb_id": 1114,
+      "title": "Harvest Moon 64"
+    },
+    {
+      "tgdb_id": 1115,
+      "title": "Hexen"
+    },
+    {
+      "tgdb_id": 1116,
+      "title": "Hot Wheels Turbo Racing"
+    },
+    {
+      "tgdb_id": 1117,
+      "title": "Hybrid Heaven"
+    },
+    {
+      "tgdb_id": 1118,
+      "title": "Iggy's Reckin' Balls"
+    },
+    {
+      "tgdb_id": 1119,
+      "title": "Indy Racing 2000"
+    },
+    {
+      "tgdb_id": 1120,
+      "title": "Bass Hunter 64"
+    },
+    {
+      "tgdb_id": 1121,
+      "title": "International Superstar Soccer 64"
+    },
+    {
+      "tgdb_id": 1122,
+      "title": "International Superstar Soccer '98"
+    },
+    {
+      "tgdb_id": 1123,
+      "title": "International Superstar Soccer 2000"
+    },
+    {
+      "tgdb_id": 1124,
+      "title": "International Track & Field 2000"
+    },
+    {
+      "tgdb_id": 1125,
+      "title": "Jeremy McGrath Supercross 2000"
+    },
+    {
+      "tgdb_id": 1126,
+      "title": "John Romero's Daikatana"
+    },
+    {
+      "tgdb_id": 1127,
+      "title": "Ken Griffey Jr.'s Slugfest"
+    },
+    {
+      "tgdb_id": 1128,
+      "title": "Knife Edge: Nose Gunner"
+    },
+    {
+      "tgdb_id": 1129,
+      "title": "Kobe Bryant in NBA Courtside"
+    },
+    {
+      "tgdb_id": 1130,
+      "title": "Lego Racers"
+    },
+    {
+      "tgdb_id": 1131,
+      "title": "Lode Runner 3-D"
+    },
+    {
+      "tgdb_id": 1132,
+      "title": "Mace: The Dark Age"
+    },
+    {
+      "tgdb_id": 1133,
+      "title": "Madden Football 64"
+    },
+    {
+      "tgdb_id": 1134,
+      "title": "Madden NFL 2000"
+    },
+    {
+      "tgdb_id": 1135,
+      "title": "Magical Tetris Challenge"
+    },
+    {
+      "tgdb_id": 1136,
+      "title": "Mario Golf"
+    },
+    {
+      "tgdb_id": 1137,
+      "title": "Mario Tennis"
+    },
+    {
+      "tgdb_id": 1138,
+      "title": "Mega Man 64"
+    },
+    {
+      "tgdb_id": 1139,
+      "title": "Mickey's Speedway USA"
+    },
+    {
+      "tgdb_id": 1140,
+      "title": "Micro Machines 64 Turbo"
+    },
+    {
+      "tgdb_id": 1141,
+      "title": "Mike Piazza's Strike Zone"
+    },
+    {
+      "tgdb_id": 1142,
+      "title": "Milo's Astro Lanes"
+    },
+    {
+      "tgdb_id": 1143,
+      "title": "Mischief Makers"
+    },
+    {
+      "tgdb_id": 1144,
+      "title": "Monaco Grand Prix"
+    },
+    {
+      "tgdb_id": 1146,
+      "title": "Monster Truck Madness 64"
+    },
+    {
+      "tgdb_id": 1147,
+      "title": "Mortal Kombat 4"
+    },
+    {
+      "tgdb_id": 1148,
+      "title": "Mortal Kombat Mythologies: Sub-Zero"
+    },
+    {
+      "tgdb_id": 1149,
+      "title": "Mortal Kombat Trilogy"
+    },
+    {
+      "tgdb_id": 1150,
+      "title": "MRC: Multi-Racing Championship"
+    },
+    {
+      "tgdb_id": 1151,
+      "title": "Ms. Pac-Man Maze Madness"
+    },
+    {
+      "tgdb_id": 1152,
+      "title": "Mystical Ninja Starring Goemon"
+    },
+    {
+      "tgdb_id": 1153,
+      "title": "Nagano Winter Olympics '98"
+    },
+    {
+      "tgdb_id": 1154,
+      "title": "NASCAR 2000"
+    },
+    {
+      "tgdb_id": 1155,
+      "title": "NBA Courtside 2 Featuring Kobe Bryant"
+    },
+    {
+      "tgdb_id": 1156,
+      "title": "NBA Hangtime"
+    },
+    {
+      "tgdb_id": 1157,
+      "title": "NBA In The Zone '98"
+    },
+    {
+      "tgdb_id": 1158,
+      "title": "NBA in the Zone 2000"
+    },
+    {
+      "tgdb_id": 1159,
+      "title": "NBA Jam 99"
+    },
+    {
+      "tgdb_id": 1160,
+      "title": "NBA Jam 2000"
+    },
+    {
+      "tgdb_id": 1161,
+      "title": "The New Tetris"
+    },
+    {
+      "tgdb_id": 1162,
+      "title": "NFL Blitz: Special Edition"
+    },
+    {
+      "tgdb_id": 1163,
+      "title": "NFL Blitz"
+    },
+    {
+      "tgdb_id": 1164,
+      "title": "Superman"
+    },
+    {
+      "tgdb_id": 1165,
+      "title": "NFL Quarterback Club 98"
+    },
+    {
+      "tgdb_id": 1166,
+      "title": "NFL Quarterback Club 99"
+    },
+    {
+      "tgdb_id": 1167,
+      "title": "NFL Quarterback Club 2000"
+    },
+    {
+      "tgdb_id": 1168,
+      "title": "NFL Quarterback Club 2001"
+    },
+    {
+      "tgdb_id": 1169,
+      "title": "NHL 99"
+    },
+    {
+      "tgdb_id": 1170,
+      "title": "NHL Blades of Steel '99"
+    },
+    {
+      "tgdb_id": 1171,
+      "title": "NHL Breakaway 98"
+    },
+    {
+      "tgdb_id": 1172,
+      "title": "NHL Breakaway 99"
+    },
+    {
+      "tgdb_id": 1173,
+      "title": "Nightmare Creatures"
+    },
+    {
+      "tgdb_id": 1174,
+      "title": "Nuclear Strike 64"
+    },
+    {
+      "tgdb_id": 1175,
+      "title": "Off Road Challenge"
+    },
+    {
+      "tgdb_id": 1176,
+      "title": "Ogre Battle 64: Person of Lordly Caliber"
+    },
+    {
+      "tgdb_id": 1177,
+      "title": "Olympic Hockey 98"
+    },
+    {
+      "tgdb_id": 1178,
+      "title": "Paperboy"
+    },
+    {
+      "tgdb_id": 1179,
+      "title": "Penny Racers"
+    },
+    {
+      "tgdb_id": 1180,
+      "title": "PGA European Tour"
+    },
+    {
+      "tgdb_id": 1181,
+      "title": "Pokémon Puzzle League"
+    },
+    {
+      "tgdb_id": 1182,
+      "title": "Polaris SnoCross"
+    },
+    {
+      "tgdb_id": 1183,
+      "title": "Power Rangers: Lightspeed Rescue"
+    },
+    {
+      "tgdb_id": 1184,
+      "title": "The Powerpuff Girls: Chemical X-traction"
+    },
+    {
+      "tgdb_id": 1185,
+      "title": "Quest 64"
+    },
+    {
+      "tgdb_id": 1186,
+      "title": "Rakuga Kids"
+    },
+    {
+      "tgdb_id": 1187,
+      "title": "Rally Challenge 2000"
+    },
+    {
+      "tgdb_id": 1188,
+      "title": "Rat Attack!"
+    },
+    {
+      "tgdb_id": 1189,
+      "title": "Razor Freestyle Scooter"
+    },
+    {
+      "tgdb_id": 1190,
+      "title": "Ready 2 Rumble Boxing: Round 2"
+    },
+    {
+      "tgdb_id": 1191,
+      "title": "Re-Volt"
+    },
+    {
+      "tgdb_id": 1192,
+      "title": "Roadsters"
+    },
+    {
+      "tgdb_id": 1193,
+      "title": "Robotron 64"
+    },
+    {
+      "tgdb_id": 1194,
+      "title": "Rocket: Robot on Wheels"
+    },
+    {
+      "tgdb_id": 1195,
+      "title": "RR64 Ridge Racer 64"
+    },
+    {
+      "tgdb_id": 1196,
+      "title": "Rugrats: Scavenger Hunt"
+    },
+    {
+      "tgdb_id": 1197,
+      "title": "Rush 2: Extreme Racing USA"
+    },
+    {
+      "tgdb_id": 1198,
+      "title": "SCARS"
+    },
+    {
+      "tgdb_id": 1199,
+      "title": "San Francisco Rush: Extreme Racing"
+    },
+    {
+      "tgdb_id": 1200,
+      "title": "Scooby-Doo! Classic Creep Capers"
+    },
+    {
+      "tgdb_id": 1201,
+      "title": "Shadowgate 64: Trials of the Four Towers"
+    },
+    {
+      "tgdb_id": 1202,
+      "title": "Snowboard Kids"
+    },
+    {
+      "tgdb_id": 1203,
+      "title": "Snowboard Kids 2"
+    },
+    {
+      "tgdb_id": 1204,
+      "title": "South Park"
+    },
+    {
+      "tgdb_id": 1205,
+      "title": "Space Station Silicon Valley"
+    },
+    {
+      "tgdb_id": 1206,
+      "title": "Star Soldier: Vanishing Earth"
+    },
+    {
+      "tgdb_id": 1207,
+      "title": "StarCraft 64"
+    },
+    {
+      "tgdb_id": 1208,
+      "title": "Starshot: Space Circus Fever"
+    },
+    {
+      "tgdb_id": 1209,
+      "title": "Stunt Racer 64"
+    },
+    {
+      "tgdb_id": 1210,
+      "title": "Super Bowling"
+    },
+    {
+      "tgdb_id": 1211,
+      "title": "Supercross 2000"
+    },
+    {
+      "tgdb_id": 1213,
+      "title": "Taz Express"
+    },
+    {
+      "tgdb_id": 1214,
+      "title": "Tigger's Honey Hunt"
+    },
+    {
+      "tgdb_id": 1215,
+      "title": "Tom and Jerry in Fists of Furry"
+    },
+    {
+      "tgdb_id": 1216,
+      "title": "Tom Clancy's Rainbow Six"
+    },
+    {
+      "tgdb_id": 1217,
+      "title": "Tonic Trouble"
+    },
+    {
+      "tgdb_id": 1218,
+      "title": "Tony Hawk's Pro Skater 2"
+    },
+    {
+      "tgdb_id": 1219,
+      "title": "Tony Hawk's Pro Skater 3"
+    },
+    {
+      "tgdb_id": 1220,
+      "title": "Top Gear Hyper-Bike"
+    },
+    {
+      "tgdb_id": 1221,
+      "title": "Top Gear Overdrive"
+    },
+    {
+      "tgdb_id": 1222,
+      "title": "Top Gear Rally 2"
+    },
+    {
+      "tgdb_id": 1223,
+      "title": "Toy Story 2: Buzz Lightyear to the Rescue!"
+    },
+    {
+      "tgdb_id": 1224,
+      "title": "Transformers: Beast Wars Transmetals"
+    },
+    {
+      "tgdb_id": 1225,
+      "title": "Triple Play 2000"
+    },
+    {
+      "tgdb_id": 1226,
+      "title": "Turok 3: Shadow of Oblivion"
+    },
+    {
+      "tgdb_id": 1227,
+      "title": "Twisted Edge Extreme Snowboarding"
+    },
+    {
+      "tgdb_id": 1228,
+      "title": "Virtual Chess 64"
+    },
+    {
+      "tgdb_id": 1229,
+      "title": "Virtual Pool 64"
+    },
+    {
+      "tgdb_id": 1230,
+      "title": "V-Rally Edition 99"
+    },
+    {
+      "tgdb_id": 1231,
+      "title": "War Gods"
+    },
+    {
+      "tgdb_id": 1232,
+      "title": "Wayne Gretzky's 3D Hockey"
+    },
+    {
+      "tgdb_id": 1233,
+      "title": "WCW Mayhem"
+    },
+    {
+      "tgdb_id": 1234,
+      "title": "WCW Nitro"
+    },
+    {
+      "tgdb_id": 1235,
+      "title": "WCW Vs. nWo: World Tour"
+    },
+    {
+      "tgdb_id": 1236,
+      "title": "WCW/nWo Revenge"
+    },
+    {
+      "tgdb_id": 1237,
+      "title": "Wetrix"
+    },
+    {
+      "tgdb_id": 1238,
+      "title": "Wipeout 64"
+    },
+    {
+      "tgdb_id": 1239,
+      "title": "World Cup 98"
+    },
+    {
+      "tgdb_id": 1240,
+      "title": "Worms Armageddon"
+    },
+    {
+      "tgdb_id": 1560,
+      "title": "Command & Conquer"
+    },
+    {
+      "tgdb_id": 1561,
+      "title": "G.A.S.P! Fighter's NEXTream"
+    },
+    {
+      "tgdb_id": 2460,
+      "title": "Bust-A-Move 3 DX"
+    },
+    {
+      "tgdb_id": 2535,
+      "title": "Army Men: Air Combat"
+    },
+    {
+      "tgdb_id": 3294,
+      "title": "Rugrats in Paris: The Movie"
+    },
+    {
+      "tgdb_id": 2769,
+      "title": "Wheel of Fortune"
+    },
+    {
+      "tgdb_id": 2773,
+      "title": "Wayne Gretzky's 3D Hockey '98"
+    },
+    {
+      "tgdb_id": 2807,
+      "title": "NBA Showtime: NBA on NBC"
+    },
+    {
+      "tgdb_id": 2809,
+      "title": "NBA Live 99"
+    },
+    {
+      "tgdb_id": 2811,
+      "title": "NBA Live 2000"
+    },
+    {
+      "tgdb_id": 2818,
+      "title": "NASCAR 99"
+    },
+    {
+      "tgdb_id": 2827,
+      "title": "Mission: Impossible"
+    },
+    {
+      "tgdb_id": 2840,
+      "title": "Jeopardy!"
+    },
+    {
+      "tgdb_id": 2848,
+      "title": "Castlevania"
+    },
+    {
+      "tgdb_id": 2912,
+      "title": "Monopoly"
+    },
+    {
+      "tgdb_id": 2914,
+      "title": "NFL Blitz 2001"
+    },
+    {
+      "tgdb_id": 2922,
+      "title": "Quake"
+    },
+    {
+      "tgdb_id": 2924,
+      "title": "Quake II"
+    },
+    {
+      "tgdb_id": 2930,
+      "title": "Rampage 2: Universal Tour"
+    },
+    {
+      "tgdb_id": 2952,
+      "title": "Spider-Man"
+    },
+    {
+      "tgdb_id": 3100,
+      "title": "Sesame Street: Elmo's Number Journey"
+    },
+    {
+      "tgdb_id": 3148,
+      "title": "Disney's Tarzan"
+    },
+    {
+      "tgdb_id": 3295,
+      "title": "Space Invaders"
+    },
+    {
+      "tgdb_id": 3571,
+      "title": "Robotech: Crystal Dreams"
+    },
+    {
+      "tgdb_id": 4203,
+      "title": "Michael Owen's WLS 2000: World League Soccer"
+    },
+    {
+      "tgdb_id": 4202,
+      "title": "Premier Manager 64"
+    },
+    {
+      "tgdb_id": 32153,
+      "title": "Custom Robo V2"
+    },
+    {
+      "tgdb_id": 5652,
+      "title": "Sin and Punishment"
+    },
+    {
+      "tgdb_id": 36122,
+      "title": "Super Mario Star Road"
+    },
+    {
+      "tgdb_id": 36123,
+      "title": "Super Mario Star Road Multiplayer"
+    },
+    {
+      "tgdb_id": 9362,
+      "title": "ClayFighter 63 1/3"
+    },
+    {
+      "tgdb_id": 10836,
+      "title": "F-Zero X"
+    },
+    {
+      "tgdb_id": 16728,
+      "title": "64 Professional Sumo Wrestling 2"
+    },
+    {
+      "tgdb_id": 16128,
+      "title": "64 Professional Sumo Wrestling"
+    },
+    {
+      "tgdb_id": 16732,
+      "title": "Animal Forest"
+    },
+    {
+      "tgdb_id": 15117,
+      "title": "Neon Genesis Evangelion"
+    },
+    {
+      "tgdb_id": 16729,
+      "title": "64 Trump Collection - Alice's Exciting Trip to Trump World"
+    },
+    {
+      "tgdb_id": 16730,
+      "title": "AI Shogi 3"
+    },
+    {
+      "tgdb_id": 16736,
+      "title": "Bakuretsu Muteki Bangaioh"
+    },
+    {
+      "tgdb_id": 16764,
+      "title": "Bakushō Jinsei 64: Mezase! Resort Ō"
+    },
+    {
+      "tgdb_id": 16768,
+      "title": "Bass Rush:  Ecogear PowerWorm Championship"
+    },
+    {
+      "tgdb_id": 19926,
+      "title": "The Legend of Zelda: Ocarina of Time Master Quest"
+    },
+    {
+      "tgdb_id": 20265,
+      "title": "Mystical Ninja 2 Starring Goemon"
+    },
+    {
+      "tgdb_id": 20267,
+      "title": "O.D.T."
+    },
+    {
+      "tgdb_id": 20269,
+      "title": "40 Winks"
+    },
+    {
+      "tgdb_id": 20513,
+      "title": "Mahjong 64"
+    },
+    {
+      "tgdb_id": 20514,
+      "title": "Mahjong Master"
+    },
+    {
+      "tgdb_id": 20515,
+      "title": "Mario no Photopi"
+    },
+    {
+      "tgdb_id": 20517,
+      "title": "Tetris 64"
+    },
+    {
+      "tgdb_id": 20824,
+      "title": "Toukon Road: Brave Spirits"
+    },
+    {
+      "tgdb_id": 20825,
+      "title": "Toukon Road 2: The Next Generation"
+    },
+    {
+      "tgdb_id": 36121,
+      "title": "Super Mario 64 Multiplayer"
+    },
+    {
+      "tgdb_id": 22448,
+      "title": "Frogger 2: Swampy's Revenge"
+    },
+    {
+      "tgdb_id": 22449,
+      "title": "Glover 2"
+    },
+    {
+      "tgdb_id": 22602,
+      "title": "Wonder Project J2: Koruro no Mori no Jozet"
+    },
+    {
+      "tgdb_id": 23759,
+      "title": "Puyo Puyo Sun 64"
+    },
+    {
+      "tgdb_id": 24153,
+      "title": "Jikkyo Powerful Pro Yakyuu 4"
+    },
+    {
+      "tgdb_id": 24624,
+      "title": "Jikkyo J.League Perfect Striker"
+    },
+    {
+      "tgdb_id": 24625,
+      "title": "Masters '98 Harukanaru Augusta"
+    },
+    {
+      "tgdb_id": 25496,
+      "title": "Derby Stallion 64"
+    },
+    {
+      "tgdb_id": 25733,
+      "title": "Tamagotchi 64: Minna de Tamagotchi World"
+    },
+    {
+      "tgdb_id": 25735,
+      "title": "Choro Q 64 2: Hachamecha Grand Prix Race"
+    },
+    {
+      "tgdb_id": 25736,
+      "title": "Dezaemon 3D"
+    },
+    {
+      "tgdb_id": 25737,
+      "title": "Doraemon: Nobita to Mittsu no Seireiseki"
+    },
+    {
+      "tgdb_id": 25738,
+      "title": "Doraemon 2: Nobita to Hikari no Shinden"
+    },
+    {
+      "tgdb_id": 25739,
+      "title": "Doraemon 3: Nobita no Machi SOS!"
+    },
+    {
+      "tgdb_id": 25740,
+      "title": "Eikō no Saint Andrews"
+    },
+    {
+      "tgdb_id": 25747,
+      "title": "Ucchannanchan no Honō no Challenger: Denryū Iraira Bō"
+    },
+    {
+      "tgdb_id": 25748,
+      "title": "Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō!"
+    },
+    {
+      "tgdb_id": 25749,
+      "title": "Goemon: Mononoke Sugoroku"
+    },
+    {
+      "tgdb_id": 25750,
+      "title": "Last Legion UX"
+    },
+    {
+      "tgdb_id": 25751,
+      "title": "Pro Mahjong Kiwame"
+    },
+    {
+      "tgdb_id": 25752,
+      "title": "Power League 64"
+    },
+    {
+      "tgdb_id": 25753,
+      "title": "J-League Dynamite Soccer 64"
+    },
+    {
+      "tgdb_id": 25773,
+      "title": "J-League Tactics Soccer"
+    },
+    {
+      "tgdb_id": 25774,
+      "title": "Morita Shogi 64"
+    },
+    {
+      "tgdb_id": 25775,
+      "title": "Dance Dance Revolution: Disney Dancing Museum"
+    },
+    {
+      "tgdb_id": 25776,
+      "title": "Sim City 2000"
+    },
+    {
+      "tgdb_id": 25777,
+      "title": "J-League Live 64"
+    },
+    {
+      "tgdb_id": 27817,
+      "title": "Puyo Puyo~n Party"
+    },
+    {
+      "tgdb_id": 27818,
+      "title": "Susume! Taisen Puzzle Dama ~Toukon! Marutama Chou~"
+    },
+    {
+      "tgdb_id": 29517,
+      "title": "GoldenEye X"
+    },
+    {
+      "tgdb_id": 29727,
+      "title": "Rockman Dash - Hagane no Boukenshin"
+    },
+    {
+      "tgdb_id": 30094,
+      "title": "Shadow Man"
+    },
+    {
+      "tgdb_id": 30121,
+      "title": "Mario Artist: Talent Studio"
+    },
+    {
+      "tgdb_id": 30124,
+      "title": "F-Zero X Expansion Kit"
+    },
+    {
+      "tgdb_id": 30570,
+      "title": "HSV Adventure Racing"
+    },
+    {
+      "tgdb_id": 31084,
+      "title": "Virtual Pro Wrestling 64"
+    },
+    {
+      "tgdb_id": 31085,
+      "title": "Virtual Pro Wrestling 2: Ōdō Keishō"
+    },
+    {
+      "tgdb_id": 31221,
+      "title": "Racing Simulation 2"
+    },
+    {
+      "tgdb_id": 31593,
+      "title": "Tsumi to Batsu: Hoshi no Keishousha"
+    },
+    {
+      "tgdb_id": 31617,
+      "title": "Bomberman 64 Arcade Edition"
+    },
+    {
+      "tgdb_id": 31699,
+      "title": "Onegai Monsters"
+    },
+    {
+      "tgdb_id": 31700,
+      "title": "J.League Eleven Beat 1997"
+    },
+    {
+      "tgdb_id": 32054,
+      "title": "Densha de Go! 64"
+    },
+    {
+      "tgdb_id": 32095,
+      "title": "Super Robot Taisen 64"
+    },
+    {
+      "tgdb_id": 32537,
+      "title": "Chou Kuukan Night Pro Yakyuu King"
+    },
+    {
+      "tgdb_id": 32538,
+      "title": "Chou Kuukan Night Pro Yakyuu King 2"
+    },
+    {
+      "tgdb_id": 32542,
+      "title": "Doubutsu no Mori"
+    },
+    {
+      "tgdb_id": 32561,
+      "title": "Famista 64"
+    },
+    {
+      "tgdb_id": 32574,
+      "title": "Ide Yosuke no Mahjong Juku"
+    },
+    {
+      "tgdb_id": 32575,
+      "title": "Jangou Simulation Mahjong Michi 64"
+    },
+    {
+      "tgdb_id": 32576,
+      "title": "Jikkyou G1 Stable"
+    },
+    {
+      "tgdb_id": 34161,
+      "title": "Fire Electric Pen"
+    },
+    {
+      "tgdb_id": 34162,
+      "title": "Getter Love!! Cho Renai Party Game"
+    },
+    {
+      "tgdb_id": 34163,
+      "title": "Mario Story"
+    },
+    {
+      "tgdb_id": 34164,
+      "title": "Robot Ponkottsu 64: Caramel of the 7 Seas"
+    },
+    {
+      "tgdb_id": 34166,
+      "title": "King Hill 64: Extreme Snowboarding"
+    },
+    {
+      "tgdb_id": 34167,
+      "title": "Super Mario 64: Shindou Edition"
+    },
+    {
+      "tgdb_id": 34168,
+      "title": "Sonic Wings Assault"
+    },
+    {
+      "tgdb_id": 35210,
+      "title": "Super Bowling 64"
+    },
+    {
+      "tgdb_id": 35736,
+      "title": "Wave Race 64: Shindou Edition"
+    },
+    {
+      "tgdb_id": 35757,
+      "title": "Dragon Sword 64"
+    },
+    {
+      "tgdb_id": 35758,
+      "title": "Mini Racers"
+    },
+    {
+      "tgdb_id": 35767,
+      "title": "Tamiya Racing 64"
+    },
+    {
+      "tgdb_id": 36109,
+      "title": "Wonder Project J2: Corlo no Mori no Josette"
+    },
+    {
+      "tgdb_id": 36350,
+      "title": "Sydney 2000"
+    },
+    {
+      "tgdb_id": 36909,
+      "title": "Tommy Thunder"
+    },
+    {
+      "tgdb_id": 36910,
+      "title": "WildWaters"
+    },
+    {
+      "tgdb_id": 37185,
+      "title": "Super Luigi 64"
+    },
+    {
+      "tgdb_id": 37189,
+      "title": "Super Kirby 64"
+    },
+    {
+      "tgdb_id": 37190,
+      "title": "Super Mario 64: The Missing Stars"
+    },
+    {
+      "tgdb_id": 37230,
+      "title": "Super Mario 74"
+    },
+    {
+      "tgdb_id": 37296,
+      "title": "Luigi's Mansion 64"
+    },
+    {
+      "tgdb_id": 37487,
+      "title": "Biohazard 2"
+    },
+    {
+      "tgdb_id": 38362,
+      "title": "Pocket Monsters Stadium"
+    }
+  ]
+}

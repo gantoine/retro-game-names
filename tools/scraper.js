@@ -9,7 +9,8 @@ const blacklist = require(path.resolve('./src/imports/blacklist.json'))
 
 const mainExport = {
   missing: missing,
-  all: all
+  all: all,
+  console: console
 }
 
 function missing() {
@@ -33,17 +34,36 @@ function all() {
 
 function gotPlatforms(platforms) {
   platforms.forEach((platform) => {
-    thegamesdb.getPlatformGames({ id: platform.id }).then(gotGames.bind(platform))
+    const platName = platform.alias.split('-').join('_')
+    if (!_.contains(blacklist, platName)) {
+      thegamesdb.getPlatformGames({ id: platform.id }).then(gotGames.bind(platform))
+    }
   })
 }
 
+function console(id) {
+  thegamesdb.getPlatform({id: id}).then(gotConsole)
+}
+
+function gotConsole(info) {
+  thegamesdb.getPlatformGames({ id: info.id }).then(gotGames.bind(info))
+}
+
 function gotGames(gamesArray) {
+  const platformInfo = {
+    tgbd_id: this.id,
+    tgdb_alias: this.alias,
+    name: this.name
+  }
   const file = `./src/data/${this.alias.split('-').join('_')}.json`
-  const gameNames = []
+
+  const gamesInfo = []
   gamesArray.forEach(function(game) {
-    gameNames.push(game.title)
+    gamesInfo.push({tgdb_id: game.id, title: game.title})
   })
-  jsonfile.writeFileSync(file, gameNames, {spaces: 2}, function (err) {
+
+  platformInfo.titles = gamesInfo
+  jsonfile.writeFileSync(file, platformInfo, {spaces: 2}, function (err) {
     console.error(err)
   })
 }

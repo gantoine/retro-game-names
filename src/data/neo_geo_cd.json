@@ -1,24 +1,95 @@
-[
-  "2020 Super Baseball",
-  "Mahjong Kyōretsuden",
-  "Futsal: 5 on 5 Mini Soccer",
-  "3 Count Bout",
-  "Aero Fighters 2",
-  "Aero Fighters 3",
-  "Aggressors of Dark Kombat",
-  "Alpha Mission II",
-  "Art of Fighting",
-  "Art of Fighting 2",
-  "Art of Fighting 3",
-  "Art of Fighting 3 Box Set w/ Coin",
-  "Baseball Stars Professional",
-  "Baseball Stars 2",
-  "Blue's Journey",
-  "Burning Fight",
-  "Breakers",
-  "Crossed Swords II",
-  "Crossed Swords",
-  "Cyber-Lip",
-  "Double Dragon",
-  "Fatal Fury"
-]
+{
+  "tgbd_id": 4956,
+  "tgdb_alias": "neo-geo-cd",
+  "name": "Neo Geo CD",
+  "titles": [
+    {
+      "tgdb_id": 36583,
+      "title": "2020 Super Baseball"
+    },
+    {
+      "tgdb_id": 18955,
+      "title": "Mahjong Kyōretsuden"
+    },
+    {
+      "tgdb_id": 24147,
+      "title": "Futsal: 5 on 5 Mini Soccer"
+    },
+    {
+      "tgdb_id": 36593,
+      "title": "3 Count Bout"
+    },
+    {
+      "tgdb_id": 36594,
+      "title": "Aero Fighters 2"
+    },
+    {
+      "tgdb_id": 36604,
+      "title": "Aero Fighters 3"
+    },
+    {
+      "tgdb_id": 36605,
+      "title": "Aggressors of Dark Kombat"
+    },
+    {
+      "tgdb_id": 36606,
+      "title": "Alpha Mission II"
+    },
+    {
+      "tgdb_id": 36607,
+      "title": "Art of Fighting"
+    },
+    {
+      "tgdb_id": 36608,
+      "title": "Art of Fighting 2"
+    },
+    {
+      "tgdb_id": 36730,
+      "title": "Art of Fighting 3"
+    },
+    {
+      "tgdb_id": 36731,
+      "title": "Art of Fighting 3 Box Set w/ Coin"
+    },
+    {
+      "tgdb_id": 36732,
+      "title": "Baseball Stars Professional"
+    },
+    {
+      "tgdb_id": 36733,
+      "title": "Baseball Stars 2"
+    },
+    {
+      "tgdb_id": 36734,
+      "title": "Blue's Journey"
+    },
+    {
+      "tgdb_id": 36735,
+      "title": "Burning Fight"
+    },
+    {
+      "tgdb_id": 36737,
+      "title": "Breakers"
+    },
+    {
+      "tgdb_id": 36838,
+      "title": "Crossed Swords II"
+    },
+    {
+      "tgdb_id": 36841,
+      "title": "Crossed Swords"
+    },
+    {
+      "tgdb_id": 36845,
+      "title": "Cyber-Lip"
+    },
+    {
+      "tgdb_id": 36846,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 36847,
+      "title": "Fatal Fury"
+    }
+  ]
+}

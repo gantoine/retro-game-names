@@ -1,540 +1,2159 @@
-[
-  "Commando",
-  "DigDug",
-  "HERO",
-  "Ghostbusters",
-  "Amidar",
-  "Asteroids",
-  "Battlezone",
-  "Blackjack",
-  "Casino",
-  "Centipede",
-  "Defender",
-  "Gravitar",
-  "Indy 500",
-  "Joust",
-  "Jungle Hunt",
-  "Kangaroo",
-  "Moon Patrol",
-  "Spider Fighter",
-  "Star Ship",
-  "Starmaster",
-  "Venture",
-  "Warlords",
-  "Wizard of Wor",
-  "Moonsweeper",
-  "Polaris",
-  "River Raid",
-  "Dark Chambers",
-  "Defender II",
-  "Desert Falcon",
-  "Frogger",
-  "Haunted House",
-  "Kaboom!",
-  "Swordquest: EarthWorld",
-  "Basketball",
-  "Beany Bopper",
-  "Adventure",
-  "Star Wars: The Empire Strikes Back",
-  "Donkey Kong",
-  "Spider-Man",
-  "Yars' Revenge",
-  "X-Man",
-  "Combat",
-  "PacMan",
-  "Space Invaders",
-  "Air-Sea Battle",
-  "Berzerk",
-  "Brain Games",
-  "Breakout",
-  "California Games",
-  "Circus Atari",
-  "Double Dunk",
-  "Frankenstein's Monster",
-  "Freeway",
-  "Galaxian",
-  "Jr. Pac-Man",
-  "Keystone Kapers",
-  "Klax",
-  "Mario Bros.",
-  "Maze Craze: A Game of Cops and Robbers",
-  "Midnight Magic",
-  "Millipede",
-  "Missile Command",
-  "Ms. PacMan",
-  "Outlaw",
-  "Pelé's Soccer",
-  "Pitfall!",
-  "Q*bert",
-  "Raiders of the Lost Ark",
-  "Rampage",
-  "Reactor",
-  "RealSports Tennis",
-  "Robot Tank",
-  "Roc 'N Rope",
-  "Secret Quest",
-  "Space Shuttle: A Journey into Space",
-  "Space War",
-  "Star Raiders",
-  "Star Wars: Jedi Arena",
-  "Super Breakout",
-  "Super Football",
-  "Superman",
-  "Pole Position",
-  "BurgerTime",
-  "E.T. the Extra-Terrestrial",
-  "Chopper Command",
-  "Donkey Kong Junior",
-  "Wall defender",
-  "Barnstorming",
-  "Boxing",
-  "Dodge 'Em",
-  "Golf",
-  "Human Cannonball",
-  "Ice Hockey",
-  "Journey Escape",
-  "Mega Force",
-  "Night Driver",
-  "Oink!",
-  "Skiing",
-  "Stampede",
-  "Street Racer",
-  "Video Olympics",
-  "Video Pinball",
-  "Crystal Castles",
-  "Crazy Climber",
-  "Air Raid",
-  "David's Midnight Magic",
-  "Frogger II: Threeedeep!",
-  "Frostbite",
-  "Enduro",
-  "Home Run",
-  "Bobby is Going Home",
-  "Asterix",
-  "Condor Attack",
-  "Decathlon",
-  "International Soccer",
-  "Demon Attack",
-  "Atlantis",
-  "Phoenix",
-  "Plaque Attack",
-  "Adventures of TRON",
-  "Airlock",
-  "Basic Math",
-  "Double Dragon",
-  "Eggomania",
-  "Private Eye",
-  "3-D Tic-Tac-Toe",
-  "Demons To Diamonds",
-  "Slot Racers",
-  "Star Fox",
-  "Zaxxon",
-  "Krull",
-  "RealSports Football",
-  "Video Chess",
-  "Space Jockey",
-  "Sky Jinks",
-  "Acid Drop",
-  "Star Castle",
-  "Action Force",
-  "Cross Force",
-  "Night Stalker",
-  "Air Raiders",
-  "Armor Ambush",
-  "Artillery Duel",
-  "Astro Attack",
-  "Astroblast",
-  "Atari Video Cube",
-  "Backgammon",
-  "Bank Heist",
-  "Base Attack",
-  "BASIC Programming",
-  "Beamrider",
-  "Bermuda Triangle",
-  "Blueprint",
-  "BMX Air Master",
-  "Cookie Monster Munch",
-  "Fire Fighter",
-  "Ghostbusters II",
-  "Hell Driver",
-  "Hunt & Score",
-  "King Kong",
-  "Laser Base",
-  "Lilly Adventure",
-  "Lost Luggage",
-  "Marine Wars",
-  "Math Gran Prix",
-  "Miniature Golf",
-  "Missile War",
-  "My Golf",
-  "Name This Game",
-  "No Escape!",
-  "Pac Kong",
-  "Phantom Panzer",
-  "Pigs in Space",
-  "Pitfall II: Lost Caverns",
-  "Planet Patrol",
-  "RealSports Boxing",
-  "RealSports Volleyball",
-  "RealSports Soccer",
-  "River Raid II",
-  "Entombed",
-  "Pooyan",
-  "Frogs and Flies",
-  "Sprintmaster",
-  "Solaris",
-  "Xonox - Ghost Manor/Spike's Peak",
-  "Alien",
-  "Montezuma's Revenge",
-  "G.I. Joe: Cobra Strike",
-  "Xonox - Robin Hood/Sir Lancelot",
-  "UFO Patrol",
-  "Asteroid Belt",
-  "Megamania",
-  "32 in 1",
-  "Laser Blast",
-  "Super-Ferrari",
-  "Smurf: Rescue in Gargamel's Castle",
-  "Mission 3000",
-  "Catch Time",
-  "Galactic",
-  "Commando Raid",
-  "Sneak 'N Peek",
-  "Towering Inferno",
-  "Word Zapper",
-  "Coke Wins",
-  "Custer's Revenge",
-  "Fishing Derby",
-  "Championship Soccer",
-  "Hangman",
-  "Surround",
-  "Cosmic Ark",
-  "Princess Rescue",
-  "Grand Prix",
-  "Beat 'Em & Eat 'Em",
-  "Bowling",
-  "Bridge",
-  "Bugs",
-  "Canyon Bomber",
-  "Challenge",
-  "Checkers",
-  "Crackpots",
-  "Deadly Duck",
-  "Dolphin",
-  "Dragonfire",
-  "Dragster",
-  "Fantastic Voyage",
-  "Fast Eddie",
-  "Fast Food",
-  "Flag Capture",
-  "Flash Gordon",
-  "Halloween",
-  "I Want My Mommy",
-  "Ikari Warriors",
-  "Infiltrate",
-  "Lock 'n' Chase",
-  "M*A*S*H",
-  "Mogul Maniac",
-  "MotoRodeo",
-  "Mouse Trap",
-  "Mr. Postman",
-  "Othello",
-  "Picnic",
-  "Piece O'Cake",
-  "Popeye",
-  "Pressure Cooker",
-  "Racquetball",
-  "Ram It",
-  "Riddle of the Sphinx",
-  "Seaquest",
-  "Snoopy and the Red Baron",
-  "Solar Storm",
-  "Sorcerer",
-  "Spy Hunter",
-  "Squeeze Box",
-  "Sssnake",
-  "Strategy X",
-  "Sub Scan",
-  "Tac-Scan",
-  "Tapper",
-  "Taz, starring the Tasmanian Devil",
-  "Title Match Pro Wrestling",
-  "Tunnel Runner",
-  "Turmoil",
-  "Wabbit",
-  "Worm War I",
-  "Super Challenge Baseball",
-  "Swordquest: FireWorld",
-  "Star Voyager",
-  "Space Cavern",
-  "Football",
-  "Tennis",
-  "RealSports Baseball",
-  "Spitfire Attack",
-  "Earth Attack",
-  "Buck Rogers: Planet of Zoom",
-  "Laser Gates",
-  "Laser Volley",
-  "Cosmic Commuter",
-  "Winter Games",
-  "Tron Deadly Discs",
-  "Time Warp",
-  "Revenge of the Beefsteak Tomatoes",
-  "Dark Cavern",
-  "Shark Attack",
-  "Fire Fly",
-  "Mountain King",
-  "Quest For Quintana Roo",
-  "Super Challenge Football",
-  "Star Wars: Return of the Jedi - Death Star Battle",
-  "Solar Fox",
-  "Communist Mutants From Space",
-  "Dragonstomper",
-  "Escape from the Mindmaster",
-  "Vanguard",
-  "Bloody Human Freeway",
-  "Combat Two",
-  "Halo 2600",
-  "Toyshop Trouble",
-  "Poker Squares",
-  "Fathom",
-  "Bifrost Breakout",
-  "Congo Bongo",
-  "Carnival",
-  "Dukes of Hazzard",
-  "Deep Pockets-Super Pro Pool and Billiards",
-  "Challenge of Nexar",
-  "China Syndrome",
-  "Summer Games",
-  "Star Wars: The Arcade Game",
-  "Gangster Alley",
-  "Tape Worm",
-  "Gyruss",
-  "Strawberry Shortcake: Musical Match-ups",
-  "Super Cobra",
-  "Tutankham",
-  "Porky's",
-  "Crypts of Chaos",
-  "Gopher",
-  "Kool-Aid Man",
-  "Masters of the Universe: The Power of He-Man",
-  "Space Attack",
-  "Star Strike",
-  "Trick Shot",
-  "Star Trek: Strategic Operations Simulator",
-  "Thunderground",
-  "Front Line",
-  "Gorf",
-  "Omega Race",
-  "Kung-Fu Master",
-  "Tomcat: The F-14 Fighter Simulator",
-  "Skate Boardin'",
-  "Pete Rose Baseball",
-  "Coconuts",
-  "Cosmic Creeps",
-  "Stargunner",
-  "Task Force",
-  "Spiderdroid",
-  "Sea Hunt",
-  "Sea Hawk",
-  "Karate (Froggo Games)",
-  "Cruise Missile",
-  "Tax Avoiders",
-  "Tank Brigade",
-  "The Stacks",
-  "Track & Field",
-  "Skeet Shoot",
-  "Off The Wall",
-  "Final Approach",
-  "Swordquest: Waterworld",
-  "Earth Dies Screaming",
-  "A Misteryous Thief",
-  "Alpha Beam With Ernie",
-  "Apples and Dolls",
-  "Aquaventure",
-  "Assault",
-  "Astrowar",
-  "Autorennen",
-  "Bachelorette Party",
-  "Dumbo's Flying Circus",
-  "Elevator action",
-  "Donald Duck's Speedboat",
-  "ORB",
-  "Karate (Ultravision)",
-  "Obelix",
-  "Star Wars: Ewok Adventure",
-  "Alligator People, The",
-  "AStar",
-  "Zoo Fun",
-  "Berenstain Bears",
-  "Big Bird's Egg Catch",
-  "Gremlins",
-  "Bogey Blaster",
-  "Boom Bang",
-  "Bumper bash",
-  "Burning Desire",
-  "Cakewalk",
-  "Cathouse Blues",
-  "Chase the Chuck Wagon",
-  "Codebreaker",
-  "Cosmic Corridor",
-  "Cosmic Swarm",
-  "Crash Dive",
-  "Crossbow",
-  "Cubicolor",
-  "Death Trap",
-  "Demolition Herby",
-  "Dice Puzzle",
-  "Dragon Defender",
-  "Dragon Treasure",
-  "Eli's Ladder",
-  "Espial",
-  "Exocet",
-  "Bump N Jump",
-  "Bugs Bunny",
-  "Actionauts",
-  "Gingerbread Man",
-  "Gunfight",
-  "Pac-Man 4K",
-  "Space Rocks",
-  "Dukes of Hazzard 2",
-  "The Official Frogger",
-  "Shootin' Gallery",
-  "Radar Lock",
-  "Boing!",
-  "Spacemaster X-7",
-  "Jungle Fever",
-  "A Knight On The Town",
-  "Lady In Wading",
-  "Video Reflex",
-  "Video Life",
-  "Video jogger",
-  "Video Simon",
-  "River Patrol",
-  "Road Runner",
-  "Polo",
-  "Fatal Run",
-  "Gas Hog",
-  "Fireball",
-  "Gauntlet",
-  "Killer Satellites",
-  "M.A.D.",
-  "Master Builder",
-  "Mr. Do!",
-  "Party Mix",
-  "Pengo",
-  "Pharaoh's Curse",
-  "Rabbit Transit",
-  "Xenophobe",
-  "Video Checkers",
-  "Sky Diver",
-  "Spacechase",
-  "Suicide Mission",
-  "Super Baseball",
-  "Texas Chainsaw Massacre",
-  "Frontline",
-  "GLACIER PATROL",
-  "Encounter At L5",
-  "GLIB",
-  "Guardian",
-  "GUNSLINGER",
-  "HARBOR ESCAPE",
-  "HOLEY MOLEY",
-  "JAMES BOND 007",
-  "JAWBREAKER",
-  "LOCHJAW",
-  "LONDON BLITZ",
-  "LORD OF THE RINGS",
-  "M A D",
-  "Venture II",
-  "STARGATE",
-  "Star gunner",
-  "Swordfight",
-  "Sky Patrol",
-  "2005 Minigame Multicart",
-  "Fall Down",
-  "Juno First",
-  "Rush Hour",
-  "The A-Team",
-  "Missile Control",
-  "Tetris26",
-  "Mini Game Collection",
-  "Pac-Man 8K",
-  "Pac-Man",
-  "Gamma-Attack",
-  "2 Pak black - Challenge, Surfing",
-  "2 Pak Special - Dolphin, Pigs'n wolf",
-  "2 Pak Special blue - Dungeon Master, Creature Strike",
-  "3D Ghost Attack!",
-  "Dig Dug",
-  "3-D Genesis",
-  "3-D Havoc",
-  "Subterranea",
-  "Threshold",
-  "Cat Trax",
-  "Chuck Norris Superkicks",
-  "Crack'ed",
-  "Dancing Plate",
-  "Dark Mage",
-  "Farmyard Fun",
-  "Forest",
-  "Fun With Numbers",
-  "Immies & Aggies",
-  "Kabobber",
-  "Malagai",
-  "Mangia'",
-  "Marauder",
-  "Miner 2049er",
-  "Miner 2049er Volume II",
-  "Mines of Minos",
-  "Mission Survive",
-  "Motocross",
-  "Motocross Racer",
-  "Mr. Do!'s Castle",
-  "The Music Machine",
-  "Nightmare",
-  "Nuts",
-  "Wall Ball",
-  "Off Your Rocker",
-  "Open Sesame",
-  "Parachute",
-  "Peter Penguin",
-  "Phaser Patrol",
-  "Philly Flasher",
-  "Pick Up",
-  "Quick Step",
-  "Raft Rider",
-  "RealSports Basketball",
-  "Rescue Terra I",
-  "Room of Doom",
-  "Save Mary",
-  "Save Our Ship",
-  "Sea Monster",
-  "Ski Hunt",
-  "Sky Skipper",
-  "Snail Against Squirrel",
-  "Sorcerer's Apprentice",
-  "Space Raid",
-  "Shuttle Orbiter",
-  "Springer",
-  "Steeple Chase",
-  "Steeplechase",
-  "Stell-A-Sketch",
-  "Stellar Track",
-  "Stronghold",
-  "Submarine Commander",
-  "Surfer's Paradise",
-  "Survival Island",
-  "Survival Run",
-  "Sword of Saros",
-  "Tempest",
-  "Thrust",
-  "Time Pilot",
-  "Tomarc the Barbarian",
-  "Tooth Protectors",
-  "Universal Chaos",
-  "Warplock",
-  "Wing War",
-  "Breakaway IV",
-  "Sinistar"
-]
+{
+  "tgbd_id": 22,
+  "tgdb_alias": "atari-2600",
+  "name": "Atari 2600",
+  "titles": [
+    {
+      "tgdb_id": 206,
+      "title": "Commando"
+    },
+    {
+      "tgdb_id": 207,
+      "title": "DigDug"
+    },
+    {
+      "tgdb_id": 10128,
+      "title": "HERO"
+    },
+    {
+      "tgdb_id": 1292,
+      "title": "Ghostbusters"
+    },
+    {
+      "tgdb_id": 1341,
+      "title": "Amidar"
+    },
+    {
+      "tgdb_id": 1342,
+      "title": "Asteroids"
+    },
+    {
+      "tgdb_id": 1343,
+      "title": "Battlezone"
+    },
+    {
+      "tgdb_id": 1344,
+      "title": "Blackjack"
+    },
+    {
+      "tgdb_id": 1345,
+      "title": "Casino"
+    },
+    {
+      "tgdb_id": 1346,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 1347,
+      "title": "Defender"
+    },
+    {
+      "tgdb_id": 1348,
+      "title": "Gravitar"
+    },
+    {
+      "tgdb_id": 1349,
+      "title": "Indy 500"
+    },
+    {
+      "tgdb_id": 1350,
+      "title": "Joust"
+    },
+    {
+      "tgdb_id": 1351,
+      "title": "Jungle Hunt"
+    },
+    {
+      "tgdb_id": 1352,
+      "title": "Kangaroo"
+    },
+    {
+      "tgdb_id": 1353,
+      "title": "Moon Patrol"
+    },
+    {
+      "tgdb_id": 1354,
+      "title": "Spider Fighter"
+    },
+    {
+      "tgdb_id": 1355,
+      "title": "Star Ship"
+    },
+    {
+      "tgdb_id": 1357,
+      "title": "Starmaster"
+    },
+    {
+      "tgdb_id": 1358,
+      "title": "Venture"
+    },
+    {
+      "tgdb_id": 1359,
+      "title": "Warlords"
+    },
+    {
+      "tgdb_id": 1360,
+      "title": "Wizard of Wor"
+    },
+    {
+      "tgdb_id": 1363,
+      "title": "Moonsweeper"
+    },
+    {
+      "tgdb_id": 1364,
+      "title": "Polaris"
+    },
+    {
+      "tgdb_id": 1365,
+      "title": "River Raid"
+    },
+    {
+      "tgdb_id": 1366,
+      "title": "Dark Chambers"
+    },
+    {
+      "tgdb_id": 1367,
+      "title": "Defender II"
+    },
+    {
+      "tgdb_id": 1368,
+      "title": "Desert Falcon"
+    },
+    {
+      "tgdb_id": 1369,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 1370,
+      "title": "Haunted House"
+    },
+    {
+      "tgdb_id": 1371,
+      "title": "Kaboom!"
+    },
+    {
+      "tgdb_id": 1372,
+      "title": "Swordquest: EarthWorld"
+    },
+    {
+      "tgdb_id": 22141,
+      "title": "Basketball"
+    },
+    {
+      "tgdb_id": 22142,
+      "title": "Beany Bopper"
+    },
+    {
+      "tgdb_id": 2570,
+      "title": "Adventure"
+    },
+    {
+      "tgdb_id": 2959,
+      "title": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "tgdb_id": 2876,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 2957,
+      "title": "Spider-Man"
+    },
+    {
+      "tgdb_id": 3598,
+      "title": "Yars' Revenge"
+    },
+    {
+      "tgdb_id": 35423,
+      "title": "X-Man"
+    },
+    {
+      "tgdb_id": 4887,
+      "title": "Combat"
+    },
+    {
+      "tgdb_id": 4889,
+      "title": "PacMan"
+    },
+    {
+      "tgdb_id": 4890,
+      "title": "Space Invaders"
+    },
+    {
+      "tgdb_id": 5296,
+      "title": "Air-Sea Battle"
+    },
+    {
+      "tgdb_id": 5297,
+      "title": "Berzerk"
+    },
+    {
+      "tgdb_id": 5298,
+      "title": "Brain Games"
+    },
+    {
+      "tgdb_id": 5299,
+      "title": "Breakout"
+    },
+    {
+      "tgdb_id": 5300,
+      "title": "California Games"
+    },
+    {
+      "tgdb_id": 5301,
+      "title": "Circus Atari"
+    },
+    {
+      "tgdb_id": 5302,
+      "title": "Double Dunk"
+    },
+    {
+      "tgdb_id": 5303,
+      "title": "Frankenstein's Monster"
+    },
+    {
+      "tgdb_id": 5304,
+      "title": "Freeway"
+    },
+    {
+      "tgdb_id": 5305,
+      "title": "Galaxian"
+    },
+    {
+      "tgdb_id": 5306,
+      "title": "Jr. Pac-Man"
+    },
+    {
+      "tgdb_id": 5307,
+      "title": "Keystone Kapers"
+    },
+    {
+      "tgdb_id": 5308,
+      "title": "Klax"
+    },
+    {
+      "tgdb_id": 5309,
+      "title": "Mario Bros."
+    },
+    {
+      "tgdb_id": 5310,
+      "title": "Maze Craze: A Game of Cops and Robbers"
+    },
+    {
+      "tgdb_id": 5311,
+      "title": "Midnight Magic"
+    },
+    {
+      "tgdb_id": 5312,
+      "title": "Millipede"
+    },
+    {
+      "tgdb_id": 5313,
+      "title": "Missile Command"
+    },
+    {
+      "tgdb_id": 5314,
+      "title": "Ms. PacMan"
+    },
+    {
+      "tgdb_id": 5315,
+      "title": "Outlaw"
+    },
+    {
+      "tgdb_id": 5316,
+      "title": "Pelé's Soccer"
+    },
+    {
+      "tgdb_id": 5317,
+      "title": "Pitfall!"
+    },
+    {
+      "tgdb_id": 5318,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 5319,
+      "title": "Raiders of the Lost Ark"
+    },
+    {
+      "tgdb_id": 5320,
+      "title": "Rampage"
+    },
+    {
+      "tgdb_id": 5321,
+      "title": "Reactor"
+    },
+    {
+      "tgdb_id": 5322,
+      "title": "RealSports Tennis"
+    },
+    {
+      "tgdb_id": 5323,
+      "title": "Robot Tank"
+    },
+    {
+      "tgdb_id": 5324,
+      "title": "Roc 'N Rope"
+    },
+    {
+      "tgdb_id": 5325,
+      "title": "Secret Quest"
+    },
+    {
+      "tgdb_id": 5326,
+      "title": "Space Shuttle: A Journey into Space"
+    },
+    {
+      "tgdb_id": 5327,
+      "title": "Space War"
+    },
+    {
+      "tgdb_id": 5328,
+      "title": "Star Raiders"
+    },
+    {
+      "tgdb_id": 5329,
+      "title": "Star Wars: Jedi Arena"
+    },
+    {
+      "tgdb_id": 5330,
+      "title": "Super Breakout"
+    },
+    {
+      "tgdb_id": 5331,
+      "title": "Super Football"
+    },
+    {
+      "tgdb_id": 5332,
+      "title": "Superman"
+    },
+    {
+      "tgdb_id": 5571,
+      "title": "Pole Position"
+    },
+    {
+      "tgdb_id": 7610,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 7611,
+      "title": "E.T. the Extra-Terrestrial"
+    },
+    {
+      "tgdb_id": 7612,
+      "title": "Chopper Command"
+    },
+    {
+      "tgdb_id": 7613,
+      "title": "Donkey Kong Junior"
+    },
+    {
+      "tgdb_id": 33837,
+      "title": "Wall defender"
+    },
+    {
+      "tgdb_id": 7944,
+      "title": "Barnstorming"
+    },
+    {
+      "tgdb_id": 7945,
+      "title": "Boxing"
+    },
+    {
+      "tgdb_id": 7946,
+      "title": "Dodge 'Em"
+    },
+    {
+      "tgdb_id": 7947,
+      "title": "Golf"
+    },
+    {
+      "tgdb_id": 7948,
+      "title": "Human Cannonball"
+    },
+    {
+      "tgdb_id": 7949,
+      "title": "Ice Hockey"
+    },
+    {
+      "tgdb_id": 7950,
+      "title": "Journey Escape"
+    },
+    {
+      "tgdb_id": 7951,
+      "title": "Mega Force"
+    },
+    {
+      "tgdb_id": 7952,
+      "title": "Night Driver"
+    },
+    {
+      "tgdb_id": 7953,
+      "title": "Oink!"
+    },
+    {
+      "tgdb_id": 7954,
+      "title": "Skiing"
+    },
+    {
+      "tgdb_id": 7955,
+      "title": "Stampede"
+    },
+    {
+      "tgdb_id": 7956,
+      "title": "Street Racer"
+    },
+    {
+      "tgdb_id": 7957,
+      "title": "Video Olympics"
+    },
+    {
+      "tgdb_id": 7958,
+      "title": "Video Pinball"
+    },
+    {
+      "tgdb_id": 8351,
+      "title": "Crystal Castles"
+    },
+    {
+      "tgdb_id": 8352,
+      "title": "Crazy Climber"
+    },
+    {
+      "tgdb_id": 8353,
+      "title": "Air Raid"
+    },
+    {
+      "tgdb_id": 8354,
+      "title": "David's Midnight Magic"
+    },
+    {
+      "tgdb_id": 8355,
+      "title": "Frogger II: Threeedeep!"
+    },
+    {
+      "tgdb_id": 8356,
+      "title": "Frostbite"
+    },
+    {
+      "tgdb_id": 8357,
+      "title": "Enduro"
+    },
+    {
+      "tgdb_id": 9236,
+      "title": "Home Run"
+    },
+    {
+      "tgdb_id": 9242,
+      "title": "Bobby is Going Home"
+    },
+    {
+      "tgdb_id": 9243,
+      "title": "Asterix"
+    },
+    {
+      "tgdb_id": 9244,
+      "title": "Condor Attack"
+    },
+    {
+      "tgdb_id": 9245,
+      "title": "Decathlon"
+    },
+    {
+      "tgdb_id": 9246,
+      "title": "International Soccer"
+    },
+    {
+      "tgdb_id": 9271,
+      "title": "Demon Attack"
+    },
+    {
+      "tgdb_id": 9272,
+      "title": "Atlantis"
+    },
+    {
+      "tgdb_id": 10129,
+      "title": "Phoenix"
+    },
+    {
+      "tgdb_id": 10130,
+      "title": "Plaque Attack"
+    },
+    {
+      "tgdb_id": 10859,
+      "title": "Adventures of TRON"
+    },
+    {
+      "tgdb_id": 10860,
+      "title": "Airlock"
+    },
+    {
+      "tgdb_id": 10861,
+      "title": "Basic Math"
+    },
+    {
+      "tgdb_id": 10878,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 14280,
+      "title": "Eggomania"
+    },
+    {
+      "tgdb_id": 14281,
+      "title": "Private Eye"
+    },
+    {
+      "tgdb_id": 14683,
+      "title": "3-D Tic-Tac-Toe"
+    },
+    {
+      "tgdb_id": 14689,
+      "title": "Demons To Diamonds"
+    },
+    {
+      "tgdb_id": 14694,
+      "title": "Slot Racers"
+    },
+    {
+      "tgdb_id": 14700,
+      "title": "Star Fox"
+    },
+    {
+      "tgdb_id": 15077,
+      "title": "Zaxxon"
+    },
+    {
+      "tgdb_id": 15245,
+      "title": "Krull"
+    },
+    {
+      "tgdb_id": 15888,
+      "title": "RealSports Football"
+    },
+    {
+      "tgdb_id": 15889,
+      "title": "Video Chess"
+    },
+    {
+      "tgdb_id": 15890,
+      "title": "Space Jockey"
+    },
+    {
+      "tgdb_id": 15891,
+      "title": "Sky Jinks"
+    },
+    {
+      "tgdb_id": 16991,
+      "title": "Acid Drop"
+    },
+    {
+      "tgdb_id": 17300,
+      "title": "Star Castle"
+    },
+    {
+      "tgdb_id": 17491,
+      "title": "Action Force"
+    },
+    {
+      "tgdb_id": 17492,
+      "title": "Cross Force"
+    },
+    {
+      "tgdb_id": 17493,
+      "title": "Night Stalker"
+    },
+    {
+      "tgdb_id": 17494,
+      "title": "Air Raiders"
+    },
+    {
+      "tgdb_id": 17495,
+      "title": "Armor Ambush"
+    },
+    {
+      "tgdb_id": 17496,
+      "title": "Artillery Duel"
+    },
+    {
+      "tgdb_id": 17499,
+      "title": "Astro Attack"
+    },
+    {
+      "tgdb_id": 17500,
+      "title": "Astroblast"
+    },
+    {
+      "tgdb_id": 17501,
+      "title": "Atari Video Cube"
+    },
+    {
+      "tgdb_id": 17502,
+      "title": "Backgammon"
+    },
+    {
+      "tgdb_id": 17503,
+      "title": "Bank Heist"
+    },
+    {
+      "tgdb_id": 17504,
+      "title": "Base Attack"
+    },
+    {
+      "tgdb_id": 17505,
+      "title": "BASIC Programming"
+    },
+    {
+      "tgdb_id": 17506,
+      "title": "Beamrider"
+    },
+    {
+      "tgdb_id": 17507,
+      "title": "Bermuda Triangle"
+    },
+    {
+      "tgdb_id": 17508,
+      "title": "Blueprint"
+    },
+    {
+      "tgdb_id": 17509,
+      "title": "BMX Air Master"
+    },
+    {
+      "tgdb_id": 17510,
+      "title": "Cookie Monster Munch"
+    },
+    {
+      "tgdb_id": 17511,
+      "title": "Fire Fighter"
+    },
+    {
+      "tgdb_id": 17512,
+      "title": "Ghostbusters II"
+    },
+    {
+      "tgdb_id": 17513,
+      "title": "Hell Driver"
+    },
+    {
+      "tgdb_id": 17514,
+      "title": "Hunt & Score"
+    },
+    {
+      "tgdb_id": 17515,
+      "title": "King Kong"
+    },
+    {
+      "tgdb_id": 17516,
+      "title": "Laser Base"
+    },
+    {
+      "tgdb_id": 17517,
+      "title": "Lilly Adventure"
+    },
+    {
+      "tgdb_id": 17518,
+      "title": "Lost Luggage"
+    },
+    {
+      "tgdb_id": 17519,
+      "title": "Marine Wars"
+    },
+    {
+      "tgdb_id": 17520,
+      "title": "Math Gran Prix"
+    },
+    {
+      "tgdb_id": 17521,
+      "title": "Miniature Golf"
+    },
+    {
+      "tgdb_id": 17522,
+      "title": "Missile War"
+    },
+    {
+      "tgdb_id": 17523,
+      "title": "My Golf"
+    },
+    {
+      "tgdb_id": 17524,
+      "title": "Name This Game"
+    },
+    {
+      "tgdb_id": 17525,
+      "title": "No Escape!"
+    },
+    {
+      "tgdb_id": 17526,
+      "title": "Pac Kong"
+    },
+    {
+      "tgdb_id": 17527,
+      "title": "Phantom Panzer"
+    },
+    {
+      "tgdb_id": 17528,
+      "title": "Pigs in Space"
+    },
+    {
+      "tgdb_id": 17529,
+      "title": "Pitfall II: Lost Caverns"
+    },
+    {
+      "tgdb_id": 17530,
+      "title": "Planet Patrol"
+    },
+    {
+      "tgdb_id": 17531,
+      "title": "RealSports Boxing"
+    },
+    {
+      "tgdb_id": 17532,
+      "title": "RealSports Volleyball"
+    },
+    {
+      "tgdb_id": 17533,
+      "title": "RealSports Soccer"
+    },
+    {
+      "tgdb_id": 17534,
+      "title": "River Raid II"
+    },
+    {
+      "tgdb_id": 17764,
+      "title": "Entombed"
+    },
+    {
+      "tgdb_id": 35955,
+      "title": "Pooyan"
+    },
+    {
+      "tgdb_id": 18549,
+      "title": "Frogs and Flies"
+    },
+    {
+      "tgdb_id": 18879,
+      "title": "Sprintmaster"
+    },
+    {
+      "tgdb_id": 18880,
+      "title": "Solaris"
+    },
+    {
+      "tgdb_id": 18881,
+      "title": "Xonox - Ghost Manor/Spike's Peak"
+    },
+    {
+      "tgdb_id": 19020,
+      "title": "Alien"
+    },
+    {
+      "tgdb_id": 19207,
+      "title": "Montezuma's Revenge"
+    },
+    {
+      "tgdb_id": 19843,
+      "title": "G.I. Joe: Cobra Strike"
+    },
+    {
+      "tgdb_id": 19844,
+      "title": "Xonox - Robin Hood/Sir Lancelot"
+    },
+    {
+      "tgdb_id": 19860,
+      "title": "UFO Patrol"
+    },
+    {
+      "tgdb_id": 19861,
+      "title": "Asteroid Belt"
+    },
+    {
+      "tgdb_id": 19862,
+      "title": "Megamania"
+    },
+    {
+      "tgdb_id": 19891,
+      "title": "32 in 1"
+    },
+    {
+      "tgdb_id": 19892,
+      "title": "Laser Blast"
+    },
+    {
+      "tgdb_id": 19893,
+      "title": "Super-Ferrari"
+    },
+    {
+      "tgdb_id": 19894,
+      "title": "Smurf: Rescue in Gargamel's Castle"
+    },
+    {
+      "tgdb_id": 19896,
+      "title": "Mission 3000"
+    },
+    {
+      "tgdb_id": 19897,
+      "title": "Catch Time"
+    },
+    {
+      "tgdb_id": 19919,
+      "title": "Galactic"
+    },
+    {
+      "tgdb_id": 19929,
+      "title": "Commando Raid"
+    },
+    {
+      "tgdb_id": 19930,
+      "title": "Sneak 'N Peek"
+    },
+    {
+      "tgdb_id": 19931,
+      "title": "Towering Inferno"
+    },
+    {
+      "tgdb_id": 19932,
+      "title": "Word Zapper"
+    },
+    {
+      "tgdb_id": 20025,
+      "title": "Coke Wins"
+    },
+    {
+      "tgdb_id": 20026,
+      "title": "Custer's Revenge"
+    },
+    {
+      "tgdb_id": 20286,
+      "title": "Fishing Derby"
+    },
+    {
+      "tgdb_id": 20287,
+      "title": "Championship Soccer"
+    },
+    {
+      "tgdb_id": 21034,
+      "title": "Hangman"
+    },
+    {
+      "tgdb_id": 21035,
+      "title": "Surround"
+    },
+    {
+      "tgdb_id": 21347,
+      "title": "Cosmic Ark"
+    },
+    {
+      "tgdb_id": 21537,
+      "title": "Princess Rescue"
+    },
+    {
+      "tgdb_id": 21544,
+      "title": "Grand Prix"
+    },
+    {
+      "tgdb_id": 22143,
+      "title": "Beat 'Em & Eat 'Em"
+    },
+    {
+      "tgdb_id": 22144,
+      "title": "Bowling"
+    },
+    {
+      "tgdb_id": 22145,
+      "title": "Bridge"
+    },
+    {
+      "tgdb_id": 22146,
+      "title": "Bugs"
+    },
+    {
+      "tgdb_id": 22147,
+      "title": "Canyon Bomber"
+    },
+    {
+      "tgdb_id": 22148,
+      "title": "Challenge"
+    },
+    {
+      "tgdb_id": 22149,
+      "title": "Checkers"
+    },
+    {
+      "tgdb_id": 22150,
+      "title": "Crackpots"
+    },
+    {
+      "tgdb_id": 22151,
+      "title": "Deadly Duck"
+    },
+    {
+      "tgdb_id": 22152,
+      "title": "Dolphin"
+    },
+    {
+      "tgdb_id": 22153,
+      "title": "Dragonfire"
+    },
+    {
+      "tgdb_id": 22154,
+      "title": "Dragster"
+    },
+    {
+      "tgdb_id": 22155,
+      "title": "Fantastic Voyage"
+    },
+    {
+      "tgdb_id": 22156,
+      "title": "Fast Eddie"
+    },
+    {
+      "tgdb_id": 22157,
+      "title": "Fast Food"
+    },
+    {
+      "tgdb_id": 22158,
+      "title": "Flag Capture"
+    },
+    {
+      "tgdb_id": 22159,
+      "title": "Flash Gordon"
+    },
+    {
+      "tgdb_id": 22160,
+      "title": "Halloween"
+    },
+    {
+      "tgdb_id": 22161,
+      "title": "I Want My Mommy"
+    },
+    {
+      "tgdb_id": 22162,
+      "title": "Ikari Warriors"
+    },
+    {
+      "tgdb_id": 22163,
+      "title": "Infiltrate"
+    },
+    {
+      "tgdb_id": 22164,
+      "title": "Lock 'n' Chase"
+    },
+    {
+      "tgdb_id": 22165,
+      "title": "M*A*S*H"
+    },
+    {
+      "tgdb_id": 22166,
+      "title": "Mogul Maniac"
+    },
+    {
+      "tgdb_id": 22167,
+      "title": "MotoRodeo"
+    },
+    {
+      "tgdb_id": 22168,
+      "title": "Mouse Trap"
+    },
+    {
+      "tgdb_id": 22169,
+      "title": "Mr. Postman"
+    },
+    {
+      "tgdb_id": 22170,
+      "title": "Othello"
+    },
+    {
+      "tgdb_id": 22171,
+      "title": "Picnic"
+    },
+    {
+      "tgdb_id": 22172,
+      "title": "Piece O'Cake"
+    },
+    {
+      "tgdb_id": 22173,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 22174,
+      "title": "Pressure Cooker"
+    },
+    {
+      "tgdb_id": 22175,
+      "title": "Racquetball"
+    },
+    {
+      "tgdb_id": 22176,
+      "title": "Ram It"
+    },
+    {
+      "tgdb_id": 22177,
+      "title": "Riddle of the Sphinx"
+    },
+    {
+      "tgdb_id": 22178,
+      "title": "Seaquest"
+    },
+    {
+      "tgdb_id": 22179,
+      "title": "Snoopy and the Red Baron"
+    },
+    {
+      "tgdb_id": 22180,
+      "title": "Solar Storm"
+    },
+    {
+      "tgdb_id": 22181,
+      "title": "Sorcerer"
+    },
+    {
+      "tgdb_id": 22182,
+      "title": "Spy Hunter"
+    },
+    {
+      "tgdb_id": 22183,
+      "title": "Squeeze Box"
+    },
+    {
+      "tgdb_id": 22184,
+      "title": "Sssnake"
+    },
+    {
+      "tgdb_id": 22185,
+      "title": "Strategy X"
+    },
+    {
+      "tgdb_id": 22186,
+      "title": "Sub Scan"
+    },
+    {
+      "tgdb_id": 22187,
+      "title": "Tac-Scan"
+    },
+    {
+      "tgdb_id": 22188,
+      "title": "Tapper"
+    },
+    {
+      "tgdb_id": 22189,
+      "title": "Taz, starring the Tasmanian Devil"
+    },
+    {
+      "tgdb_id": 22190,
+      "title": "Title Match Pro Wrestling"
+    },
+    {
+      "tgdb_id": 22192,
+      "title": "Tunnel Runner"
+    },
+    {
+      "tgdb_id": 22193,
+      "title": "Turmoil"
+    },
+    {
+      "tgdb_id": 22194,
+      "title": "Wabbit"
+    },
+    {
+      "tgdb_id": 22195,
+      "title": "Worm War I"
+    },
+    {
+      "tgdb_id": 22197,
+      "title": "Super Challenge Baseball"
+    },
+    {
+      "tgdb_id": 22198,
+      "title": "Swordquest: FireWorld"
+    },
+    {
+      "tgdb_id": 22199,
+      "title": "Star Voyager"
+    },
+    {
+      "tgdb_id": 22200,
+      "title": "Space Cavern"
+    },
+    {
+      "tgdb_id": 22201,
+      "title": "Football"
+    },
+    {
+      "tgdb_id": 22202,
+      "title": "Tennis"
+    },
+    {
+      "tgdb_id": 22203,
+      "title": "RealSports Baseball"
+    },
+    {
+      "tgdb_id": 22204,
+      "title": "Spitfire Attack"
+    },
+    {
+      "tgdb_id": 22205,
+      "title": "Earth Attack"
+    },
+    {
+      "tgdb_id": 22206,
+      "title": "Buck Rogers: Planet of Zoom"
+    },
+    {
+      "tgdb_id": 22207,
+      "title": "Laser Gates"
+    },
+    {
+      "tgdb_id": 22208,
+      "title": "Laser Volley"
+    },
+    {
+      "tgdb_id": 22209,
+      "title": "Cosmic Commuter"
+    },
+    {
+      "tgdb_id": 22210,
+      "title": "Winter Games"
+    },
+    {
+      "tgdb_id": 22211,
+      "title": "Tron Deadly Discs"
+    },
+    {
+      "tgdb_id": 22212,
+      "title": "Time Warp"
+    },
+    {
+      "tgdb_id": 22213,
+      "title": "Revenge of the Beefsteak Tomatoes"
+    },
+    {
+      "tgdb_id": 22214,
+      "title": "Dark Cavern"
+    },
+    {
+      "tgdb_id": 22215,
+      "title": "Shark Attack"
+    },
+    {
+      "tgdb_id": 22216,
+      "title": "Fire Fly"
+    },
+    {
+      "tgdb_id": 22217,
+      "title": "Mountain King"
+    },
+    {
+      "tgdb_id": 22218,
+      "title": "Quest For Quintana Roo"
+    },
+    {
+      "tgdb_id": 22219,
+      "title": "Super Challenge Football"
+    },
+    {
+      "tgdb_id": 22471,
+      "title": "Star Wars: Return of the Jedi - Death Star Battle"
+    },
+    {
+      "tgdb_id": 23914,
+      "title": "Solar Fox"
+    },
+    {
+      "tgdb_id": 23916,
+      "title": "Communist Mutants From Space"
+    },
+    {
+      "tgdb_id": 23917,
+      "title": "Dragonstomper"
+    },
+    {
+      "tgdb_id": 23918,
+      "title": "Escape from the Mindmaster"
+    },
+    {
+      "tgdb_id": 23919,
+      "title": "Vanguard"
+    },
+    {
+      "tgdb_id": 24751,
+      "title": "Bloody Human Freeway"
+    },
+    {
+      "tgdb_id": 24906,
+      "title": "Combat Two"
+    },
+    {
+      "tgdb_id": 24954,
+      "title": "Halo 2600"
+    },
+    {
+      "tgdb_id": 24955,
+      "title": "Toyshop Trouble"
+    },
+    {
+      "tgdb_id": 24972,
+      "title": "Poker Squares"
+    },
+    {
+      "tgdb_id": 26201,
+      "title": "Fathom"
+    },
+    {
+      "tgdb_id": 26202,
+      "title": "Bifrost Breakout"
+    },
+    {
+      "tgdb_id": 27120,
+      "title": "Congo Bongo"
+    },
+    {
+      "tgdb_id": 27359,
+      "title": "Carnival"
+    },
+    {
+      "tgdb_id": 33260,
+      "title": "Dukes of Hazzard"
+    },
+    {
+      "tgdb_id": 27565,
+      "title": "Deep Pockets-Super Pro Pool and Billiards"
+    },
+    {
+      "tgdb_id": 28589,
+      "title": "Challenge of Nexar"
+    },
+    {
+      "tgdb_id": 28590,
+      "title": "China Syndrome"
+    },
+    {
+      "tgdb_id": 28591,
+      "title": "Summer Games"
+    },
+    {
+      "tgdb_id": 28592,
+      "title": "Star Wars: The Arcade Game"
+    },
+    {
+      "tgdb_id": 28593,
+      "title": "Gangster Alley"
+    },
+    {
+      "tgdb_id": 28594,
+      "title": "Tape Worm"
+    },
+    {
+      "tgdb_id": 28595,
+      "title": "Gyruss"
+    },
+    {
+      "tgdb_id": 28596,
+      "title": "Strawberry Shortcake: Musical Match-ups"
+    },
+    {
+      "tgdb_id": 28597,
+      "title": "Super Cobra"
+    },
+    {
+      "tgdb_id": 28598,
+      "title": "Tutankham"
+    },
+    {
+      "tgdb_id": 28599,
+      "title": "Porky's"
+    },
+    {
+      "tgdb_id": 28600,
+      "title": "Crypts of Chaos"
+    },
+    {
+      "tgdb_id": 28690,
+      "title": "Gopher"
+    },
+    {
+      "tgdb_id": 28691,
+      "title": "Kool-Aid Man"
+    },
+    {
+      "tgdb_id": 28692,
+      "title": "Masters of the Universe: The Power of He-Man"
+    },
+    {
+      "tgdb_id": 28693,
+      "title": "Space Attack"
+    },
+    {
+      "tgdb_id": 28694,
+      "title": "Star Strike"
+    },
+    {
+      "tgdb_id": 28695,
+      "title": "Trick Shot"
+    },
+    {
+      "tgdb_id": 28696,
+      "title": "Star Trek: Strategic Operations Simulator"
+    },
+    {
+      "tgdb_id": 28697,
+      "title": "Thunderground"
+    },
+    {
+      "tgdb_id": 28698,
+      "title": "Front Line"
+    },
+    {
+      "tgdb_id": 28699,
+      "title": "Gorf"
+    },
+    {
+      "tgdb_id": 28700,
+      "title": "Omega Race"
+    },
+    {
+      "tgdb_id": 28701,
+      "title": "Kung-Fu Master"
+    },
+    {
+      "tgdb_id": 28702,
+      "title": "Tomcat: The F-14 Fighter Simulator"
+    },
+    {
+      "tgdb_id": 28703,
+      "title": "Skate Boardin'"
+    },
+    {
+      "tgdb_id": 28704,
+      "title": "Pete Rose Baseball"
+    },
+    {
+      "tgdb_id": 28705,
+      "title": "Coconuts"
+    },
+    {
+      "tgdb_id": 28706,
+      "title": "Cosmic Creeps"
+    },
+    {
+      "tgdb_id": 28707,
+      "title": "Stargunner"
+    },
+    {
+      "tgdb_id": 28708,
+      "title": "Task Force"
+    },
+    {
+      "tgdb_id": 28709,
+      "title": "Spiderdroid"
+    },
+    {
+      "tgdb_id": 28710,
+      "title": "Sea Hunt"
+    },
+    {
+      "tgdb_id": 28711,
+      "title": "Sea Hawk"
+    },
+    {
+      "tgdb_id": 28712,
+      "title": "Karate (Froggo Games)"
+    },
+    {
+      "tgdb_id": 28713,
+      "title": "Cruise Missile"
+    },
+    {
+      "tgdb_id": 28714,
+      "title": "Tax Avoiders"
+    },
+    {
+      "tgdb_id": 29353,
+      "title": "Tank Brigade"
+    },
+    {
+      "tgdb_id": 29372,
+      "title": "The Stacks"
+    },
+    {
+      "tgdb_id": 29507,
+      "title": "Track & Field"
+    },
+    {
+      "tgdb_id": 30128,
+      "title": "Skeet Shoot"
+    },
+    {
+      "tgdb_id": 30137,
+      "title": "Off The Wall"
+    },
+    {
+      "tgdb_id": 30363,
+      "title": "Final Approach"
+    },
+    {
+      "tgdb_id": 30796,
+      "title": "Swordquest: Waterworld"
+    },
+    {
+      "tgdb_id": 31063,
+      "title": "Earth Dies Screaming"
+    },
+    {
+      "tgdb_id": 31121,
+      "title": "A Misteryous Thief"
+    },
+    {
+      "tgdb_id": 31122,
+      "title": "Alpha Beam With Ernie"
+    },
+    {
+      "tgdb_id": 31123,
+      "title": "Apples and Dolls"
+    },
+    {
+      "tgdb_id": 31124,
+      "title": "Aquaventure"
+    },
+    {
+      "tgdb_id": 31125,
+      "title": "Assault"
+    },
+    {
+      "tgdb_id": 31126,
+      "title": "Astrowar"
+    },
+    {
+      "tgdb_id": 31127,
+      "title": "Autorennen"
+    },
+    {
+      "tgdb_id": 31128,
+      "title": "Bachelorette Party"
+    },
+    {
+      "tgdb_id": 31130,
+      "title": "Dumbo's Flying Circus"
+    },
+    {
+      "tgdb_id": 31131,
+      "title": "Elevator action"
+    },
+    {
+      "tgdb_id": 31191,
+      "title": "Donald Duck's Speedboat"
+    },
+    {
+      "tgdb_id": 31249,
+      "title": "ORB"
+    },
+    {
+      "tgdb_id": 31491,
+      "title": "Karate (Ultravision)"
+    },
+    {
+      "tgdb_id": 31492,
+      "title": "Obelix"
+    },
+    {
+      "tgdb_id": 31493,
+      "title": "Star Wars: Ewok Adventure"
+    },
+    {
+      "tgdb_id": 31703,
+      "title": "Alligator People, The"
+    },
+    {
+      "tgdb_id": 31704,
+      "title": "AStar"
+    },
+    {
+      "tgdb_id": 31753,
+      "title": "Zoo Fun"
+    },
+    {
+      "tgdb_id": 31841,
+      "title": "Berenstain Bears"
+    },
+    {
+      "tgdb_id": 31842,
+      "title": "Big Bird's Egg Catch"
+    },
+    {
+      "tgdb_id": 31843,
+      "title": "Gremlins"
+    },
+    {
+      "tgdb_id": 31844,
+      "title": "Bogey Blaster"
+    },
+    {
+      "tgdb_id": 31845,
+      "title": "Boom Bang"
+    },
+    {
+      "tgdb_id": 31846,
+      "title": "Bumper bash"
+    },
+    {
+      "tgdb_id": 31847,
+      "title": "Burning Desire"
+    },
+    {
+      "tgdb_id": 31848,
+      "title": "Cakewalk"
+    },
+    {
+      "tgdb_id": 31849,
+      "title": "Cathouse Blues"
+    },
+    {
+      "tgdb_id": 31850,
+      "title": "Chase the Chuck Wagon"
+    },
+    {
+      "tgdb_id": 31851,
+      "title": "Codebreaker"
+    },
+    {
+      "tgdb_id": 31852,
+      "title": "Cosmic Corridor"
+    },
+    {
+      "tgdb_id": 31853,
+      "title": "Cosmic Swarm"
+    },
+    {
+      "tgdb_id": 31854,
+      "title": "Crash Dive"
+    },
+    {
+      "tgdb_id": 31855,
+      "title": "Crossbow"
+    },
+    {
+      "tgdb_id": 31856,
+      "title": "Cubicolor"
+    },
+    {
+      "tgdb_id": 31857,
+      "title": "Death Trap"
+    },
+    {
+      "tgdb_id": 31858,
+      "title": "Demolition Herby"
+    },
+    {
+      "tgdb_id": 31859,
+      "title": "Dice Puzzle"
+    },
+    {
+      "tgdb_id": 31929,
+      "title": "Dragon Defender"
+    },
+    {
+      "tgdb_id": 31930,
+      "title": "Dragon Treasure"
+    },
+    {
+      "tgdb_id": 31931,
+      "title": "Eli's Ladder"
+    },
+    {
+      "tgdb_id": 31932,
+      "title": "Espial"
+    },
+    {
+      "tgdb_id": 31933,
+      "title": "Exocet"
+    },
+    {
+      "tgdb_id": 33503,
+      "title": "Bump N Jump"
+    },
+    {
+      "tgdb_id": 33502,
+      "title": "Bugs Bunny"
+    },
+    {
+      "tgdb_id": 32554,
+      "title": "Actionauts"
+    },
+    {
+      "tgdb_id": 32983,
+      "title": "Gingerbread Man"
+    },
+    {
+      "tgdb_id": 32984,
+      "title": "Gunfight"
+    },
+    {
+      "tgdb_id": 32985,
+      "title": "Pac-Man 4K"
+    },
+    {
+      "tgdb_id": 32986,
+      "title": "Space Rocks"
+    },
+    {
+      "tgdb_id": 33261,
+      "title": "Dukes of Hazzard 2"
+    },
+    {
+      "tgdb_id": 33465,
+      "title": "The Official Frogger"
+    },
+    {
+      "tgdb_id": 33466,
+      "title": "Shootin' Gallery"
+    },
+    {
+      "tgdb_id": 33467,
+      "title": "Radar Lock"
+    },
+    {
+      "tgdb_id": 33473,
+      "title": "Boing!"
+    },
+    {
+      "tgdb_id": 33474,
+      "title": "Spacemaster X-7"
+    },
+    {
+      "tgdb_id": 33491,
+      "title": "Jungle Fever"
+    },
+    {
+      "tgdb_id": 33492,
+      "title": "A Knight On The Town"
+    },
+    {
+      "tgdb_id": 33493,
+      "title": "Lady In Wading"
+    },
+    {
+      "tgdb_id": 33494,
+      "title": "Video Reflex"
+    },
+    {
+      "tgdb_id": 33495,
+      "title": "Video Life"
+    },
+    {
+      "tgdb_id": 33496,
+      "title": "Video jogger"
+    },
+    {
+      "tgdb_id": 33497,
+      "title": "Video Simon"
+    },
+    {
+      "tgdb_id": 33498,
+      "title": "River Patrol"
+    },
+    {
+      "tgdb_id": 33499,
+      "title": "Road Runner"
+    },
+    {
+      "tgdb_id": 33500,
+      "title": "Polo"
+    },
+    {
+      "tgdb_id": 33504,
+      "title": "Fatal Run"
+    },
+    {
+      "tgdb_id": 33505,
+      "title": "Gas Hog"
+    },
+    {
+      "tgdb_id": 34325,
+      "title": "Fireball"
+    },
+    {
+      "tgdb_id": 34327,
+      "title": "Gauntlet"
+    },
+    {
+      "tgdb_id": 34328,
+      "title": "Killer Satellites"
+    },
+    {
+      "tgdb_id": 34329,
+      "title": "M.A.D."
+    },
+    {
+      "tgdb_id": 34330,
+      "title": "Master Builder"
+    },
+    {
+      "tgdb_id": 34331,
+      "title": "Mr. Do!"
+    },
+    {
+      "tgdb_id": 34332,
+      "title": "Party Mix"
+    },
+    {
+      "tgdb_id": 34334,
+      "title": "Pengo"
+    },
+    {
+      "tgdb_id": 34335,
+      "title": "Pharaoh's Curse"
+    },
+    {
+      "tgdb_id": 34336,
+      "title": "Rabbit Transit"
+    },
+    {
+      "tgdb_id": 34337,
+      "title": "Xenophobe"
+    },
+    {
+      "tgdb_id": 34338,
+      "title": "Video Checkers"
+    },
+    {
+      "tgdb_id": 34339,
+      "title": "Sky Diver"
+    },
+    {
+      "tgdb_id": 34340,
+      "title": "Spacechase"
+    },
+    {
+      "tgdb_id": 34341,
+      "title": "Suicide Mission"
+    },
+    {
+      "tgdb_id": 34342,
+      "title": "Super Baseball"
+    },
+    {
+      "tgdb_id": 34694,
+      "title": "Texas Chainsaw Massacre"
+    },
+    {
+      "tgdb_id": 34908,
+      "title": "Frontline"
+    },
+    {
+      "tgdb_id": 34909,
+      "title": "GLACIER PATROL"
+    },
+    {
+      "tgdb_id": 34910,
+      "title": "Encounter At L5"
+    },
+    {
+      "tgdb_id": 34911,
+      "title": "GLIB"
+    },
+    {
+      "tgdb_id": 34912,
+      "title": "Guardian"
+    },
+    {
+      "tgdb_id": 34913,
+      "title": "GUNSLINGER"
+    },
+    {
+      "tgdb_id": 34914,
+      "title": "HARBOR ESCAPE"
+    },
+    {
+      "tgdb_id": 34915,
+      "title": "HOLEY MOLEY"
+    },
+    {
+      "tgdb_id": 34916,
+      "title": "JAMES BOND 007"
+    },
+    {
+      "tgdb_id": 34917,
+      "title": "JAWBREAKER"
+    },
+    {
+      "tgdb_id": 34918,
+      "title": "LOCHJAW"
+    },
+    {
+      "tgdb_id": 34919,
+      "title": "LONDON BLITZ"
+    },
+    {
+      "tgdb_id": 34920,
+      "title": "LORD OF THE RINGS"
+    },
+    {
+      "tgdb_id": 34921,
+      "title": "M A D"
+    },
+    {
+      "tgdb_id": 34922,
+      "title": "Venture II"
+    },
+    {
+      "tgdb_id": 34923,
+      "title": "STARGATE"
+    },
+    {
+      "tgdb_id": 34924,
+      "title": "Star gunner"
+    },
+    {
+      "tgdb_id": 34926,
+      "title": "Swordfight"
+    },
+    {
+      "tgdb_id": 34928,
+      "title": "Sky Patrol"
+    },
+    {
+      "tgdb_id": 35098,
+      "title": "2005 Minigame Multicart"
+    },
+    {
+      "tgdb_id": 35483,
+      "title": "Fall Down"
+    },
+    {
+      "tgdb_id": 35484,
+      "title": "Juno First"
+    },
+    {
+      "tgdb_id": 35711,
+      "title": "Rush Hour"
+    },
+    {
+      "tgdb_id": 35720,
+      "title": "The A-Team"
+    },
+    {
+      "tgdb_id": 35721,
+      "title": "Missile Control"
+    },
+    {
+      "tgdb_id": 35933,
+      "title": "Tetris26"
+    },
+    {
+      "tgdb_id": 35934,
+      "title": "Mini Game Collection"
+    },
+    {
+      "tgdb_id": 35935,
+      "title": "Pac-Man 8K"
+    },
+    {
+      "tgdb_id": 36243,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 36549,
+      "title": "Gamma-Attack"
+    },
+    {
+      "tgdb_id": 36343,
+      "title": "2 Pak black - Challenge, Surfing"
+    },
+    {
+      "tgdb_id": 36344,
+      "title": "2 Pak Special - Dolphin, Pigs'n wolf"
+    },
+    {
+      "tgdb_id": 36345,
+      "title": "2 Pak Special blue - Dungeon Master, Creature Strike"
+    },
+    {
+      "tgdb_id": 36613,
+      "title": "3D Ghost Attack!"
+    },
+    {
+      "tgdb_id": 36806,
+      "title": "Dig Dug"
+    },
+    {
+      "tgdb_id": 36901,
+      "title": "3-D Genesis"
+    },
+    {
+      "tgdb_id": 36902,
+      "title": "3-D Havoc"
+    },
+    {
+      "tgdb_id": 37027,
+      "title": "Subterranea"
+    },
+    {
+      "tgdb_id": 37617,
+      "title": "Threshold"
+    },
+    {
+      "tgdb_id": 38191,
+      "title": "Cat Trax"
+    },
+    {
+      "tgdb_id": 38192,
+      "title": "Chuck Norris Superkicks"
+    },
+    {
+      "tgdb_id": 38193,
+      "title": "Crack'ed"
+    },
+    {
+      "tgdb_id": 38194,
+      "title": "Dancing Plate"
+    },
+    {
+      "tgdb_id": 38195,
+      "title": "Dark Mage"
+    },
+    {
+      "tgdb_id": 38196,
+      "title": "Farmyard Fun"
+    },
+    {
+      "tgdb_id": 38197,
+      "title": "Forest"
+    },
+    {
+      "tgdb_id": 38198,
+      "title": "Fun With Numbers"
+    },
+    {
+      "tgdb_id": 38199,
+      "title": "Immies & Aggies"
+    },
+    {
+      "tgdb_id": 38200,
+      "title": "Kabobber"
+    },
+    {
+      "tgdb_id": 38201,
+      "title": "Malagai"
+    },
+    {
+      "tgdb_id": 38202,
+      "title": "Mangia'"
+    },
+    {
+      "tgdb_id": 38203,
+      "title": "Marauder"
+    },
+    {
+      "tgdb_id": 38204,
+      "title": "Miner 2049er"
+    },
+    {
+      "tgdb_id": 38205,
+      "title": "Miner 2049er Volume II"
+    },
+    {
+      "tgdb_id": 38206,
+      "title": "Mines of Minos"
+    },
+    {
+      "tgdb_id": 38207,
+      "title": "Mission Survive"
+    },
+    {
+      "tgdb_id": 38208,
+      "title": "Motocross"
+    },
+    {
+      "tgdb_id": 38209,
+      "title": "Motocross Racer"
+    },
+    {
+      "tgdb_id": 38210,
+      "title": "Mr. Do!'s Castle"
+    },
+    {
+      "tgdb_id": 38211,
+      "title": "The Music Machine"
+    },
+    {
+      "tgdb_id": 38212,
+      "title": "Nightmare"
+    },
+    {
+      "tgdb_id": 38213,
+      "title": "Nuts"
+    },
+    {
+      "tgdb_id": 38214,
+      "title": "Wall Ball"
+    },
+    {
+      "tgdb_id": 38215,
+      "title": "Off Your Rocker"
+    },
+    {
+      "tgdb_id": 38216,
+      "title": "Open Sesame"
+    },
+    {
+      "tgdb_id": 38217,
+      "title": "Parachute"
+    },
+    {
+      "tgdb_id": 38218,
+      "title": "Peter Penguin"
+    },
+    {
+      "tgdb_id": 38219,
+      "title": "Phaser Patrol"
+    },
+    {
+      "tgdb_id": 38220,
+      "title": "Philly Flasher"
+    },
+    {
+      "tgdb_id": 38221,
+      "title": "Pick Up"
+    },
+    {
+      "tgdb_id": 38222,
+      "title": "Quick Step"
+    },
+    {
+      "tgdb_id": 38223,
+      "title": "Raft Rider"
+    },
+    {
+      "tgdb_id": 38224,
+      "title": "RealSports Basketball"
+    },
+    {
+      "tgdb_id": 38225,
+      "title": "Rescue Terra I"
+    },
+    {
+      "tgdb_id": 38226,
+      "title": "Room of Doom"
+    },
+    {
+      "tgdb_id": 38230,
+      "title": "Save Mary"
+    },
+    {
+      "tgdb_id": 38231,
+      "title": "Save Our Ship"
+    },
+    {
+      "tgdb_id": 38232,
+      "title": "Sea Monster"
+    },
+    {
+      "tgdb_id": 38233,
+      "title": "Ski Hunt"
+    },
+    {
+      "tgdb_id": 38234,
+      "title": "Sky Skipper"
+    },
+    {
+      "tgdb_id": 38235,
+      "title": "Snail Against Squirrel"
+    },
+    {
+      "tgdb_id": 38236,
+      "title": "Sorcerer's Apprentice"
+    },
+    {
+      "tgdb_id": 38237,
+      "title": "Space Raid"
+    },
+    {
+      "tgdb_id": 38238,
+      "title": "Shuttle Orbiter"
+    },
+    {
+      "tgdb_id": 38239,
+      "title": "Springer"
+    },
+    {
+      "tgdb_id": 38240,
+      "title": "Steeple Chase"
+    },
+    {
+      "tgdb_id": 38241,
+      "title": "Steeplechase"
+    },
+    {
+      "tgdb_id": 38242,
+      "title": "Stell-A-Sketch"
+    },
+    {
+      "tgdb_id": 38243,
+      "title": "Stellar Track"
+    },
+    {
+      "tgdb_id": 38244,
+      "title": "Stronghold"
+    },
+    {
+      "tgdb_id": 38245,
+      "title": "Submarine Commander"
+    },
+    {
+      "tgdb_id": 38246,
+      "title": "Surfer's Paradise"
+    },
+    {
+      "tgdb_id": 38247,
+      "title": "Survival Island"
+    },
+    {
+      "tgdb_id": 38248,
+      "title": "Survival Run"
+    },
+    {
+      "tgdb_id": 38249,
+      "title": "Sword of Saros"
+    },
+    {
+      "tgdb_id": 38251,
+      "title": "Tempest"
+    },
+    {
+      "tgdb_id": 38252,
+      "title": "Thrust"
+    },
+    {
+      "tgdb_id": 38253,
+      "title": "Time Pilot"
+    },
+    {
+      "tgdb_id": 38254,
+      "title": "Tomarc the Barbarian"
+    },
+    {
+      "tgdb_id": 38255,
+      "title": "Tooth Protectors"
+    },
+    {
+      "tgdb_id": 38256,
+      "title": "Universal Chaos"
+    },
+    {
+      "tgdb_id": 38257,
+      "title": "Warplock"
+    },
+    {
+      "tgdb_id": 38258,
+      "title": "Wing War"
+    },
+    {
+      "tgdb_id": 38425,
+      "title": "Breakaway IV"
+    },
+    {
+      "tgdb_id": 38426,
+      "title": "Sinistar"
+    }
+  ]
+}

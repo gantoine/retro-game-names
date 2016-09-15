@@ -1,14 +1,55 @@
-[
-  "Cuthbert goes digging",
-  "3D Seiddab Attack",
-  "3D Space-Wars",
-  "Barmy Burgers",
-  "Jet Set Willy",
-  "Viking",
-  "Donkey King",
-  "Frogger",
-  "Chuckie Egg",
-  "Devil Assault",
-  "Ultimate Adventure 4",
-  "Invaders Revenge"
-]
+{
+  "tgbd_id": 4952,
+  "tgdb_alias": "dragon32-64",
+  "name": "Dragon 32/64",
+  "titles": [
+    {
+      "tgdb_id": 33375,
+      "title": "Cuthbert goes digging"
+    },
+    {
+      "tgdb_id": 33376,
+      "title": "3D Seiddab Attack"
+    },
+    {
+      "tgdb_id": 33377,
+      "title": "3D Space-Wars"
+    },
+    {
+      "tgdb_id": 33378,
+      "title": "Barmy Burgers"
+    },
+    {
+      "tgdb_id": 33379,
+      "title": "Jet Set Willy"
+    },
+    {
+      "tgdb_id": 37154,
+      "title": "Viking"
+    },
+    {
+      "tgdb_id": 37162,
+      "title": "Donkey King"
+    },
+    {
+      "tgdb_id": 37164,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 37166,
+      "title": "Chuckie Egg"
+    },
+    {
+      "tgdb_id": 37168,
+      "title": "Devil Assault"
+    },
+    {
+      "tgdb_id": 37169,
+      "title": "Ultimate Adventure 4"
+    },
+    {
+      "tgdb_id": 37170,
+      "title": "Invaders Revenge"
+    }
+  ]
+}

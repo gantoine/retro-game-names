@@ -1,20 +1,79 @@
-[
-  "Atomic",
-  "Asteroids",
-  "Baldies",
-  "Battle Morph",
-  "Black Ice/White Noise",
-  "Blue Lightning",
-  "Brain Dead 13",
-  "Diam Jag",
-  "Dragon's Lair",
-  "Highlander: The Last of the MacLeods",
-  "Hover Strike: Unconquered Lands",
-  "Iron Soldier 2",
-  "Myst",
-  "Native",
-  "Primal Rage",
-  "Soulstar",
-  "Space Ace",
-  "World Tour Racing"
-]
+{
+  "tgbd_id": 29,
+  "tgdb_alias": "atari-jaguar-cd",
+  "name": "Atari Jaguar CD",
+  "titles": [
+    {
+      "tgdb_id": 5250,
+      "title": "Atomic"
+    },
+    {
+      "tgdb_id": 5251,
+      "title": "Asteroids"
+    },
+    {
+      "tgdb_id": 5252,
+      "title": "Baldies"
+    },
+    {
+      "tgdb_id": 5254,
+      "title": "Battle Morph"
+    },
+    {
+      "tgdb_id": 5255,
+      "title": "Black Ice/White Noise"
+    },
+    {
+      "tgdb_id": 5256,
+      "title": "Blue Lightning"
+    },
+    {
+      "tgdb_id": 5257,
+      "title": "Brain Dead 13"
+    },
+    {
+      "tgdb_id": 5258,
+      "title": "Diam Jag"
+    },
+    {
+      "tgdb_id": 5259,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 5260,
+      "title": "Highlander: The Last of the MacLeods"
+    },
+    {
+      "tgdb_id": 5261,
+      "title": "Hover Strike: Unconquered Lands"
+    },
+    {
+      "tgdb_id": 5262,
+      "title": "Iron Soldier 2"
+    },
+    {
+      "tgdb_id": 5263,
+      "title": "Myst"
+    },
+    {
+      "tgdb_id": 5264,
+      "title": "Native"
+    },
+    {
+      "tgdb_id": 5265,
+      "title": "Primal Rage"
+    },
+    {
+      "tgdb_id": 5266,
+      "title": "Soulstar"
+    },
+    {
+      "tgdb_id": 5267,
+      "title": "Space Ace"
+    },
+    {
+      "tgdb_id": 5268,
+      "title": "World Tour Racing"
+    }
+  ]
+}

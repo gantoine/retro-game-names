@@ -1,218 +1,875 @@
-[
-  "Sonic CD",
-  "Ecco the Dolphin",
-  "Mighty Morphin Power Rangers",
-  "Ecco: The Tides of Time",
-  "Hook",
-  "Dungeon Explorer",
-  "Flashback: The Quest for Identity",
-  "Racing Aces",
-  "Robo Aleste",
-  "After Burner III",
-  "Dragon's Lair",
-  "Sewer Shark",
-  "Star Wars: Rebel Assault",
-  "Surgical Strike",
-  "Shadow of the Beast II",
-  "Genghis Khan II: Clan of the Gray Wolf",
-  "Jaguar XJ220",
-  "Keio Flying Squadron",
-  "Vay",
-  "Popful Mail",
-  "Road Rash",
-  "Chuck Rock II: Son of Chuck",
-  "Kids on Site",
-  "The Lawnmower Man",
-  "Lethal Enforcers",
-  "Lethal Enforcers II: Gunfighters",
-  "Links: The Challenge of Golf",
-  "Loadstar: The Legend of Tully Bodine",
-  "Lords of Thunder",
-  "Lunar: Eternal Blue",
-  "Lunar: The Silver Star",
-  "3 Ninjas Kick Back",
-  "The Adventures of Batman & Robin",
-  "AH-3 Thunderstrike",
-  "Android Assault: The Revenge of Bari-Arm",
-  "A/X-101",
-  "Batman Returns",
-  "BattleCorps",
-  "BC Racers",
-  "Bill Walsh College Football",
-  "Bouncers",
-  "Bram Stoker's Dracula",
-  "Brutal: Paws of Fury",
-  "Cadillacs and Dinosaurs: The Second Cataclysm",
-  "Championship Soccer '94",
-  "Chuck Rock",
-  "Cliffhanger",
-  "Cobra Command",
-  "The Colors of Modern Rock",
-  "Corpse Killer",
-  "Crime Patrol",
-  "Dark Wizard",
-  "Demolition Man",
-  "Double Switch",
-  "Dracula Unleashed",
-  "Dune",
-  "Dungeon Master II: Skullkeep",
-  "Earthworm Jim Special Edition",
-  "ESPN Baseball Tonight",
-  "ESPN National Hockey Night",
-  "ESPN Sunday Night NFL",
-  "Eternal Champions: Challenge from the Dark Side",
-  "Eye of the Beholder",
-  "Formula One World Championship: Beyond the Limit",
-  "Fahrenheit",
-  "Fatal Fury Special",
-  "FIFA International Soccer",
-  "Final Fight CD",
-  "Flink",
-  "Ground Zero: Texas",
-  "Heart of the Alien:Out of this World Parts I And II",
-  "Heimdall",
-  "Iron Helix",
-  "Jeopardy!",
-  "Joe Montana's NFL Football",
-  "Jurassic Park",
-  "Mad Dog II: The Lost Gold",
-  "Mad Dog McCree",
-  "INXS: Make My Video",
-  "Kris Kross: Make My Video",
-  "Marky Mark and the Funky Bunch: Make My Video",
-  "Mansion of Hidden Souls",
-  "MegaRace",
-  "Mickey Mania: The Timeless Adventures of Mickey Mouse",
-  "Microcosm",
-  "Midnight Raiders",
-  "Mortal Kombat",
-  "My Paint: The Animated Paint Program",
-  "NBA Jam",
-  "NFL Football Trivia Challenge",
-  "NFL's Greatest: San Francisco vs. Dallas 1978-1993",
-  "NHL '94",
-  "Night Trap",
-  "Novastorm",
-  "Panic!",
-  "Penn & Teller's Smoke and Mirrors",
-  "Pitfall: The Mayan Adventure",
-  "Power Factory Featuring C+C Music Factory",
-  "Power Monger",
-  "Prince of Persia",
-  "Prize Fighter",
-  "Puggsy",
-  "Radical Rex",
-  "RDF Global Conflict",
-  "Revenge of the Ninja",
-  "Revengers of Vengeance",
-  "Rise of the Dragon",
-  "Road Avenger",
-  "Samurai Shodown",
-  "The Secret of Monkey Island",
-  "Sherlock Holmes: Consulting Detective",
-  "Sherlock Holmes: Consulting Detective Vol. II",
-  "Shining Force CD",
-  "Silpheed",
-  "Slam City with Scottie Pippen",
-  "Snatcher",
-  "Sol-Feace",
-  "SoulStar",
-  "Space Ace",
-  "The Space Adventure",
-  "The Amazing Spider-Man vs. The Kingpin",
-  "StarBlade",
-  "Star Wars Chess",
-  "Stellar-Fire",
-  "Supreme Warrior",
-  "The San Diego Zoo Presents: The Animals!",
-  "The Masked Rider: Kamen Rider ZO",
-  "The Smurfs",
-  "The Terminator",
-  "Third World War",
-  "Time Gal",
-  "Tomcat Alley",
-  "Trivial Pursuit",
-  "Ultraverse Prime",
-  "Wheel of Fortune",
-  "Who Shot Johnny Rock?",
-  "Wild Woody",
-  "The Adventures of Willy Beamish",
-  "Wing Commander",
-  "Wirehead",
-  "Wolfchild",
-  "Wonder Dog",
-  "World Cup USA 94",
-  "WWF Rage in the Cage",
-  "Sega Classics Arcade Collection 5-in-1",
-  "Mary Shelley's Frankenstein",
-  "ESPN NBA HangTime '95",
-  "BlackHole Assault",
-  "Devastator",
-  "Shadowrun",
-  "Anett Futatabi",
-  "Earnest Evans",
-  "TimeCop (Prototype)",
-  "Burning Fists: Force Striker",
-  "Ranma ½: Byakuran Aika",
-  "Urusei Yatsura: Dear My Friends",
-  "Warau Salesman",
-  "Sega Classics 4-in-1",
-  "Sonic the Hedgehog Megamix",
-  "Compton's Interactive Encyclopedia",
-  "Bloodshot",
-  "Mega Race",
-  "3x3 Eyes Seima Densetsu",
-  "After Armageddon Gaiden: Majuu Toushouden Eclipse",
-  "Aisle Lord",
-  "Alshark",
-  "Arcus I-II-III",
-  "Psychic Detective Series Vol. 3: Aya",
-  "Psychic Detective Series Vol. 4: Orgel",
-  "Battle Fantasy",
-  "Burai Hachigyoku no Yuushi Densetsu",
-  "Capcom No Quiz: Tonosama No Yabou",
-  "Captain Tsubasa",
-  "Daihoushinden",
-  "Detonator Orgun",
-  "Bug Blasters: The Exterminators",
-  "Seirei Shinseiki Fhey Area",
-  "Gambler Jiko Chuushinha 2 Gekitou! Tokyo Mahjong Land Hen",
-  "Mahou no Shoujo: Silky Lip",
-  "Marko's Magic Football",
-  "Mega Schwarzschild",
-  "Might and Magic III: Isles of Terra",
-  "Nobunaga no Yabou: Haouden",
-  "Nostalgia 1907",
-  "Quiz Scramble Special",
-  "Romance of the Three Kingdoms III: Dragon of Destiny",
-  "Sengoku Denshou",
-  "Sim Earth: The Living Planet",
-  "Shin Megami Tensei",
-  "Pro Yakyuu Super League CD",
-  "Egawa Suguru no Super League CD",
-  "Syndicate",
-  "Tenbu Mega CD Special",
-  "Tenka Fubu Eiyuutachi no Houkou",
-  "Theme Park",
-  "The Ninja Warriors",
-  "Genei Toshi - Illusion City",
-  "Bakuden Unbalance Zone",
-  "Winning Post",
-  "Yumimi Mix",
-  "Star Strike",
-  "Dynamic Country Club: 3D Golf Simulation",
-  "Funky Horror Band",
-  "Arslan Senki",
-  "Cyborg 009",
-  "Wondermega Collection",
-  "Death Bringer",
-  "Game no Kanzume Vol. 2",
-  "Heavy Nova",
-  "Night Striker",
-  "Game no Kanzume Vol. 1",
-  "Ishii Hisaichi no Daiseikai",
-  "Lodoss Jima Senki: Eiyuu Sensou",
-  "Cosmic Fantasy Stories",
-  "F1 Circus CD",
-  "Thunderhawk"
-]
+{
+  "tgbd_id": 21,
+  "tgdb_alias": "sega-cd",
+  "name": "Sega CD",
+  "titles": [
+    {
+      "tgdb_id": 129,
+      "title": "Sonic CD"
+    },
+    {
+      "tgdb_id": 132,
+      "title": "Ecco the Dolphin"
+    },
+    {
+      "tgdb_id": 439,
+      "title": "Mighty Morphin Power Rangers"
+    },
+    {
+      "tgdb_id": 440,
+      "title": "Ecco: The Tides of Time"
+    },
+    {
+      "tgdb_id": 441,
+      "title": "Hook"
+    },
+    {
+      "tgdb_id": 442,
+      "title": "Dungeon Explorer"
+    },
+    {
+      "tgdb_id": 443,
+      "title": "Flashback: The Quest for Identity"
+    },
+    {
+      "tgdb_id": 444,
+      "title": "Racing Aces"
+    },
+    {
+      "tgdb_id": 445,
+      "title": "Robo Aleste"
+    },
+    {
+      "tgdb_id": 737,
+      "title": "After Burner III"
+    },
+    {
+      "tgdb_id": 738,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 739,
+      "title": "Sewer Shark"
+    },
+    {
+      "tgdb_id": 740,
+      "title": "Star Wars: Rebel Assault"
+    },
+    {
+      "tgdb_id": 741,
+      "title": "Surgical Strike"
+    },
+    {
+      "tgdb_id": 965,
+      "title": "Shadow of the Beast II"
+    },
+    {
+      "tgdb_id": 1916,
+      "title": "Genghis Khan II: Clan of the Gray Wolf"
+    },
+    {
+      "tgdb_id": 2577,
+      "title": "Jaguar XJ220"
+    },
+    {
+      "tgdb_id": 2578,
+      "title": "Keio Flying Squadron"
+    },
+    {
+      "tgdb_id": 2579,
+      "title": "Vay"
+    },
+    {
+      "tgdb_id": 2646,
+      "title": "Popful Mail"
+    },
+    {
+      "tgdb_id": 5087,
+      "title": "Road Rash"
+    },
+    {
+      "tgdb_id": 3893,
+      "title": "Chuck Rock II: Son of Chuck"
+    },
+    {
+      "tgdb_id": 5046,
+      "title": "Kids on Site"
+    },
+    {
+      "tgdb_id": 5047,
+      "title": "The Lawnmower Man"
+    },
+    {
+      "tgdb_id": 5048,
+      "title": "Lethal Enforcers"
+    },
+    {
+      "tgdb_id": 5049,
+      "title": "Lethal Enforcers II: Gunfighters"
+    },
+    {
+      "tgdb_id": 5050,
+      "title": "Links: The Challenge of Golf"
+    },
+    {
+      "tgdb_id": 5051,
+      "title": "Loadstar: The Legend of Tully Bodine"
+    },
+    {
+      "tgdb_id": 5052,
+      "title": "Lords of Thunder"
+    },
+    {
+      "tgdb_id": 5053,
+      "title": "Lunar: Eternal Blue"
+    },
+    {
+      "tgdb_id": 5054,
+      "title": "Lunar: The Silver Star"
+    },
+    {
+      "tgdb_id": 4933,
+      "title": "3 Ninjas Kick Back"
+    },
+    {
+      "tgdb_id": 4934,
+      "title": "The Adventures of Batman & Robin"
+    },
+    {
+      "tgdb_id": 4935,
+      "title": "AH-3 Thunderstrike"
+    },
+    {
+      "tgdb_id": 4936,
+      "title": "Android Assault: The Revenge of Bari-Arm"
+    },
+    {
+      "tgdb_id": 4937,
+      "title": "A/X-101"
+    },
+    {
+      "tgdb_id": 4938,
+      "title": "Batman Returns"
+    },
+    {
+      "tgdb_id": 4940,
+      "title": "BattleCorps"
+    },
+    {
+      "tgdb_id": 4941,
+      "title": "BC Racers"
+    },
+    {
+      "tgdb_id": 4942,
+      "title": "Bill Walsh College Football"
+    },
+    {
+      "tgdb_id": 4943,
+      "title": "Bouncers"
+    },
+    {
+      "tgdb_id": 4944,
+      "title": "Bram Stoker's Dracula"
+    },
+    {
+      "tgdb_id": 4945,
+      "title": "Brutal: Paws of Fury"
+    },
+    {
+      "tgdb_id": 4946,
+      "title": "Cadillacs and Dinosaurs: The Second Cataclysm"
+    },
+    {
+      "tgdb_id": 4947,
+      "title": "Championship Soccer '94"
+    },
+    {
+      "tgdb_id": 4948,
+      "title": "Chuck Rock"
+    },
+    {
+      "tgdb_id": 4949,
+      "title": "Cliffhanger"
+    },
+    {
+      "tgdb_id": 4950,
+      "title": "Cobra Command"
+    },
+    {
+      "tgdb_id": 4951,
+      "title": "The Colors of Modern Rock"
+    },
+    {
+      "tgdb_id": 4952,
+      "title": "Corpse Killer"
+    },
+    {
+      "tgdb_id": 4953,
+      "title": "Crime Patrol"
+    },
+    {
+      "tgdb_id": 4954,
+      "title": "Dark Wizard"
+    },
+    {
+      "tgdb_id": 4955,
+      "title": "Demolition Man"
+    },
+    {
+      "tgdb_id": 4956,
+      "title": "Double Switch"
+    },
+    {
+      "tgdb_id": 4957,
+      "title": "Dracula Unleashed"
+    },
+    {
+      "tgdb_id": 4958,
+      "title": "Dune"
+    },
+    {
+      "tgdb_id": 4959,
+      "title": "Dungeon Master II: Skullkeep"
+    },
+    {
+      "tgdb_id": 5006,
+      "title": "Earthworm Jim Special Edition"
+    },
+    {
+      "tgdb_id": 5007,
+      "title": "ESPN Baseball Tonight"
+    },
+    {
+      "tgdb_id": 5008,
+      "title": "ESPN National Hockey Night"
+    },
+    {
+      "tgdb_id": 5009,
+      "title": "ESPN Sunday Night NFL"
+    },
+    {
+      "tgdb_id": 5010,
+      "title": "Eternal Champions: Challenge from the Dark Side"
+    },
+    {
+      "tgdb_id": 5011,
+      "title": "Eye of the Beholder"
+    },
+    {
+      "tgdb_id": 5012,
+      "title": "Formula One World Championship: Beyond the Limit"
+    },
+    {
+      "tgdb_id": 5013,
+      "title": "Fahrenheit"
+    },
+    {
+      "tgdb_id": 5014,
+      "title": "Fatal Fury Special"
+    },
+    {
+      "tgdb_id": 5015,
+      "title": "FIFA International Soccer"
+    },
+    {
+      "tgdb_id": 5016,
+      "title": "Final Fight CD"
+    },
+    {
+      "tgdb_id": 5017,
+      "title": "Flink"
+    },
+    {
+      "tgdb_id": 5018,
+      "title": "Ground Zero: Texas"
+    },
+    {
+      "tgdb_id": 5019,
+      "title": "Heart of the Alien:Out of this World Parts I And II"
+    },
+    {
+      "tgdb_id": 5020,
+      "title": "Heimdall"
+    },
+    {
+      "tgdb_id": 5021,
+      "title": "Iron Helix"
+    },
+    {
+      "tgdb_id": 5022,
+      "title": "Jeopardy!"
+    },
+    {
+      "tgdb_id": 5023,
+      "title": "Joe Montana's NFL Football"
+    },
+    {
+      "tgdb_id": 5024,
+      "title": "Jurassic Park"
+    },
+    {
+      "tgdb_id": 5055,
+      "title": "Mad Dog II: The Lost Gold"
+    },
+    {
+      "tgdb_id": 5056,
+      "title": "Mad Dog McCree"
+    },
+    {
+      "tgdb_id": 5057,
+      "title": "INXS: Make My Video"
+    },
+    {
+      "tgdb_id": 5058,
+      "title": "Kris Kross: Make My Video"
+    },
+    {
+      "tgdb_id": 5059,
+      "title": "Marky Mark and the Funky Bunch: Make My Video"
+    },
+    {
+      "tgdb_id": 5060,
+      "title": "Mansion of Hidden Souls"
+    },
+    {
+      "tgdb_id": 5061,
+      "title": "MegaRace"
+    },
+    {
+      "tgdb_id": 5062,
+      "title": "Mickey Mania: The Timeless Adventures of Mickey Mouse"
+    },
+    {
+      "tgdb_id": 5063,
+      "title": "Microcosm"
+    },
+    {
+      "tgdb_id": 5064,
+      "title": "Midnight Raiders"
+    },
+    {
+      "tgdb_id": 5065,
+      "title": "Mortal Kombat"
+    },
+    {
+      "tgdb_id": 5066,
+      "title": "My Paint: The Animated Paint Program"
+    },
+    {
+      "tgdb_id": 5067,
+      "title": "NBA Jam"
+    },
+    {
+      "tgdb_id": 5068,
+      "title": "NFL Football Trivia Challenge"
+    },
+    {
+      "tgdb_id": 5069,
+      "title": "NFL's Greatest: San Francisco vs. Dallas 1978-1993"
+    },
+    {
+      "tgdb_id": 5070,
+      "title": "NHL '94"
+    },
+    {
+      "tgdb_id": 5071,
+      "title": "Night Trap"
+    },
+    {
+      "tgdb_id": 5072,
+      "title": "Novastorm"
+    },
+    {
+      "tgdb_id": 5073,
+      "title": "Panic!"
+    },
+    {
+      "tgdb_id": 5074,
+      "title": "Penn & Teller's Smoke and Mirrors"
+    },
+    {
+      "tgdb_id": 5075,
+      "title": "Pitfall: The Mayan Adventure"
+    },
+    {
+      "tgdb_id": 5076,
+      "title": "Power Factory Featuring C+C Music Factory"
+    },
+    {
+      "tgdb_id": 5077,
+      "title": "Power Monger"
+    },
+    {
+      "tgdb_id": 5078,
+      "title": "Prince of Persia"
+    },
+    {
+      "tgdb_id": 5079,
+      "title": "Prize Fighter"
+    },
+    {
+      "tgdb_id": 5080,
+      "title": "Puggsy"
+    },
+    {
+      "tgdb_id": 5081,
+      "title": "Radical Rex"
+    },
+    {
+      "tgdb_id": 5082,
+      "title": "RDF Global Conflict"
+    },
+    {
+      "tgdb_id": 5083,
+      "title": "Revenge of the Ninja"
+    },
+    {
+      "tgdb_id": 5084,
+      "title": "Revengers of Vengeance"
+    },
+    {
+      "tgdb_id": 5085,
+      "title": "Rise of the Dragon"
+    },
+    {
+      "tgdb_id": 5086,
+      "title": "Road Avenger"
+    },
+    {
+      "tgdb_id": 5088,
+      "title": "Samurai Shodown"
+    },
+    {
+      "tgdb_id": 5089,
+      "title": "The Secret of Monkey Island"
+    },
+    {
+      "tgdb_id": 5090,
+      "title": "Sherlock Holmes: Consulting Detective"
+    },
+    {
+      "tgdb_id": 5091,
+      "title": "Sherlock Holmes: Consulting Detective Vol. II"
+    },
+    {
+      "tgdb_id": 5092,
+      "title": "Shining Force CD"
+    },
+    {
+      "tgdb_id": 5093,
+      "title": "Silpheed"
+    },
+    {
+      "tgdb_id": 5094,
+      "title": "Slam City with Scottie Pippen"
+    },
+    {
+      "tgdb_id": 5095,
+      "title": "Snatcher"
+    },
+    {
+      "tgdb_id": 5096,
+      "title": "Sol-Feace"
+    },
+    {
+      "tgdb_id": 5097,
+      "title": "SoulStar"
+    },
+    {
+      "tgdb_id": 5098,
+      "title": "Space Ace"
+    },
+    {
+      "tgdb_id": 5099,
+      "title": "The Space Adventure"
+    },
+    {
+      "tgdb_id": 5100,
+      "title": "The Amazing Spider-Man vs. The Kingpin"
+    },
+    {
+      "tgdb_id": 5101,
+      "title": "StarBlade"
+    },
+    {
+      "tgdb_id": 5102,
+      "title": "Star Wars Chess"
+    },
+    {
+      "tgdb_id": 5103,
+      "title": "Stellar-Fire"
+    },
+    {
+      "tgdb_id": 5104,
+      "title": "Supreme Warrior"
+    },
+    {
+      "tgdb_id": 5105,
+      "title": "The San Diego Zoo Presents: The Animals!"
+    },
+    {
+      "tgdb_id": 5106,
+      "title": "The Masked Rider: Kamen Rider ZO"
+    },
+    {
+      "tgdb_id": 5107,
+      "title": "The Smurfs"
+    },
+    {
+      "tgdb_id": 5108,
+      "title": "The Terminator"
+    },
+    {
+      "tgdb_id": 5109,
+      "title": "Third World War"
+    },
+    {
+      "tgdb_id": 5110,
+      "title": "Time Gal"
+    },
+    {
+      "tgdb_id": 5111,
+      "title": "Tomcat Alley"
+    },
+    {
+      "tgdb_id": 5112,
+      "title": "Trivial Pursuit"
+    },
+    {
+      "tgdb_id": 5113,
+      "title": "Ultraverse Prime"
+    },
+    {
+      "tgdb_id": 5114,
+      "title": "Wheel of Fortune"
+    },
+    {
+      "tgdb_id": 5115,
+      "title": "Who Shot Johnny Rock?"
+    },
+    {
+      "tgdb_id": 5116,
+      "title": "Wild Woody"
+    },
+    {
+      "tgdb_id": 5117,
+      "title": "The Adventures of Willy Beamish"
+    },
+    {
+      "tgdb_id": 5118,
+      "title": "Wing Commander"
+    },
+    {
+      "tgdb_id": 5119,
+      "title": "Wirehead"
+    },
+    {
+      "tgdb_id": 5120,
+      "title": "Wolfchild"
+    },
+    {
+      "tgdb_id": 5121,
+      "title": "Wonder Dog"
+    },
+    {
+      "tgdb_id": 5122,
+      "title": "World Cup USA 94"
+    },
+    {
+      "tgdb_id": 5123,
+      "title": "WWF Rage in the Cage"
+    },
+    {
+      "tgdb_id": 14048,
+      "title": "Sega Classics Arcade Collection 5-in-1"
+    },
+    {
+      "tgdb_id": 15798,
+      "title": "Mary Shelley's Frankenstein"
+    },
+    {
+      "tgdb_id": 31785,
+      "title": "ESPN NBA HangTime '95"
+    },
+    {
+      "tgdb_id": 19298,
+      "title": "BlackHole Assault"
+    },
+    {
+      "tgdb_id": 36016,
+      "title": "Devastator"
+    },
+    {
+      "tgdb_id": 23755,
+      "title": "Shadowrun"
+    },
+    {
+      "tgdb_id": 25432,
+      "title": "Anett Futatabi"
+    },
+    {
+      "tgdb_id": 25461,
+      "title": "Earnest Evans"
+    },
+    {
+      "tgdb_id": 26758,
+      "title": "TimeCop (Prototype)"
+    },
+    {
+      "tgdb_id": 27249,
+      "title": "Burning Fists: Force Striker"
+    },
+    {
+      "tgdb_id": 27806,
+      "title": "Ranma ½: Byakuran Aika"
+    },
+    {
+      "tgdb_id": 27807,
+      "title": "Urusei Yatsura: Dear My Friends"
+    },
+    {
+      "tgdb_id": 27808,
+      "title": "Warau Salesman"
+    },
+    {
+      "tgdb_id": 29399,
+      "title": "Sega Classics 4-in-1"
+    },
+    {
+      "tgdb_id": 29757,
+      "title": "Sonic the Hedgehog Megamix"
+    },
+    {
+      "tgdb_id": 31786,
+      "title": "Compton's Interactive Encyclopedia"
+    },
+    {
+      "tgdb_id": 31873,
+      "title": "Bloodshot"
+    },
+    {
+      "tgdb_id": 33012,
+      "title": "Mega Race"
+    },
+    {
+      "tgdb_id": 34262,
+      "title": "3x3 Eyes Seima Densetsu"
+    },
+    {
+      "tgdb_id": 34263,
+      "title": "After Armageddon Gaiden: Majuu Toushouden Eclipse"
+    },
+    {
+      "tgdb_id": 34264,
+      "title": "Aisle Lord"
+    },
+    {
+      "tgdb_id": 34265,
+      "title": "Alshark"
+    },
+    {
+      "tgdb_id": 34266,
+      "title": "Arcus I-II-III"
+    },
+    {
+      "tgdb_id": 34268,
+      "title": "Psychic Detective Series Vol. 3: Aya"
+    },
+    {
+      "tgdb_id": 34269,
+      "title": "Psychic Detective Series Vol. 4: Orgel"
+    },
+    {
+      "tgdb_id": 34270,
+      "title": "Battle Fantasy"
+    },
+    {
+      "tgdb_id": 34271,
+      "title": "Burai Hachigyoku no Yuushi Densetsu"
+    },
+    {
+      "tgdb_id": 34279,
+      "title": "Capcom No Quiz: Tonosama No Yabou"
+    },
+    {
+      "tgdb_id": 34281,
+      "title": "Captain Tsubasa"
+    },
+    {
+      "tgdb_id": 34282,
+      "title": "Daihoushinden"
+    },
+    {
+      "tgdb_id": 34284,
+      "title": "Detonator Orgun"
+    },
+    {
+      "tgdb_id": 34288,
+      "title": "Bug Blasters: The Exterminators"
+    },
+    {
+      "tgdb_id": 34289,
+      "title": "Seirei Shinseiki Fhey Area"
+    },
+    {
+      "tgdb_id": 34290,
+      "title": "Gambler Jiko Chuushinha 2 Gekitou! Tokyo Mahjong Land Hen"
+    },
+    {
+      "tgdb_id": 34291,
+      "title": "Mahou no Shoujo: Silky Lip"
+    },
+    {
+      "tgdb_id": 34292,
+      "title": "Marko's Magic Football"
+    },
+    {
+      "tgdb_id": 34293,
+      "title": "Mega Schwarzschild"
+    },
+    {
+      "tgdb_id": 34294,
+      "title": "Might and Magic III: Isles of Terra"
+    },
+    {
+      "tgdb_id": 34299,
+      "title": "Nobunaga no Yabou: Haouden"
+    },
+    {
+      "tgdb_id": 34300,
+      "title": "Nostalgia 1907"
+    },
+    {
+      "tgdb_id": 34301,
+      "title": "Quiz Scramble Special"
+    },
+    {
+      "tgdb_id": 34303,
+      "title": "Romance of the Three Kingdoms III: Dragon of Destiny"
+    },
+    {
+      "tgdb_id": 34305,
+      "title": "Sengoku Denshou"
+    },
+    {
+      "tgdb_id": 34308,
+      "title": "Sim Earth: The Living Planet"
+    },
+    {
+      "tgdb_id": 34310,
+      "title": "Shin Megami Tensei"
+    },
+    {
+      "tgdb_id": 34312,
+      "title": "Pro Yakyuu Super League CD"
+    },
+    {
+      "tgdb_id": 34313,
+      "title": "Egawa Suguru no Super League CD"
+    },
+    {
+      "tgdb_id": 34314,
+      "title": "Syndicate"
+    },
+    {
+      "tgdb_id": 34315,
+      "title": "Tenbu Mega CD Special"
+    },
+    {
+      "tgdb_id": 34316,
+      "title": "Tenka Fubu Eiyuutachi no Houkou"
+    },
+    {
+      "tgdb_id": 34317,
+      "title": "Theme Park"
+    },
+    {
+      "tgdb_id": 34318,
+      "title": "The Ninja Warriors"
+    },
+    {
+      "tgdb_id": 34319,
+      "title": "Genei Toshi - Illusion City"
+    },
+    {
+      "tgdb_id": 34320,
+      "title": "Bakuden Unbalance Zone"
+    },
+    {
+      "tgdb_id": 34321,
+      "title": "Winning Post"
+    },
+    {
+      "tgdb_id": 34322,
+      "title": "Yumimi Mix"
+    },
+    {
+      "tgdb_id": 34323,
+      "title": "Star Strike"
+    },
+    {
+      "tgdb_id": 34357,
+      "title": "Dynamic Country Club: 3D Golf Simulation"
+    },
+    {
+      "tgdb_id": 34362,
+      "title": "Funky Horror Band"
+    },
+    {
+      "tgdb_id": 34368,
+      "title": "Arslan Senki"
+    },
+    {
+      "tgdb_id": 34371,
+      "title": "Cyborg 009"
+    },
+    {
+      "tgdb_id": 34372,
+      "title": "Wondermega Collection"
+    },
+    {
+      "tgdb_id": 34374,
+      "title": "Death Bringer"
+    },
+    {
+      "tgdb_id": 34376,
+      "title": "Game no Kanzume Vol. 2"
+    },
+    {
+      "tgdb_id": 34377,
+      "title": "Heavy Nova"
+    },
+    {
+      "tgdb_id": 34378,
+      "title": "Night Striker"
+    },
+    {
+      "tgdb_id": 34379,
+      "title": "Game no Kanzume Vol. 1"
+    },
+    {
+      "tgdb_id": 34380,
+      "title": "Ishii Hisaichi no Daiseikai"
+    },
+    {
+      "tgdb_id": 34381,
+      "title": "Lodoss Jima Senki: Eiyuu Sensou"
+    },
+    {
+      "tgdb_id": 34382,
+      "title": "Cosmic Fantasy Stories"
+    },
+    {
+      "tgdb_id": 34383,
+      "title": "F1 Circus CD"
+    },
+    {
+      "tgdb_id": 35708,
+      "title": "Thunderhawk"
+    },
+    {
+      "tgdb_id": 39391,
+      "title": "Slipheed"
+    }
+  ]
+}

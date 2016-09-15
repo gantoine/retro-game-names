@@ -1,33 +1,131 @@
-[
-  "Battletoads",
-  "Dangerous Streets",
-  "Dark Seed",
-  "Fire & Ice",
-  "Liberation: Captive 2",
-  "Microcosm",
-  "Morph",
-  "Myth",
-  "Naughty Ones",
-  "Worms",
-  "Total Carnage",
-  "Top Gear 2",
-  "Super Putty",
-  "Ultimate Body Blows",
-  "Super Methane Brothers",
-  "Subwar 2050",
-  "Skeleton Krew",
-  "Amiga CD Football",
-  "Chuck Rock II: Son of Chuck",
-  "Last Ninja 3",
-  "Chuck Rock",
-  "The Classic Lotus Trilogy",
-  "Trivial pursuit CD32 edition",
-  "Mean Arenas",
-  "Pierre le Chef is... Out to Lunch",
-  "R-Type",
-  "Rise of The Robots",
-  "Strip Pot",
-  "Zool",
-  "Akira",
-  "The Clou!"
-]
+{
+  "tgbd_id": 4947,
+  "tgdb_alias": "amiga-cd32",
+  "name": "Amiga CD32",
+  "titles": [
+    {
+      "tgdb_id": 10168,
+      "title": "Battletoads"
+    },
+    {
+      "tgdb_id": 10185,
+      "title": "Dangerous Streets"
+    },
+    {
+      "tgdb_id": 10186,
+      "title": "Dark Seed"
+    },
+    {
+      "tgdb_id": 10198,
+      "title": "Fire & Ice"
+    },
+    {
+      "tgdb_id": 10219,
+      "title": "Liberation: Captive 2"
+    },
+    {
+      "tgdb_id": 10224,
+      "title": "Microcosm"
+    },
+    {
+      "tgdb_id": 10225,
+      "title": "Morph"
+    },
+    {
+      "tgdb_id": 10226,
+      "title": "Myth"
+    },
+    {
+      "tgdb_id": 10227,
+      "title": "Naughty Ones"
+    },
+    {
+      "tgdb_id": 10288,
+      "title": "Worms"
+    },
+    {
+      "tgdb_id": 10290,
+      "title": "Total Carnage"
+    },
+    {
+      "tgdb_id": 10291,
+      "title": "Top Gear 2"
+    },
+    {
+      "tgdb_id": 10295,
+      "title": "Super Putty"
+    },
+    {
+      "tgdb_id": 10303,
+      "title": "Ultimate Body Blows"
+    },
+    {
+      "tgdb_id": 10306,
+      "title": "Super Methane Brothers"
+    },
+    {
+      "tgdb_id": 10307,
+      "title": "Subwar 2050"
+    },
+    {
+      "tgdb_id": 10313,
+      "title": "Skeleton Krew"
+    },
+    {
+      "tgdb_id": 32642,
+      "title": "Amiga CD Football"
+    },
+    {
+      "tgdb_id": 16901,
+      "title": "Chuck Rock II: Son of Chuck"
+    },
+    {
+      "tgdb_id": 32638,
+      "title": "Last Ninja 3"
+    },
+    {
+      "tgdb_id": 20262,
+      "title": "Chuck Rock"
+    },
+    {
+      "tgdb_id": 20263,
+      "title": "The Classic Lotus Trilogy"
+    },
+    {
+      "tgdb_id": 29568,
+      "title": "Trivial pursuit CD32 edition"
+    },
+    {
+      "tgdb_id": 29569,
+      "title": "Mean Arenas"
+    },
+    {
+      "tgdb_id": 29573,
+      "title": "Pierre le Chef is... Out to Lunch"
+    },
+    {
+      "tgdb_id": 29576,
+      "title": "R-Type"
+    },
+    {
+      "tgdb_id": 29577,
+      "title": "Rise of The Robots"
+    },
+    {
+      "tgdb_id": 29578,
+      "title": "Strip Pot"
+    },
+    {
+      "tgdb_id": 32639,
+      "title": "Zool"
+    },
+    {
+      "tgdb_id": 32641,
+      "title": "Akira"
+    },
+    {
+      "tgdb_id": 36115,
+      "title": "The Clou!"
+    }
+  ]
+}

@@ -1,1519 +1,6091 @@
-[
-  "Donkey Kong",
-  "Bionic Commando",
-  "Super Mario Bros. 3",
-  "The Legend of Zelda",
-  "Kirby's Adventure",
-  "Metroid",
-  "Mega Man 5",
-  "Kid Icarus",
-  "Lemmings",
-  "Castlevania",
-  "Super Mario Bros.",
-  "Super Mario Bros. 2",
-  "Mario Bros.",
-  "BurgerTime",
-  "Double Dragon",
-  "Rad Racer",
-  "Chubby Cherub",
-  "Excitebike",
-  "Super Spike V-Ball & Nintendo World Cup",
-  "3-D WorldRunner",
-  "8 Eyes",
-  "10-Yard Fight",
-  "Wrecking Crew",
-  "Wrath of the Black Manta",
-  "Wolverine",
-  "Track & Field II",
-  "Track & Field",
-  "720 Degrees",
-  "The Adventures of Bayou Billy",
-  "Adventures of Lolo",
-  "Airwolf (Acclaim)",
-  "Asterix",
-  "Back to the Future Part II & III",
-  "Bad Dudes",
-  "Balloon Fight",
-  "The Bard's Tale",
-  "Baseball",
-  "Bases Loaded II: Second Season",
-  "Batman: The Video Game",
-  "Castlevania II: Simon's Quest",
-  "Castlevania III: Dracula's Curse",
-  "Clu Clu Land",
-  "Crystalis",
-  "Double Dragon II: The Revenge",
-  "Double Dribble",
-  "Dr. Mario",
-  "Dragon Warrior",
-  "Duck Hunt",
-  "Dynowarz: Destruction of Spondylus",
-  "Elevator Action",
-  "Ghosts 'n Goblins",
-  "Golf",
-  "Gumshoe",
-  "Heavy Barrel",
-  "Hudson Hawk",
-  "Jackal",
-  "King's Knight",
-  "Low G Man: The Low Gravity Man",
-  "Lunar Pool",
-  "Mach Rider",
-  "Marble Madness",
-  "Mega Man",
-  "Mega Man 2",
-  "Mega Man 3",
-  "Rockman No Constancy",
-  "Mega Man 4",
-  "Mega Man 6",
-  "Mega Man Ultra",
-  "Metal Gear",
-  "Snake's Revenge",
-  "Mission: Impossible",
-  "MULE",
-  "Ninja Gaiden II: The Dark Sword of Chaos",
-  "Paperboy",
-  "Pinball",
-  "Pinball Quest",
-  "Predator",
-  "RoboCop",
-  "Rush'n Attack",
-  "SkyKid",
-  "Slalom",
-  "Spider-Man: Return of the Sinister Six",
-  "Star Wars",
-  "Super Spy Hunter",
-  "Teenage Mutant Ninja Turtles",
-  "Tennis",
-  "The Battle of Olympus",
-  "Tiger-Heli",
-  "Time Lord",
-  "Top Gun",
-  "Bram Stoker's Dracula",
-  "Klax",
-  "Happily Ever After",
-  "Lode Runner",
-  "Smash T.V.",
-  "1943: The Battle of Midway",
-  "A Nightmare on Elm Street",
-  "Advanced Dungeons & Dragons: Dragons of Flame",
-  "Advanced Dungeons & Dragons: Heroes of the Lance",
-  "Adventure Island II",
-  "Adventures in the Magic Kingdom",
-  "Adventures of Lolo 3",
-  "Airball",
-  "Al Unser Jr. Turbo Racing",
-  "Arkista's Ring",
-  "Astyanax",
-  "Back to the Future",
-  "Cyber Stadium Series: Base Wars",
-  "Bases Loaded",
-  "Bases Loaded 3",
-  "Batman: Return of the Joker",
-  "Best of the Best: Championship Karate",
-  "Blades of Steel",
-  "Blaster Master",
-  "The Blues Brothers",
-  "Bomberman",
-  "Boulder Dash",
-  "A Boy and His Blob: Trouble on Blobolonia",
-  "Bubble Bobble: Part 2",
-  "Bucky O'Hare",
-  "Bump 'n' Jump",
-  "The Addams Family",
-  "Monopoly",
-  "Captain Skyhawk",
-  "Castelian",
-  "Castle of Dragon",
-  "Castlequest",
-  "Championship Bowling",
-  "Chiller",
-  "Chip 'N Dale Rescue Rangers",
-  "Chip 'N Dale Rescue Rangers 2",
-  "Clash at Demonhead",
-  "Code Name: Viper",
-  "Conquest of the Crystal Palace",
-  "Contra",
-  "Contra Force",
-  "Disney's Darkwing Duck",
-  "Deadly Towers",
-  "Defender of the Crown",
-  "Defenders of Dynatron City",
-  "Deja Vu",
-  "Demon Sword",
-  "Destiny of an Emperor",
-  "Dig Dug II: Trouble in Paradise",
-  "Donkey Kong 3",
-  "Donkey Kong Jr.",
-  "Double Dragon III: The Sacred Stones",
-  "Dr. Jekyll and Mr. Hyde",
-  "Dragon Spirit: The New Legend",
-  "Dragon Warrior II",
-  "Dragon Warrior IV",
-  "DuckTales",
-  "Dudes with Attitude",
-  "StarTropics II: Zoda's Revenge",
-  "Yoshi",
-  "Xevious: The Avenger",
-  "Xexyz",
-  "Faria: A World of Mystery and Danger!",
-  "Faxanadu",
-  "Fester's Quest",
-  "Fist of the North Star",
-  "The Flintstones: The Rescue of Dino & Hoppy",
-  "Friday the 13th",
-  "Gauntlet",
-  "The Adventures of Gilligan's Island",
-  "Goal!",
-  "Golgo 13: Top Secret Episode",
-  "The Goonies II",
-  "Gradius",
-  "The Guardian Legend",
-  "Guerrilla War",
-  "Gun.Smoke",
-  "Gyromite",
-  "Gyruss",
-  "River City Ransom",
-  "Ninja Gaiden",
-  "The Mafat Conspiracy",
-  "Magician",
-  "Hogan's Alley",
-  "Pro Wrestling",
-  "Nintendo World Cup",
-  "Hollywood Squares",
-  "Home Alone 2: Lost in New York",
-  "Hydlide",
-  "Ice Climber",
-  "Ikari Warriors",
-  "Ikari Warriors II: Victory Road",
-  "Ikari III: The Rescue",
-  "Iron Tank: The Invasion of Normandy",
-  "Wizards & Warriors II: IronSword",
-  "Star Wars: The Empire Strikes Back",
-  "Air Fortress",
-  "Ice Hockey",
-  "Mendel Palace",
-  "Mr. Gimmick",
-  "Operation Wolf",
-  "Panic Restaurant",
-  "Rainbow Islands",
-  "Rampage",
-  "Rygar",
-  "Tecmo Bowl",
-  "Tiny Toon Adventures",
-  "Vindicators",
-  "The Uncanny X-Men",
-  "Ultima: Exodus",
-  "Ultima: Quest of the Avatar",
-  "Ultima: Warriors of Destiny",
-  "Urban Champion",
-  "WCW: World Championship Wrestling",
-  "Wheel of Fortune: Junior Edition",
-  "Willow",
-  "Win, Lose or Draw",
-  "Wizardry: Proving Grounds of the Mad Overlord",
-  "Wizardry 2: Knight of Diamonds",
-  "Wizards & Warriors",
-  "Wizards & Warriors III: Kuros ...Visions of Power",
-  "Yoshi's Cookie",
-  "The Simpsons: Bart vs. the World",
-  "Rad Racer II",
-  "R.B.I. Baseball 2",
-  "R.C. Pro-Am",
-  "Renegade",
-  "Rescue: The Embassy Mission",
-  "Robin Hood: Prince of Thieves",
-  "Robo Warrior",
-  "Rocket Ranger",
-  "Rockin' Kats",
-  "Shadowgate",
-  "Shingen the Ruler",
-  "Shockwave",
-  "Side Pocket",
-  "Silver Surfer",
-  "The Simpsons: Bart vs. the Space Mutants",
-  "Skate or Die!",
-  "Snake Rattle n Roll",
-  "Taboo: The Sixth Sense",
-  "Tag Team Wrestling",
-  "Tecmo World Wrestling",
-  "Tetris",
-  "Thunderbirds",
-  "Times of Lore",
-  "Teenage Mutant Ninja Turtles II: The Arcade Game",
-  "Teenage Mutant Ninja Turtles III: The Manhattan Project",
-  "MagMax",
-  "Maniac Mansion",
-  "M.C. Kids",
-  "Metal Mech: Man & Machine",
-  "Mickey Mousecapade",
-  "Might & Magic: Secret of the Inner Sanctum",
-  "Mighty Bomb Jack",
-  "Millipede",
-  "Milon's Secret Castle",
-  "Pac-Man (TENGEN)",
-  "Pesterminator: The Western Exterminator",
-  "Popeye",
-  "Power Blade",
-  "RollerGames",
-  "Romance of the Three Kingdoms",
-  "The Magic of Scheherazade",
-  "Snoopy's Silly Sports Spectacular!",
-  "Snow Brothers",
-  "Solomon's Key 2",
-  "Spot: The Video Game",
-  "Spy Vs Spy",
-  "Stadium Events",
-  "Star Trek: 25th Anniversary",
-  "StarTropics",
-  "Street Fighter 2010: The Final Fight",
-  "Super C",
-  "Super Dodge Ball",
-  "Super Spike V'Ball",
-  "Swamp Thing",
-  "Sword Master",
-  "Town & Country Surf Designs: Wood & Water Rage",
-  "Top Gun: The Second Mission",
-  "Totally Rad",
-  "Total Recall",
-  "To the Earth",
-  "Trojan",
-  "Jackie Chan's Action Kung Fu",
-  "Jaws",
-  "Kabuki Quantum Fighter",
-  "Karate Champ",
-  "The Karate Kid",
-  "Karnov",
-  "Kick Master",
-  "Kid Klown in Night Mayor World",
-  "King's Quest V",
-  "Kung-Fu Heroes",
-  "The Last Ninja",
-  "Legacy of the Wizard",
-  "The Legend of Kage",
-  "Life Force",
-  "Disney's The Little Mermaid",
-  "Little Nemo: The Dream Master",
-  "Little Samson",
-  "Abadox: The Deadly Inner War",
-  "The Addams Family: Pugsley's Scavenger Hunt",
-  "Advanced Dungeons & Dragons: DragonStrike",
-  "Advanced Dungeons & Dragons: Pool of Radiance",
-  "Image Fight",
-  "Adventure Island 3",
-  "Adventures of Dino Riki",
-  "The Adventures of Rocky and Bullwinkle and Friends",
-  "Alfred Chicken",
-  "Alien Syndrome",
-  "Micro Machines",
-  "Zanac",
-  "Yo! Noid",
-  "Xenophobe",
-  "Wurm: Journey to the Center of the Earth",
-  "Wild Gunman",
-  "WWF WrestleMania: Steel Cage Challenge",
-  "Action 52",
-  "Adventure Island",
-  "Advanced Dungeons & Dragons: Hillsfar",
-  "Captain Comic: The Adventure",
-  "Adventures of Lolo 2",
-  "The Adventures of Rad Gravity",
-  "Adventures of Tom Sawyer",
-  "All-Pro Basketball",
-  "Alpha Mission",
-  "Amagon",
-  "Anticipation",
-  "Arch Rivals: A Basketbrawl!",
-  "Archon",
-  "Athena",
-  "Athletic World",
-  "Attack of the Killer Tomatoes",
-  "Aussie Rules Footy",
-  "Baby Boomer",
-  "Bad News Baseball",
-  "Bad Street Brawler",
-  "Bandai Golf: Challenge Pebble Beach",
-  "Bandit Kings of Ancient China",
-  "Barbie",
-  "Barker Bill's Trick Shooting",
-  "Baseball Simulator 1.000",
-  "Baseball Stars",
-  "Bases Loaded 4",
-  "Battle Chess",
-  "Battleship",
-  "Battle Tank",
-  "Bee 52 abejaa",
-  "Beetlejuice",
-  "Bible Adventures",
-  "Bible Buffet",
-  "Big Nose Freaks Out",
-  "Big Nose the Caveman",
-  "Bigfoot",
-  "Bill & Ted's Excellent Video Game Adventure",
-  "Bill Elliott's NASCAR Challenge",
-  "The Black Bass",
-  "Blackjack",
-  "The Blue Marlin",
-  "Bomberman II",
-  "Bonk's Adventure",
-  "Break Time: The National Pool Tour",
-  "BreakThru",
-  "The Bugs Bunny Birthday Blowout",
-  "The Bugs Bunny Crazy Castle",
-  "Burai Fighter",
-  "Cabal",
-  "Caesars Palace",
-  "California Games",
-  "Caltron 6 in 1",
-  "Captain Planet and the Planeteers",
-  "Casino Kid",
-  "Casino Kid II",
-  "Castle of Deceit",
-  "Caveman Games",
-  "Championship Pool",
-  "Championship Rally",
-  "Cheetahmen II",
-  "The Chessmaster",
-  "Circus Caper",
-  "City Connection",
-  "Classic Concentration",
-  "Cobra Command",
-  "Cobra Triangle",
-  "Color a Dinosaur",
-  "Conan",
-  "Conflict",
-  "Cool World",
-  "Cowboy Kid",
-  "Crystal Mines",
-  "Cyberball",
-  "Cybernoid: The Fighting Machine",
-  "Danny Sullivan's Indy Heat",
-  "Dash Galaxy in the Alien Asylum",
-  "Day Dreamin' Davey",
-  "Days of Thunder",
-  "Death Race",
-  "Deathbots",
-  "Desert Commander",
-  "Destination Earthstar",
-  "Dick Tracy",
-  "Die Hard",
-  "Dirty Harry",
-  "Double Dare",
-  "Double Strike",
-  "Dragon Warrior III",
-  "Circus Charlie",
-  "Cliffhanger",
-  "Mario is Missing!",
-  "Disney's Beauty and the Beast",
-  "DuckTales 2",
-  "Caveman Joe & Mac",
-  "Kung Fu",
-  "Mario's Time Machine",
-  "Ninja Gaiden III: The Ancient Ship of Doom",
-  "Paperboy 2",
-  "Dropzone",
-  "Duck Maze",
-  "Dungeon Magic: Sword of the Elements",
-  "Dusty Diamond's All-Star Softball",
-  "Elite",
-  "Exodus: Journey to the Promised Land",
-  "F-15 City War",
-  "F-15 Strike Eagle",
-  "F-117A Stealth Fighter",
-  "Fantasy Zone (Tengen)",
-  "Frankenstein: The Monster Returns",
-  "Felix the Cat",
-  "Flight of the Intruder",
-  "Flying Dragon: The Secret Scroll",
-  "Flying Warriors",
-  "Formula 1 Sensation",
-  "Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness",
-  "Joy Mech Fight",
-  "Fun House",
-  "G.I. Joe: A Real American Hero",
-  "Galactic Crusader",
-  "Galaga: Demons of Death",
-  "Galaxy 5000",
-  "Gauntlet II",
-  "Gemfire",
-  "George Foreman's KO Boxing",
-  "Ghostbusters II",
-  "Ghoul School",
-  "Goal! Two",
-  "Godzilla: Monster of Monsters",
-  "Godzilla 2: War of the Monsters",
-  "Capcom's Gold Medal Challenge '92",
-  "Gotcha! The Sport!",
-  "The Great Waldo Search",
-  "Gremlins 2: The New Batch",
-  "Gun-Nac",
-  "Hammerin' Harry",
-  "Harlem Globetrotters",
-  "Heavy Shreddin'",
-  "High Speed",
-  "Hoops",
-  "Impossible Mission II",
-  "The Incredible Crash Dummies",
-  "Indiana Jones and the Last Crusade",
-  "Indiana Jones and the Temple of Doom",
-  "Infiltrator",
-  "International Cricket",
-  "Isolated Warrior",
-  "James Bond Jr",
-  "The Jetsons: Cogswell's Caper",
-  "Jimmy Connors Tennis",
-  "John Elway's Quarterback",
-  "Joshua & the Battle of Jericho",
-  "Journey to Silius",
-  "Jovial Race",
-  "Kick Off",
-  "Kickle Cubicle",
-  "Kid Kool and the Quest for the Seven Wonder Herbs",
-  "Kid Niki: Radical Ninja",
-  "King Neptune's Adventure",
-  "King of Kings: The Early Years",
-  "Kings of the Beach",
-  "Kiwi Kraze: A Bird-Brained Adventure!",
-  "Klash Ball",
-  "Knight Rider",
-  "Laser Invasion",
-  "Lee Trevino's Fighting Golf",
-  "The Legend of Prince Valiant",
-  "Legendary Wings",
-  "Ghost Lion",
-  "Linus Spacehead's Cosmic Crusade",
-  "Little Ninja Brothers",
-  "Little Red Hood",
-  "The Lone Ranger",
-  "Loopz",
-  "M.U.S.C.L.E.",
-  "Mad Max",
-  "Magic Darts",
-  "Skate or Die 2: The Search for Double Trouble",
-  "Magic Johnson's Fast Break",
-  "Major League Baseball",
-  "Mappy-Land",
-  "Master Chu and the Drunkard Hu",
-  "Mechanized Attack",
-  "Menace Beach",
-  "Town & Country Surf Designs II: Thrilla's Surfari",
-  "Tecmo Super Bowl",
-  "Dance Aerobics",
-  "Donkey Kong Classics",
-  "Donkey Kong Jr. Math",
-  "Dr. Chaos",
-  "Dragon Fighter",
-  "Eliminator: Boat Duel",
-  "Genghis Khan",
-  "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
-  "Krazy Kreatures",
-  "The Krion Conquest",
-  "L'Empereur",
-  "Mermaids of Atlantis: The Riddle of the Magic Bubble",
-  "Metal Fighter",
-  "Metal Storm",
-  "Mickey's Adventure in Numberland",
-  "Mickey's Safari in Letterland",
-  "Mig 29 Soviet Fighter",
-  "Mighty Final Fight",
-  "Mission Cobra",
-  "Monster in My Pocket",
-  "P.O.W.: Prisoners of War",
-  "Monster Party",
-  "Monster Truck Rally",
-  "Moon Ranger",
-  "Motor City Patrol",
-  "Muppet Adventure: \"Chaos at the Carnival\"",
-  "The Mutant Virus: \"Crisis in a Computer World!\"",
-  "Mystery Quest",
-  "NARC",
-  "NES Open Tournament Golf",
-  "NES Play Action Football",
-  "NFL",
-  "Nigel Mansell's World Championship Racing",
-  "Nightshade",
-  "Ninja Crusaders",
-  "Ninja Kid",
-  "Nintendo World Championships 1990",
-  "Noah's Ark",
-  "Nobunaga's Ambition",
-  "North and South",
-  "Operation Secret Storm",
-  "Orb-3D",
-  "Othello",
-  "Over Horizon",
-  "Overlord",
-  "Parodius",
-  "Fox's Peter Pan & the Pirates: The Revenge of Captain Hook",
-  "Phantom Fighter",
-  "Pictionary: The Game of Video Quick Draw",
-  "PinBot",
-  "Pipe Dream",
-  "Pirates!",
-  "Platoon",
-  "Power Blade 2",
-  "Power Punch II",
-  "P'radikus Conflict",
-  "Princess Tomato in the Salad Kingdom",
-  "Pro Sport Hockey",
-  "Punch-Out!!",
-  "Puss 'n Boots: Pero's Great Adventure",
-  "Puzzle",
-  "Puzznic",
-  "Pyramid",
-  "Q*bert",
-  "Qix",
-  "Quattro Adventure",
-  "Quattro Arcade",
-  "Quattro Sports",
-  "R.B.I. Baseball",
-  "R.B.I. Baseball 3",
-  "R.C. ProAm II",
-  "Race America",
-  "Racket Attack",
-  "Rackets & Rivals",
-  "Rad Racket: Deluxe Tennis II",
-  "Raid 2020",
-  "Raid on Bungeling Bay",
-  "Rally Bike",
-  "Rambo",
-  "Rampart",
-  "Remote Control",
-  "The Ren & Stimpy Show: Buckeroo$!",
-  "Ring King",
-  "Road Fighter",
-  "Road Runner",
-  "RoadBlasters",
-  "Robodemons",
-  "Rock 'n' Ball",
-  "The Rocketeer",
-  "RodLand",
-  "Rollerball",
-  "Rollerblade Racer",
-  "Rolling Thunder",
-  "Romance of the Three Kingdoms II",
-  "Roundball: 2 on 2 Challenge",
-  "S.C.A.T.: Special Cybernetic Attack Team",
-  "Zombie Nation",
-  "Secret Scout in the Temple of Demise",
-  "Section-Z",
-  "Seicross",
-  "Sesame Street: Big Bird's Hide & Speak",
-  "Sesame Street 1 2 3",
-  "Sesame Street A-B-C and 1-2-3",
-  "Sesame Street A B C",
-  "Sesame Street Countdown",
-  "Shadow of the Ninja",
-  "Shooting Range",
-  "Short Order - Egg-splode!",
-  "Silent Assault",
-  "Silent Service",
-  "Silk Worm",
-  "The Simpsons: Bartman Meets Radioactive Man",
-  "Ski or Die",
-  "Skull & Crossbones",
-  "Sky Shark",
-  "The Smurfs",
-  "Soccer",
-  "Solar Jetman: Hunt for the Golden Warpship",
-  "Solitaire",
-  "Solomon's Key",
-  "Solstice: The Quest for the Staff of Demnos",
-  "Space Shuttle Project",
-  "Spelunker",
-  "Spiritual Warfare",
-  "Spy Hunter",
-  "Sqoon",
-  "Stack-Up",
-  "Stanley: The Search for Dr. Livingston",
-  "Star Force",
-  "Star Soldier",
-  "Star Trek: The Next Generation",
-  "Star Voyager",
-  "Starship Hector",
-  "Stealth ATF",
-  "Stinger",
-  "Street Cop",
-  "Stunt Kids",
-  "Sunday Funday: The Ride",
-  "Super Glove Ball",
-  "Super Jeopardy!",
-  "Super Pitfall",
-  "Super Sprint",
-  "Super Team Games",
-  "Super Turrican",
-  "Swords and Serpents",
-  "Tagin' Dragon",
-  "Target: Renegade",
-  "Tecmo Baseball",
-  "Tecmo Cup Soccer Game",
-  "Tecmo NBA Basketball",
-  "Tecmo World Cup Soccer",
-  "Teenage Mutant Ninja Turtles: Tournament Fighters",
-  "Terminator 2: Judgment Day",
-  "Tetris 2",
-  "The Three Stooges",
-  "Thunder & Lightning",
-  "Thundercade",
-  "Tiles of Fate",
-  "Tiny Toon Adventures 2: Trouble in Wackyland",
-  "Tiny Toon Adventures Cartoon Workshop",
-  "Toki",
-  "Tom & Jerry",
-  "Tombs & Treasure",
-  "Toobin'",
-  "Total Funpak",
-  "Touchdown Fever",
-  "Treasure Master",
-  "Twin Eagle",
-  "Twin Cobra",
-  "Arkanoid",
-  "Trog!",
-  "Trolls on Treasure Island",
-  "Ufouria: The Saga",
-  "Ultimate Air Combat",
-  "Ultimate Basketball",
-  "Ultimate League Soccer",
-  "The Ultimate Stuntman",
-  "Uncharted Waters",
-  "Uninvited",
-  "The Untouchables",
-  "Vegas Dream",
-  "Venice Beach Volleyball",
-  "Vice: Project Doom",
-  "Videomation",
-  "Volleyball",
-  "Wacky Races",
-  "Wall Street Kid",
-  "Wally Bear and the NO! Gang",
-  "Wario's Woods",
-  "Wayne Gretzky Hockey",
-  "Werewolf: The Last Warrior",
-  "Wheel of Fortune: Family Edition",
-  "Where in Time Is Carmen Sandiego?",
-  "Where's Waldo?",
-  "Who Framed Roger Rabbit",
-  "Whomp 'Em",
-  "Widget",
-  "Winter Games",
-  "World Champ",
-  "World Games",
-  "WWF WrestleMania",
-  "WWF WrestleMania Challenge",
-  "SonSon",
-  "Super Dyna'mix Badminton",
-  "The Young Indiana Jones Chronicles",
-  "The Last Starfighter",
-  "Legends of the Diamond",
-  "Hatris",
-  "FireHawk",
-  "Freedom Force",
-  "Zen: Intergalactic Ninja",
-  "Digger T. Rock: The Legend of the Lost City",
-  "Fisher-Price: I Can Remember",
-  "Hot Slots",
-  "Fisher-Price: Firehouse Rescue",
-  "The Terminator",
-  "Ivan \"Ironman\" Stewart's Super Off Road",
-  "Star Luster",
-  "Zelda II: The Adventure of Link",
-  "Batman Returns",
-  "Wheel of Fortune",
-  "Battletoads",
-  "Wayne's World",
-  "Battletoads & Double Dragon",
-  "Toxic Crusaders",
-  "The Punisher",
-  "The Immortal",
-  "The Hunt for Red October",
-  "The Fantastic Adventures of Dizzy",
-  "TaleSpin",
-  "Superman",
-  "MsPac-Man",
-  "Captain America and the Avengers",
-  "Castlevania: Chorus of Mysteries",
-  "Jurassic Park",
-  "Joust",
-  "Jordan Vs Bird: One on One",
-  "Jeopardy!",
-  "Home Alone",
-  "Ghostbusters",
-  "Final Fantasy",
-  "Commando",
-  "Defender II",
-  "Aladdin",
-  "The Jungle Book",
-  "Dragon's Lair",
-  "Family Feud",
-  "Prince of Persia",
-  "RoboCop 3",
-  "Shinobi",
-  "Strider",
-  "After Burner (Tengen)",
-  "Mother",
-  "1942",
-  "Fantasy Zone (SunSoft)",
-  "Formula One: Built to Win",
-  "American Gladiators",
-  "Super Mario Bros. - Duck Hunt",
-  "Banana Prince",
-  "Last Action Hero",
-  "Baseball Stars II",
-  "Battle City",
-  "Challenge of the Dragon",
-  "Bo Jackson Baseball",
-  "Bubble Bobble",
-  "Corvette ZR-1 Challenge",
-  "Crackout",
-  "Crash 'n' the Boys: Street Challenge",
-  "Darkman",
-  "Devil World",
-  "Ferrari Grand Prix Challenge",
-  "Final Fantasy II",
-  "Final Fantasy III",
-  "Fire Emblem",
-  "Sangokushi: Chi Bi Zhi Zhan",
-  "The Flintstones: The Surprise at Dinosaur Peak!",
-  "G.I. Joe: The Atlantis Factor",
-  "Wheel of Fortune Featuring Vanna White",
-  "Nobunaga's Ambition II",
-  "Goal! 2",
-  "Golf Grand Slam",
-  "Hook",
-  "Konami Hyper Soccer",
-  "Krusty's Fun House",
-  "Lethal Weapon",
-  "The Lion King",
-  "Little League Baseball: Championship Series",
-  "Magic Block",
-  "Magic Jewelry 2",
-  "Master Fighter II",
-  "Michael Andretti's World GP",
-  "New Ghostbusters II",
-  "Pac-Mania",
-  "Palamedes",
-  "Parasol Stars: Rainbow Islands II",
-  "Peek-A-Boo Poker",
-  "Arctic Adventure: Penguin & Seal",
-  "Fisher-Price: Perfect Fit",
-  "Probotector",
-  "Probotector II: Return of the Evil Forces",
-  "RoboCop 2",
-  "Roger Clemens' MVP Baseball",
-  "Jeopardy! Junior Edition",
-  "Shufflepuck Cafe",
-  "Silva Saga",
-  "WWF King of the Ring",
-  "Bio Miracle Bokutte Upa",
-  "The Goonies",
-  "Battle Kid: Fortress of Peril",
-  "Terra Cresta",
-  "Captain Tsubasa II: Super Striker",
-  "Super Black Onyx",
-  "STED: Iseki Wakusei no Yabou",
-  "The California Raisins: The Grape Escape",
-  "Greg Norman's Golf Power",
-  "Super Cars",
-  "Chris Evert & Ivan Lendl in Top Players' Tennis",
-  "Talking Super Jeopardy!",
-  "Perman: Enban o Torikaese!!",
-  "Sky Destroyer",
-  "Dragon Power",
-  "Don Doko Don 2",
-  "Kyatto Ninden Teyandee",
-  "Grand Master",
-  "Fire Emblem Gaiden",
-  "Dig Dug",
-  "Super Mario Bros. 3 Mix",
-  "Mike Tyson's Punch-Out!!",
-  "Super Mario Bros. - Duck Hunt - World Class Track Meet",
-  "Jeopardy! 25th Anniversary Edition",
-  "Holy Diver",
-  "Akumajou Special: Boku Dracula-kun",
-  "The Magic Candle",
-  "Auto-Upturn",
-  "Kamen Rider Club: Gekitotsu Shocker Land",
-  "Gargoyle's Quest II",
-  "Space Invaders",
-  "King Kong 2: Ikari no Megaton Punch",
-  "Squashed",
-  "Choplifter",
-  "Gradius II",
-  "The Bard's Tale II: The Destiny Knight",
-  "Sweet Home",
-  "Super Mario Fantasy Adventure",
-  "Ganbare Goemon!: Karakuri Douchuu",
-  "Ganbare Goemon 2",
-  "Famicom Wars",
-  "Cosmic Epsilon",
-  "EarthBound Zero",
-  "Musashi no Bouken",
-  "Minelvaton Saga",
-  "Radia Senki: Reimmeihen",
-  "Final Fantasy I∙II",
-  "Dragoon X Omega",
-  "Sukeban Deka III",
-  "Dragon Ball Z: Kyoushuu! Saiya Jin",
-  "Dragon Ball Z II: Gekishin Frieza!!",
-  "Dragon Ball Z Gaiden: Saiyajin Zetsumetsu Keikaku",
-  "Dragon Ball Z III: Ressen Jinzou Ningen",
-  "Dragon Ball: Daimaou Fukkatsu",
-  "Dragon Ball 3: Goku Den",
-  "Dragon Ball: Shenlong no Nazo",
-  "Nekketsu Kouha Kunio Kun",
-  "Space Harrier",
-  "Bubble Bath Babes",
-  "Super Lode Runner II",
-  "Sakigake!! Otoko Juku: Shippuu Ichi Gou Sei",
-  "Super Mario Bros./Tetris/Nintendo World Cup",
-  "The Trolls in Crazyland",
-  "Choujikuu Yousai - Macross",
-  "Decathlon",
-  "Dizzy the Adventurer",
-  "Fire 'n Ice",
-  "Magical Jewelry",
-  "CrossFire",
-  "A Ressha de Ikou",
-  "Aa Yakyuu Jinsei Icchokusen",
-  "Ai Sensei No Oshiete: Watashi No Hoshi",
-  "Aigiina No Yogen: Balubalouk No Densetsu Yori",
-  "Mitsume Ga Tooru",
-  "Super Arabian",
-  "Super Rugby",
-  "Wanpaku Kokkun no Gourmet World",
-  "Doki! Doki! Yūenchi: Crazy Land Daisakusen",
-  "Antarctic Adventure",
-  "TwinBee",
-  "Mappy",
-  "Pooyan",
-  "Takahashi Meijin no Bug-tte Honey",
-  "B-Wings",
-  "Choujin Sentai Jetman",
-  "Destiny of an Emperor II",
-  "Kaiketsu Yancha maru 3: Taiketsu! Zōringen",
-  "Binary Land",
-  "Brush Roller",
-  "Digital Devil Monogatari: Megami Tensei",
-  "Digital Devil Monogatari: Megami Tensei II",
-  "Field Combat",
-  "Exerion",
-  "Saint Seiya: Ougon Densetsu",
-  "Saint Seiya: Ougon Densetsu Kanketsu Hen",
-  "Maxivision 15 in 1",
-  "World Class Track Meet",
-  "Hell Fighter",
-  "Adventure Island IV",
-  "Splatterhouse: Wanpaku Graffiti",
-  "Crisis Force",
-  "Sunman",
-  "Getsu Fuuma Den",
-  "Spartan X 2",
-  "Koko Adventure",
-  "D-Pad Hero 2",
-  "Shatterhand",
-  "Ys III: Wanderers from Ys",
-  "Ys II: Ancient Ys Vanished – The Final Chapter",
-  "Ys: Ancient Ys Vanished",
-  "Space Hunter",
-  "Dark Lord",
-  "Bio Senshi Dan: Increaser to no Tatakai",
-  "Cosmic Wars",
-  "Stargazers",
-  "Argus",
-  "Cocoron",
-  "Cosmo Police Galivan",
-  "Drac's Night Out",
-  "Juuouki",
-  "Arkanoid II",
-  "Mini Putt",
-  "Crash 'n the Boys: Ice Challenge",
-  "Summer Carnival '92: Recca",
-  "Popeye no Eigo Asobi",
-  "Captain Tsubasa",
-  "Warpman",
-  "F1 Race",
-  "Ikki",
-  "Sanrio Cup: Ponpon Volleyball",
-  "Sanrio Carnival",
-  "Sanrio Carnival 2",
-  "After Burner (SunSoft)",
-  "Dai-2-Ji Super Robot Taisen",
-  "Wai Wai World",
-  "Kyuukyoku Harikiri Stadium: Heisei Gannen Ban",
-  "Akira",
-  "American Dream",
-  "Ankoku Shinwa: Yamato Takeru Densetsu",
-  "Sengoku Denshou",
-  "Kunio-kun no Nekketsu Soccer League",
-  "Nekketsu Koukou Dodgeball Bu",
-  "Downtown Special: Kunio-kun no Jidaigeki Dayo Zenin Shuugou!",
-  "Ike Ike! Nekketsu Hockey Bu: Subette Koronde Dairantou",
-  "Big Nose and the Witchdoctor",
-  "Taito Chase H.Q.",
-  "Don Doko Don",
-  "Chaos World",
-  "Minna no Tabou no Nakayoshi Daisakusen",
-  "Captain Silver",
-  "Fantasy Zone 2: Opa-Opa no Namida",
-  "Galaxian",
-  "Hello Kitty no Hanabatake",
-  "Hello Kitty World",
-  "Hokuto no Ken",
-  "Hokuto no Ken 2 - Seikimatsu Kyuuseishu Densetsu",
-  "Insector X",
-  "Mappy Kids",
-  "Mario Bros. Classic",
-  "Miracle Ropitt: 2100-nen no Daibouken",
-  "Wizardry 3: Legacy of Llylgamyn",
-  "Zombie Hunter",
-  "1991 Du Ma Racing",
-  "Akumajou Densetsu",
-  "Magic Cube",
-  "Tetris (Tengen)",
-  "Star Wars (Namco)",
-  "Sugoro Quest: Dice no Senshi Tachi",
-  "Moon Crystal",
-  "Heracles no Eikou II: Titan no Metsubou",
-  "Spelunker II: Yuushahe no Chousen",
-  "Stick Hunter: Exciting Ice Hockey",
-  "Square no Tom Sawyer",
-  "The Adventures of Dr. Franken",
-  "Bad Dudes vs. Dragon Ninja",
-  "Blue Shadow",
-  "Dragon Wars",
-  "Arctic",
-  "Armadillo",
-  "Artelius",
-  "Asmik-kun Land",
-  "Baseball Fighter",
-  "Madoola no Tsubasa",
-  "Thexder",
-  "Ganbare Goemon Gaiden: Kieta Ougon Kiseru",
-  "Ganbare Goemon Gaiden 2: Tenka no Zaihou",
-  "Dream Master",
-  "Karateka",
-  "Jikuu Yuuden: Debias",
-  "Batsu & Terry",
-  "Booby Kids",
-  "Astro Fang: Super Machine",
-  "4 Nin Uchi Mahjong",
-  "1999: Hore, Mita koto ka! Seikimatsu",
-  "Akagawa Jirou no Yuurei Ressha",
-  "Akuma-kun: Makai no Wana",
-  "America Daitouryou Senkyo: United State Presidental Race",
-  "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
-  "Astro Robo SASA",
-  "Atlantis no Nazo",
-  "Attack Animal Gakuen",
-  "Woody Poko",
-  "World Boxing",
-  "Yie Ar Kung Fu",
-  "Youkai Club",
-  "Youkai Douchuuki",
-  "Yume Penguin Monogatari",
-  "Zippy Race",
-  "Zoids: Mokushiroku",
-  "Zoids: Chuuou Tairiku no Tatakai",
-  "Zoids 2: Zenebasu no Gyakushuu",
-  "Wit's",
-  "Wily & Light's Rockboard: That's Paradise!!",
-  "Valkyrie no Bōken: Toki no Kagi Densetsu",
-  "AV Bishoujo Senshi Girl Fighting",
-  "Bio Force Ape",
-  "Batman: Shadows of Gotham",
-  "Batman: The Video Game (Beta)",
-  "Chou Jinrou Senki Warwolf",
-  "Babel no Tou",
-  "Contra Spirits",
-  "Banana",
-  "Donald Duck",
-  "Ballblazer",
-  "Donkey Kong: Luigi Edition",
-  "Baltron",
-  "Dr. Luigi",
-  "Donkey Kong Country 4",
-  "Battle Baseball",
-  "Dragon Knife",
-  "Battle Fleet",
-  "Battle Stadium: Senbatsu Pro Yakyuu",
-  "Exploding Fist",
-  "Battle Storm",
-  "Fighting Hero",
-  "Final Fantasy VII",
-  "Donkey Kong: Pauline Edition",
-  "Fighting Hero III",
-  "Final Fight 3",
-  "Hitler no Fukkatsu: Top Secret",
-  "General's Son",
-  "Jurassic Boy 2",
-  "Kart Fighter",
-  "Lagrange Point",
-  "Mad City",
-  "Super Mario Kart",
-  "Master Fighter IV",
-  "Metroid: mOther",
-  "The Dragon",
-  "Mike Tyson's Intergalactic Power Punch",
-  "Mortal Kombat II",
-  "Mortal Kombat 2",
-  "Mortal Kombat II Special",
-  "Mortal Kombat 3",
-  "Motocross Champion",
-  "Nekketsu Street Basket: Ganbare Dunk Heroes",
-  "Panda Adventures",
-  "Parody World: Monster Party",
-  "Peach & Daisy: The Royal Games",
-  "Power Blazer",
-  "RoboCop Versus The Terminator",
-  "Somari",
-  "Street Heroes",
-  "Super Contra 7",
-  "Super Donkey Kong: Banana Boat",
-  "Super Luigi Bros.",
-  "SUPER MARIO BROS Special X1",
-  "Superman (Beta)",
-  "Gluk The Thunder Warrior",
-  "Time Diver: Eon Man",
-  "Transformers: Convoy no Nazo",
-  "World Heroes 2",
-  "Zelda: The Legend of Link",
-  "Power Peach Sis.",
-  "Mother 25th Anniversary Edition",
-  "Uchuu Keibitai SDF",
-  "Uchuusen Cosmo Carrier",
-  "Ultraman Club: Kaijuu Dai Kessen!!",
-  "Ultraman Club 2: Kaette Kita Ultraman Club",
-  "Ultraman Club 3: Mata Mata Shiyutsugeki!! Ultra Kyoudai",
-  "Urusei Yatsura: Lum's Wedding Bell",
-  "Ushio to Tora: Shinen no Daiyou",
-  "Utsurun Desu.: Kawauso Hawaii e Iku!!!",
-  "Mugen Senshi Valis",
-  "Venus Senki",
-  "Volguard II",
-  "Wagyan Land",
-  "Wagyan Land 2",
-  "Wagyan Land 3",
-  "Wai Wai World 2: SOS!! Parsley Jō",
-  "Be-Bop High School: Koukousei Gokuraku Densetsu",
-  "Best Play Pro Yakyuu",
-  "Best Play Pro Yakyuu '90",
-  "Best Play Pro Yakyuu II",
-  "Best Play Pro Yakyuu Special",
-  "Bikkuriman World: Gekitou Sei Senshi",
-  "Bird Week",
-  "Blodia Land: Puzzle Quest",
-  "Bloody Warriors: Shango no Gyakushuu",
-  "Bokosuka Wars",
-  "Cadillac",
-  "Captain Ed",
-  "Castle Quest",
-  "Chack'n Pop",
-  "Challenger",
-  "Championship Lode Runner",
-  "Chester Field: Ankoku Shin e no Chousen",
-  "Chiisana Obake: Acchi Socchi Kocchi",
-  "Chiyonofuji no Ooichou",
-  "Chuuka Taisen",
-  "Columbus: Ougon no Yoake",
-  "Crayon Shin-Chan: Ora to Poi Poi",
-  "Crazy Climber",
-  "Cycle Race: Road Man",
-  "Soccer League - Winner's Cup",
-  "Super Mario World",
-  "Hiryuu no Ken: Ougi no Sho",
-  "Hiryuu no Ken II: Dragon no Tsubasa",
-  "Hiryuu no Ken III: 5 Nin no Ryuu Senshi",
-  "Hiryuu no Ken Special: Fighting Wars",
-  "Hard Drivin'",
-  "HeroQuest",
-  "Ganbare Pennant Race!",
-  "Dai Meiro: Meikyuu no Tatsujin",
-  "Daisenryaku",
-  "Daiku no Gen-San 2: Akage no Dan no Gyakushuu",
-  "DAIVA Story 6: Imperial of Nirsartia",
-  "Battle Rush: Build Up Robot Tournament",
-  "Dragon Ball Z: Gekitō Tenkaichi Budōkai",
-  "J. League Super Top Players",
-  "SD Gundam: Gundam Wars",
-  "Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai",
-  "Ultraman Club: Supokon Fight!",
-  "De-Block",
-  "Mario Adventure",
-  "Street Fighter Zero 2 '97",
-  "Dough Boy",
-  "Exed Exes",
-  "Deep Dungeon III: Yuushi heno Tabi",
-  "Deep Dungeon IV: Kuro no Youjutsushi",
-  "Devilman",
-  "Dezaemon",
-  "Dokuganryu Masamune",
-  "Donald Land",
-  "Door Door",
-  "Doraemon",
-  "Doraemon: Giga Zombie no Gyakushuu",
-  "Double Moon Densetsu",
-  "Dragon Buster",
-  "Dragon Buster II: Yami no Fuuin",
-  "Dragon Scroll: Yomigaerishi Maryuu",
-  "Dungeon Kid",
-  "Dynamite Bowl",
-  "Eggerland: Meikyuu no Fukkatsu",
-  "Egypt",
-  "Elysion",
-  "Erika to Satoru no Yume Bōken",
-  "Elnark no Zaihou",
-  "Esper Boukentai",
-  "Esper Dream 2: Aratanaru Tatakai",
-  "Exciting Boxing",
-  "Ginga no Sannin",
-  "Ginga Eiyuu Densetsu",
-  "F1 Circus",
-  "Famicom Doubutsu Seitai Zukan! Katte ni Shirokuma: Mori o Sukue no Maki!",
-  "Famicom Jump: Hero Retsuden",
-  "Famicom Jump II: Saikyō no Shichinin",
-  "Family Circuit",
-  "Family Circuit '91",
-  "Family Quiz 4-nin wa Rival",
-  "Family Tennis",
-  "Famista '89 Kaimaku Ban!!",
-  "Famista '90",
-  "Famista '91",
-  "Famista '92",
-  "Famista '93",
-  "Famista '94",
-  "Fighting Road",
-  "Final Lap",
-  "Flappy",
-  "Fleet Commander",
-  "Flipull: An Exciting Cube Game",
-  "Flying Hero",
-  "Formation Z",
-  "Hikari no Senshi Photon: The Ultimate Game on Planet Earth",
-  "Front Line",
-  "Fushigi no Umi Nadia: The Secret of Blue Water",
-  "Fuzzical Fighter",
-  "Zunou Senkan Galg",
-  "Ganso Saiyuuki: Super Monkey Daibouken",
-  "Garfield no Isshukan: A Week of Garfield",
-  "Gegege no Kitarou 2: Youkai Gundan no Chousen",
-  "Geimos",
-  "Gekitotsu Yonku Battle",
-  "The Golf '92",
-  "Golf Club: Birdie Rush",
-  "Gorby no Pipeline Daisakusen",
-  "Gozonji: Yaji Kita Chin Douchuu",
-  "Great Battle Cyber",
-  "GunHed: Aratanaru Tatakai",
-  "Gyrodine",
-  "Haja no Fuuin",
-  "Hana no Star Kaidou",
-  "Hanjuku Hero",
-  "Heracles no Eikou: Toujin Makyouden",
-  "Hi no Tori Hououhen: Gaou no Bouken",
-  "Higemaru Makaijima: Nanatsu no Shima Daibouken",
-  "Hirake! Ponkikki",
-  "Hokuto no Ken 3: Shinseiki Souzou Seiken Retsuden",
-  "Hokuto no Ken 4: Shichisei Hakenden: Hokuto Shinken no Kanata e",
-  "Home Run Nighter: Pennant League!!",
-  "Home Run Night '90: The Pennant League",
-  "Heisei Tensai Bakabon",
-  "Penguin-kun Wars",
-  "Honoo no Doukyuuji: Dodge Danpei",
-  "Honoo no Doukyuuji: Dodge Danpei 2",
-  "Hoshi wo Miru Hito",
-  "Hottaman no Chisoko Tanken",
-  "Hyakkiyakou",
-  "Hydlide 3: Yami Kara no Houmonsha",
-  "Hyper Sports",
-  "I Love Softball",
-  "Thunder Blaster Man",
-  "Idol Hakkenden",
-  "Ikinari Musician",
-  "Indora no Hikari",
-  "Ishin no Arashi",
-  "J-League Fighting Soccer: The King of Ace Strikers",
-  "J-League Winning Goal",
-  "Jajamaru Gekimaden: Maboroshi no Kinmajou",
-  "JaJaMaru no Daibouken",
-  "Jajamaru Ninpou Chou",
-  "Ninja JaJaMaru-kun",
-  "Ninja Jajamaru: Ginga Daisakusen",
-  "Jarinko Chie: Bakudan Musume no Shiawase Sagashi",
-  "JESUS: Kyoufu no Bio Monster",
-  "JJ: Tobidase Daisakusen Part II",
-  "Jumpin' Kid: Jack to Mame no Ki Monogatari",
-  "Just Breed",
-  "Juvei Quest",
-  "Kagerou Densetsu",
-  "Kaguya Hime Densetsu",
-  "Kaijuu Monogatari",
-  "Kaiketsu Yancha Maru 2: Karakuri Land",
-  "Kamen no Ninja: Akakage",
-  "Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi",
-  "Karakuri Kengoden Musashi Lord: Karakuri Jin Hashiru!",
-  "Kawa no Nushi Tsuri",
-  "Keroppi to Keroriinu no Splash Bomb!",
-  "Kujaku Ou",
-  "Kujaku Ou II",
-  "Kouryu Densetsu Villgust Gaiden",
-  "Kyouryuu Sentai Zyuranger",
-  "Labyrinth",
-  "Last Armageddon",
-  "Law of the West",
-  "Layla",
-  "Little Magic",
-  "TM Network: Live in Power Bowl",
-  "Lost Word of JeNnY: Ushinawareta Message",
-  "Lupin III: Pandora no Isan",
-  "Magical * Taruruuto-kun: Fantastic World!!",
-  "Magical * Taruruuto-kun 2: Mahou Daibouken",
-  "Magnum Kiki Ippatsu: Empire City 1931",
-  "MahaRaja",
-  "Majou Densetsu II: Daimashikyou Galious",
-  "Marusa no Onna",
-  "Majin Eiyuuden Wataru Gaiden",
-  "Metal Max",
-  "Super Maruo",
-  "Metro-Cross",
-  "Mindseeker",
-  "Mirai Senshi: Lios",
-  "Mirai Shinwa Jarvas",
-  "Moai Kun",
-  "Mobile Suit Z Gundam: Hot Scramble",
-  "Moero!! Judo Warriors",
-  "Momotarou Densetsu: Peach Boy Legend",
-  "Momotarou Densetsu Gaiden",
-  "Monster Maker: 7-tsu no Hihou",
-  "Mottomo Abunai Deka",
-  "Mouryou Senki Madara",
-  "Ms. Pac-Man (Tengen)",
-  "Musashi no Ken: Tadaima Shugyou Chuu",
-  "Nagagutsu o Haita Neko: Sekai Isshuu 80 Nichi Dai Bouken",
-  "Nakayoshi to Issho",
-  "Namco Classic",
-  "Namco Classic II",
-  "Napoleon Senki",
-  "Navy Blue",
-  "Nekketsu Kakutou Densetsu",
-  "Niji no Silkroad",
-  "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru",
-  "Ninja-Kun: Majou no Bouken",
-  "Ninja-kun: Ashura no Shou",
-  "Ninjara Hoi!",
-  "Nuts & Milk",
-  "Oishinbo: Kyukyoku no Menu 3bon Syoubu",
-  "Onyanko Town",
-  "Romancia",
-  "Route-16 Turbo",
-  "Saiyuuki World",
-  "Sanma no Meitantei",
-  "Sansara Naga",
-  "Seikima II: Akuma no Gyakushuu",
-  "Seirei Gari",
-  "Shadow Brain",
-  "Shanghai",
-  "Shanghai II",
-  "Sherlock Holmes: Hakushaku Reijou Yuukai Jiken",
-  "Shikinjou",
-  "Shinsenden",
-  "Super Pinball",
-  "Super Real Baseball '88",
-  "Super Star Force: Jikūreki no Himitsu",
-  "Super Xevious: GUMP no Nazo",
-  "Super Star Pro Wrestling",
-  "SWAT: Special Weapons and Tactics",
-  "Taito Grand Prix: Eikou heno License",
-  "Taiyou no Yuusha Fighbird",
-  "Takeshi no Chōsenjō",
-  "Tao",
-  "Tashiro Masashi no Princess ga Ippai",
-  "Tatakae!! Ramen-Man: Sakuretsu Choujin 102 Gei",
-  "Tenkaichi Bushi: Keru Naguuru",
-  "Terao no Dosukoi Oozumou",
-  "Tetrastar: The Fighter",
-  "Tetsuwan Atom",
-  "Time Zone",
-  "Titan",
-  "Tokoro-san no Mamoru mo Semeru mo",
-  "Top Rider",
-  "Top Striker",
-  "Toukon Club",
-  "The Tower of Druaga",
-  "Tsuppari Oozumou",
-  "Tsuppari Wars",
-  "TwinBee 3: Poko Poko Daimaō",
-  "SD Keiji: Blader",
-  "Metroid Deluxe",
-  "Rockman 4: Minus Infinity",
-  "Shin Samurai Spirits 2",
-  "Super Boogerman",
-  "Game Party",
-  "RacerMate Challenge II",
-  "Pac-Land",
-  "Parasol Henbee",
-  "Pizza Pop!",
-  "Puzslot",
-  "Alter Ego",
-  "Assimilate",
-  "Bomb Sweeper",
-  "Lan Master",
-  "Jet Paco",
-  "Multidude",
-  "NeSnake 2",
-  "Solar Wars",
-  "Streemerz",
-  "Super Painter",
-  "Super PakPak",
-  "Zooming Secretary",
-  "The NewZealand Story",
-  "Rockman: Deus Ex Machina",
-  "Chess Academy",
-  "Battle Kid 2: Mountain of Torment",
-  "Milionesy",
-  "Love Story",
-  "Function",
-  "Hot Logic",
-  "Mine Shaft",
-  "Super Bat Puncher",
-  "Great Deal",
-  "'89 Dennou Kyuusei Uranai",
-  "Miracle Piano Teaching System, The",
-  "Chuck Yeagar's Fighter Combat",
-  "Blood of Jurassic",
-  "Dream Fighter",
-  "Balloon Fight -Iwata Edition-",
-  "Outlanders",
-  "Argos No Senshi",
-  "Bomber King",
-  "Bakushou!! Jinsei Gekijou",
-  "Saiyuki World II - Evil Spirit of Heaven",
-  "Hokkaido Rensa Satsujin: Ohotsk ni Kiyu",
-  "Pro Baseball Family Stadium '87",
-  "The Portopia Serial Murder Case",
-  "Final Combat",
-  "Bio Hazard",
-  "Shadow Warriors",
-  "Magic John",
-  "Metal Slader Glory",
-  "D-Pad Hero",
-  "NES Virus Cleaner",
-  "Double Action 53 Volume TWO",
-  "Yousei Monogatari Rod Land",
-  "Pulsar no Hikari: Space Wars Simulation",
-  "The Quest of Ki",
-  "Star Versus",
-  "Kero Kero Keroppi no Daibouken",
-  "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi",
-  "Perman Part 2: Himitsu Kessha Madoodan wo Taose!",
-  "Parallel World",
-  "Puyo Puyo",
-  "SD Gundam Gaiden: Knight Gundam Monogatari",
-  "Soreike! Anpanman: Minna de Hiking Game!",
-  "Tenchi wo Kurau II: Shokatsu Koumei Den",
-  "Super Rescue Solbrain",
-  "Otaku no Seiza: An Adventure in the Otaku Galaxy",
-  "Quarth",
-  "The Legend of Zelda: Outlands",
-  "Street Gangs",
-  "Airwolf (Kyugo)",
-  "Alien 3",
-  "Wonderland Dizzy",
-  "Street Fighter II",
-  "Nakayama Miho no Tokimeki High School",
-  "Boogerman II : The Final Adventure",
-  "Castlevania: Orchestra of Despair",
-  "Happy Camper",
-  "Dragoon X Omega II",
-  "The King of Fighters '96",
-  "The King of Fighters '97",
-  "Linzexu Banned the Opium",
-  "Castlevania Reborn",
-  "Castlevania: Blood Moon",
-  "Downtown Nekketsu Monogatari",
-  "Nekketsu Koukou Dodgeball Bu: Soccer Hen",
-  "Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai",
-  "Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal",
-  "Family Jockey",
-  "Hototogisu",
-  "Jumbo Ozaki no Hole in One Professional",
-  "Pocket Zaurus Juu Ouken no Nazo",
-  "Extra Mario Bros",
-  "Kamen no Ninja Hanamaru",
-  "Mickey Mouse 3: Yume Fuusen",
-  "Robocco Wars",
-  "Hebereke",
-  "Pac-Man",
-  "Driar",
-  "Sir Ababol",
-  "Steemerz",
-  "Tiger Jenny",
-  "D.J. Boy",
-  "Bingo 75",
-  "Titan Warriors",
-  "Derby Stallion Zengokuban",
-  "Magical Kid's Doropie",
-  "Hayauchi Suupaa Igo",
-  "Gaiapolis",
-  "Arcadia VI",
-  "Policeman",
-  "Challenge of the Dragon (Sachen)",
-  "Justice Pao",
-  "Sidewinder",
-  "Action in New York",
-  "Moeru! Oni-san",
-  "The Triathron",
-  "Metal Force",
-  "Titenic",
-  "Titanic",
-  "Big TV Mary Bar",
-  "Zhen Ben Xi You Ji",
-  "The Universe Soldiers",
-  "Sea of Dreamland",
-  "Rumble Station - 15 in 1",
-  "Pegasus 5 in 1",
-  "Pegasus 4 in 1",
-  "Mind Blower Pak",
-  "Mahjong Block",
-  "M82 Game Selectable Working Product Display",
-  "Jackpot",
-  "Go! Benny!",
-  "Fun Blaster Pak",
-  "Crime Busters",
-  "Creatom",
-  "Star Trek V: The Final Frontier",
-  "Reggie's Radical Adventure",
-  "Toad's Adventure",
-  "Rod Land Featuring Rit And Tam",
-  "Duck Tales 2",
-  "Super Mario USA",
-  "Super Mario Bros. 2 (Japan)",
-  "Vs. Super Mario Bros.",
-  "GeGeGe no Kitaro - Yokai Daimakyo",
-  "Blade Buster",
-  "City Adventure Touch: Mystery of Triangle",
-  "Cosmos Cop",
-  "Daikaijuu Deburas",
-  "The Escape From Atlantis",
-  "Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data",
-  "Kyuukyoku Harikiri Stadium III",
-  "Kyuukyoku Harikiri Stadium",
-  "Makai Island",
-  "Honey Peach",
-  "Ninja Cop Saizou",
-  "Perfect Bowling",
-  "Power Soccer",
-  "Pro Yakyuu Family Stadium '88",
-  "Rockball",
-  "Saiyuki World 2: Tenjokai no Majin",
-  "Nakajima Satoru: F-1 Hero",
-  "Nakajima Satoru: F-1 Hero 2",
-  "Nakajima Satoru: F1 Hero 2",
-  "SD Battle Oozumou: Heisei Hero Basho",
-  "SD Hero Soukessen: Taose! Aku no Gundan",
-  "Silkworm",
-  "Silver Eagle",
-  "Super Robin Hood",
-  "3-d battles of world runner",
-  "Duck Tales",
-  "Super Mario Bros. 4"
-]
+{
+  "tgbd_id": 7,
+  "tgdb_alias": "nintendo-entertainment-system-nes",
+  "name": "Nintendo Entertainment System (NES)",
+  "titles": [
+    {
+      "tgdb_id": 5,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 76,
+      "title": "Bionic Commando"
+    },
+    {
+      "tgdb_id": 112,
+      "title": "Super Mario Bros. 3"
+    },
+    {
+      "tgdb_id": 113,
+      "title": "The Legend of Zelda"
+    },
+    {
+      "tgdb_id": 121,
+      "title": "Kirby's Adventure"
+    },
+    {
+      "tgdb_id": 123,
+      "title": "Metroid"
+    },
+    {
+      "tgdb_id": 125,
+      "title": "Mega Man 5"
+    },
+    {
+      "tgdb_id": 130,
+      "title": "Kid Icarus"
+    },
+    {
+      "tgdb_id": 133,
+      "title": "Lemmings"
+    },
+    {
+      "tgdb_id": 135,
+      "title": "Castlevania"
+    },
+    {
+      "tgdb_id": 140,
+      "title": "Super Mario Bros."
+    },
+    {
+      "tgdb_id": 171,
+      "title": "Super Mario Bros. 2"
+    },
+    {
+      "tgdb_id": 189,
+      "title": "Mario Bros."
+    },
+    {
+      "tgdb_id": 205,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 208,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 211,
+      "title": "Rad Racer"
+    },
+    {
+      "tgdb_id": 212,
+      "title": "Chubby Cherub"
+    },
+    {
+      "tgdb_id": 213,
+      "title": "Excitebike"
+    },
+    {
+      "tgdb_id": 314,
+      "title": "Super Spike V-Ball & Nintendo World Cup"
+    },
+    {
+      "tgdb_id": 315,
+      "title": "3-D WorldRunner"
+    },
+    {
+      "tgdb_id": 316,
+      "title": "8 Eyes"
+    },
+    {
+      "tgdb_id": 317,
+      "title": "10-Yard Fight"
+    },
+    {
+      "tgdb_id": 321,
+      "title": "Wrecking Crew"
+    },
+    {
+      "tgdb_id": 322,
+      "title": "Wrath of the Black Manta"
+    },
+    {
+      "tgdb_id": 323,
+      "title": "Wolverine"
+    },
+    {
+      "tgdb_id": 324,
+      "title": "Track & Field II"
+    },
+    {
+      "tgdb_id": 325,
+      "title": "Track & Field"
+    },
+    {
+      "tgdb_id": 326,
+      "title": "720 Degrees"
+    },
+    {
+      "tgdb_id": 327,
+      "title": "The Adventures of Bayou Billy"
+    },
+    {
+      "tgdb_id": 328,
+      "title": "Adventures of Lolo"
+    },
+    {
+      "tgdb_id": 329,
+      "title": "Airwolf (Acclaim)"
+    },
+    {
+      "tgdb_id": 330,
+      "title": "Asterix"
+    },
+    {
+      "tgdb_id": 331,
+      "title": "Back to the Future Part II & III"
+    },
+    {
+      "tgdb_id": 332,
+      "title": "Bad Dudes"
+    },
+    {
+      "tgdb_id": 333,
+      "title": "Balloon Fight"
+    },
+    {
+      "tgdb_id": 334,
+      "title": "The Bard's Tale"
+    },
+    {
+      "tgdb_id": 335,
+      "title": "Baseball"
+    },
+    {
+      "tgdb_id": 336,
+      "title": "Bases Loaded II: Second Season"
+    },
+    {
+      "tgdb_id": 337,
+      "title": "Batman: The Video Game"
+    },
+    {
+      "tgdb_id": 338,
+      "title": "Castlevania II: Simon's Quest"
+    },
+    {
+      "tgdb_id": 339,
+      "title": "Castlevania III: Dracula's Curse"
+    },
+    {
+      "tgdb_id": 340,
+      "title": "Clu Clu Land"
+    },
+    {
+      "tgdb_id": 341,
+      "title": "Crystalis"
+    },
+    {
+      "tgdb_id": 342,
+      "title": "Double Dragon II: The Revenge"
+    },
+    {
+      "tgdb_id": 343,
+      "title": "Double Dribble"
+    },
+    {
+      "tgdb_id": 344,
+      "title": "Dr. Mario"
+    },
+    {
+      "tgdb_id": 345,
+      "title": "Dragon Warrior"
+    },
+    {
+      "tgdb_id": 346,
+      "title": "Duck Hunt"
+    },
+    {
+      "tgdb_id": 347,
+      "title": "Dynowarz: Destruction of Spondylus"
+    },
+    {
+      "tgdb_id": 348,
+      "title": "Elevator Action"
+    },
+    {
+      "tgdb_id": 349,
+      "title": "Ghosts 'n Goblins"
+    },
+    {
+      "tgdb_id": 350,
+      "title": "Golf"
+    },
+    {
+      "tgdb_id": 351,
+      "title": "Gumshoe"
+    },
+    {
+      "tgdb_id": 352,
+      "title": "Heavy Barrel"
+    },
+    {
+      "tgdb_id": 353,
+      "title": "Hudson Hawk"
+    },
+    {
+      "tgdb_id": 354,
+      "title": "Jackal"
+    },
+    {
+      "tgdb_id": 355,
+      "title": "King's Knight"
+    },
+    {
+      "tgdb_id": 356,
+      "title": "Low G Man: The Low Gravity Man"
+    },
+    {
+      "tgdb_id": 357,
+      "title": "Lunar Pool"
+    },
+    {
+      "tgdb_id": 358,
+      "title": "Mach Rider"
+    },
+    {
+      "tgdb_id": 359,
+      "title": "Marble Madness"
+    },
+    {
+      "tgdb_id": 360,
+      "title": "Mega Man"
+    },
+    {
+      "tgdb_id": 361,
+      "title": "Mega Man 2"
+    },
+    {
+      "tgdb_id": 362,
+      "title": "Mega Man 3"
+    },
+    {
+      "tgdb_id": 32969,
+      "title": "Rockman No Constancy"
+    },
+    {
+      "tgdb_id": 363,
+      "title": "Mega Man 4"
+    },
+    {
+      "tgdb_id": 364,
+      "title": "Mega Man 6"
+    },
+    {
+      "tgdb_id": 32968,
+      "title": "Mega Man Ultra"
+    },
+    {
+      "tgdb_id": 365,
+      "title": "Metal Gear"
+    },
+    {
+      "tgdb_id": 366,
+      "title": "Snake's Revenge"
+    },
+    {
+      "tgdb_id": 367,
+      "title": "Mission: Impossible"
+    },
+    {
+      "tgdb_id": 368,
+      "title": "MULE"
+    },
+    {
+      "tgdb_id": 370,
+      "title": "Ninja Gaiden II: The Dark Sword of Chaos"
+    },
+    {
+      "tgdb_id": 371,
+      "title": "Paperboy"
+    },
+    {
+      "tgdb_id": 372,
+      "title": "Pinball"
+    },
+    {
+      "tgdb_id": 373,
+      "title": "Pinball Quest"
+    },
+    {
+      "tgdb_id": 374,
+      "title": "Predator"
+    },
+    {
+      "tgdb_id": 375,
+      "title": "RoboCop"
+    },
+    {
+      "tgdb_id": 376,
+      "title": "Rush'n Attack"
+    },
+    {
+      "tgdb_id": 378,
+      "title": "SkyKid"
+    },
+    {
+      "tgdb_id": 379,
+      "title": "Slalom"
+    },
+    {
+      "tgdb_id": 380,
+      "title": "Spider-Man: Return of the Sinister Six"
+    },
+    {
+      "tgdb_id": 381,
+      "title": "Star Wars"
+    },
+    {
+      "tgdb_id": 382,
+      "title": "Super Spy Hunter"
+    },
+    {
+      "tgdb_id": 383,
+      "title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "tgdb_id": 384,
+      "title": "Tennis"
+    },
+    {
+      "tgdb_id": 385,
+      "title": "The Battle of Olympus"
+    },
+    {
+      "tgdb_id": 387,
+      "title": "Tiger-Heli"
+    },
+    {
+      "tgdb_id": 388,
+      "title": "Time Lord"
+    },
+    {
+      "tgdb_id": 389,
+      "title": "Top Gun"
+    },
+    {
+      "tgdb_id": 458,
+      "title": "Bram Stoker's Dracula"
+    },
+    {
+      "tgdb_id": 2835,
+      "title": "Klax"
+    },
+    {
+      "tgdb_id": 36585,
+      "title": "Happily Ever After"
+    },
+    {
+      "tgdb_id": 955,
+      "title": "Lode Runner"
+    },
+    {
+      "tgdb_id": 970,
+      "title": "Smash T.V."
+    },
+    {
+      "tgdb_id": 1018,
+      "title": "1943: The Battle of Midway"
+    },
+    {
+      "tgdb_id": 1019,
+      "title": "A Nightmare on Elm Street"
+    },
+    {
+      "tgdb_id": 1020,
+      "title": "Advanced Dungeons & Dragons: Dragons of Flame"
+    },
+    {
+      "tgdb_id": 1021,
+      "title": "Advanced Dungeons & Dragons: Heroes of the Lance"
+    },
+    {
+      "tgdb_id": 1023,
+      "title": "Adventure Island II"
+    },
+    {
+      "tgdb_id": 1024,
+      "title": "Adventures in the Magic Kingdom"
+    },
+    {
+      "tgdb_id": 1025,
+      "title": "Adventures of Lolo 3"
+    },
+    {
+      "tgdb_id": 1026,
+      "title": "Airball"
+    },
+    {
+      "tgdb_id": 1027,
+      "title": "Al Unser Jr. Turbo Racing"
+    },
+    {
+      "tgdb_id": 1028,
+      "title": "Arkista's Ring"
+    },
+    {
+      "tgdb_id": 1029,
+      "title": "Astyanax"
+    },
+    {
+      "tgdb_id": 1030,
+      "title": "Back to the Future"
+    },
+    {
+      "tgdb_id": 1031,
+      "title": "Cyber Stadium Series: Base Wars"
+    },
+    {
+      "tgdb_id": 1032,
+      "title": "Bases Loaded"
+    },
+    {
+      "tgdb_id": 1033,
+      "title": "Bases Loaded 3"
+    },
+    {
+      "tgdb_id": 1034,
+      "title": "Batman: Return of the Joker"
+    },
+    {
+      "tgdb_id": 1036,
+      "title": "Best of the Best: Championship Karate"
+    },
+    {
+      "tgdb_id": 1037,
+      "title": "Blades of Steel"
+    },
+    {
+      "tgdb_id": 1038,
+      "title": "Blaster Master"
+    },
+    {
+      "tgdb_id": 1039,
+      "title": "The Blues Brothers"
+    },
+    {
+      "tgdb_id": 1040,
+      "title": "Bomberman"
+    },
+    {
+      "tgdb_id": 1041,
+      "title": "Boulder Dash"
+    },
+    {
+      "tgdb_id": 1042,
+      "title": "A Boy and His Blob: Trouble on Blobolonia"
+    },
+    {
+      "tgdb_id": 1043,
+      "title": "Bubble Bobble: Part 2"
+    },
+    {
+      "tgdb_id": 1044,
+      "title": "Bucky O'Hare"
+    },
+    {
+      "tgdb_id": 1045,
+      "title": "Bump 'n' Jump"
+    },
+    {
+      "tgdb_id": 1048,
+      "title": "The Addams Family"
+    },
+    {
+      "tgdb_id": 1145,
+      "title": "Monopoly"
+    },
+    {
+      "tgdb_id": 1242,
+      "title": "Captain Skyhawk"
+    },
+    {
+      "tgdb_id": 1243,
+      "title": "Castelian"
+    },
+    {
+      "tgdb_id": 1244,
+      "title": "Castle of Dragon"
+    },
+    {
+      "tgdb_id": 1245,
+      "title": "Castlequest"
+    },
+    {
+      "tgdb_id": 1246,
+      "title": "Championship Bowling"
+    },
+    {
+      "tgdb_id": 1247,
+      "title": "Chiller"
+    },
+    {
+      "tgdb_id": 1248,
+      "title": "Chip 'N Dale Rescue Rangers"
+    },
+    {
+      "tgdb_id": 1249,
+      "title": "Chip 'N Dale Rescue Rangers 2"
+    },
+    {
+      "tgdb_id": 1250,
+      "title": "Clash at Demonhead"
+    },
+    {
+      "tgdb_id": 1256,
+      "title": "Code Name: Viper"
+    },
+    {
+      "tgdb_id": 1257,
+      "title": "Conquest of the Crystal Palace"
+    },
+    {
+      "tgdb_id": 1258,
+      "title": "Contra"
+    },
+    {
+      "tgdb_id": 1259,
+      "title": "Contra Force"
+    },
+    {
+      "tgdb_id": 1261,
+      "title": "Disney's Darkwing Duck"
+    },
+    {
+      "tgdb_id": 1262,
+      "title": "Deadly Towers"
+    },
+    {
+      "tgdb_id": 1263,
+      "title": "Defender of the Crown"
+    },
+    {
+      "tgdb_id": 1264,
+      "title": "Defenders of Dynatron City"
+    },
+    {
+      "tgdb_id": 1265,
+      "title": "Deja Vu"
+    },
+    {
+      "tgdb_id": 1266,
+      "title": "Demon Sword"
+    },
+    {
+      "tgdb_id": 1267,
+      "title": "Destiny of an Emperor"
+    },
+    {
+      "tgdb_id": 1268,
+      "title": "Dig Dug II: Trouble in Paradise"
+    },
+    {
+      "tgdb_id": 1269,
+      "title": "Donkey Kong 3"
+    },
+    {
+      "tgdb_id": 1270,
+      "title": "Donkey Kong Jr."
+    },
+    {
+      "tgdb_id": 1271,
+      "title": "Double Dragon III: The Sacred Stones"
+    },
+    {
+      "tgdb_id": 1272,
+      "title": "Dr. Jekyll and Mr. Hyde"
+    },
+    {
+      "tgdb_id": 1273,
+      "title": "Dragon Spirit: The New Legend"
+    },
+    {
+      "tgdb_id": 1274,
+      "title": "Dragon Warrior II"
+    },
+    {
+      "tgdb_id": 1275,
+      "title": "Dragon Warrior IV"
+    },
+    {
+      "tgdb_id": 1276,
+      "title": "DuckTales"
+    },
+    {
+      "tgdb_id": 1277,
+      "title": "Dudes with Attitude"
+    },
+    {
+      "tgdb_id": 1278,
+      "title": "StarTropics II: Zoda's Revenge"
+    },
+    {
+      "tgdb_id": 1279,
+      "title": "Yoshi"
+    },
+    {
+      "tgdb_id": 1280,
+      "title": "Xevious: The Avenger"
+    },
+    {
+      "tgdb_id": 1281,
+      "title": "Xexyz"
+    },
+    {
+      "tgdb_id": 1282,
+      "title": "Faria: A World of Mystery and Danger!"
+    },
+    {
+      "tgdb_id": 1283,
+      "title": "Faxanadu"
+    },
+    {
+      "tgdb_id": 1284,
+      "title": "Fester's Quest"
+    },
+    {
+      "tgdb_id": 1287,
+      "title": "Fist of the North Star"
+    },
+    {
+      "tgdb_id": 1288,
+      "title": "The Flintstones: The Rescue of Dino & Hoppy"
+    },
+    {
+      "tgdb_id": 1289,
+      "title": "Friday the 13th"
+    },
+    {
+      "tgdb_id": 1291,
+      "title": "Gauntlet"
+    },
+    {
+      "tgdb_id": 1293,
+      "title": "The Adventures of Gilligan's Island"
+    },
+    {
+      "tgdb_id": 1294,
+      "title": "Goal!"
+    },
+    {
+      "tgdb_id": 1295,
+      "title": "Golgo 13: Top Secret Episode"
+    },
+    {
+      "tgdb_id": 1296,
+      "title": "The Goonies II"
+    },
+    {
+      "tgdb_id": 1297,
+      "title": "Gradius"
+    },
+    {
+      "tgdb_id": 1298,
+      "title": "The Guardian Legend"
+    },
+    {
+      "tgdb_id": 1299,
+      "title": "Guerrilla War"
+    },
+    {
+      "tgdb_id": 1300,
+      "title": "Gun.Smoke"
+    },
+    {
+      "tgdb_id": 1301,
+      "title": "Gyromite"
+    },
+    {
+      "tgdb_id": 1302,
+      "title": "Gyruss"
+    },
+    {
+      "tgdb_id": 1304,
+      "title": "River City Ransom"
+    },
+    {
+      "tgdb_id": 1305,
+      "title": "Ninja Gaiden"
+    },
+    {
+      "tgdb_id": 1429,
+      "title": "The Mafat Conspiracy"
+    },
+    {
+      "tgdb_id": 1430,
+      "title": "Magician"
+    },
+    {
+      "tgdb_id": 1317,
+      "title": "Hogan's Alley"
+    },
+    {
+      "tgdb_id": 1320,
+      "title": "Pro Wrestling"
+    },
+    {
+      "tgdb_id": 1321,
+      "title": "Nintendo World Cup"
+    },
+    {
+      "tgdb_id": 1322,
+      "title": "Hollywood Squares"
+    },
+    {
+      "tgdb_id": 1323,
+      "title": "Home Alone 2: Lost in New York"
+    },
+    {
+      "tgdb_id": 1325,
+      "title": "Hydlide"
+    },
+    {
+      "tgdb_id": 1326,
+      "title": "Ice Climber"
+    },
+    {
+      "tgdb_id": 1327,
+      "title": "Ikari Warriors"
+    },
+    {
+      "tgdb_id": 1328,
+      "title": "Ikari Warriors II: Victory Road"
+    },
+    {
+      "tgdb_id": 1329,
+      "title": "Ikari III: The Rescue"
+    },
+    {
+      "tgdb_id": 1330,
+      "title": "Iron Tank: The Invasion of Normandy"
+    },
+    {
+      "tgdb_id": 1331,
+      "title": "Wizards & Warriors II: IronSword"
+    },
+    {
+      "tgdb_id": 1356,
+      "title": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "tgdb_id": 1373,
+      "title": "Air Fortress"
+    },
+    {
+      "tgdb_id": 1375,
+      "title": "Ice Hockey"
+    },
+    {
+      "tgdb_id": 1376,
+      "title": "Mendel Palace"
+    },
+    {
+      "tgdb_id": 1377,
+      "title": "Mr. Gimmick"
+    },
+    {
+      "tgdb_id": 1378,
+      "title": "Operation Wolf"
+    },
+    {
+      "tgdb_id": 1379,
+      "title": "Panic Restaurant"
+    },
+    {
+      "tgdb_id": 1380,
+      "title": "Rainbow Islands"
+    },
+    {
+      "tgdb_id": 1381,
+      "title": "Rampage"
+    },
+    {
+      "tgdb_id": 1382,
+      "title": "Rygar"
+    },
+    {
+      "tgdb_id": 1383,
+      "title": "Tecmo Bowl"
+    },
+    {
+      "tgdb_id": 1384,
+      "title": "Tiny Toon Adventures"
+    },
+    {
+      "tgdb_id": 1385,
+      "title": "Vindicators"
+    },
+    {
+      "tgdb_id": 1386,
+      "title": "The Uncanny X-Men"
+    },
+    {
+      "tgdb_id": 1387,
+      "title": "Ultima: Exodus"
+    },
+    {
+      "tgdb_id": 1388,
+      "title": "Ultima: Quest of the Avatar"
+    },
+    {
+      "tgdb_id": 1389,
+      "title": "Ultima: Warriors of Destiny"
+    },
+    {
+      "tgdb_id": 1390,
+      "title": "Urban Champion"
+    },
+    {
+      "tgdb_id": 1391,
+      "title": "WCW: World Championship Wrestling"
+    },
+    {
+      "tgdb_id": 1392,
+      "title": "Wheel of Fortune: Junior Edition"
+    },
+    {
+      "tgdb_id": 1393,
+      "title": "Willow"
+    },
+    {
+      "tgdb_id": 1394,
+      "title": "Win, Lose or Draw"
+    },
+    {
+      "tgdb_id": 1395,
+      "title": "Wizardry: Proving Grounds of the Mad Overlord"
+    },
+    {
+      "tgdb_id": 1396,
+      "title": "Wizardry 2: Knight of Diamonds"
+    },
+    {
+      "tgdb_id": 1397,
+      "title": "Wizards & Warriors"
+    },
+    {
+      "tgdb_id": 1398,
+      "title": "Wizards & Warriors III: Kuros ...Visions of Power"
+    },
+    {
+      "tgdb_id": 1400,
+      "title": "Yoshi's Cookie"
+    },
+    {
+      "tgdb_id": 1401,
+      "title": "The Simpsons: Bart vs. the World"
+    },
+    {
+      "tgdb_id": 1402,
+      "title": "Rad Racer II"
+    },
+    {
+      "tgdb_id": 1404,
+      "title": "R.B.I. Baseball 2"
+    },
+    {
+      "tgdb_id": 1405,
+      "title": "R.C. Pro-Am"
+    },
+    {
+      "tgdb_id": 1406,
+      "title": "Renegade"
+    },
+    {
+      "tgdb_id": 1407,
+      "title": "Rescue: The Embassy Mission"
+    },
+    {
+      "tgdb_id": 1408,
+      "title": "Robin Hood: Prince of Thieves"
+    },
+    {
+      "tgdb_id": 1409,
+      "title": "Robo Warrior"
+    },
+    {
+      "tgdb_id": 1410,
+      "title": "Rocket Ranger"
+    },
+    {
+      "tgdb_id": 1411,
+      "title": "Rockin' Kats"
+    },
+    {
+      "tgdb_id": 1412,
+      "title": "Shadowgate"
+    },
+    {
+      "tgdb_id": 1413,
+      "title": "Shingen the Ruler"
+    },
+    {
+      "tgdb_id": 1414,
+      "title": "Shockwave"
+    },
+    {
+      "tgdb_id": 1415,
+      "title": "Side Pocket"
+    },
+    {
+      "tgdb_id": 1416,
+      "title": "Silver Surfer"
+    },
+    {
+      "tgdb_id": 1417,
+      "title": "The Simpsons: Bart vs. the Space Mutants"
+    },
+    {
+      "tgdb_id": 1418,
+      "title": "Skate or Die!"
+    },
+    {
+      "tgdb_id": 1419,
+      "title": "Snake Rattle n Roll"
+    },
+    {
+      "tgdb_id": 1420,
+      "title": "Taboo: The Sixth Sense"
+    },
+    {
+      "tgdb_id": 1421,
+      "title": "Tag Team Wrestling"
+    },
+    {
+      "tgdb_id": 1422,
+      "title": "Tecmo World Wrestling"
+    },
+    {
+      "tgdb_id": 1424,
+      "title": "Tetris"
+    },
+    {
+      "tgdb_id": 1425,
+      "title": "Thunderbirds"
+    },
+    {
+      "tgdb_id": 1426,
+      "title": "Times of Lore"
+    },
+    {
+      "tgdb_id": 1427,
+      "title": "Teenage Mutant Ninja Turtles II: The Arcade Game"
+    },
+    {
+      "tgdb_id": 1428,
+      "title": "Teenage Mutant Ninja Turtles III: The Manhattan Project"
+    },
+    {
+      "tgdb_id": 1431,
+      "title": "MagMax"
+    },
+    {
+      "tgdb_id": 1432,
+      "title": "Maniac Mansion"
+    },
+    {
+      "tgdb_id": 1433,
+      "title": "M.C. Kids"
+    },
+    {
+      "tgdb_id": 1434,
+      "title": "Metal Mech: Man & Machine"
+    },
+    {
+      "tgdb_id": 1435,
+      "title": "Mickey Mousecapade"
+    },
+    {
+      "tgdb_id": 1436,
+      "title": "Might & Magic: Secret of the Inner Sanctum"
+    },
+    {
+      "tgdb_id": 1437,
+      "title": "Mighty Bomb Jack"
+    },
+    {
+      "tgdb_id": 1438,
+      "title": "Millipede"
+    },
+    {
+      "tgdb_id": 1439,
+      "title": "Milon's Secret Castle"
+    },
+    {
+      "tgdb_id": 1440,
+      "title": "Pac-Man (TENGEN)"
+    },
+    {
+      "tgdb_id": 1441,
+      "title": "Pesterminator: The Western Exterminator"
+    },
+    {
+      "tgdb_id": 1442,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 1443,
+      "title": "Power Blade"
+    },
+    {
+      "tgdb_id": 1444,
+      "title": "RollerGames"
+    },
+    {
+      "tgdb_id": 1445,
+      "title": "Romance of the Three Kingdoms"
+    },
+    {
+      "tgdb_id": 1446,
+      "title": "The Magic of Scheherazade"
+    },
+    {
+      "tgdb_id": 1447,
+      "title": "Snoopy's Silly Sports Spectacular!"
+    },
+    {
+      "tgdb_id": 1448,
+      "title": "Snow Brothers"
+    },
+    {
+      "tgdb_id": 1449,
+      "title": "Solomon's Key 2"
+    },
+    {
+      "tgdb_id": 1450,
+      "title": "Spot: The Video Game"
+    },
+    {
+      "tgdb_id": 1451,
+      "title": "Spy Vs Spy"
+    },
+    {
+      "tgdb_id": 1452,
+      "title": "Stadium Events"
+    },
+    {
+      "tgdb_id": 1453,
+      "title": "Star Trek: 25th Anniversary"
+    },
+    {
+      "tgdb_id": 1454,
+      "title": "StarTropics"
+    },
+    {
+      "tgdb_id": 1455,
+      "title": "Street Fighter 2010: The Final Fight"
+    },
+    {
+      "tgdb_id": 1456,
+      "title": "Super C"
+    },
+    {
+      "tgdb_id": 1457,
+      "title": "Super Dodge Ball"
+    },
+    {
+      "tgdb_id": 1458,
+      "title": "Super Spike V'Ball"
+    },
+    {
+      "tgdb_id": 1459,
+      "title": "Swamp Thing"
+    },
+    {
+      "tgdb_id": 1460,
+      "title": "Sword Master"
+    },
+    {
+      "tgdb_id": 1461,
+      "title": "Town & Country Surf Designs: Wood & Water Rage"
+    },
+    {
+      "tgdb_id": 1462,
+      "title": "Top Gun: The Second Mission"
+    },
+    {
+      "tgdb_id": 1463,
+      "title": "Totally Rad"
+    },
+    {
+      "tgdb_id": 1464,
+      "title": "Total Recall"
+    },
+    {
+      "tgdb_id": 1465,
+      "title": "To the Earth"
+    },
+    {
+      "tgdb_id": 1466,
+      "title": "Trojan"
+    },
+    {
+      "tgdb_id": 1467,
+      "title": "Jackie Chan's Action Kung Fu"
+    },
+    {
+      "tgdb_id": 1468,
+      "title": "Jaws"
+    },
+    {
+      "tgdb_id": 1469,
+      "title": "Kabuki Quantum Fighter"
+    },
+    {
+      "tgdb_id": 1470,
+      "title": "Karate Champ"
+    },
+    {
+      "tgdb_id": 1471,
+      "title": "The Karate Kid"
+    },
+    {
+      "tgdb_id": 1472,
+      "title": "Karnov"
+    },
+    {
+      "tgdb_id": 1473,
+      "title": "Kick Master"
+    },
+    {
+      "tgdb_id": 1474,
+      "title": "Kid Klown in Night Mayor World"
+    },
+    {
+      "tgdb_id": 1475,
+      "title": "King's Quest V"
+    },
+    {
+      "tgdb_id": 1476,
+      "title": "Kung-Fu Heroes"
+    },
+    {
+      "tgdb_id": 1477,
+      "title": "The Last Ninja"
+    },
+    {
+      "tgdb_id": 1478,
+      "title": "Legacy of the Wizard"
+    },
+    {
+      "tgdb_id": 1479,
+      "title": "The Legend of Kage"
+    },
+    {
+      "tgdb_id": 1480,
+      "title": "Life Force"
+    },
+    {
+      "tgdb_id": 1481,
+      "title": "Disney's The Little Mermaid"
+    },
+    {
+      "tgdb_id": 1482,
+      "title": "Little Nemo: The Dream Master"
+    },
+    {
+      "tgdb_id": 1483,
+      "title": "Little Samson"
+    },
+    {
+      "tgdb_id": 1501,
+      "title": "Abadox: The Deadly Inner War"
+    },
+    {
+      "tgdb_id": 1502,
+      "title": "The Addams Family: Pugsley's Scavenger Hunt"
+    },
+    {
+      "tgdb_id": 1503,
+      "title": "Advanced Dungeons & Dragons: DragonStrike"
+    },
+    {
+      "tgdb_id": 1505,
+      "title": "Advanced Dungeons & Dragons: Pool of Radiance"
+    },
+    {
+      "tgdb_id": 1856,
+      "title": "Image Fight"
+    },
+    {
+      "tgdb_id": 1509,
+      "title": "Adventure Island 3"
+    },
+    {
+      "tgdb_id": 1511,
+      "title": "Adventures of Dino Riki"
+    },
+    {
+      "tgdb_id": 1532,
+      "title": "The Adventures of Rocky and Bullwinkle and Friends"
+    },
+    {
+      "tgdb_id": 1535,
+      "title": "Alfred Chicken"
+    },
+    {
+      "tgdb_id": 1614,
+      "title": "Alien Syndrome"
+    },
+    {
+      "tgdb_id": 1589,
+      "title": "Micro Machines"
+    },
+    {
+      "tgdb_id": 1595,
+      "title": "Zanac"
+    },
+    {
+      "tgdb_id": 1597,
+      "title": "Yo! Noid"
+    },
+    {
+      "tgdb_id": 1599,
+      "title": "Xenophobe"
+    },
+    {
+      "tgdb_id": 1601,
+      "title": "Wurm: Journey to the Center of the Earth"
+    },
+    {
+      "tgdb_id": 1603,
+      "title": "Wild Gunman"
+    },
+    {
+      "tgdb_id": 1604,
+      "title": "WWF WrestleMania: Steel Cage Challenge"
+    },
+    {
+      "tgdb_id": 1607,
+      "title": "Action 52"
+    },
+    {
+      "tgdb_id": 32242,
+      "title": "Adventure Island"
+    },
+    {
+      "tgdb_id": 1608,
+      "title": "Advanced Dungeons & Dragons: Hillsfar"
+    },
+    {
+      "tgdb_id": 1609,
+      "title": "Captain Comic: The Adventure"
+    },
+    {
+      "tgdb_id": 1610,
+      "title": "Adventures of Lolo 2"
+    },
+    {
+      "tgdb_id": 1611,
+      "title": "The Adventures of Rad Gravity"
+    },
+    {
+      "tgdb_id": 1612,
+      "title": "Adventures of Tom Sawyer"
+    },
+    {
+      "tgdb_id": 1615,
+      "title": "All-Pro Basketball"
+    },
+    {
+      "tgdb_id": 1616,
+      "title": "Alpha Mission"
+    },
+    {
+      "tgdb_id": 1617,
+      "title": "Amagon"
+    },
+    {
+      "tgdb_id": 1618,
+      "title": "Anticipation"
+    },
+    {
+      "tgdb_id": 1619,
+      "title": "Arch Rivals: A Basketbrawl!"
+    },
+    {
+      "tgdb_id": 1620,
+      "title": "Archon"
+    },
+    {
+      "tgdb_id": 1621,
+      "title": "Athena"
+    },
+    {
+      "tgdb_id": 1622,
+      "title": "Athletic World"
+    },
+    {
+      "tgdb_id": 1623,
+      "title": "Attack of the Killer Tomatoes"
+    },
+    {
+      "tgdb_id": 1624,
+      "title": "Aussie Rules Footy"
+    },
+    {
+      "tgdb_id": 1625,
+      "title": "Baby Boomer"
+    },
+    {
+      "tgdb_id": 1627,
+      "title": "Bad News Baseball"
+    },
+    {
+      "tgdb_id": 1628,
+      "title": "Bad Street Brawler"
+    },
+    {
+      "tgdb_id": 1629,
+      "title": "Bandai Golf: Challenge Pebble Beach"
+    },
+    {
+      "tgdb_id": 1630,
+      "title": "Bandit Kings of Ancient China"
+    },
+    {
+      "tgdb_id": 1631,
+      "title": "Barbie"
+    },
+    {
+      "tgdb_id": 1632,
+      "title": "Barker Bill's Trick Shooting"
+    },
+    {
+      "tgdb_id": 1634,
+      "title": "Baseball Simulator 1.000"
+    },
+    {
+      "tgdb_id": 1635,
+      "title": "Baseball Stars"
+    },
+    {
+      "tgdb_id": 1636,
+      "title": "Bases Loaded 4"
+    },
+    {
+      "tgdb_id": 1637,
+      "title": "Battle Chess"
+    },
+    {
+      "tgdb_id": 1638,
+      "title": "Battleship"
+    },
+    {
+      "tgdb_id": 1639,
+      "title": "Battle Tank"
+    },
+    {
+      "tgdb_id": 1641,
+      "title": "Bee 52 abejaa"
+    },
+    {
+      "tgdb_id": 1642,
+      "title": "Beetlejuice"
+    },
+    {
+      "tgdb_id": 1643,
+      "title": "Bible Adventures"
+    },
+    {
+      "tgdb_id": 1644,
+      "title": "Bible Buffet"
+    },
+    {
+      "tgdb_id": 1645,
+      "title": "Big Nose Freaks Out"
+    },
+    {
+      "tgdb_id": 1646,
+      "title": "Big Nose the Caveman"
+    },
+    {
+      "tgdb_id": 1647,
+      "title": "Bigfoot"
+    },
+    {
+      "tgdb_id": 1648,
+      "title": "Bill & Ted's Excellent Video Game Adventure"
+    },
+    {
+      "tgdb_id": 1649,
+      "title": "Bill Elliott's NASCAR Challenge"
+    },
+    {
+      "tgdb_id": 1650,
+      "title": "The Black Bass"
+    },
+    {
+      "tgdb_id": 1651,
+      "title": "Blackjack"
+    },
+    {
+      "tgdb_id": 1652,
+      "title": "The Blue Marlin"
+    },
+    {
+      "tgdb_id": 1653,
+      "title": "Bomberman II"
+    },
+    {
+      "tgdb_id": 1654,
+      "title": "Bonk's Adventure"
+    },
+    {
+      "tgdb_id": 1655,
+      "title": "Break Time: The National Pool Tour"
+    },
+    {
+      "tgdb_id": 1656,
+      "title": "BreakThru"
+    },
+    {
+      "tgdb_id": 1657,
+      "title": "The Bugs Bunny Birthday Blowout"
+    },
+    {
+      "tgdb_id": 1658,
+      "title": "The Bugs Bunny Crazy Castle"
+    },
+    {
+      "tgdb_id": 1659,
+      "title": "Burai Fighter"
+    },
+    {
+      "tgdb_id": 1660,
+      "title": "Cabal"
+    },
+    {
+      "tgdb_id": 1661,
+      "title": "Caesars Palace"
+    },
+    {
+      "tgdb_id": 1662,
+      "title": "California Games"
+    },
+    {
+      "tgdb_id": 1663,
+      "title": "Caltron 6 in 1"
+    },
+    {
+      "tgdb_id": 1664,
+      "title": "Captain Planet and the Planeteers"
+    },
+    {
+      "tgdb_id": 1665,
+      "title": "Casino Kid"
+    },
+    {
+      "tgdb_id": 1666,
+      "title": "Casino Kid II"
+    },
+    {
+      "tgdb_id": 1667,
+      "title": "Castle of Deceit"
+    },
+    {
+      "tgdb_id": 1668,
+      "title": "Caveman Games"
+    },
+    {
+      "tgdb_id": 1669,
+      "title": "Championship Pool"
+    },
+    {
+      "tgdb_id": 1670,
+      "title": "Championship Rally"
+    },
+    {
+      "tgdb_id": 1671,
+      "title": "Cheetahmen II"
+    },
+    {
+      "tgdb_id": 1672,
+      "title": "The Chessmaster"
+    },
+    {
+      "tgdb_id": 1673,
+      "title": "Circus Caper"
+    },
+    {
+      "tgdb_id": 1674,
+      "title": "City Connection"
+    },
+    {
+      "tgdb_id": 1675,
+      "title": "Classic Concentration"
+    },
+    {
+      "tgdb_id": 1676,
+      "title": "Cobra Command"
+    },
+    {
+      "tgdb_id": 1677,
+      "title": "Cobra Triangle"
+    },
+    {
+      "tgdb_id": 1678,
+      "title": "Color a Dinosaur"
+    },
+    {
+      "tgdb_id": 1679,
+      "title": "Conan"
+    },
+    {
+      "tgdb_id": 1680,
+      "title": "Conflict"
+    },
+    {
+      "tgdb_id": 1681,
+      "title": "Cool World"
+    },
+    {
+      "tgdb_id": 1682,
+      "title": "Cowboy Kid"
+    },
+    {
+      "tgdb_id": 1683,
+      "title": "Crystal Mines"
+    },
+    {
+      "tgdb_id": 1684,
+      "title": "Cyberball"
+    },
+    {
+      "tgdb_id": 1685,
+      "title": "Cybernoid: The Fighting Machine"
+    },
+    {
+      "tgdb_id": 1686,
+      "title": "Danny Sullivan's Indy Heat"
+    },
+    {
+      "tgdb_id": 1687,
+      "title": "Dash Galaxy in the Alien Asylum"
+    },
+    {
+      "tgdb_id": 1688,
+      "title": "Day Dreamin' Davey"
+    },
+    {
+      "tgdb_id": 1689,
+      "title": "Days of Thunder"
+    },
+    {
+      "tgdb_id": 1690,
+      "title": "Death Race"
+    },
+    {
+      "tgdb_id": 1691,
+      "title": "Deathbots"
+    },
+    {
+      "tgdb_id": 1692,
+      "title": "Desert Commander"
+    },
+    {
+      "tgdb_id": 1693,
+      "title": "Destination Earthstar"
+    },
+    {
+      "tgdb_id": 1694,
+      "title": "Dick Tracy"
+    },
+    {
+      "tgdb_id": 1695,
+      "title": "Die Hard"
+    },
+    {
+      "tgdb_id": 1697,
+      "title": "Dirty Harry"
+    },
+    {
+      "tgdb_id": 1698,
+      "title": "Double Dare"
+    },
+    {
+      "tgdb_id": 1699,
+      "title": "Double Strike"
+    },
+    {
+      "tgdb_id": 1700,
+      "title": "Dragon Warrior III"
+    },
+    {
+      "tgdb_id": 1926,
+      "title": "Circus Charlie"
+    },
+    {
+      "tgdb_id": 1741,
+      "title": "Cliffhanger"
+    },
+    {
+      "tgdb_id": 1780,
+      "title": "Mario is Missing!"
+    },
+    {
+      "tgdb_id": 1795,
+      "title": "Disney's Beauty and the Beast"
+    },
+    {
+      "tgdb_id": 1808,
+      "title": "DuckTales 2"
+    },
+    {
+      "tgdb_id": 1809,
+      "title": "Joe & Mac: Caveman Ninja"
+    },
+    {
+      "tgdb_id": 1810,
+      "title": "Kung Fu"
+    },
+    {
+      "tgdb_id": 1811,
+      "title": "Mario's Time Machine"
+    },
+    {
+      "tgdb_id": 1813,
+      "title": "Ninja Gaiden III: The Ancient Ship of Doom"
+    },
+    {
+      "tgdb_id": 1814,
+      "title": "Paperboy 2"
+    },
+    {
+      "tgdb_id": 1815,
+      "title": "Dropzone"
+    },
+    {
+      "tgdb_id": 1816,
+      "title": "Duck Maze"
+    },
+    {
+      "tgdb_id": 1817,
+      "title": "Dungeon Magic: Sword of the Elements"
+    },
+    {
+      "tgdb_id": 1818,
+      "title": "Dusty Diamond's All-Star Softball"
+    },
+    {
+      "tgdb_id": 1819,
+      "title": "Elite"
+    },
+    {
+      "tgdb_id": 1820,
+      "title": "Exodus: Journey to the Promised Land"
+    },
+    {
+      "tgdb_id": 1821,
+      "title": "F-15 City War"
+    },
+    {
+      "tgdb_id": 1822,
+      "title": "F-15 Strike Eagle"
+    },
+    {
+      "tgdb_id": 1823,
+      "title": "F-117A Stealth Fighter"
+    },
+    {
+      "tgdb_id": 1824,
+      "title": "Fantasy Zone (Tengen)"
+    },
+    {
+      "tgdb_id": 1933,
+      "title": "Frankenstein: The Monster Returns"
+    },
+    {
+      "tgdb_id": 1826,
+      "title": "Felix the Cat"
+    },
+    {
+      "tgdb_id": 1827,
+      "title": "Flight of the Intruder"
+    },
+    {
+      "tgdb_id": 1828,
+      "title": "Flying Dragon: The Secret Scroll"
+    },
+    {
+      "tgdb_id": 1829,
+      "title": "Flying Warriors"
+    },
+    {
+      "tgdb_id": 1830,
+      "title": "Formula 1 Sensation"
+    },
+    {
+      "tgdb_id": 25852,
+      "title": "Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness"
+    },
+    {
+      "tgdb_id": 25853,
+      "title": "Joy Mech Fight"
+    },
+    {
+      "tgdb_id": 1831,
+      "title": "Fun House"
+    },
+    {
+      "tgdb_id": 1832,
+      "title": "G.I. Joe: A Real American Hero"
+    },
+    {
+      "tgdb_id": 1833,
+      "title": "Galactic Crusader"
+    },
+    {
+      "tgdb_id": 1834,
+      "title": "Galaga: Demons of Death"
+    },
+    {
+      "tgdb_id": 1835,
+      "title": "Galaxy 5000"
+    },
+    {
+      "tgdb_id": 1836,
+      "title": "Gauntlet II"
+    },
+    {
+      "tgdb_id": 1837,
+      "title": "Gemfire"
+    },
+    {
+      "tgdb_id": 2845,
+      "title": "George Foreman's KO Boxing"
+    },
+    {
+      "tgdb_id": 1839,
+      "title": "Ghostbusters II"
+    },
+    {
+      "tgdb_id": 1840,
+      "title": "Ghoul School"
+    },
+    {
+      "tgdb_id": 1841,
+      "title": "Goal! Two"
+    },
+    {
+      "tgdb_id": 1842,
+      "title": "Godzilla: Monster of Monsters"
+    },
+    {
+      "tgdb_id": 1843,
+      "title": "Godzilla 2: War of the Monsters"
+    },
+    {
+      "tgdb_id": 1844,
+      "title": "Capcom's Gold Medal Challenge '92"
+    },
+    {
+      "tgdb_id": 1846,
+      "title": "Gotcha! The Sport!"
+    },
+    {
+      "tgdb_id": 1847,
+      "title": "The Great Waldo Search"
+    },
+    {
+      "tgdb_id": 1848,
+      "title": "Gremlins 2: The New Batch"
+    },
+    {
+      "tgdb_id": 1849,
+      "title": "Gun-Nac"
+    },
+    {
+      "tgdb_id": 1851,
+      "title": "Hammerin' Harry"
+    },
+    {
+      "tgdb_id": 1852,
+      "title": "Harlem Globetrotters"
+    },
+    {
+      "tgdb_id": 1853,
+      "title": "Heavy Shreddin'"
+    },
+    {
+      "tgdb_id": 1854,
+      "title": "High Speed"
+    },
+    {
+      "tgdb_id": 1855,
+      "title": "Hoops"
+    },
+    {
+      "tgdb_id": 1857,
+      "title": "Impossible Mission II"
+    },
+    {
+      "tgdb_id": 1858,
+      "title": "The Incredible Crash Dummies"
+    },
+    {
+      "tgdb_id": 1859,
+      "title": "Indiana Jones and the Last Crusade"
+    },
+    {
+      "tgdb_id": 1860,
+      "title": "Indiana Jones and the Temple of Doom"
+    },
+    {
+      "tgdb_id": 1861,
+      "title": "Infiltrator"
+    },
+    {
+      "tgdb_id": 1862,
+      "title": "International Cricket"
+    },
+    {
+      "tgdb_id": 1863,
+      "title": "Isolated Warrior"
+    },
+    {
+      "tgdb_id": 1864,
+      "title": "James Bond Jr"
+    },
+    {
+      "tgdb_id": 1865,
+      "title": "The Jetsons: Cogswell's Caper"
+    },
+    {
+      "tgdb_id": 1866,
+      "title": "Jimmy Connors Tennis"
+    },
+    {
+      "tgdb_id": 1867,
+      "title": "John Elway's Quarterback"
+    },
+    {
+      "tgdb_id": 1868,
+      "title": "Joshua & the Battle of Jericho"
+    },
+    {
+      "tgdb_id": 1869,
+      "title": "Journey to Silius"
+    },
+    {
+      "tgdb_id": 1870,
+      "title": "Jovial Race"
+    },
+    {
+      "tgdb_id": 1871,
+      "title": "Kick Off"
+    },
+    {
+      "tgdb_id": 1872,
+      "title": "Kickle Cubicle"
+    },
+    {
+      "tgdb_id": 1873,
+      "title": "Kid Kool and the Quest for the Seven Wonder Herbs"
+    },
+    {
+      "tgdb_id": 1874,
+      "title": "Kid Niki: Radical Ninja"
+    },
+    {
+      "tgdb_id": 1875,
+      "title": "King Neptune's Adventure"
+    },
+    {
+      "tgdb_id": 1876,
+      "title": "King of Kings: The Early Years"
+    },
+    {
+      "tgdb_id": 1877,
+      "title": "Kings of the Beach"
+    },
+    {
+      "tgdb_id": 1878,
+      "title": "Kiwi Kraze: A Bird-Brained Adventure!"
+    },
+    {
+      "tgdb_id": 1879,
+      "title": "Klash Ball"
+    },
+    {
+      "tgdb_id": 1880,
+      "title": "Knight Rider"
+    },
+    {
+      "tgdb_id": 1881,
+      "title": "Laser Invasion"
+    },
+    {
+      "tgdb_id": 1882,
+      "title": "Lee Trevino's Fighting Golf"
+    },
+    {
+      "tgdb_id": 1883,
+      "title": "The Legend of Prince Valiant"
+    },
+    {
+      "tgdb_id": 1884,
+      "title": "Legendary Wings"
+    },
+    {
+      "tgdb_id": 1885,
+      "title": "Ghost Lion"
+    },
+    {
+      "tgdb_id": 1886,
+      "title": "Linus Spacehead's Cosmic Crusade"
+    },
+    {
+      "tgdb_id": 1887,
+      "title": "Little Ninja Brothers"
+    },
+    {
+      "tgdb_id": 1888,
+      "title": "Little Red Hood"
+    },
+    {
+      "tgdb_id": 1889,
+      "title": "The Lone Ranger"
+    },
+    {
+      "tgdb_id": 1890,
+      "title": "Loopz"
+    },
+    {
+      "tgdb_id": 1891,
+      "title": "M.U.S.C.L.E."
+    },
+    {
+      "tgdb_id": 1892,
+      "title": "Mad Max"
+    },
+    {
+      "tgdb_id": 1893,
+      "title": "Magic Darts"
+    },
+    {
+      "tgdb_id": 1894,
+      "title": "Skate or Die 2: The Search for Double Trouble"
+    },
+    {
+      "tgdb_id": 1895,
+      "title": "Magic Johnson's Fast Break"
+    },
+    {
+      "tgdb_id": 1897,
+      "title": "Major League Baseball"
+    },
+    {
+      "tgdb_id": 1898,
+      "title": "Mappy-Land"
+    },
+    {
+      "tgdb_id": 1899,
+      "title": "Master Chu and the Drunkard Hu"
+    },
+    {
+      "tgdb_id": 1900,
+      "title": "Mechanized Attack"
+    },
+    {
+      "tgdb_id": 1901,
+      "title": "Menace Beach"
+    },
+    {
+      "tgdb_id": 1904,
+      "title": "Town & Country Surf Designs II: Thrilla's Surfari"
+    },
+    {
+      "tgdb_id": 1905,
+      "title": "Tecmo Super Bowl"
+    },
+    {
+      "tgdb_id": 1927,
+      "title": "Dance Aerobics"
+    },
+    {
+      "tgdb_id": 1928,
+      "title": "Donkey Kong Classics"
+    },
+    {
+      "tgdb_id": 1929,
+      "title": "Donkey Kong Jr. Math"
+    },
+    {
+      "tgdb_id": 1930,
+      "title": "Dr. Chaos"
+    },
+    {
+      "tgdb_id": 1931,
+      "title": "Dragon Fighter"
+    },
+    {
+      "tgdb_id": 1932,
+      "title": "Eliminator: Boat Duel"
+    },
+    {
+      "tgdb_id": 1934,
+      "title": "Genghis Khan"
+    },
+    {
+      "tgdb_id": 1938,
+      "title": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf"
+    },
+    {
+      "tgdb_id": 1940,
+      "title": "Krazy Kreatures"
+    },
+    {
+      "tgdb_id": 1941,
+      "title": "The Krion Conquest"
+    },
+    {
+      "tgdb_id": 1942,
+      "title": "L'Empereur"
+    },
+    {
+      "tgdb_id": 1943,
+      "title": "Mermaids of Atlantis: The Riddle of the Magic Bubble"
+    },
+    {
+      "tgdb_id": 1944,
+      "title": "Metal Fighter"
+    },
+    {
+      "tgdb_id": 1945,
+      "title": "Metal Storm"
+    },
+    {
+      "tgdb_id": 1947,
+      "title": "Mickey's Adventure in Numberland"
+    },
+    {
+      "tgdb_id": 1948,
+      "title": "Mickey's Safari in Letterland"
+    },
+    {
+      "tgdb_id": 1949,
+      "title": "Mig 29 Soviet Fighter"
+    },
+    {
+      "tgdb_id": 1950,
+      "title": "Mighty Final Fight"
+    },
+    {
+      "tgdb_id": 1951,
+      "title": "Mission Cobra"
+    },
+    {
+      "tgdb_id": 1952,
+      "title": "Monster in My Pocket"
+    },
+    {
+      "tgdb_id": 1953,
+      "title": "P.O.W.: Prisoners of War"
+    },
+    {
+      "tgdb_id": 1954,
+      "title": "Monster Party"
+    },
+    {
+      "tgdb_id": 1955,
+      "title": "Monster Truck Rally"
+    },
+    {
+      "tgdb_id": 1956,
+      "title": "Moon Ranger"
+    },
+    {
+      "tgdb_id": 1957,
+      "title": "Motor City Patrol"
+    },
+    {
+      "tgdb_id": 1959,
+      "title": "Muppet Adventure: \"Chaos at the Carnival\""
+    },
+    {
+      "tgdb_id": 1960,
+      "title": "The Mutant Virus: \"Crisis in a Computer World!\""
+    },
+    {
+      "tgdb_id": 1961,
+      "title": "Mystery Quest"
+    },
+    {
+      "tgdb_id": 1962,
+      "title": "NARC"
+    },
+    {
+      "tgdb_id": 1963,
+      "title": "NES Open Tournament Golf"
+    },
+    {
+      "tgdb_id": 1964,
+      "title": "NES Play Action Football"
+    },
+    {
+      "tgdb_id": 1965,
+      "title": "NFL"
+    },
+    {
+      "tgdb_id": 1966,
+      "title": "Nigel Mansell's World Championship Racing"
+    },
+    {
+      "tgdb_id": 1967,
+      "title": "Nightshade"
+    },
+    {
+      "tgdb_id": 1968,
+      "title": "Ninja Crusaders"
+    },
+    {
+      "tgdb_id": 1975,
+      "title": "Ninja Kid"
+    },
+    {
+      "tgdb_id": 1976,
+      "title": "Nintendo World Championships 1990"
+    },
+    {
+      "tgdb_id": 1977,
+      "title": "Noah's Ark"
+    },
+    {
+      "tgdb_id": 1978,
+      "title": "Nobunaga's Ambition"
+    },
+    {
+      "tgdb_id": 1979,
+      "title": "North and South"
+    },
+    {
+      "tgdb_id": 1980,
+      "title": "Operation Secret Storm"
+    },
+    {
+      "tgdb_id": 1981,
+      "title": "Orb-3D"
+    },
+    {
+      "tgdb_id": 1982,
+      "title": "Othello"
+    },
+    {
+      "tgdb_id": 2001,
+      "title": "Over Horizon"
+    },
+    {
+      "tgdb_id": 2002,
+      "title": "Overlord"
+    },
+    {
+      "tgdb_id": 2003,
+      "title": "Parodius"
+    },
+    {
+      "tgdb_id": 2004,
+      "title": "Fox's Peter Pan & the Pirates: The Revenge of Captain Hook"
+    },
+    {
+      "tgdb_id": 2005,
+      "title": "Phantom Fighter"
+    },
+    {
+      "tgdb_id": 2006,
+      "title": "Pictionary: The Game of Video Quick Draw"
+    },
+    {
+      "tgdb_id": 2007,
+      "title": "PinBot"
+    },
+    {
+      "tgdb_id": 2008,
+      "title": "Pipe Dream"
+    },
+    {
+      "tgdb_id": 2009,
+      "title": "Pirates!"
+    },
+    {
+      "tgdb_id": 2010,
+      "title": "Platoon"
+    },
+    {
+      "tgdb_id": 2011,
+      "title": "Power Blade 2"
+    },
+    {
+      "tgdb_id": 2012,
+      "title": "Power Punch II"
+    },
+    {
+      "tgdb_id": 2013,
+      "title": "P'radikus Conflict"
+    },
+    {
+      "tgdb_id": 2014,
+      "title": "Princess Tomato in the Salad Kingdom"
+    },
+    {
+      "tgdb_id": 2015,
+      "title": "Pro Sport Hockey"
+    },
+    {
+      "tgdb_id": 2016,
+      "title": "Punch-Out!!"
+    },
+    {
+      "tgdb_id": 2017,
+      "title": "Puss 'n Boots: Pero's Great Adventure"
+    },
+    {
+      "tgdb_id": 2018,
+      "title": "Puzzle"
+    },
+    {
+      "tgdb_id": 2019,
+      "title": "Puzznic"
+    },
+    {
+      "tgdb_id": 2020,
+      "title": "Pyramid"
+    },
+    {
+      "tgdb_id": 2021,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 2022,
+      "title": "Qix"
+    },
+    {
+      "tgdb_id": 2023,
+      "title": "Quattro Adventure"
+    },
+    {
+      "tgdb_id": 2024,
+      "title": "Quattro Arcade"
+    },
+    {
+      "tgdb_id": 2025,
+      "title": "Quattro Sports"
+    },
+    {
+      "tgdb_id": 2026,
+      "title": "R.B.I. Baseball"
+    },
+    {
+      "tgdb_id": 2027,
+      "title": "R.B.I. Baseball 3"
+    },
+    {
+      "tgdb_id": 2028,
+      "title": "R.C. ProAm II"
+    },
+    {
+      "tgdb_id": 2029,
+      "title": "Race America"
+    },
+    {
+      "tgdb_id": 2030,
+      "title": "Racket Attack"
+    },
+    {
+      "tgdb_id": 2031,
+      "title": "Rackets & Rivals"
+    },
+    {
+      "tgdb_id": 2032,
+      "title": "Rad Racket: Deluxe Tennis II"
+    },
+    {
+      "tgdb_id": 2033,
+      "title": "Raid 2020"
+    },
+    {
+      "tgdb_id": 2034,
+      "title": "Raid on Bungeling Bay"
+    },
+    {
+      "tgdb_id": 2035,
+      "title": "Rally Bike"
+    },
+    {
+      "tgdb_id": 2036,
+      "title": "Rambo"
+    },
+    {
+      "tgdb_id": 2037,
+      "title": "Rampart"
+    },
+    {
+      "tgdb_id": 2038,
+      "title": "Remote Control"
+    },
+    {
+      "tgdb_id": 2039,
+      "title": "The Ren & Stimpy Show: Buckeroo$!"
+    },
+    {
+      "tgdb_id": 2042,
+      "title": "Ring King"
+    },
+    {
+      "tgdb_id": 2043,
+      "title": "Road Fighter"
+    },
+    {
+      "tgdb_id": 2044,
+      "title": "Road Runner"
+    },
+    {
+      "tgdb_id": 2045,
+      "title": "RoadBlasters"
+    },
+    {
+      "tgdb_id": 2048,
+      "title": "Robodemons"
+    },
+    {
+      "tgdb_id": 2049,
+      "title": "Rock 'n' Ball"
+    },
+    {
+      "tgdb_id": 2050,
+      "title": "The Rocketeer"
+    },
+    {
+      "tgdb_id": 2051,
+      "title": "RodLand"
+    },
+    {
+      "tgdb_id": 2052,
+      "title": "Rollerball"
+    },
+    {
+      "tgdb_id": 2053,
+      "title": "Rollerblade Racer"
+    },
+    {
+      "tgdb_id": 2054,
+      "title": "Rolling Thunder"
+    },
+    {
+      "tgdb_id": 2055,
+      "title": "Romance of the Three Kingdoms II"
+    },
+    {
+      "tgdb_id": 2056,
+      "title": "Roundball: 2 on 2 Challenge"
+    },
+    {
+      "tgdb_id": 2057,
+      "title": "S.C.A.T.: Special Cybernetic Attack Team"
+    },
+    {
+      "tgdb_id": 2058,
+      "title": "Zombie Nation"
+    },
+    {
+      "tgdb_id": 2059,
+      "title": "Secret Scout in the Temple of Demise"
+    },
+    {
+      "tgdb_id": 2060,
+      "title": "Section-Z"
+    },
+    {
+      "tgdb_id": 2061,
+      "title": "Seicross"
+    },
+    {
+      "tgdb_id": 2063,
+      "title": "Sesame Street: Big Bird's Hide & Speak"
+    },
+    {
+      "tgdb_id": 2064,
+      "title": "Sesame Street 1 2 3"
+    },
+    {
+      "tgdb_id": 2065,
+      "title": "Sesame Street A-B-C and 1-2-3"
+    },
+    {
+      "tgdb_id": 2066,
+      "title": "Sesame Street A B C"
+    },
+    {
+      "tgdb_id": 2067,
+      "title": "Sesame Street Countdown"
+    },
+    {
+      "tgdb_id": 2070,
+      "title": "Shadow of the Ninja"
+    },
+    {
+      "tgdb_id": 2072,
+      "title": "Shooting Range"
+    },
+    {
+      "tgdb_id": 2073,
+      "title": "Short Order - Egg-splode!"
+    },
+    {
+      "tgdb_id": 2074,
+      "title": "Silent Assault"
+    },
+    {
+      "tgdb_id": 2075,
+      "title": "Silent Service"
+    },
+    {
+      "tgdb_id": 2076,
+      "title": "Silk Worm"
+    },
+    {
+      "tgdb_id": 2077,
+      "title": "The Simpsons: Bartman Meets Radioactive Man"
+    },
+    {
+      "tgdb_id": 2078,
+      "title": "Ski or Die"
+    },
+    {
+      "tgdb_id": 2079,
+      "title": "Skull & Crossbones"
+    },
+    {
+      "tgdb_id": 2080,
+      "title": "Sky Shark"
+    },
+    {
+      "tgdb_id": 2096,
+      "title": "The Smurfs"
+    },
+    {
+      "tgdb_id": 2098,
+      "title": "Soccer"
+    },
+    {
+      "tgdb_id": 2099,
+      "title": "Solar Jetman: Hunt for the Golden Warpship"
+    },
+    {
+      "tgdb_id": 2100,
+      "title": "Solitaire"
+    },
+    {
+      "tgdb_id": 2101,
+      "title": "Solomon's Key"
+    },
+    {
+      "tgdb_id": 2102,
+      "title": "Solstice: The Quest for the Staff of Demnos"
+    },
+    {
+      "tgdb_id": 2103,
+      "title": "Space Shuttle Project"
+    },
+    {
+      "tgdb_id": 2104,
+      "title": "Spelunker"
+    },
+    {
+      "tgdb_id": 2105,
+      "title": "Spiritual Warfare"
+    },
+    {
+      "tgdb_id": 2106,
+      "title": "Spy Hunter"
+    },
+    {
+      "tgdb_id": 2107,
+      "title": "Sqoon"
+    },
+    {
+      "tgdb_id": 2108,
+      "title": "Stack-Up"
+    },
+    {
+      "tgdb_id": 2109,
+      "title": "Stanley: The Search for Dr. Livingston"
+    },
+    {
+      "tgdb_id": 2110,
+      "title": "Star Force"
+    },
+    {
+      "tgdb_id": 2111,
+      "title": "Star Soldier"
+    },
+    {
+      "tgdb_id": 2112,
+      "title": "Star Trek: The Next Generation"
+    },
+    {
+      "tgdb_id": 2113,
+      "title": "Star Voyager"
+    },
+    {
+      "tgdb_id": 2114,
+      "title": "Starship Hector"
+    },
+    {
+      "tgdb_id": 2115,
+      "title": "Stealth ATF"
+    },
+    {
+      "tgdb_id": 2116,
+      "title": "Stinger"
+    },
+    {
+      "tgdb_id": 2117,
+      "title": "Street Cop"
+    },
+    {
+      "tgdb_id": 2118,
+      "title": "Stunt Kids"
+    },
+    {
+      "tgdb_id": 2119,
+      "title": "Sunday Funday: The Ride"
+    },
+    {
+      "tgdb_id": 2120,
+      "title": "Super Glove Ball"
+    },
+    {
+      "tgdb_id": 2121,
+      "title": "Super Jeopardy!"
+    },
+    {
+      "tgdb_id": 2122,
+      "title": "Super Pitfall"
+    },
+    {
+      "tgdb_id": 2123,
+      "title": "Super Sprint"
+    },
+    {
+      "tgdb_id": 2124,
+      "title": "Super Team Games"
+    },
+    {
+      "tgdb_id": 2125,
+      "title": "Super Turrican"
+    },
+    {
+      "tgdb_id": 2126,
+      "title": "Swords and Serpents"
+    },
+    {
+      "tgdb_id": 2128,
+      "title": "Tagin' Dragon"
+    },
+    {
+      "tgdb_id": 2129,
+      "title": "Target: Renegade"
+    },
+    {
+      "tgdb_id": 2130,
+      "title": "Tecmo Baseball"
+    },
+    {
+      "tgdb_id": 2131,
+      "title": "Tecmo Cup Soccer Game"
+    },
+    {
+      "tgdb_id": 2132,
+      "title": "Tecmo NBA Basketball"
+    },
+    {
+      "tgdb_id": 2133,
+      "title": "Tecmo World Cup Soccer"
+    },
+    {
+      "tgdb_id": 2134,
+      "title": "Teenage Mutant Ninja Turtles: Tournament Fighters"
+    },
+    {
+      "tgdb_id": 2135,
+      "title": "Terminator 2: Judgment Day"
+    },
+    {
+      "tgdb_id": 2136,
+      "title": "Tetris 2"
+    },
+    {
+      "tgdb_id": 2137,
+      "title": "The Three Stooges"
+    },
+    {
+      "tgdb_id": 2138,
+      "title": "Thunder & Lightning"
+    },
+    {
+      "tgdb_id": 2139,
+      "title": "Thundercade"
+    },
+    {
+      "tgdb_id": 2140,
+      "title": "Tiles of Fate"
+    },
+    {
+      "tgdb_id": 2141,
+      "title": "Tiny Toon Adventures 2: Trouble in Wackyland"
+    },
+    {
+      "tgdb_id": 2142,
+      "title": "Tiny Toon Adventures Cartoon Workshop"
+    },
+    {
+      "tgdb_id": 2143,
+      "title": "Toki"
+    },
+    {
+      "tgdb_id": 2144,
+      "title": "Tom & Jerry"
+    },
+    {
+      "tgdb_id": 2145,
+      "title": "Tombs & Treasure"
+    },
+    {
+      "tgdb_id": 2146,
+      "title": "Toobin'"
+    },
+    {
+      "tgdb_id": 2147,
+      "title": "Total Funpak"
+    },
+    {
+      "tgdb_id": 2148,
+      "title": "Touchdown Fever"
+    },
+    {
+      "tgdb_id": 2150,
+      "title": "Treasure Master"
+    },
+    {
+      "tgdb_id": 2151,
+      "title": "Twin Eagle"
+    },
+    {
+      "tgdb_id": 2152,
+      "title": "Twin Cobra"
+    },
+    {
+      "tgdb_id": 2153,
+      "title": "Arkanoid"
+    },
+    {
+      "tgdb_id": 2154,
+      "title": "Trog!"
+    },
+    {
+      "tgdb_id": 2155,
+      "title": "Trolls on Treasure Island"
+    },
+    {
+      "tgdb_id": 2156,
+      "title": "Ufouria: The Saga"
+    },
+    {
+      "tgdb_id": 2157,
+      "title": "Ultimate Air Combat"
+    },
+    {
+      "tgdb_id": 2158,
+      "title": "Ultimate Basketball"
+    },
+    {
+      "tgdb_id": 2159,
+      "title": "Ultimate League Soccer"
+    },
+    {
+      "tgdb_id": 2160,
+      "title": "The Ultimate Stuntman"
+    },
+    {
+      "tgdb_id": 2161,
+      "title": "Uncharted Waters"
+    },
+    {
+      "tgdb_id": 2162,
+      "title": "Uninvited"
+    },
+    {
+      "tgdb_id": 2163,
+      "title": "The Untouchables"
+    },
+    {
+      "tgdb_id": 2164,
+      "title": "Vegas Dream"
+    },
+    {
+      "tgdb_id": 2165,
+      "title": "Venice Beach Volleyball"
+    },
+    {
+      "tgdb_id": 2166,
+      "title": "Vice: Project Doom"
+    },
+    {
+      "tgdb_id": 2167,
+      "title": "Videomation"
+    },
+    {
+      "tgdb_id": 2168,
+      "title": "Volleyball"
+    },
+    {
+      "tgdb_id": 2169,
+      "title": "Wacky Races"
+    },
+    {
+      "tgdb_id": 2170,
+      "title": "Wall Street Kid"
+    },
+    {
+      "tgdb_id": 2171,
+      "title": "Wally Bear and the NO! Gang"
+    },
+    {
+      "tgdb_id": 2172,
+      "title": "Wario's Woods"
+    },
+    {
+      "tgdb_id": 2173,
+      "title": "Wayne Gretzky Hockey"
+    },
+    {
+      "tgdb_id": 2176,
+      "title": "Werewolf: The Last Warrior"
+    },
+    {
+      "tgdb_id": 2177,
+      "title": "Wheel of Fortune: Family Edition"
+    },
+    {
+      "tgdb_id": 2178,
+      "title": "Where in Time Is Carmen Sandiego?"
+    },
+    {
+      "tgdb_id": 2179,
+      "title": "Where's Waldo?"
+    },
+    {
+      "tgdb_id": 2180,
+      "title": "Who Framed Roger Rabbit"
+    },
+    {
+      "tgdb_id": 2181,
+      "title": "Whomp 'Em"
+    },
+    {
+      "tgdb_id": 2182,
+      "title": "Widget"
+    },
+    {
+      "tgdb_id": 2183,
+      "title": "Winter Games"
+    },
+    {
+      "tgdb_id": 2184,
+      "title": "World Champ"
+    },
+    {
+      "tgdb_id": 2185,
+      "title": "World Games"
+    },
+    {
+      "tgdb_id": 2186,
+      "title": "WWF WrestleMania"
+    },
+    {
+      "tgdb_id": 2187,
+      "title": "WWF WrestleMania Challenge"
+    },
+    {
+      "tgdb_id": 27279,
+      "title": "SonSon"
+    },
+    {
+      "tgdb_id": 27299,
+      "title": "Super Dyna'mix Badminton"
+    },
+    {
+      "tgdb_id": 2295,
+      "title": "The Young Indiana Jones Chronicles"
+    },
+    {
+      "tgdb_id": 2296,
+      "title": "The Last Starfighter"
+    },
+    {
+      "tgdb_id": 2298,
+      "title": "Legends of the Diamond"
+    },
+    {
+      "tgdb_id": 2300,
+      "title": "Hatris"
+    },
+    {
+      "tgdb_id": 2376,
+      "title": "FireHawk"
+    },
+    {
+      "tgdb_id": 2377,
+      "title": "Freedom Force"
+    },
+    {
+      "tgdb_id": 2378,
+      "title": "Zen: Intergalactic Ninja"
+    },
+    {
+      "tgdb_id": 2379,
+      "title": "Digger T. Rock: The Legend of the Lost City"
+    },
+    {
+      "tgdb_id": 2380,
+      "title": "Fisher-Price: I Can Remember"
+    },
+    {
+      "tgdb_id": 2381,
+      "title": "Hot Slots"
+    },
+    {
+      "tgdb_id": 2382,
+      "title": "Fisher-Price: Firehouse Rescue"
+    },
+    {
+      "tgdb_id": 2654,
+      "title": "The Terminator"
+    },
+    {
+      "tgdb_id": 2794,
+      "title": "Ivan \"Ironman\" Stewart's Super Off Road"
+    },
+    {
+      "tgdb_id": 27285,
+      "title": "Star Luster"
+    },
+    {
+      "tgdb_id": 2758,
+      "title": "Zelda II: The Adventure of Link"
+    },
+    {
+      "tgdb_id": 2765,
+      "title": "Batman Returns"
+    },
+    {
+      "tgdb_id": 2767,
+      "title": "Wheel of Fortune"
+    },
+    {
+      "tgdb_id": 2770,
+      "title": "Battletoads"
+    },
+    {
+      "tgdb_id": 2771,
+      "title": "Wayne's World"
+    },
+    {
+      "tgdb_id": 2774,
+      "title": "Battletoads & Double Dragon"
+    },
+    {
+      "tgdb_id": 2778,
+      "title": "Toxic Crusaders"
+    },
+    {
+      "tgdb_id": 2781,
+      "title": "The Punisher"
+    },
+    {
+      "tgdb_id": 2784,
+      "title": "The Immortal"
+    },
+    {
+      "tgdb_id": 2785,
+      "title": "The Hunt for Red October"
+    },
+    {
+      "tgdb_id": 2787,
+      "title": "The Fantastic Adventures of Dizzy"
+    },
+    {
+      "tgdb_id": 2789,
+      "title": "TaleSpin"
+    },
+    {
+      "tgdb_id": 2790,
+      "title": "Superman"
+    },
+    {
+      "tgdb_id": 2820,
+      "title": "MsPac-Man"
+    },
+    {
+      "tgdb_id": 2833,
+      "title": "Captain America and the Avengers"
+    },
+    {
+      "tgdb_id": 32946,
+      "title": "Castlevania: Chorus of Mysteries"
+    },
+    {
+      "tgdb_id": 2836,
+      "title": "Jurassic Park"
+    },
+    {
+      "tgdb_id": 2837,
+      "title": "Joust"
+    },
+    {
+      "tgdb_id": 2838,
+      "title": "Jordan Vs Bird: One on One"
+    },
+    {
+      "tgdb_id": 2841,
+      "title": "Jeopardy!"
+    },
+    {
+      "tgdb_id": 2842,
+      "title": "Home Alone"
+    },
+    {
+      "tgdb_id": 2844,
+      "title": "Ghostbusters"
+    },
+    {
+      "tgdb_id": 2854,
+      "title": "Final Fantasy"
+    },
+    {
+      "tgdb_id": 2856,
+      "title": "Commando"
+    },
+    {
+      "tgdb_id": 2865,
+      "title": "Defender II"
+    },
+    {
+      "tgdb_id": 2869,
+      "title": "Aladdin"
+    },
+    {
+      "tgdb_id": 2871,
+      "title": "The Jungle Book"
+    },
+    {
+      "tgdb_id": 2887,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 2906,
+      "title": "Family Feud"
+    },
+    {
+      "tgdb_id": 2920,
+      "title": "Prince of Persia"
+    },
+    {
+      "tgdb_id": 2941,
+      "title": "RoboCop 3"
+    },
+    {
+      "tgdb_id": 2948,
+      "title": "Shinobi"
+    },
+    {
+      "tgdb_id": 2960,
+      "title": "Strider"
+    },
+    {
+      "tgdb_id": 2963,
+      "title": "After Burner (Tengen)"
+    },
+    {
+      "tgdb_id": 7843,
+      "title": "Mother"
+    },
+    {
+      "tgdb_id": 4178,
+      "title": "1942"
+    },
+    {
+      "tgdb_id": 35974,
+      "title": "Fantasy Zone (SunSoft)"
+    },
+    {
+      "tgdb_id": 10725,
+      "title": "Formula One: Built to Win"
+    },
+    {
+      "tgdb_id": 6375,
+      "title": "American Gladiators"
+    },
+    {
+      "tgdb_id": 6410,
+      "title": "Super Mario Bros. - Duck Hunt"
+    },
+    {
+      "tgdb_id": 6432,
+      "title": "Banana Prince"
+    },
+    {
+      "tgdb_id": 7585,
+      "title": "Last Action Hero"
+    },
+    {
+      "tgdb_id": 7816,
+      "title": "Baseball Stars II"
+    },
+    {
+      "tgdb_id": 7819,
+      "title": "Battle City"
+    },
+    {
+      "tgdb_id": 9100,
+      "title": "Challenge of the Dragon"
+    },
+    {
+      "tgdb_id": 7822,
+      "title": "Bo Jackson Baseball"
+    },
+    {
+      "tgdb_id": 7824,
+      "title": "Bubble Bobble"
+    },
+    {
+      "tgdb_id": 7826,
+      "title": "Corvette ZR-1 Challenge"
+    },
+    {
+      "tgdb_id": 7827,
+      "title": "Crackout"
+    },
+    {
+      "tgdb_id": 7828,
+      "title": "Crash 'n' the Boys: Street Challenge"
+    },
+    {
+      "tgdb_id": 7829,
+      "title": "Darkman"
+    },
+    {
+      "tgdb_id": 7830,
+      "title": "Devil World"
+    },
+    {
+      "tgdb_id": 7864,
+      "title": "Ferrari Grand Prix Challenge"
+    },
+    {
+      "tgdb_id": 7869,
+      "title": "Final Fantasy II"
+    },
+    {
+      "tgdb_id": 7878,
+      "title": "Final Fantasy III"
+    },
+    {
+      "tgdb_id": 7904,
+      "title": "Fire Emblem"
+    },
+    {
+      "tgdb_id": 28861,
+      "title": "Sangokushi: Chi Bi Zhi Zhan"
+    },
+    {
+      "tgdb_id": 7905,
+      "title": "The Flintstones: The Surprise at Dinosaur Peak!"
+    },
+    {
+      "tgdb_id": 7906,
+      "title": "G.I. Joe: The Atlantis Factor"
+    },
+    {
+      "tgdb_id": 7908,
+      "title": "Wheel of Fortune Featuring Vanna White"
+    },
+    {
+      "tgdb_id": 8482,
+      "title": "Nobunaga's Ambition II"
+    },
+    {
+      "tgdb_id": 8487,
+      "title": "Goal! 2"
+    },
+    {
+      "tgdb_id": 8488,
+      "title": "Golf Grand Slam"
+    },
+    {
+      "tgdb_id": 8489,
+      "title": "Hook"
+    },
+    {
+      "tgdb_id": 8495,
+      "title": "Konami Hyper Soccer"
+    },
+    {
+      "tgdb_id": 8496,
+      "title": "Krusty's Fun House"
+    },
+    {
+      "tgdb_id": 8497,
+      "title": "Lethal Weapon"
+    },
+    {
+      "tgdb_id": 8498,
+      "title": "The Lion King"
+    },
+    {
+      "tgdb_id": 8499,
+      "title": "Little League Baseball: Championship Series"
+    },
+    {
+      "tgdb_id": 8501,
+      "title": "Magic Block"
+    },
+    {
+      "tgdb_id": 8508,
+      "title": "Magic Jewelry 2"
+    },
+    {
+      "tgdb_id": 8509,
+      "title": "Master Fighter II"
+    },
+    {
+      "tgdb_id": 8512,
+      "title": "Michael Andretti's World GP"
+    },
+    {
+      "tgdb_id": 8515,
+      "title": "New Ghostbusters II"
+    },
+    {
+      "tgdb_id": 8516,
+      "title": "Pac-Mania"
+    },
+    {
+      "tgdb_id": 8517,
+      "title": "Palamedes"
+    },
+    {
+      "tgdb_id": 8518,
+      "title": "Parasol Stars: Rainbow Islands II"
+    },
+    {
+      "tgdb_id": 8519,
+      "title": "Peek-A-Boo Poker"
+    },
+    {
+      "tgdb_id": 8520,
+      "title": "Arctic Adventure: Penguin & Seal"
+    },
+    {
+      "tgdb_id": 8521,
+      "title": "Fisher-Price: Perfect Fit"
+    },
+    {
+      "tgdb_id": 8522,
+      "title": "Probotector"
+    },
+    {
+      "tgdb_id": 8523,
+      "title": "Probotector II: Return of the Evil Forces"
+    },
+    {
+      "tgdb_id": 8524,
+      "title": "RoboCop 2"
+    },
+    {
+      "tgdb_id": 8525,
+      "title": "Roger Clemens' MVP Baseball"
+    },
+    {
+      "tgdb_id": 9165,
+      "title": "Jeopardy! Junior Edition"
+    },
+    {
+      "tgdb_id": 27275,
+      "title": "Shufflepuck Cafe"
+    },
+    {
+      "tgdb_id": 27276,
+      "title": "Silva Saga"
+    },
+    {
+      "tgdb_id": 10252,
+      "title": "WWF King of the Ring"
+    },
+    {
+      "tgdb_id": 23229,
+      "title": "Bio Miracle Bokutte Upa"
+    },
+    {
+      "tgdb_id": 10727,
+      "title": "The Goonies"
+    },
+    {
+      "tgdb_id": 10800,
+      "title": "Battle Kid: Fortress of Peril"
+    },
+    {
+      "tgdb_id": 10863,
+      "title": "Terra Cresta"
+    },
+    {
+      "tgdb_id": 10942,
+      "title": "Captain Tsubasa II: Super Striker"
+    },
+    {
+      "tgdb_id": 27298,
+      "title": "Super Black Onyx"
+    },
+    {
+      "tgdb_id": 27297,
+      "title": "STED: Iseki Wakusei no Yabou"
+    },
+    {
+      "tgdb_id": 11767,
+      "title": "The California Raisins: The Grape Escape"
+    },
+    {
+      "tgdb_id": 11769,
+      "title": "Greg Norman's Golf Power"
+    },
+    {
+      "tgdb_id": 11770,
+      "title": "Super Cars"
+    },
+    {
+      "tgdb_id": 11771,
+      "title": "Chris Evert & Ivan Lendl in Top Players' Tennis"
+    },
+    {
+      "tgdb_id": 11933,
+      "title": "Talking Super Jeopardy!"
+    },
+    {
+      "tgdb_id": 36009,
+      "title": "Perman: Enban o Torikaese!!"
+    },
+    {
+      "tgdb_id": 27277,
+      "title": "Sky Destroyer"
+    },
+    {
+      "tgdb_id": 14278,
+      "title": "Dragon Power"
+    },
+    {
+      "tgdb_id": 14659,
+      "title": "Don Doko Don 2"
+    },
+    {
+      "tgdb_id": 14663,
+      "title": "Kyatto Ninden Teyandee"
+    },
+    {
+      "tgdb_id": 14669,
+      "title": "Grand Master"
+    },
+    {
+      "tgdb_id": 16716,
+      "title": "Fire Emblem Gaiden"
+    },
+    {
+      "tgdb_id": 16994,
+      "title": "Dig Dug"
+    },
+    {
+      "tgdb_id": 33441,
+      "title": "Super Mario Bros. 3 Mix"
+    },
+    {
+      "tgdb_id": 17477,
+      "title": "Mike Tyson's Punch-Out!!"
+    },
+    {
+      "tgdb_id": 17616,
+      "title": "Super Mario Bros. - Duck Hunt - World Class Track Meet"
+    },
+    {
+      "tgdb_id": 17766,
+      "title": "Jeopardy! 25th Anniversary Edition"
+    },
+    {
+      "tgdb_id": 17782,
+      "title": "Holy Diver"
+    },
+    {
+      "tgdb_id": 17783,
+      "title": "Akumajou Special: Boku Dracula-kun"
+    },
+    {
+      "tgdb_id": 18227,
+      "title": "The Magic Candle"
+    },
+    {
+      "tgdb_id": 32677,
+      "title": "Auto-Upturn"
+    },
+    {
+      "tgdb_id": 18353,
+      "title": "Kamen Rider Club: Gekitotsu Shocker Land"
+    },
+    {
+      "tgdb_id": 18693,
+      "title": "Gargoyle's Quest II"
+    },
+    {
+      "tgdb_id": 27281,
+      "title": "Space Invaders"
+    },
+    {
+      "tgdb_id": 18755,
+      "title": "King Kong 2: Ikari no Megaton Punch"
+    },
+    {
+      "tgdb_id": 18788,
+      "title": "Squashed"
+    },
+    {
+      "tgdb_id": 18950,
+      "title": "Choplifter"
+    },
+    {
+      "tgdb_id": 18951,
+      "title": "Gradius II"
+    },
+    {
+      "tgdb_id": 26349,
+      "title": "The Bard's Tale II: The Destiny Knight"
+    },
+    {
+      "tgdb_id": 19039,
+      "title": "Sweet Home"
+    },
+    {
+      "tgdb_id": 19040,
+      "title": "Super Mario Fantasy Adventure"
+    },
+    {
+      "tgdb_id": 19041,
+      "title": "Ganbare Goemon!: Karakuri Douchuu"
+    },
+    {
+      "tgdb_id": 19045,
+      "title": "Ganbare Goemon 2"
+    },
+    {
+      "tgdb_id": 19052,
+      "title": "Famicom Wars"
+    },
+    {
+      "tgdb_id": 19054,
+      "title": "Cosmic Epsilon"
+    },
+    {
+      "tgdb_id": 19055,
+      "title": "EarthBound Zero"
+    },
+    {
+      "tgdb_id": 19056,
+      "title": "Musashi no Bouken"
+    },
+    {
+      "tgdb_id": 19057,
+      "title": "Minelvaton Saga"
+    },
+    {
+      "tgdb_id": 19058,
+      "title": "Radia Senki: Reimmeihen"
+    },
+    {
+      "tgdb_id": 19060,
+      "title": "Final Fantasy I∙II"
+    },
+    {
+      "tgdb_id": 19061,
+      "title": "Dragoon X Omega"
+    },
+    {
+      "tgdb_id": 27287,
+      "title": "Sukeban Deka III"
+    },
+    {
+      "tgdb_id": 19104,
+      "title": "Dragon Ball Z: Kyoushuu! Saiya Jin"
+    },
+    {
+      "tgdb_id": 19105,
+      "title": "Dragon Ball Z II: Gekishin Frieza!!"
+    },
+    {
+      "tgdb_id": 19106,
+      "title": "Dragon Ball Z Gaiden: Saiyajin Zetsumetsu Keikaku"
+    },
+    {
+      "tgdb_id": 19107,
+      "title": "Dragon Ball Z III: Ressen Jinzou Ningen"
+    },
+    {
+      "tgdb_id": 19108,
+      "title": "Dragon Ball: Daimaou Fukkatsu"
+    },
+    {
+      "tgdb_id": 19109,
+      "title": "Dragon Ball 3: Goku Den"
+    },
+    {
+      "tgdb_id": 19110,
+      "title": "Dragon Ball: Shenlong no Nazo"
+    },
+    {
+      "tgdb_id": 19111,
+      "title": "Nekketsu Kouha Kunio Kun"
+    },
+    {
+      "tgdb_id": 19195,
+      "title": "Space Harrier"
+    },
+    {
+      "tgdb_id": 19358,
+      "title": "Bubble Bath Babes"
+    },
+    {
+      "tgdb_id": 19359,
+      "title": "Super Lode Runner II"
+    },
+    {
+      "tgdb_id": 36008,
+      "title": "Sakigake!! Otoko Juku: Shippuu Ichi Gou Sei"
+    },
+    {
+      "tgdb_id": 19890,
+      "title": "Super Mario Bros./Tetris/Nintendo World Cup"
+    },
+    {
+      "tgdb_id": 20011,
+      "title": "The Trolls in Crazyland"
+    },
+    {
+      "tgdb_id": 20018,
+      "title": "Choujikuu Yousai - Macross"
+    },
+    {
+      "tgdb_id": 20092,
+      "title": "Decathlon"
+    },
+    {
+      "tgdb_id": 20094,
+      "title": "Dizzy the Adventurer"
+    },
+    {
+      "tgdb_id": 20097,
+      "title": "Fire 'n Ice"
+    },
+    {
+      "tgdb_id": 20101,
+      "title": "Magical Jewelry"
+    },
+    {
+      "tgdb_id": 25698,
+      "title": "CrossFire"
+    },
+    {
+      "tgdb_id": 20557,
+      "title": "A Ressha de Ikou"
+    },
+    {
+      "tgdb_id": 20558,
+      "title": "Aa Yakyuu Jinsei Icchokusen"
+    },
+    {
+      "tgdb_id": 20559,
+      "title": "Ai Sensei No Oshiete: Watashi No Hoshi"
+    },
+    {
+      "tgdb_id": 20560,
+      "title": "Aigiina No Yogen: Balubalouk No Densetsu Yori"
+    },
+    {
+      "tgdb_id": 20625,
+      "title": "Mitsume Ga Tooru"
+    },
+    {
+      "tgdb_id": 27288,
+      "title": "Super Arabian"
+    },
+    {
+      "tgdb_id": 27289,
+      "title": "Super Rugby"
+    },
+    {
+      "tgdb_id": 20935,
+      "title": "Wanpaku Kokkun no Gourmet World"
+    },
+    {
+      "tgdb_id": 20982,
+      "title": "Doki! Doki! Yūenchi: Crazy Land Daisakusen"
+    },
+    {
+      "tgdb_id": 21067,
+      "title": "Antarctic Adventure"
+    },
+    {
+      "tgdb_id": 21068,
+      "title": "TwinBee"
+    },
+    {
+      "tgdb_id": 21071,
+      "title": "Mappy"
+    },
+    {
+      "tgdb_id": 21072,
+      "title": "Pooyan"
+    },
+    {
+      "tgdb_id": 21078,
+      "title": "Takahashi Meijin no Bug-tte Honey"
+    },
+    {
+      "tgdb_id": 21127,
+      "title": "B-Wings"
+    },
+    {
+      "tgdb_id": 21128,
+      "title": "Choujin Sentai Jetman"
+    },
+    {
+      "tgdb_id": 21136,
+      "title": "Destiny of an Emperor II"
+    },
+    {
+      "tgdb_id": 21141,
+      "title": "Kaiketsu Yancha maru 3: Taiketsu! Zōringen"
+    },
+    {
+      "tgdb_id": 21490,
+      "title": "Binary Land"
+    },
+    {
+      "tgdb_id": 21491,
+      "title": "Brush Roller"
+    },
+    {
+      "tgdb_id": 21492,
+      "title": "Digital Devil Monogatari: Megami Tensei"
+    },
+    {
+      "tgdb_id": 21493,
+      "title": "Digital Devil Monogatari: Megami Tensei II"
+    },
+    {
+      "tgdb_id": 21494,
+      "title": "Field Combat"
+    },
+    {
+      "tgdb_id": 21495,
+      "title": "Exerion"
+    },
+    {
+      "tgdb_id": 21496,
+      "title": "Saint Seiya: Ougon Densetsu"
+    },
+    {
+      "tgdb_id": 21497,
+      "title": "Saint Seiya: Ougon Densetsu Kanketsu Hen"
+    },
+    {
+      "tgdb_id": 21563,
+      "title": "Maxivision 15 in 1"
+    },
+    {
+      "tgdb_id": 21564,
+      "title": "World Class Track Meet"
+    },
+    {
+      "tgdb_id": 21571,
+      "title": "Hell Fighter"
+    },
+    {
+      "tgdb_id": 22191,
+      "title": "Adventure Island IV"
+    },
+    {
+      "tgdb_id": 22442,
+      "title": "Splatterhouse: Wanpaku Graffiti"
+    },
+    {
+      "tgdb_id": 22443,
+      "title": "Crisis Force"
+    },
+    {
+      "tgdb_id": 22455,
+      "title": "Sunman"
+    },
+    {
+      "tgdb_id": 22493,
+      "title": "Getsu Fuuma Den"
+    },
+    {
+      "tgdb_id": 22517,
+      "title": "Spartan X 2"
+    },
+    {
+      "tgdb_id": 36586,
+      "title": "Koko Adventure"
+    },
+    {
+      "tgdb_id": 22565,
+      "title": "D-Pad Hero 2"
+    },
+    {
+      "tgdb_id": 22619,
+      "title": "Shatterhand"
+    },
+    {
+      "tgdb_id": 32245,
+      "title": "Ys III: Wanderers from Ys"
+    },
+    {
+      "tgdb_id": 23299,
+      "title": "Ys II: Ancient Ys Vanished – The Final Chapter"
+    },
+    {
+      "tgdb_id": 23300,
+      "title": "Ys: Ancient Ys Vanished"
+    },
+    {
+      "tgdb_id": 27280,
+      "title": "Space Hunter"
+    },
+    {
+      "tgdb_id": 23373,
+      "title": "Dark Lord"
+    },
+    {
+      "tgdb_id": 23374,
+      "title": "Bio Senshi Dan: Increaser to no Tatakai"
+    },
+    {
+      "tgdb_id": 23376,
+      "title": "Cosmic Wars"
+    },
+    {
+      "tgdb_id": 23407,
+      "title": "Stargazers"
+    },
+    {
+      "tgdb_id": 23557,
+      "title": "Argus"
+    },
+    {
+      "tgdb_id": 23560,
+      "title": "Cocoron"
+    },
+    {
+      "tgdb_id": 23561,
+      "title": "Cosmo Police Galivan"
+    },
+    {
+      "tgdb_id": 23613,
+      "title": "Drac's Night Out"
+    },
+    {
+      "tgdb_id": 23616,
+      "title": "Juuouki"
+    },
+    {
+      "tgdb_id": 23619,
+      "title": "Arkanoid II"
+    },
+    {
+      "tgdb_id": 23627,
+      "title": "Mini Putt"
+    },
+    {
+      "tgdb_id": 23638,
+      "title": "Crash 'n the Boys: Ice Challenge"
+    },
+    {
+      "tgdb_id": 23762,
+      "title": "Summer Carnival '92: Recca"
+    },
+    {
+      "tgdb_id": 23955,
+      "title": "Popeye no Eigo Asobi"
+    },
+    {
+      "tgdb_id": 23986,
+      "title": "Captain Tsubasa"
+    },
+    {
+      "tgdb_id": 23987,
+      "title": "Warpman"
+    },
+    {
+      "tgdb_id": 24152,
+      "title": "F1 Race"
+    },
+    {
+      "tgdb_id": 24287,
+      "title": "Ikki"
+    },
+    {
+      "tgdb_id": 24288,
+      "title": "Sanrio Cup: Ponpon Volleyball"
+    },
+    {
+      "tgdb_id": 24290,
+      "title": "Sanrio Carnival"
+    },
+    {
+      "tgdb_id": 24291,
+      "title": "Sanrio Carnival 2"
+    },
+    {
+      "tgdb_id": 24721,
+      "title": "After Burner (SunSoft)"
+    },
+    {
+      "tgdb_id": 24722,
+      "title": "Dai-2-Ji Super Robot Taisen"
+    },
+    {
+      "tgdb_id": 24723,
+      "title": "Wai Wai World"
+    },
+    {
+      "tgdb_id": 24747,
+      "title": "Kyuukyoku Harikiri Stadium: Heisei Gannen Ban"
+    },
+    {
+      "tgdb_id": 24826,
+      "title": "Akira"
+    },
+    {
+      "tgdb_id": 24827,
+      "title": "American Dream"
+    },
+    {
+      "tgdb_id": 24828,
+      "title": "Ankoku Shinwa: Yamato Takeru Densetsu"
+    },
+    {
+      "tgdb_id": 24839,
+      "title": "Sengoku Denshou"
+    },
+    {
+      "tgdb_id": 24847,
+      "title": "Kunio-kun no Nekketsu Soccer League"
+    },
+    {
+      "tgdb_id": 24851,
+      "title": "Nekketsu Koukou Dodgeball Bu"
+    },
+    {
+      "tgdb_id": 24855,
+      "title": "Downtown Special: Kunio-kun no Jidaigeki Dayo Zenin Shuugou!"
+    },
+    {
+      "tgdb_id": 24856,
+      "title": "Ike Ike! Nekketsu Hockey Bu: Subette Koronde Dairantou"
+    },
+    {
+      "tgdb_id": 24924,
+      "title": "Big Nose and the Witchdoctor"
+    },
+    {
+      "tgdb_id": 24935,
+      "title": "Taito Chase H.Q."
+    },
+    {
+      "tgdb_id": 24953,
+      "title": "Don Doko Don"
+    },
+    {
+      "tgdb_id": 25068,
+      "title": "Chaos World"
+    },
+    {
+      "tgdb_id": 27204,
+      "title": "Minna no Tabou no Nakayoshi Daisakusen"
+    },
+    {
+      "tgdb_id": 25376,
+      "title": "Captain Silver"
+    },
+    {
+      "tgdb_id": 25377,
+      "title": "Fantasy Zone 2: Opa-Opa no Namida"
+    },
+    {
+      "tgdb_id": 25378,
+      "title": "Galaxian"
+    },
+    {
+      "tgdb_id": 25401,
+      "title": "Hello Kitty no Hanabatake"
+    },
+    {
+      "tgdb_id": 25402,
+      "title": "Hello Kitty World"
+    },
+    {
+      "tgdb_id": 25403,
+      "title": "Hokuto no Ken"
+    },
+    {
+      "tgdb_id": 25404,
+      "title": "Hokuto no Ken 2 - Seikimatsu Kyuuseishu Densetsu"
+    },
+    {
+      "tgdb_id": 25405,
+      "title": "Insector X"
+    },
+    {
+      "tgdb_id": 25406,
+      "title": "Mappy Kids"
+    },
+    {
+      "tgdb_id": 25413,
+      "title": "Mario Bros. Classic"
+    },
+    {
+      "tgdb_id": 25414,
+      "title": "Miracle Ropitt: 2100-nen no Daibouken"
+    },
+    {
+      "tgdb_id": 25424,
+      "title": "Wizardry 3: Legacy of Llylgamyn"
+    },
+    {
+      "tgdb_id": 25487,
+      "title": "Zombie Hunter"
+    },
+    {
+      "tgdb_id": 25554,
+      "title": "1991 Du Ma Racing"
+    },
+    {
+      "tgdb_id": 25568,
+      "title": "Akumajou Densetsu"
+    },
+    {
+      "tgdb_id": 25702,
+      "title": "Magic Cube"
+    },
+    {
+      "tgdb_id": 25703,
+      "title": "Tetris (Tengen)"
+    },
+    {
+      "tgdb_id": 25758,
+      "title": "Star Wars (Namco)"
+    },
+    {
+      "tgdb_id": 25851,
+      "title": "Sugoro Quest: Dice no Senshi Tachi"
+    },
+    {
+      "tgdb_id": 25855,
+      "title": "Moon Crystal"
+    },
+    {
+      "tgdb_id": 25856,
+      "title": "Heracles no Eikou II: Titan no Metsubou"
+    },
+    {
+      "tgdb_id": 27282,
+      "title": "Spelunker II: Yuushahe no Chousen"
+    },
+    {
+      "tgdb_id": 27283,
+      "title": "Stick Hunter: Exciting Ice Hockey"
+    },
+    {
+      "tgdb_id": 27284,
+      "title": "Square no Tom Sawyer"
+    },
+    {
+      "tgdb_id": 25939,
+      "title": "The Adventures of Dr. Franken"
+    },
+    {
+      "tgdb_id": 25959,
+      "title": "Bad Dudes vs. Dragon Ninja"
+    },
+    {
+      "tgdb_id": 26009,
+      "title": "Blue Shadow"
+    },
+    {
+      "tgdb_id": 26233,
+      "title": "Dragon Wars"
+    },
+    {
+      "tgdb_id": 26247,
+      "title": "Arctic"
+    },
+    {
+      "tgdb_id": 26248,
+      "title": "Armadillo"
+    },
+    {
+      "tgdb_id": 26249,
+      "title": "Artelius"
+    },
+    {
+      "tgdb_id": 26250,
+      "title": "Asmik-kun Land"
+    },
+    {
+      "tgdb_id": 26251,
+      "title": "Baseball Fighter"
+    },
+    {
+      "tgdb_id": 26252,
+      "title": "Madoola no Tsubasa"
+    },
+    {
+      "tgdb_id": 26253,
+      "title": "Thexder"
+    },
+    {
+      "tgdb_id": 26254,
+      "title": "Ganbare Goemon Gaiden: Kieta Ougon Kiseru"
+    },
+    {
+      "tgdb_id": 26255,
+      "title": "Ganbare Goemon Gaiden 2: Tenka no Zaihou"
+    },
+    {
+      "tgdb_id": 26261,
+      "title": "Dream Master"
+    },
+    {
+      "tgdb_id": 26265,
+      "title": "Karateka"
+    },
+    {
+      "tgdb_id": 26272,
+      "title": "Jikuu Yuuden: Debias"
+    },
+    {
+      "tgdb_id": 26350,
+      "title": "Batsu & Terry"
+    },
+    {
+      "tgdb_id": 26351,
+      "title": "Booby Kids"
+    },
+    {
+      "tgdb_id": 26383,
+      "title": "Astro Fang: Super Machine"
+    },
+    {
+      "tgdb_id": 26384,
+      "title": "4 Nin Uchi Mahjong"
+    },
+    {
+      "tgdb_id": 26385,
+      "title": "1999: Hore, Mita koto ka! Seikimatsu"
+    },
+    {
+      "tgdb_id": 26386,
+      "title": "Akagawa Jirou no Yuurei Ressha"
+    },
+    {
+      "tgdb_id": 26387,
+      "title": "Akuma-kun: Makai no Wana"
+    },
+    {
+      "tgdb_id": 26388,
+      "title": "America Daitouryou Senkyo: United State Presidental Race"
+    },
+    {
+      "tgdb_id": 26389,
+      "title": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai"
+    },
+    {
+      "tgdb_id": 26390,
+      "title": "Astro Robo SASA"
+    },
+    {
+      "tgdb_id": 26391,
+      "title": "Atlantis no Nazo"
+    },
+    {
+      "tgdb_id": 26392,
+      "title": "Attack Animal Gakuen"
+    },
+    {
+      "tgdb_id": 26398,
+      "title": "Woody Poko"
+    },
+    {
+      "tgdb_id": 26400,
+      "title": "World Boxing"
+    },
+    {
+      "tgdb_id": 26401,
+      "title": "Yie Ar Kung Fu"
+    },
+    {
+      "tgdb_id": 26402,
+      "title": "Youkai Club"
+    },
+    {
+      "tgdb_id": 26403,
+      "title": "Youkai Douchuuki"
+    },
+    {
+      "tgdb_id": 26404,
+      "title": "Yume Penguin Monogatari"
+    },
+    {
+      "tgdb_id": 26405,
+      "title": "Zippy Race"
+    },
+    {
+      "tgdb_id": 26406,
+      "title": "Zoids: Mokushiroku"
+    },
+    {
+      "tgdb_id": 26407,
+      "title": "Zoids: Chuuou Tairiku no Tatakai"
+    },
+    {
+      "tgdb_id": 26408,
+      "title": "Zoids 2: Zenebasu no Gyakushuu"
+    },
+    {
+      "tgdb_id": 26409,
+      "title": "Wit's"
+    },
+    {
+      "tgdb_id": 26410,
+      "title": "Wily & Light's Rockboard: That's Paradise!!"
+    },
+    {
+      "tgdb_id": 26411,
+      "title": "Valkyrie no Bōken: Toki no Kagi Densetsu"
+    },
+    {
+      "tgdb_id": 26412,
+      "title": "AV Bishoujo Senshi Girl Fighting"
+    },
+    {
+      "tgdb_id": 26413,
+      "title": "Bio Force Ape"
+    },
+    {
+      "tgdb_id": 26414,
+      "title": "Batman: Shadows of Gotham"
+    },
+    {
+      "tgdb_id": 26447,
+      "title": "Batman: The Video Game (Beta)"
+    },
+    {
+      "tgdb_id": 26448,
+      "title": "Chou Jinrou Senki Warwolf"
+    },
+    {
+      "tgdb_id": 26449,
+      "title": "Babel no Tou"
+    },
+    {
+      "tgdb_id": 26450,
+      "title": "Contra Spirits"
+    },
+    {
+      "tgdb_id": 26452,
+      "title": "Banana"
+    },
+    {
+      "tgdb_id": 26453,
+      "title": "Donald Duck"
+    },
+    {
+      "tgdb_id": 26454,
+      "title": "Ballblazer"
+    },
+    {
+      "tgdb_id": 26455,
+      "title": "Donkey Kong: Luigi Edition"
+    },
+    {
+      "tgdb_id": 26456,
+      "title": "Baltron"
+    },
+    {
+      "tgdb_id": 26457,
+      "title": "Dr. Luigi"
+    },
+    {
+      "tgdb_id": 26458,
+      "title": "Donkey Kong Country 4"
+    },
+    {
+      "tgdb_id": 26459,
+      "title": "Battle Baseball"
+    },
+    {
+      "tgdb_id": 26460,
+      "title": "Dragon Knife"
+    },
+    {
+      "tgdb_id": 26461,
+      "title": "Battle Fleet"
+    },
+    {
+      "tgdb_id": 26462,
+      "title": "Battle Stadium: Senbatsu Pro Yakyuu"
+    },
+    {
+      "tgdb_id": 26463,
+      "title": "Exploding Fist"
+    },
+    {
+      "tgdb_id": 26464,
+      "title": "Battle Storm"
+    },
+    {
+      "tgdb_id": 26465,
+      "title": "Fighting Hero"
+    },
+    {
+      "tgdb_id": 26466,
+      "title": "Final Fantasy VII"
+    },
+    {
+      "tgdb_id": 26467,
+      "title": "Donkey Kong: Pauline Edition"
+    },
+    {
+      "tgdb_id": 26468,
+      "title": "Fighting Hero III"
+    },
+    {
+      "tgdb_id": 26469,
+      "title": "Final Fight 3"
+    },
+    {
+      "tgdb_id": 26470,
+      "title": "Hitler no Fukkatsu: Top Secret"
+    },
+    {
+      "tgdb_id": 26471,
+      "title": "General's Son"
+    },
+    {
+      "tgdb_id": 26472,
+      "title": "Jurassic Boy 2"
+    },
+    {
+      "tgdb_id": 26473,
+      "title": "Kart Fighter"
+    },
+    {
+      "tgdb_id": 26474,
+      "title": "Lagrange Point"
+    },
+    {
+      "tgdb_id": 26475,
+      "title": "Mad City"
+    },
+    {
+      "tgdb_id": 26476,
+      "title": "Super Mario Kart"
+    },
+    {
+      "tgdb_id": 26477,
+      "title": "Master Fighter IV"
+    },
+    {
+      "tgdb_id": 26478,
+      "title": "Metroid: mOther"
+    },
+    {
+      "tgdb_id": 26479,
+      "title": "The Dragon"
+    },
+    {
+      "tgdb_id": 26480,
+      "title": "Mike Tyson's Intergalactic Power Punch"
+    },
+    {
+      "tgdb_id": 26482,
+      "title": "Mortal Kombat II"
+    },
+    {
+      "tgdb_id": 26483,
+      "title": "Mortal Kombat 2"
+    },
+    {
+      "tgdb_id": 26490,
+      "title": "Mortal Kombat II Special"
+    },
+    {
+      "tgdb_id": 26491,
+      "title": "Mortal Kombat 3"
+    },
+    {
+      "tgdb_id": 26492,
+      "title": "Motocross Champion"
+    },
+    {
+      "tgdb_id": 26493,
+      "title": "Nekketsu Street Basket: Ganbare Dunk Heroes"
+    },
+    {
+      "tgdb_id": 26495,
+      "title": "Panda Adventures"
+    },
+    {
+      "tgdb_id": 26496,
+      "title": "Parody World: Monster Party"
+    },
+    {
+      "tgdb_id": 26497,
+      "title": "Peach & Daisy: The Royal Games"
+    },
+    {
+      "tgdb_id": 26498,
+      "title": "Power Blazer"
+    },
+    {
+      "tgdb_id": 26499,
+      "title": "RoboCop Versus The Terminator"
+    },
+    {
+      "tgdb_id": 26500,
+      "title": "Somari"
+    },
+    {
+      "tgdb_id": 26501,
+      "title": "Street Heroes"
+    },
+    {
+      "tgdb_id": 26502,
+      "title": "Super Contra 7"
+    },
+    {
+      "tgdb_id": 26503,
+      "title": "Super Donkey Kong: Banana Boat"
+    },
+    {
+      "tgdb_id": 26507,
+      "title": "Super Luigi Bros."
+    },
+    {
+      "tgdb_id": 26509,
+      "title": "SUPER MARIO BROS Special X1"
+    },
+    {
+      "tgdb_id": 26512,
+      "title": "Superman (Beta)"
+    },
+    {
+      "tgdb_id": 26513,
+      "title": "Gluk The Thunder Warrior"
+    },
+    {
+      "tgdb_id": 26515,
+      "title": "Time Diver: Eon Man"
+    },
+    {
+      "tgdb_id": 26516,
+      "title": "Transformers: Convoy no Nazo"
+    },
+    {
+      "tgdb_id": 26520,
+      "title": "World Heroes 2"
+    },
+    {
+      "tgdb_id": 26523,
+      "title": "Zelda: The Legend of Link"
+    },
+    {
+      "tgdb_id": 26545,
+      "title": "Power Peach Sis."
+    },
+    {
+      "tgdb_id": 26546,
+      "title": "Mother 25th Anniversary Edition"
+    },
+    {
+      "tgdb_id": 26555,
+      "title": "Uchuu Keibitai SDF"
+    },
+    {
+      "tgdb_id": 26556,
+      "title": "Uchuusen Cosmo Carrier"
+    },
+    {
+      "tgdb_id": 26557,
+      "title": "Ultraman Club: Kaijuu Dai Kessen!!"
+    },
+    {
+      "tgdb_id": 26558,
+      "title": "Ultraman Club 2: Kaette Kita Ultraman Club"
+    },
+    {
+      "tgdb_id": 26559,
+      "title": "Ultraman Club 3: Mata Mata Shiyutsugeki!! Ultra Kyoudai"
+    },
+    {
+      "tgdb_id": 26560,
+      "title": "Urusei Yatsura: Lum's Wedding Bell"
+    },
+    {
+      "tgdb_id": 26561,
+      "title": "Ushio to Tora: Shinen no Daiyou"
+    },
+    {
+      "tgdb_id": 26562,
+      "title": "Utsurun Desu.: Kawauso Hawaii e Iku!!!"
+    },
+    {
+      "tgdb_id": 26563,
+      "title": "Mugen Senshi Valis"
+    },
+    {
+      "tgdb_id": 26564,
+      "title": "Venus Senki"
+    },
+    {
+      "tgdb_id": 26565,
+      "title": "Volguard II"
+    },
+    {
+      "tgdb_id": 26566,
+      "title": "Wagyan Land"
+    },
+    {
+      "tgdb_id": 26567,
+      "title": "Wagyan Land 2"
+    },
+    {
+      "tgdb_id": 26568,
+      "title": "Wagyan Land 3"
+    },
+    {
+      "tgdb_id": 26569,
+      "title": "Wai Wai World 2: SOS!! Parsley Jō"
+    },
+    {
+      "tgdb_id": 26570,
+      "title": "Be-Bop High School: Koukousei Gokuraku Densetsu"
+    },
+    {
+      "tgdb_id": 26571,
+      "title": "Best Play Pro Yakyuu"
+    },
+    {
+      "tgdb_id": 26572,
+      "title": "Best Play Pro Yakyuu '90"
+    },
+    {
+      "tgdb_id": 26573,
+      "title": "Best Play Pro Yakyuu II"
+    },
+    {
+      "tgdb_id": 26574,
+      "title": "Best Play Pro Yakyuu Special"
+    },
+    {
+      "tgdb_id": 26575,
+      "title": "Bikkuriman World: Gekitou Sei Senshi"
+    },
+    {
+      "tgdb_id": 26576,
+      "title": "Bird Week"
+    },
+    {
+      "tgdb_id": 26577,
+      "title": "Blodia Land: Puzzle Quest"
+    },
+    {
+      "tgdb_id": 26578,
+      "title": "Bloody Warriors: Shango no Gyakushuu"
+    },
+    {
+      "tgdb_id": 26579,
+      "title": "Bokosuka Wars"
+    },
+    {
+      "tgdb_id": 26580,
+      "title": "Cadillac"
+    },
+    {
+      "tgdb_id": 26581,
+      "title": "Captain Ed"
+    },
+    {
+      "tgdb_id": 26582,
+      "title": "Castle Quest"
+    },
+    {
+      "tgdb_id": 26584,
+      "title": "Chack'n Pop"
+    },
+    {
+      "tgdb_id": 26585,
+      "title": "Challenger"
+    },
+    {
+      "tgdb_id": 26586,
+      "title": "Championship Lode Runner"
+    },
+    {
+      "tgdb_id": 26587,
+      "title": "Chester Field: Ankoku Shin e no Chousen"
+    },
+    {
+      "tgdb_id": 26588,
+      "title": "Chiisana Obake: Acchi Socchi Kocchi"
+    },
+    {
+      "tgdb_id": 26590,
+      "title": "Chiyonofuji no Ooichou"
+    },
+    {
+      "tgdb_id": 26591,
+      "title": "Chuuka Taisen"
+    },
+    {
+      "tgdb_id": 26592,
+      "title": "Columbus: Ougon no Yoake"
+    },
+    {
+      "tgdb_id": 26594,
+      "title": "Crayon Shin-Chan: Ora to Poi Poi"
+    },
+    {
+      "tgdb_id": 26595,
+      "title": "Crazy Climber"
+    },
+    {
+      "tgdb_id": 26596,
+      "title": "Cycle Race: Road Man"
+    },
+    {
+      "tgdb_id": 27278,
+      "title": "Soccer League - Winner's Cup"
+    },
+    {
+      "tgdb_id": 26601,
+      "title": "Super Mario World"
+    },
+    {
+      "tgdb_id": 26602,
+      "title": "Hiryuu no Ken: Ougi no Sho"
+    },
+    {
+      "tgdb_id": 26603,
+      "title": "Hiryuu no Ken II: Dragon no Tsubasa"
+    },
+    {
+      "tgdb_id": 26605,
+      "title": "Hiryuu no Ken III: 5 Nin no Ryuu Senshi"
+    },
+    {
+      "tgdb_id": 26606,
+      "title": "Hiryuu no Ken Special: Fighting Wars"
+    },
+    {
+      "tgdb_id": 26607,
+      "title": "Hard Drivin'"
+    },
+    {
+      "tgdb_id": 26608,
+      "title": "HeroQuest"
+    },
+    {
+      "tgdb_id": 26609,
+      "title": "Ganbare Pennant Race!"
+    },
+    {
+      "tgdb_id": 26610,
+      "title": "Dai Meiro: Meikyuu no Tatsujin"
+    },
+    {
+      "tgdb_id": 26611,
+      "title": "Daisenryaku"
+    },
+    {
+      "tgdb_id": 26612,
+      "title": "Daiku no Gen-San 2: Akage no Dan no Gyakushuu"
+    },
+    {
+      "tgdb_id": 26613,
+      "title": "DAIVA Story 6: Imperial of Nirsartia"
+    },
+    {
+      "tgdb_id": 26615,
+      "title": "Battle Rush: Build Up Robot Tournament"
+    },
+    {
+      "tgdb_id": 26616,
+      "title": "Dragon Ball Z: Gekitō Tenkaichi Budōkai"
+    },
+    {
+      "tgdb_id": 26617,
+      "title": "J. League Super Top Players"
+    },
+    {
+      "tgdb_id": 26618,
+      "title": "SD Gundam: Gundam Wars"
+    },
+    {
+      "tgdb_id": 26619,
+      "title": "Yuu Yuu Hakusho: Bakutou Ankoku Bujutsu Kai"
+    },
+    {
+      "tgdb_id": 26620,
+      "title": "Ultraman Club: Supokon Fight!"
+    },
+    {
+      "tgdb_id": 26625,
+      "title": "De-Block"
+    },
+    {
+      "tgdb_id": 26633,
+      "title": "Mario Adventure"
+    },
+    {
+      "tgdb_id": 26672,
+      "title": "Street Fighter Zero 2 '97"
+    },
+    {
+      "tgdb_id": 26677,
+      "title": "Dough Boy"
+    },
+    {
+      "tgdb_id": 26681,
+      "title": "Exed Exes"
+    },
+    {
+      "tgdb_id": 26765,
+      "title": "Deep Dungeon III: Yuushi heno Tabi"
+    },
+    {
+      "tgdb_id": 26766,
+      "title": "Deep Dungeon IV: Kuro no Youjutsushi"
+    },
+    {
+      "tgdb_id": 26767,
+      "title": "Devilman"
+    },
+    {
+      "tgdb_id": 26768,
+      "title": "Dezaemon"
+    },
+    {
+      "tgdb_id": 26769,
+      "title": "Dokuganryu Masamune"
+    },
+    {
+      "tgdb_id": 26770,
+      "title": "Donald Land"
+    },
+    {
+      "tgdb_id": 26771,
+      "title": "Door Door"
+    },
+    {
+      "tgdb_id": 26775,
+      "title": "Doraemon"
+    },
+    {
+      "tgdb_id": 26776,
+      "title": "Doraemon: Giga Zombie no Gyakushuu"
+    },
+    {
+      "tgdb_id": 26777,
+      "title": "Double Moon Densetsu"
+    },
+    {
+      "tgdb_id": 26778,
+      "title": "Dragon Buster"
+    },
+    {
+      "tgdb_id": 26779,
+      "title": "Dragon Buster II: Yami no Fuuin"
+    },
+    {
+      "tgdb_id": 26780,
+      "title": "Dragon Scroll: Yomigaerishi Maryuu"
+    },
+    {
+      "tgdb_id": 26781,
+      "title": "Dungeon Kid"
+    },
+    {
+      "tgdb_id": 26782,
+      "title": "Dynamite Bowl"
+    },
+    {
+      "tgdb_id": 26783,
+      "title": "Eggerland: Meikyuu no Fukkatsu"
+    },
+    {
+      "tgdb_id": 26784,
+      "title": "Egypt"
+    },
+    {
+      "tgdb_id": 26785,
+      "title": "Elysion"
+    },
+    {
+      "tgdb_id": 26786,
+      "title": "Erika to Satoru no Yume Bōken"
+    },
+    {
+      "tgdb_id": 26787,
+      "title": "Elnark no Zaihou"
+    },
+    {
+      "tgdb_id": 26788,
+      "title": "Esper Boukentai"
+    },
+    {
+      "tgdb_id": 26789,
+      "title": "Esper Dream 2: Aratanaru Tatakai"
+    },
+    {
+      "tgdb_id": 26790,
+      "title": "Exciting Boxing"
+    },
+    {
+      "tgdb_id": 26896,
+      "title": "Ginga no Sannin"
+    },
+    {
+      "tgdb_id": 26895,
+      "title": "Ginga Eiyuu Densetsu"
+    },
+    {
+      "tgdb_id": 26824,
+      "title": "F1 Circus"
+    },
+    {
+      "tgdb_id": 26825,
+      "title": "Famicom Doubutsu Seitai Zukan! Katte ni Shirokuma: Mori o Sukue no Maki!"
+    },
+    {
+      "tgdb_id": 26826,
+      "title": "Famicom Jump: Hero Retsuden"
+    },
+    {
+      "tgdb_id": 26827,
+      "title": "Famicom Jump II: Saikyō no Shichinin"
+    },
+    {
+      "tgdb_id": 26829,
+      "title": "Family Circuit"
+    },
+    {
+      "tgdb_id": 26830,
+      "title": "Family Circuit '91"
+    },
+    {
+      "tgdb_id": 26831,
+      "title": "Family Quiz 4-nin wa Rival"
+    },
+    {
+      "tgdb_id": 26833,
+      "title": "Family Tennis"
+    },
+    {
+      "tgdb_id": 26836,
+      "title": "Famista '89 Kaimaku Ban!!"
+    },
+    {
+      "tgdb_id": 26838,
+      "title": "Famista '90"
+    },
+    {
+      "tgdb_id": 26839,
+      "title": "Famista '91"
+    },
+    {
+      "tgdb_id": 26840,
+      "title": "Famista '92"
+    },
+    {
+      "tgdb_id": 26841,
+      "title": "Famista '93"
+    },
+    {
+      "tgdb_id": 26842,
+      "title": "Famista '94"
+    },
+    {
+      "tgdb_id": 26843,
+      "title": "Fighting Road"
+    },
+    {
+      "tgdb_id": 26844,
+      "title": "Final Lap"
+    },
+    {
+      "tgdb_id": 26845,
+      "title": "Flappy"
+    },
+    {
+      "tgdb_id": 26846,
+      "title": "Fleet Commander"
+    },
+    {
+      "tgdb_id": 26847,
+      "title": "Flipull: An Exciting Cube Game"
+    },
+    {
+      "tgdb_id": 26851,
+      "title": "Flying Hero"
+    },
+    {
+      "tgdb_id": 26852,
+      "title": "Formation Z"
+    },
+    {
+      "tgdb_id": 26873,
+      "title": "Hikari no Senshi Photon: The Ultimate Game on Planet Earth"
+    },
+    {
+      "tgdb_id": 26876,
+      "title": "Front Line"
+    },
+    {
+      "tgdb_id": 26877,
+      "title": "Fushigi no Umi Nadia: The Secret of Blue Water"
+    },
+    {
+      "tgdb_id": 26882,
+      "title": "Fuzzical Fighter"
+    },
+    {
+      "tgdb_id": 26884,
+      "title": "Zunou Senkan Galg"
+    },
+    {
+      "tgdb_id": 26885,
+      "title": "Ganso Saiyuuki: Super Monkey Daibouken"
+    },
+    {
+      "tgdb_id": 26886,
+      "title": "Garfield no Isshukan: A Week of Garfield"
+    },
+    {
+      "tgdb_id": 26888,
+      "title": "Gegege no Kitarou 2: Youkai Gundan no Chousen"
+    },
+    {
+      "tgdb_id": 26889,
+      "title": "Geimos"
+    },
+    {
+      "tgdb_id": 26892,
+      "title": "Gekitotsu Yonku Battle"
+    },
+    {
+      "tgdb_id": 26898,
+      "title": "The Golf '92"
+    },
+    {
+      "tgdb_id": 26902,
+      "title": "Golf Club: Birdie Rush"
+    },
+    {
+      "tgdb_id": 26903,
+      "title": "Gorby no Pipeline Daisakusen"
+    },
+    {
+      "tgdb_id": 26904,
+      "title": "Gozonji: Yaji Kita Chin Douchuu"
+    },
+    {
+      "tgdb_id": 26905,
+      "title": "Great Battle Cyber"
+    },
+    {
+      "tgdb_id": 26936,
+      "title": "GunHed: Aratanaru Tatakai"
+    },
+    {
+      "tgdb_id": 26939,
+      "title": "Gyrodine"
+    },
+    {
+      "tgdb_id": 26940,
+      "title": "Haja no Fuuin"
+    },
+    {
+      "tgdb_id": 26941,
+      "title": "Hana no Star Kaidou"
+    },
+    {
+      "tgdb_id": 26947,
+      "title": "Hanjuku Hero"
+    },
+    {
+      "tgdb_id": 26951,
+      "title": "Heracles no Eikou: Toujin Makyouden"
+    },
+    {
+      "tgdb_id": 26960,
+      "title": "Hi no Tori Hououhen: Gaou no Bouken"
+    },
+    {
+      "tgdb_id": 26965,
+      "title": "Higemaru Makaijima: Nanatsu no Shima Daibouken"
+    },
+    {
+      "tgdb_id": 26966,
+      "title": "Hirake! Ponkikki"
+    },
+    {
+      "tgdb_id": 26967,
+      "title": "Hokuto no Ken 3: Shinseiki Souzou Seiken Retsuden"
+    },
+    {
+      "tgdb_id": 26968,
+      "title": "Hokuto no Ken 4: Shichisei Hakenden: Hokuto Shinken no Kanata e"
+    },
+    {
+      "tgdb_id": 26969,
+      "title": "Home Run Nighter: Pennant League!!"
+    },
+    {
+      "tgdb_id": 26970,
+      "title": "Home Run Night '90: The Pennant League"
+    },
+    {
+      "tgdb_id": 26971,
+      "title": "Heisei Tensai Bakabon"
+    },
+    {
+      "tgdb_id": 27679,
+      "title": "Penguin-kun Wars"
+    },
+    {
+      "tgdb_id": 27132,
+      "title": "Honoo no Doukyuuji: Dodge Danpei"
+    },
+    {
+      "tgdb_id": 27133,
+      "title": "Honoo no Doukyuuji: Dodge Danpei 2"
+    },
+    {
+      "tgdb_id": 27134,
+      "title": "Hoshi wo Miru Hito"
+    },
+    {
+      "tgdb_id": 27136,
+      "title": "Hottaman no Chisoko Tanken"
+    },
+    {
+      "tgdb_id": 27137,
+      "title": "Hyakkiyakou"
+    },
+    {
+      "tgdb_id": 27138,
+      "title": "Hydlide 3: Yami Kara no Houmonsha"
+    },
+    {
+      "tgdb_id": 27139,
+      "title": "Hyper Sports"
+    },
+    {
+      "tgdb_id": 27140,
+      "title": "I Love Softball"
+    },
+    {
+      "tgdb_id": 36941,
+      "title": "Thunder Blaster Man"
+    },
+    {
+      "tgdb_id": 27141,
+      "title": "Idol Hakkenden"
+    },
+    {
+      "tgdb_id": 27142,
+      "title": "Ikinari Musician"
+    },
+    {
+      "tgdb_id": 27144,
+      "title": "Indora no Hikari"
+    },
+    {
+      "tgdb_id": 27145,
+      "title": "Ishin no Arashi"
+    },
+    {
+      "tgdb_id": 27146,
+      "title": "J-League Fighting Soccer: The King of Ace Strikers"
+    },
+    {
+      "tgdb_id": 27147,
+      "title": "J-League Winning Goal"
+    },
+    {
+      "tgdb_id": 27148,
+      "title": "Jajamaru Gekimaden: Maboroshi no Kinmajou"
+    },
+    {
+      "tgdb_id": 27149,
+      "title": "JaJaMaru no Daibouken"
+    },
+    {
+      "tgdb_id": 27150,
+      "title": "Jajamaru Ninpou Chou"
+    },
+    {
+      "tgdb_id": 27151,
+      "title": "Ninja JaJaMaru-kun"
+    },
+    {
+      "tgdb_id": 27152,
+      "title": "Ninja Jajamaru: Ginga Daisakusen"
+    },
+    {
+      "tgdb_id": 27153,
+      "title": "Jarinko Chie: Bakudan Musume no Shiawase Sagashi"
+    },
+    {
+      "tgdb_id": 27154,
+      "title": "JESUS: Kyoufu no Bio Monster"
+    },
+    {
+      "tgdb_id": 27155,
+      "title": "JJ: Tobidase Daisakusen Part II"
+    },
+    {
+      "tgdb_id": 27156,
+      "title": "Jumpin' Kid: Jack to Mame no Ki Monogatari"
+    },
+    {
+      "tgdb_id": 27157,
+      "title": "Just Breed"
+    },
+    {
+      "tgdb_id": 27158,
+      "title": "Juvei Quest"
+    },
+    {
+      "tgdb_id": 27159,
+      "title": "Kagerou Densetsu"
+    },
+    {
+      "tgdb_id": 27160,
+      "title": "Kaguya Hime Densetsu"
+    },
+    {
+      "tgdb_id": 27161,
+      "title": "Kaijuu Monogatari"
+    },
+    {
+      "tgdb_id": 27162,
+      "title": "Kaiketsu Yancha Maru 2: Karakuri Land"
+    },
+    {
+      "tgdb_id": 27163,
+      "title": "Kamen no Ninja: Akakage"
+    },
+    {
+      "tgdb_id": 27164,
+      "title": "Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi"
+    },
+    {
+      "tgdb_id": 27165,
+      "title": "Karakuri Kengoden Musashi Lord: Karakuri Jin Hashiru!"
+    },
+    {
+      "tgdb_id": 27166,
+      "title": "Kawa no Nushi Tsuri"
+    },
+    {
+      "tgdb_id": 27167,
+      "title": "Keroppi to Keroriinu no Splash Bomb!"
+    },
+    {
+      "tgdb_id": 27168,
+      "title": "Kujaku Ou"
+    },
+    {
+      "tgdb_id": 27169,
+      "title": "Kujaku Ou II"
+    },
+    {
+      "tgdb_id": 27170,
+      "title": "Kouryu Densetsu Villgust Gaiden"
+    },
+    {
+      "tgdb_id": 27171,
+      "title": "Kyouryuu Sentai Zyuranger"
+    },
+    {
+      "tgdb_id": 27172,
+      "title": "Labyrinth"
+    },
+    {
+      "tgdb_id": 27173,
+      "title": "Last Armageddon"
+    },
+    {
+      "tgdb_id": 27174,
+      "title": "Law of the West"
+    },
+    {
+      "tgdb_id": 27175,
+      "title": "Layla"
+    },
+    {
+      "tgdb_id": 27176,
+      "title": "Little Magic"
+    },
+    {
+      "tgdb_id": 27177,
+      "title": "TM Network: Live in Power Bowl"
+    },
+    {
+      "tgdb_id": 27178,
+      "title": "Lost Word of JeNnY: Ushinawareta Message"
+    },
+    {
+      "tgdb_id": 27179,
+      "title": "Lupin III: Pandora no Isan"
+    },
+    {
+      "tgdb_id": 27182,
+      "title": "Magical Taluluto-kun: Fantastic World!!"
+    },
+    {
+      "tgdb_id": 27184,
+      "title": "Magical Taluluto-kun 2: Magical Adventure"
+    },
+    {
+      "tgdb_id": 27186,
+      "title": "Magnum Kiki Ippatsu: Empire City 1931"
+    },
+    {
+      "tgdb_id": 27187,
+      "title": "MahaRaja"
+    },
+    {
+      "tgdb_id": 27188,
+      "title": "Majou Densetsu II: Daimashikyou Galious"
+    },
+    {
+      "tgdb_id": 27189,
+      "title": "Marusa no Onna"
+    },
+    {
+      "tgdb_id": 27199,
+      "title": "Majin Eiyuuden Wataru Gaiden"
+    },
+    {
+      "tgdb_id": 27200,
+      "title": "Metal Max"
+    },
+    {
+      "tgdb_id": 27201,
+      "title": "Super Maruo"
+    },
+    {
+      "tgdb_id": 27202,
+      "title": "Metro-Cross"
+    },
+    {
+      "tgdb_id": 27203,
+      "title": "Mindseeker"
+    },
+    {
+      "tgdb_id": 27205,
+      "title": "Mirai Senshi: Lios"
+    },
+    {
+      "tgdb_id": 27206,
+      "title": "Mirai Shinwa Jarvas"
+    },
+    {
+      "tgdb_id": 27210,
+      "title": "Moai Kun"
+    },
+    {
+      "tgdb_id": 27211,
+      "title": "Mobile Suit Z Gundam: Hot Scramble"
+    },
+    {
+      "tgdb_id": 27212,
+      "title": "Moero!! Judo Warriors"
+    },
+    {
+      "tgdb_id": 27213,
+      "title": "Momotarou Densetsu: Peach Boy Legend"
+    },
+    {
+      "tgdb_id": 27214,
+      "title": "Momotarou Densetsu Gaiden"
+    },
+    {
+      "tgdb_id": 27215,
+      "title": "Monster Maker: 7-tsu no Hihou"
+    },
+    {
+      "tgdb_id": 27216,
+      "title": "Mottomo Abunai Deka"
+    },
+    {
+      "tgdb_id": 27217,
+      "title": "Mouryou Senki Madara"
+    },
+    {
+      "tgdb_id": 27218,
+      "title": "Ms. Pac-Man (Tengen)"
+    },
+    {
+      "tgdb_id": 27219,
+      "title": "Musashi no Ken: Tadaima Shugyou Chuu"
+    },
+    {
+      "tgdb_id": 27220,
+      "title": "Nagagutsu o Haita Neko: Sekai Isshuu 80 Nichi Dai Bouken"
+    },
+    {
+      "tgdb_id": 27222,
+      "title": "Nakayoshi to Issho"
+    },
+    {
+      "tgdb_id": 27223,
+      "title": "Namco Classic"
+    },
+    {
+      "tgdb_id": 27224,
+      "title": "Namco Classic II"
+    },
+    {
+      "tgdb_id": 27225,
+      "title": "Napoleon Senki"
+    },
+    {
+      "tgdb_id": 27226,
+      "title": "Navy Blue"
+    },
+    {
+      "tgdb_id": 27227,
+      "title": "Nekketsu Kakutou Densetsu"
+    },
+    {
+      "tgdb_id": 27228,
+      "title": "Niji no Silkroad"
+    },
+    {
+      "tgdb_id": 27229,
+      "title": "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru"
+    },
+    {
+      "tgdb_id": 27235,
+      "title": "Ninja-Kun: Majou no Bouken"
+    },
+    {
+      "tgdb_id": 27236,
+      "title": "Ninja-kun: Ashura no Shou"
+    },
+    {
+      "tgdb_id": 27238,
+      "title": "Ninjara Hoi!"
+    },
+    {
+      "tgdb_id": 27239,
+      "title": "Nuts & Milk"
+    },
+    {
+      "tgdb_id": 27240,
+      "title": "Oishinbo: Kyukyoku no Menu 3bon Syoubu"
+    },
+    {
+      "tgdb_id": 27241,
+      "title": "Onyanko Town"
+    },
+    {
+      "tgdb_id": 27260,
+      "title": "Romancia"
+    },
+    {
+      "tgdb_id": 27262,
+      "title": "Route-16 Turbo"
+    },
+    {
+      "tgdb_id": 27263,
+      "title": "Saiyuuki World"
+    },
+    {
+      "tgdb_id": 27264,
+      "title": "Sanma no Meitantei"
+    },
+    {
+      "tgdb_id": 27265,
+      "title": "Sansara Naga"
+    },
+    {
+      "tgdb_id": 27266,
+      "title": "Seikima II: Akuma no Gyakushuu"
+    },
+    {
+      "tgdb_id": 27267,
+      "title": "Seirei Gari"
+    },
+    {
+      "tgdb_id": 27268,
+      "title": "Shadow Brain"
+    },
+    {
+      "tgdb_id": 27269,
+      "title": "Shanghai"
+    },
+    {
+      "tgdb_id": 27270,
+      "title": "Shanghai II"
+    },
+    {
+      "tgdb_id": 27271,
+      "title": "Sherlock Holmes: Hakushaku Reijou Yuukai Jiken"
+    },
+    {
+      "tgdb_id": 27273,
+      "title": "Shikinjou"
+    },
+    {
+      "tgdb_id": 27274,
+      "title": "Shinsenden"
+    },
+    {
+      "tgdb_id": 27301,
+      "title": "Super Pinball"
+    },
+    {
+      "tgdb_id": 27302,
+      "title": "Super Real Baseball '88"
+    },
+    {
+      "tgdb_id": 27304,
+      "title": "Super Star Force: Jikūreki no Himitsu"
+    },
+    {
+      "tgdb_id": 27305,
+      "title": "Super Xevious: GUMP no Nazo"
+    },
+    {
+      "tgdb_id": 27306,
+      "title": "Super Star Pro Wrestling"
+    },
+    {
+      "tgdb_id": 27307,
+      "title": "SWAT: Special Weapons and Tactics"
+    },
+    {
+      "tgdb_id": 27308,
+      "title": "Taito Grand Prix: Eikou heno License"
+    },
+    {
+      "tgdb_id": 27309,
+      "title": "Taiyou no Yuusha Fighbird"
+    },
+    {
+      "tgdb_id": 27310,
+      "title": "Takeshi no Chōsenjō"
+    },
+    {
+      "tgdb_id": 27311,
+      "title": "Tao"
+    },
+    {
+      "tgdb_id": 27313,
+      "title": "Tashiro Masashi no Princess ga Ippai"
+    },
+    {
+      "tgdb_id": 27314,
+      "title": "Tatakae!! Ramen-Man: Sakuretsu Choujin 102 Gei"
+    },
+    {
+      "tgdb_id": 27315,
+      "title": "Tenkaichi Bushi: Keru Naguuru"
+    },
+    {
+      "tgdb_id": 27316,
+      "title": "Terao no Dosukoi Oozumou"
+    },
+    {
+      "tgdb_id": 27317,
+      "title": "Tetrastar: The Fighter"
+    },
+    {
+      "tgdb_id": 27318,
+      "title": "Tetsuwan Atom"
+    },
+    {
+      "tgdb_id": 27319,
+      "title": "Time Zone"
+    },
+    {
+      "tgdb_id": 27320,
+      "title": "Titan"
+    },
+    {
+      "tgdb_id": 27321,
+      "title": "Tokoro-san no Mamoru mo Semeru mo"
+    },
+    {
+      "tgdb_id": 27322,
+      "title": "Top Rider"
+    },
+    {
+      "tgdb_id": 27323,
+      "title": "Top Striker"
+    },
+    {
+      "tgdb_id": 27324,
+      "title": "Toukon Club"
+    },
+    {
+      "tgdb_id": 27325,
+      "title": "The Tower of Druaga"
+    },
+    {
+      "tgdb_id": 27326,
+      "title": "Tsuppari Oozumou"
+    },
+    {
+      "tgdb_id": 27327,
+      "title": "Tsuppari Wars"
+    },
+    {
+      "tgdb_id": 27329,
+      "title": "TwinBee 3: Poko Poko Daimaō"
+    },
+    {
+      "tgdb_id": 27330,
+      "title": "SD Keiji: Blader"
+    },
+    {
+      "tgdb_id": 27341,
+      "title": "Metroid Deluxe"
+    },
+    {
+      "tgdb_id": 27584,
+      "title": "Rockman 4: Minus Infinity"
+    },
+    {
+      "tgdb_id": 27683,
+      "title": "Shin Samurai Spirits 2"
+    },
+    {
+      "tgdb_id": 27686,
+      "title": "Super Boogerman"
+    },
+    {
+      "tgdb_id": 27690,
+      "title": "Game Party"
+    },
+    {
+      "tgdb_id": 28564,
+      "title": "RacerMate Challenge II"
+    },
+    {
+      "tgdb_id": 27813,
+      "title": "Pac-Land"
+    },
+    {
+      "tgdb_id": 27814,
+      "title": "Parasol Henbee"
+    },
+    {
+      "tgdb_id": 27815,
+      "title": "Pizza Pop!"
+    },
+    {
+      "tgdb_id": 27816,
+      "title": "Puzslot"
+    },
+    {
+      "tgdb_id": 28161,
+      "title": "Alter Ego"
+    },
+    {
+      "tgdb_id": 28162,
+      "title": "Assimilate"
+    },
+    {
+      "tgdb_id": 28165,
+      "title": "Bomb Sweeper"
+    },
+    {
+      "tgdb_id": 28166,
+      "title": "Lan Master"
+    },
+    {
+      "tgdb_id": 28172,
+      "title": "Jet Paco"
+    },
+    {
+      "tgdb_id": 28178,
+      "title": "Multidude"
+    },
+    {
+      "tgdb_id": 28355,
+      "title": "NeSnake 2"
+    },
+    {
+      "tgdb_id": 28363,
+      "title": "Solar Wars"
+    },
+    {
+      "tgdb_id": 28364,
+      "title": "Streemerz"
+    },
+    {
+      "tgdb_id": 28365,
+      "title": "Super Painter"
+    },
+    {
+      "tgdb_id": 28366,
+      "title": "Super PakPak"
+    },
+    {
+      "tgdb_id": 28367,
+      "title": "Zooming Secretary"
+    },
+    {
+      "tgdb_id": 28586,
+      "title": "The NewZealand Story"
+    },
+    {
+      "tgdb_id": 32971,
+      "title": "Rockman: Deus Ex Machina"
+    },
+    {
+      "tgdb_id": 28881,
+      "title": "Chess Academy"
+    },
+    {
+      "tgdb_id": 28941,
+      "title": "Battle Kid 2: Mountain of Torment"
+    },
+    {
+      "tgdb_id": 28943,
+      "title": "Milionesy"
+    },
+    {
+      "tgdb_id": 28944,
+      "title": "Love Story"
+    },
+    {
+      "tgdb_id": 28998,
+      "title": "Function"
+    },
+    {
+      "tgdb_id": 28999,
+      "title": "Hot Logic"
+    },
+    {
+      "tgdb_id": 29000,
+      "title": "Mine Shaft"
+    },
+    {
+      "tgdb_id": 29001,
+      "title": "Super Bat Puncher"
+    },
+    {
+      "tgdb_id": 29287,
+      "title": "Great Deal"
+    },
+    {
+      "tgdb_id": 29289,
+      "title": "'89 Dennou Kyuusei Uranai"
+    },
+    {
+      "tgdb_id": 29296,
+      "title": "Miracle Piano Teaching System, The"
+    },
+    {
+      "tgdb_id": 29320,
+      "title": "Chuck Yeagar's Fighter Combat"
+    },
+    {
+      "tgdb_id": 29321,
+      "title": "Dragon Fighter"
+    },
+    {
+      "tgdb_id": 29323,
+      "title": "Blood of Jurassic"
+    },
+    {
+      "tgdb_id": 29324,
+      "title": "Dream Fighter"
+    },
+    {
+      "tgdb_id": 29600,
+      "title": "Balloon Fight -Iwata Edition-"
+    },
+    {
+      "tgdb_id": 29772,
+      "title": "Outlanders"
+    },
+    {
+      "tgdb_id": 29773,
+      "title": "Argos No Senshi"
+    },
+    {
+      "tgdb_id": 29774,
+      "title": "Bomber King"
+    },
+    {
+      "tgdb_id": 29787,
+      "title": "Bakushou!! Jinsei Gekijou"
+    },
+    {
+      "tgdb_id": 29867,
+      "title": "Saiyuki World II - Evil Spirit of Heaven"
+    },
+    {
+      "tgdb_id": 30084,
+      "title": "Hokkaido Rensa Satsujin: Ohotsk ni Kiyu"
+    },
+    {
+      "tgdb_id": 30085,
+      "title": "Pro Baseball Family Stadium '87"
+    },
+    {
+      "tgdb_id": 30441,
+      "title": "The Portopia Serial Murder Case"
+    },
+    {
+      "tgdb_id": 30571,
+      "title": "Final Combat"
+    },
+    {
+      "tgdb_id": 30692,
+      "title": "Bio Hazard"
+    },
+    {
+      "tgdb_id": 30714,
+      "title": "Shadow Warriors"
+    },
+    {
+      "tgdb_id": 30762,
+      "title": "Magic John"
+    },
+    {
+      "tgdb_id": 30791,
+      "title": "Metal Slader Glory"
+    },
+    {
+      "tgdb_id": 30914,
+      "title": "D-Pad Hero"
+    },
+    {
+      "tgdb_id": 30915,
+      "title": "NES Virus Cleaner"
+    },
+    {
+      "tgdb_id": 30916,
+      "title": "Double Action 53 Volume TWO"
+    },
+    {
+      "tgdb_id": 30920,
+      "title": "Yousei Monogatari Rod Land"
+    },
+    {
+      "tgdb_id": 30939,
+      "title": "Pulsar no Hikari: Space Wars Simulation"
+    },
+    {
+      "tgdb_id": 30942,
+      "title": "The Quest of Ki"
+    },
+    {
+      "tgdb_id": 30943,
+      "title": "Star Versus"
+    },
+    {
+      "tgdb_id": 30994,
+      "title": "Kero Kero Keroppi no Daibouken"
+    },
+    {
+      "tgdb_id": 30995,
+      "title": "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi"
+    },
+    {
+      "tgdb_id": 30997,
+      "title": "Perman Part 2: Himitsu Kessha Madoodan wo Taose!"
+    },
+    {
+      "tgdb_id": 30998,
+      "title": "Parallel World"
+    },
+    {
+      "tgdb_id": 30999,
+      "title": "Puyo Puyo"
+    },
+    {
+      "tgdb_id": 31000,
+      "title": "SD Gundam Gaiden: Knight Gundam Monogatari"
+    },
+    {
+      "tgdb_id": 31001,
+      "title": "Soreike! Anpanman: Minna de Hiking Game!"
+    },
+    {
+      "tgdb_id": 31003,
+      "title": "Tenchi wo Kurau II: Shokatsu Koumei Den"
+    },
+    {
+      "tgdb_id": 31004,
+      "title": "Super Rescue Solbrain"
+    },
+    {
+      "tgdb_id": 32244,
+      "title": "Otaku no Seiza: An Adventure in the Otaku Galaxy"
+    },
+    {
+      "tgdb_id": 31276,
+      "title": "Quarth"
+    },
+    {
+      "tgdb_id": 31294,
+      "title": "The Legend of Zelda: Outlands"
+    },
+    {
+      "tgdb_id": 31566,
+      "title": "Street Gangs"
+    },
+    {
+      "tgdb_id": 32177,
+      "title": "Airwolf (Kyugo)"
+    },
+    {
+      "tgdb_id": 32243,
+      "title": "Alien 3"
+    },
+    {
+      "tgdb_id": 32181,
+      "title": "Wonderland Dizzy"
+    },
+    {
+      "tgdb_id": 32565,
+      "title": "Street Fighter II"
+    },
+    {
+      "tgdb_id": 32945,
+      "title": "Boogerman II : The Final Adventure"
+    },
+    {
+      "tgdb_id": 32947,
+      "title": "Castlevania: Orchestra of Despair"
+    },
+    {
+      "tgdb_id": 32963,
+      "title": "Happy Camper"
+    },
+    {
+      "tgdb_id": 32964,
+      "title": "Dragoon X Omega II"
+    },
+    {
+      "tgdb_id": 32965,
+      "title": "The King of Fighters '96"
+    },
+    {
+      "tgdb_id": 32966,
+      "title": "The King of Fighters '97"
+    },
+    {
+      "tgdb_id": 32967,
+      "title": "Linzexu Banned the Opium"
+    },
+    {
+      "tgdb_id": 32972,
+      "title": "Castlevania Reborn"
+    },
+    {
+      "tgdb_id": 32973,
+      "title": "Castlevania: Blood Moon"
+    },
+    {
+      "tgdb_id": 33123,
+      "title": "Downtown Nekketsu Monogatari"
+    },
+    {
+      "tgdb_id": 33127,
+      "title": "Nekketsu Koukou Dodgeball Bu: Soccer Hen"
+    },
+    {
+      "tgdb_id": 33128,
+      "title": "Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai"
+    },
+    {
+      "tgdb_id": 33131,
+      "title": "Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal"
+    },
+    {
+      "tgdb_id": 33248,
+      "title": "Family Jockey"
+    },
+    {
+      "tgdb_id": 33249,
+      "title": "Hototogisu"
+    },
+    {
+      "tgdb_id": 33250,
+      "title": "Jumbo Ozaki no Hole in One Professional"
+    },
+    {
+      "tgdb_id": 33251,
+      "title": "Pocket Zaurus Juu Ouken no Nazo"
+    },
+    {
+      "tgdb_id": 33321,
+      "title": "Extra Mario Bros"
+    },
+    {
+      "tgdb_id": 33576,
+      "title": "Kamen no Ninja Hanamaru"
+    },
+    {
+      "tgdb_id": 33577,
+      "title": "Mickey Mouse 3: Yume Fuusen"
+    },
+    {
+      "tgdb_id": 33578,
+      "title": "Robocco Wars"
+    },
+    {
+      "tgdb_id": 33637,
+      "title": "Hebereke"
+    },
+    {
+      "tgdb_id": 33694,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 33923,
+      "title": "Driar"
+    },
+    {
+      "tgdb_id": 33924,
+      "title": "Sir Ababol"
+    },
+    {
+      "tgdb_id": 33925,
+      "title": "Steemerz"
+    },
+    {
+      "tgdb_id": 33926,
+      "title": "Tiger Jenny"
+    },
+    {
+      "tgdb_id": 34248,
+      "title": "D.J. Boy"
+    },
+    {
+      "tgdb_id": 34553,
+      "title": "Bingo 75"
+    },
+    {
+      "tgdb_id": 34734,
+      "title": "Titan Warriors"
+    },
+    {
+      "tgdb_id": 35557,
+      "title": "Derby Stallion Zengokuban"
+    },
+    {
+      "tgdb_id": 35094,
+      "title": "Magical Kid's Doropie"
+    },
+    {
+      "tgdb_id": 35255,
+      "title": "Hayauchi Suupaa Igo"
+    },
+    {
+      "tgdb_id": 36041,
+      "title": "Gaiapolis"
+    },
+    {
+      "tgdb_id": 35770,
+      "title": "Arcadia VI"
+    },
+    {
+      "tgdb_id": 35996,
+      "title": "Policeman"
+    },
+    {
+      "tgdb_id": 36054,
+      "title": "Challenge of the Dragon (Sachen)"
+    },
+    {
+      "tgdb_id": 36063,
+      "title": "Justice Pao"
+    },
+    {
+      "tgdb_id": 36127,
+      "title": "Sidewinder"
+    },
+    {
+      "tgdb_id": 36375,
+      "title": "Action in New York"
+    },
+    {
+      "tgdb_id": 36396,
+      "title": "Moeru! Oni-san"
+    },
+    {
+      "tgdb_id": 37505,
+      "title": "The Triathron"
+    },
+    {
+      "tgdb_id": 36590,
+      "title": "Metal Force"
+    },
+    {
+      "tgdb_id": 36924,
+      "title": "Titenic"
+    },
+    {
+      "tgdb_id": 36925,
+      "title": "Titanic"
+    },
+    {
+      "tgdb_id": 36938,
+      "title": "Big TV Mary Bar"
+    },
+    {
+      "tgdb_id": 36939,
+      "title": "Zhen Ben Xi You Ji"
+    },
+    {
+      "tgdb_id": 37000,
+      "title": "The Universe Soldiers"
+    },
+    {
+      "tgdb_id": 37001,
+      "title": "Sea of Dreamland"
+    },
+    {
+      "tgdb_id": 37002,
+      "title": "Rumble Station - 15 in 1"
+    },
+    {
+      "tgdb_id": 37003,
+      "title": "Pegasus 5 in 1"
+    },
+    {
+      "tgdb_id": 37004,
+      "title": "Pegasus 4 in 1"
+    },
+    {
+      "tgdb_id": 37005,
+      "title": "Mind Blower Pak"
+    },
+    {
+      "tgdb_id": 37006,
+      "title": "Mahjong Block"
+    },
+    {
+      "tgdb_id": 37007,
+      "title": "M82 Game Selectable Working Product Display"
+    },
+    {
+      "tgdb_id": 37008,
+      "title": "Jackpot"
+    },
+    {
+      "tgdb_id": 37009,
+      "title": "Go! Benny!"
+    },
+    {
+      "tgdb_id": 37010,
+      "title": "Fun Blaster Pak"
+    },
+    {
+      "tgdb_id": 37011,
+      "title": "Crime Busters"
+    },
+    {
+      "tgdb_id": 37012,
+      "title": "Creatom"
+    },
+    {
+      "tgdb_id": 37083,
+      "title": "Star Trek V: The Final Frontier"
+    },
+    {
+      "tgdb_id": 37265,
+      "title": "Reggie's Radical Adventure"
+    },
+    {
+      "tgdb_id": 37267,
+      "title": "Toad's Adventure"
+    },
+    {
+      "tgdb_id": 37308,
+      "title": "Rod Land Featuring Rit And Tam"
+    },
+    {
+      "tgdb_id": 37310,
+      "title": "Super Mario USA"
+    },
+    {
+      "tgdb_id": 37311,
+      "title": "Super Mario Bros. 2 (Japan)"
+    },
+    {
+      "tgdb_id": 37312,
+      "title": "Vs. Super Mario Bros."
+    },
+    {
+      "tgdb_id": 37463,
+      "title": "GeGeGe no Kitaro - Yokai Daimakyo"
+    },
+    {
+      "tgdb_id": 37357,
+      "title": "Blade Buster"
+    },
+    {
+      "tgdb_id": 37436,
+      "title": "City Adventure Touch: Mystery of Triangle"
+    },
+    {
+      "tgdb_id": 37437,
+      "title": "Cosmos Cop"
+    },
+    {
+      "tgdb_id": 37438,
+      "title": "Daikaijuu Deburas"
+    },
+    {
+      "tgdb_id": 37480,
+      "title": "The Escape From Atlantis"
+    },
+    {
+      "tgdb_id": 37468,
+      "title": "Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data"
+    },
+    {
+      "tgdb_id": 37469,
+      "title": "Kyuukyoku Harikiri Stadium III"
+    },
+    {
+      "tgdb_id": 37470,
+      "title": "Kyuukyoku Harikiri Stadium"
+    },
+    {
+      "tgdb_id": 37471,
+      "title": "Makai Island"
+    },
+    {
+      "tgdb_id": 37472,
+      "title": "Honey Peach"
+    },
+    {
+      "tgdb_id": 37473,
+      "title": "Ninja Cop Saizou"
+    },
+    {
+      "tgdb_id": 37474,
+      "title": "Perfect Bowling"
+    },
+    {
+      "tgdb_id": 37475,
+      "title": "Power Soccer"
+    },
+    {
+      "tgdb_id": 37493,
+      "title": "Pro Yakyuu Family Stadium '88"
+    },
+    {
+      "tgdb_id": 37494,
+      "title": "Rockball"
+    },
+    {
+      "tgdb_id": 37495,
+      "title": "Saiyuki World 2: Tenjokai no Majin"
+    },
+    {
+      "tgdb_id": 37496,
+      "title": "Nakajima Satoru: F-1 Hero"
+    },
+    {
+      "tgdb_id": 37497,
+      "title": "Nakajima Satoru: F-1 Hero 2"
+    },
+    {
+      "tgdb_id": 37499,
+      "title": "Nakajima Satoru: F1 Hero 2"
+    },
+    {
+      "tgdb_id": 37500,
+      "title": "SD Battle Oozumou: Heisei Hero Basho"
+    },
+    {
+      "tgdb_id": 37501,
+      "title": "SD Hero Soukessen: Taose! Aku no Gundan"
+    },
+    {
+      "tgdb_id": 37502,
+      "title": "Silkworm"
+    },
+    {
+      "tgdb_id": 37503,
+      "title": "Silver Eagle"
+    },
+    {
+      "tgdb_id": 37504,
+      "title": "Super Robin Hood"
+    },
+    {
+      "tgdb_id": 37700,
+      "title": "The 3-D Battles of WorldRunner"
+    },
+    {
+      "tgdb_id": 38512,
+      "title": "Super Mario Bros. 4"
+    },
+    {
+      "tgdb_id": 38712,
+      "title": "Gryzor"
+    },
+    {
+      "tgdb_id": 38924,
+      "title": "Bee 52"
+    },
+    {
+      "tgdb_id": 38944,
+      "title": "M.U.L.E."
+    },
+    {
+      "tgdb_id": 39164,
+      "title": "Salamander"
+    },
+    {
+      "tgdb_id": 39173,
+      "title": "Gun Smoke"
+    },
+    {
+      "tgdb_id": 39211,
+      "title": "Spy vs Spy"
+    }
+  ]
+}

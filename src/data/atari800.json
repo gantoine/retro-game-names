@@ -1,6 +1,23 @@
-[
-  "Star Raiders",
-  "Encounter!",
-  "Rainbow Walker",
-  "Pooyan"
-]
+{
+  "tgbd_id": 4943,
+  "tgdb_alias": "atari800",
+  "name": "Atari 800",
+  "titles": [
+    {
+      "tgdb_id": 32730,
+      "title": "Star Raiders"
+    },
+    {
+      "tgdb_id": 32731,
+      "title": "Encounter!"
+    },
+    {
+      "tgdb_id": 32732,
+      "title": "Rainbow Walker"
+    },
+    {
+      "tgdb_id": 35956,
+      "title": "Pooyan"
+    }
+  ]
+}

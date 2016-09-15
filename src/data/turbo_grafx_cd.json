@@ -1,118 +1,483 @@
-[
-  "Akumajou Dracula X: Chi no Rondo",
-  "Asuka 120% Maxima BURNING Fest",
-  "Ane-san",
-  "Beyond Shadowgate",
-  "Dragon Slayer: The Legend of Heroes",
-  "Shadow of the Beast",
-  "Ys Book I & II",
-  "Ys III: Wanderers from Ys",
-  "The Addams Family",
-  "Buster Bros.",
-  "Cotton: Fantastic Night Dreams",
-  "Dungeon Master: Theron's Quest",
-  "Exile: Wicked Phenomenon",
-  "Final Zone II",
-  "Gate of Thunder",
-  "J.B. Harold Murder Club",
-  "John Madden Duo CD Football",
-  "Last Alert",
-  "Loom",
-  "Lords of Thunder",
-  "Might and Magic III: Isles of Terra",
-  "Prince of Persia",
-  "Riot Zone",
-  "Splash Lake",
-  "Super Air Zonk",
-  "Valis II",
-  "Valis III",
-  "Xak III: The Eternal Recurrence",
-  "Ys IV: The Dawn of Ys",
-  "The Space Adventure",
-  "Cho Aniki",
-  "Hellfire S",
-  "Snatcher",
-  "Bonk 3: Bonk's Big Adventure",
-  "Syd Mead's Terraforming",
-  "Ginga Fukei Densetsu Sapphire",
-  "Kaze Kiri: Ninja Action",
-  "LEMMINGS",
-  "MOTOROADER MC",
-  "Psychic Storm",
-  "SEIREI SENSHI SPRIGGAN",
-  "Spriggan Mark 2: Re-Terraform Project",
-  "STEAM HEARTS",
-  "Star Parodier",
-  "Tengai Makyou: Kabuki Ittou Ryoudan",
-  "Godzilla",
-  "Valis IV",
-  "4 In 1 Super CD",
-  "Dynastic Hero",
-  "Flash Hiders",
-  "Dragon Ball Z: Idainaru Son Goku Densetsu",
-  "Sylphia",
-  "Mugen Senshi Valis: The Legend of A Fantasm Soldier",
-  "Ai Cho Aniki",
-  "Fray CD: Xak Gaiden",
-  "Hyper Dyne Side Arms Special",
-  "L-Dis",
-  "Popful Mail: Magical Fantasy Adventure",
-  "Rayxanber II",
-  "Rayxanber III",
-  "Kaizou Choujin Shubibinman 3: Ikai no Princess",
-  "R-Type Complete CD",
-  "Gradius II: Gofer no Yabou",
-  "Kakutou Haou Densetsu Algunos",
-  "Choujikuu Yousai Macross 2036",
-  "DOWNLOAD 2",
-  "Double Dragon II: The Revenge",
-  "Fighting Street",
-  "Jim Power",
-  "Camp California",
-  "Super Darius II",
-  "Xanadu",
-  "Xanadu II",
-  "ADVANCED V.G.",
-  "Shape Shifter",
-  "Doraemon: Nobita no Dorabian Nights",
-  "Cyber City Oedo 808: Attribute of the Beast",
-  "Sailor Moon",
-  "Dragon Half",
-  "Golden Axe",
-  "Ghost Sweeper Mikami",
-  "Metal Angel",
-  "Metal Angel II",
-  "Metamor Jupiter",
-  "Ranma 1/2",
-  "Art of Fighting",
-  "Yū Yū Hakusho Yamishōbu!! Ankoku Bujutsu Kai",
-  "Fausetté amour",
-  "Wrestling Universe: Fire Pro Women: Dome Super Female Big Battle: All Japan Women VS J.W.P.",
-  "Shin Nihon Pro Wrestling '94: Battlefield in Tokyo Dome",
-  "Wrestle Angels: Double Impact",
-  "Downtown Nekketsu Monogatari",
-  "Image Fight II - Operation Deepstriker",
-  "Startling Odyssey II",
-  "Travel Eple",
-  "Strider Hiryū",
-  "Super Darius",
-  "Super Raiden",
-  "Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai",
-  "Nekketsu Koukou Dodgeball Bu: CD Soccer Hen",
-  "Motteke Tamago",
-  "Magical Dinosaur Tour",
-  "Gain Ground SX",
-  "Dead of the Brain",
-  "Kiaidan 00",
-  "Langrisser: Kouki no Matsuei",
-  "Madou Monogatari I",
-  "Neo Nectaris",
-  "Renny Blaster",
-  "Space Fantasy Zone",
-  "Xak I + II",
-  "Cosmic Fantasy: Bouken Shounen Yuu",
-  "Mahjong Lemon Angel",
-  "Cosmic Fantasy 2",
-  "Tengai Makyou: Ziria",
-  "Mad Stalker: Full Metal Force"
-]
+{
+  "tgbd_id": 4955,
+  "tgdb_alias": "turbo-grafx-cd",
+  "name": "TurboGrafx CD",
+  "titles": [
+    {
+      "tgdb_id": 16793,
+      "title": "Akumajou Dracula X: Chi no Rondo"
+    },
+    {
+      "tgdb_id": 33022,
+      "title": "Asuka 120% Maxima BURNING Fest"
+    },
+    {
+      "tgdb_id": 35197,
+      "title": "Ane-san"
+    },
+    {
+      "tgdb_id": 5656,
+      "title": "Beyond Shadowgate"
+    },
+    {
+      "tgdb_id": 5665,
+      "title": "Dragon Slayer: The Legend of Heroes"
+    },
+    {
+      "tgdb_id": 5681,
+      "title": "Shadow of the Beast"
+    },
+    {
+      "tgdb_id": 5686,
+      "title": "Ys Book I & II"
+    },
+    {
+      "tgdb_id": 5687,
+      "title": "Ys III: Wanderers from Ys"
+    },
+    {
+      "tgdb_id": 9986,
+      "title": "The Addams Family"
+    },
+    {
+      "tgdb_id": 9987,
+      "title": "Buster Bros."
+    },
+    {
+      "tgdb_id": 9989,
+      "title": "Cotton: Fantastic Night Dreams"
+    },
+    {
+      "tgdb_id": 9990,
+      "title": "Dungeon Master: Theron's Quest"
+    },
+    {
+      "tgdb_id": 37464,
+      "title": "Exile: Wicked Phenomenon"
+    },
+    {
+      "tgdb_id": 9993,
+      "title": "Final Zone II"
+    },
+    {
+      "tgdb_id": 9995,
+      "title": "Gate of Thunder"
+    },
+    {
+      "tgdb_id": 9996,
+      "title": "J.B. Harold Murder Club"
+    },
+    {
+      "tgdb_id": 9997,
+      "title": "John Madden Duo CD Football"
+    },
+    {
+      "tgdb_id": 9998,
+      "title": "Last Alert"
+    },
+    {
+      "tgdb_id": 9999,
+      "title": "Loom"
+    },
+    {
+      "tgdb_id": 10001,
+      "title": "Lords of Thunder"
+    },
+    {
+      "tgdb_id": 10002,
+      "title": "Might and Magic III: Isles of Terra"
+    },
+    {
+      "tgdb_id": 10003,
+      "title": "Prince of Persia"
+    },
+    {
+      "tgdb_id": 10004,
+      "title": "Riot Zone"
+    },
+    {
+      "tgdb_id": 10008,
+      "title": "Splash Lake"
+    },
+    {
+      "tgdb_id": 10009,
+      "title": "Super Air Zonk"
+    },
+    {
+      "tgdb_id": 10010,
+      "title": "Valis II"
+    },
+    {
+      "tgdb_id": 10011,
+      "title": "Valis III"
+    },
+    {
+      "tgdb_id": 10013,
+      "title": "Xak III: The Eternal Recurrence"
+    },
+    {
+      "tgdb_id": 10014,
+      "title": "Ys IV: The Dawn of Ys"
+    },
+    {
+      "tgdb_id": 11037,
+      "title": "The Space Adventure"
+    },
+    {
+      "tgdb_id": 12286,
+      "title": "Cho Aniki"
+    },
+    {
+      "tgdb_id": 12904,
+      "title": "Hellfire S"
+    },
+    {
+      "tgdb_id": 12914,
+      "title": "Snatcher"
+    },
+    {
+      "tgdb_id": 13876,
+      "title": "Bonk 3: Bonk's Big Adventure"
+    },
+    {
+      "tgdb_id": 13877,
+      "title": "Syd Mead's Terraforming"
+    },
+    {
+      "tgdb_id": 18391,
+      "title": "Ginga Fukei Densetsu Sapphire"
+    },
+    {
+      "tgdb_id": 18392,
+      "title": "Kaze Kiri: Ninja Action"
+    },
+    {
+      "tgdb_id": 18393,
+      "title": "LEMMINGS"
+    },
+    {
+      "tgdb_id": 18394,
+      "title": "MOTOROADER MC"
+    },
+    {
+      "tgdb_id": 18395,
+      "title": "Psychic Storm"
+    },
+    {
+      "tgdb_id": 18396,
+      "title": "SEIREI SENSHI SPRIGGAN"
+    },
+    {
+      "tgdb_id": 18397,
+      "title": "Spriggan Mark 2: Re-Terraform Project"
+    },
+    {
+      "tgdb_id": 18399,
+      "title": "STEAM HEARTS"
+    },
+    {
+      "tgdb_id": 18446,
+      "title": "Star Parodier"
+    },
+    {
+      "tgdb_id": 18447,
+      "title": "Tengai Makyou: Kabuki Ittou Ryoudan"
+    },
+    {
+      "tgdb_id": 18848,
+      "title": "Godzilla"
+    },
+    {
+      "tgdb_id": 18850,
+      "title": "Valis IV"
+    },
+    {
+      "tgdb_id": 18851,
+      "title": "4 In 1 Super CD"
+    },
+    {
+      "tgdb_id": 18852,
+      "title": "Dynastic Hero"
+    },
+    {
+      "tgdb_id": 35923,
+      "title": "Flash Hiders"
+    },
+    {
+      "tgdb_id": 20227,
+      "title": "Dragon Ball Z: Idainaru Son Goku Densetsu"
+    },
+    {
+      "tgdb_id": 33161,
+      "title": "Sylphia"
+    },
+    {
+      "tgdb_id": 24786,
+      "title": "Mugen Senshi Valis: The Legend of A Fantasm Soldier"
+    },
+    {
+      "tgdb_id": 24799,
+      "title": "Ai Cho Aniki"
+    },
+    {
+      "tgdb_id": 25034,
+      "title": "Fray CD: Xak Gaiden"
+    },
+    {
+      "tgdb_id": 25035,
+      "title": "Hyper Dyne Side Arms Special"
+    },
+    {
+      "tgdb_id": 25036,
+      "title": "L-Dis"
+    },
+    {
+      "tgdb_id": 25037,
+      "title": "Popful Mail: Magical Fantasy Adventure"
+    },
+    {
+      "tgdb_id": 25038,
+      "title": "Rayxanber II"
+    },
+    {
+      "tgdb_id": 25039,
+      "title": "Rayxanber III"
+    },
+    {
+      "tgdb_id": 25538,
+      "title": "Kaizou Choujin Shubibinman 3: Ikai no Princess"
+    },
+    {
+      "tgdb_id": 25539,
+      "title": "R-Type Complete CD"
+    },
+    {
+      "tgdb_id": 25540,
+      "title": "Gradius II: Gofer no Yabou"
+    },
+    {
+      "tgdb_id": 35409,
+      "title": "Kakutou Haou Densetsu Algunos"
+    },
+    {
+      "tgdb_id": 25541,
+      "title": "Choujikuu Yousai Macross 2036"
+    },
+    {
+      "tgdb_id": 25542,
+      "title": "DOWNLOAD 2"
+    },
+    {
+      "tgdb_id": 26638,
+      "title": "Double Dragon II: The Revenge"
+    },
+    {
+      "tgdb_id": 26639,
+      "title": "Fighting Street"
+    },
+    {
+      "tgdb_id": 26640,
+      "title": "Jim Power"
+    },
+    {
+      "tgdb_id": 26651,
+      "title": "Camp California"
+    },
+    {
+      "tgdb_id": 27100,
+      "title": "Super Darius II"
+    },
+    {
+      "tgdb_id": 33162,
+      "title": "Xanadu"
+    },
+    {
+      "tgdb_id": 33163,
+      "title": "Xanadu II"
+    },
+    {
+      "tgdb_id": 35196,
+      "title": "ADVANCED V.G."
+    },
+    {
+      "tgdb_id": 28978,
+      "title": "Shape Shifter"
+    },
+    {
+      "tgdb_id": 35389,
+      "title": "Doraemon: Nobita no Dorabian Nights"
+    },
+    {
+      "tgdb_id": 29743,
+      "title": "Cyber City Oedo 808: Attribute of the Beast"
+    },
+    {
+      "tgdb_id": 29744,
+      "title": "Sailor Moon"
+    },
+    {
+      "tgdb_id": 29745,
+      "title": "Dragon Half"
+    },
+    {
+      "tgdb_id": 29746,
+      "title": "Golden Axe"
+    },
+    {
+      "tgdb_id": 29747,
+      "title": "Ghost Sweeper Mikami"
+    },
+    {
+      "tgdb_id": 29748,
+      "title": "Metal Angel"
+    },
+    {
+      "tgdb_id": 29749,
+      "title": "Metal Angel II"
+    },
+    {
+      "tgdb_id": 29750,
+      "title": "Metamor Jupiter"
+    },
+    {
+      "tgdb_id": 29751,
+      "title": "Ranma 1/2"
+    },
+    {
+      "tgdb_id": 29753,
+      "title": "Art of Fighting"
+    },
+    {
+      "tgdb_id": 29754,
+      "title": "Yū Yū Hakusho Yamishōbu!! Ankoku Bujutsu Kai"
+    },
+    {
+      "tgdb_id": 35407,
+      "title": "Fausetté amour"
+    },
+    {
+      "tgdb_id": 31942,
+      "title": "Wrestling Universe: Fire Pro Women: Dome Super Female Big Battle: All Japan Women VS J.W.P."
+    },
+    {
+      "tgdb_id": 31943,
+      "title": "Shin Nihon Pro Wrestling '94: Battlefield in Tokyo Dome"
+    },
+    {
+      "tgdb_id": 31952,
+      "title": "Wrestle Angels: Double Impact"
+    },
+    {
+      "tgdb_id": 32729,
+      "title": "Downtown Nekketsu Monogatari"
+    },
+    {
+      "tgdb_id": 33029,
+      "title": "Image Fight II - Operation Deepstriker"
+    },
+    {
+      "tgdb_id": 33033,
+      "title": "Startling Odyssey II"
+    },
+    {
+      "tgdb_id": 35411,
+      "title": "Travel Eple"
+    },
+    {
+      "tgdb_id": 33034,
+      "title": "Strider Hiryū"
+    },
+    {
+      "tgdb_id": 33035,
+      "title": "Super Darius"
+    },
+    {
+      "tgdb_id": 33036,
+      "title": "Super Raiden"
+    },
+    {
+      "tgdb_id": 33148,
+      "title": "Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai"
+    },
+    {
+      "tgdb_id": 33151,
+      "title": "Nekketsu Koukou Dodgeball Bu: CD Soccer Hen"
+    },
+    {
+      "tgdb_id": 33509,
+      "title": "Motteke Tamago"
+    },
+    {
+      "tgdb_id": 34132,
+      "title": "Magical Dinosaur Tour"
+    },
+    {
+      "tgdb_id": 34508,
+      "title": "Gain Ground SX"
+    },
+    {
+      "tgdb_id": 34509,
+      "title": "Dead of the Brain"
+    },
+    {
+      "tgdb_id": 34510,
+      "title": "Kiaidan 00"
+    },
+    {
+      "tgdb_id": 34511,
+      "title": "Langrisser: Kouki no Matsuei"
+    },
+    {
+      "tgdb_id": 34512,
+      "title": "Madou Monogatari I"
+    },
+    {
+      "tgdb_id": 34513,
+      "title": "Neo Nectaris"
+    },
+    {
+      "tgdb_id": 34514,
+      "title": "Renny Blaster"
+    },
+    {
+      "tgdb_id": 34515,
+      "title": "Space Fantasy Zone"
+    },
+    {
+      "tgdb_id": 34806,
+      "title": "Xak I + II"
+    },
+    {
+      "tgdb_id": 34808,
+      "title": "Cosmic Fantasy: Bouken Shounen Yuu"
+    },
+    {
+      "tgdb_id": 35111,
+      "title": "Mahjong Lemon Angel"
+    },
+    {
+      "tgdb_id": 35689,
+      "title": "Cosmic Fantasy 2"
+    },
+    {
+      "tgdb_id": 36706,
+      "title": "Tengai Makyou: Ziria"
+    },
+    {
+      "tgdb_id": 38535,
+      "title": "Mad Stalker: Full Metal Force"
+    },
+    {
+      "tgdb_id": 39045,
+      "title": "Altered Beast"
+    },
+    {
+      "tgdb_id": 39171,
+      "title": "Addams Family, The"
+    },
+    {
+      "tgdb_id": 39306,
+      "title": "Dungeon Explorer II"
+    }
+  ]
+}

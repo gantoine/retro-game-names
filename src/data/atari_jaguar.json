@@ -1,61 +1,243 @@
-[
-  "Club Drive",
-  "Cybermorph",
-  "Zool 2",
-  "Flashback: The Quest for Identity",
-  "Doom",
-  "Alien vs. Predator",
-  "Atari Karts",
-  "Bubsy in Fractured Furry Tales",
-  "Cannon Fodder",
-  "Double Dragon V: The Shadow Falls",
-  "Dragon: The Bruce Lee Story",
-  "Evolution: Dino Dudes",
-  "Fight for Life",
-  "Flip Out!",
-  "Iron Soldier",
-  "Kasumi Ninja",
-  "NBA Jam Tournament Edition",
-  "Pinball Fantasies",
-  "Pitfall: The Mayan Adventure",
-  "Raiden",
-  "Rayman",
-  "Ruiner Pinball",
-  "Super Burnout",
-  "SuperCross 3D",
-  "Syndicate",
-  "Tempest 2000",
-  "Ultra Vortek",
-  "White Men Can't Jump",
-  "Wolfenstein 3D",
-  "Zoop",
-  "Fever Pitch Soccer",
-  "I-War",
-  "Attack of the Mutant Penguins",
-  "Towers II",
-  "Zero 5",
-  "Defender 2000",
-  "Breakout 2000",
-  "Theme Park",
-  "Checkered Flag",
-  "Power Drive Rally",
-  "Val D'Isere Skiing and Snowboarding",
-  "Brutal Sports Football",
-  "BattleSphere Gold",
-  "Hover Strike",
-  "Hyper Force",
-  "Missile Command 3D",
-  "Protector - Special Edition",
-  "International Sensible Soccer",
-  "Worms",
-  "Skyhammer",
-  "Soccer Kid",
-  "Space War 2000",
-  "Total Carnage",
-  "Trevor McFur in the Crescent Galaxy",
-  "Troy Aikman NFL Football",
-  "AirCars",
-  "Iron Soldier 2",
-  "BattleSphere",
-  "Super Cross 3D"
-]
+{
+  "tgbd_id": 28,
+  "tgdb_alias": "atari-jaguar",
+  "name": "Atari Jaguar",
+  "titles": [
+    {
+      "tgdb_id": 2517,
+      "title": "Club Drive"
+    },
+    {
+      "tgdb_id": 2518,
+      "title": "Cybermorph"
+    },
+    {
+      "tgdb_id": 2581,
+      "title": "Zool 2"
+    },
+    {
+      "tgdb_id": 2846,
+      "title": "Flashback: The Quest for Identity"
+    },
+    {
+      "tgdb_id": 2878,
+      "title": "Doom"
+    },
+    {
+      "tgdb_id": 3962,
+      "title": "Alien vs. Predator"
+    },
+    {
+      "tgdb_id": 3963,
+      "title": "Atari Karts"
+    },
+    {
+      "tgdb_id": 3964,
+      "title": "Bubsy in Fractured Furry Tales"
+    },
+    {
+      "tgdb_id": 3965,
+      "title": "Cannon Fodder"
+    },
+    {
+      "tgdb_id": 3966,
+      "title": "Double Dragon V: The Shadow Falls"
+    },
+    {
+      "tgdb_id": 3967,
+      "title": "Dragon: The Bruce Lee Story"
+    },
+    {
+      "tgdb_id": 3968,
+      "title": "Evolution: Dino Dudes"
+    },
+    {
+      "tgdb_id": 3969,
+      "title": "Fight for Life"
+    },
+    {
+      "tgdb_id": 3974,
+      "title": "Flip Out!"
+    },
+    {
+      "tgdb_id": 3975,
+      "title": "Iron Soldier"
+    },
+    {
+      "tgdb_id": 3976,
+      "title": "Kasumi Ninja"
+    },
+    {
+      "tgdb_id": 3977,
+      "title": "NBA Jam Tournament Edition"
+    },
+    {
+      "tgdb_id": 3978,
+      "title": "Pinball Fantasies"
+    },
+    {
+      "tgdb_id": 3979,
+      "title": "Pitfall: The Mayan Adventure"
+    },
+    {
+      "tgdb_id": 3980,
+      "title": "Raiden"
+    },
+    {
+      "tgdb_id": 3982,
+      "title": "Rayman"
+    },
+    {
+      "tgdb_id": 3983,
+      "title": "Ruiner Pinball"
+    },
+    {
+      "tgdb_id": 3984,
+      "title": "Super Burnout"
+    },
+    {
+      "tgdb_id": 3985,
+      "title": "SuperCross 3D"
+    },
+    {
+      "tgdb_id": 3986,
+      "title": "Syndicate"
+    },
+    {
+      "tgdb_id": 3987,
+      "title": "Tempest 2000"
+    },
+    {
+      "tgdb_id": 3988,
+      "title": "Ultra Vortek"
+    },
+    {
+      "tgdb_id": 3989,
+      "title": "White Men Can't Jump"
+    },
+    {
+      "tgdb_id": 3990,
+      "title": "Wolfenstein 3D"
+    },
+    {
+      "tgdb_id": 3991,
+      "title": "Zoop"
+    },
+    {
+      "tgdb_id": 3992,
+      "title": "Fever Pitch Soccer"
+    },
+    {
+      "tgdb_id": 3993,
+      "title": "I-War"
+    },
+    {
+      "tgdb_id": 9849,
+      "title": "Attack of the Mutant Penguins"
+    },
+    {
+      "tgdb_id": 13355,
+      "title": "Towers II"
+    },
+    {
+      "tgdb_id": 13356,
+      "title": "Zero 5"
+    },
+    {
+      "tgdb_id": 13357,
+      "title": "Defender 2000"
+    },
+    {
+      "tgdb_id": 13358,
+      "title": "Breakout 2000"
+    },
+    {
+      "tgdb_id": 14796,
+      "title": "Theme Park"
+    },
+    {
+      "tgdb_id": 14797,
+      "title": "Checkered Flag"
+    },
+    {
+      "tgdb_id": 14798,
+      "title": "Power Drive Rally"
+    },
+    {
+      "tgdb_id": 14800,
+      "title": "Val D'Isere Skiing and Snowboarding"
+    },
+    {
+      "tgdb_id": 14801,
+      "title": "Brutal Sports Football"
+    },
+    {
+      "tgdb_id": 20270,
+      "title": "BattleSphere Gold"
+    },
+    {
+      "tgdb_id": 20271,
+      "title": "Hover Strike"
+    },
+    {
+      "tgdb_id": 20272,
+      "title": "Hyper Force"
+    },
+    {
+      "tgdb_id": 20273,
+      "title": "Missile Command 3D"
+    },
+    {
+      "tgdb_id": 20274,
+      "title": "Protector - Special Edition"
+    },
+    {
+      "tgdb_id": 20275,
+      "title": "International Sensible Soccer"
+    },
+    {
+      "tgdb_id": 20276,
+      "title": "Worms"
+    },
+    {
+      "tgdb_id": 20277,
+      "title": "Skyhammer"
+    },
+    {
+      "tgdb_id": 20278,
+      "title": "Soccer Kid"
+    },
+    {
+      "tgdb_id": 20279,
+      "title": "Space War 2000"
+    },
+    {
+      "tgdb_id": 20280,
+      "title": "Total Carnage"
+    },
+    {
+      "tgdb_id": 20281,
+      "title": "Trevor McFur in the Crescent Galaxy"
+    },
+    {
+      "tgdb_id": 20282,
+      "title": "Troy Aikman NFL Football"
+    },
+    {
+      "tgdb_id": 22351,
+      "title": "AirCars"
+    },
+    {
+      "tgdb_id": 22392,
+      "title": "Iron Soldier 2"
+    },
+    {
+      "tgdb_id": 30132,
+      "title": "BattleSphere"
+    },
+    {
+      "tgdb_id": 37563,
+      "title": "Super Cross 3D"
+    }
+  ]
+}

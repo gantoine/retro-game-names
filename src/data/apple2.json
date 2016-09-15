@@ -1,18 +1,75 @@
-[
-  "The Bilestoad",
-  "Castle Wolfenstein",
-  "Beyond Castle Wolfenstein",
-  "Bolo",
-  "Star Blazer",
-  "Ultima I",
-  "Wizardry",
-  "Swashbuckler",
-  "Choplifter",
-  "Lode Runner",
-  "Cavern Creatures",
-  "Karateka",
-  "The Oregon Trail",
-  "The Bard's Tale",
-  "Prince of Persia",
-  "Pinball Construction Set"
-]
+{
+  "tgbd_id": 4942,
+  "tgdb_alias": "apple2",
+  "name": "Apple II",
+  "titles": [
+    {
+      "tgdb_id": 35243,
+      "title": "The Bilestoad"
+    },
+    {
+      "tgdb_id": 32733,
+      "title": "Castle Wolfenstein"
+    },
+    {
+      "tgdb_id": 32734,
+      "title": "Beyond Castle Wolfenstein"
+    },
+    {
+      "tgdb_id": 35244,
+      "title": "Bolo"
+    },
+    {
+      "tgdb_id": 35245,
+      "title": "Star Blazer"
+    },
+    {
+      "tgdb_id": 35786,
+      "title": "Ultima I"
+    },
+    {
+      "tgdb_id": 35787,
+      "title": "Wizardry"
+    },
+    {
+      "tgdb_id": 35788,
+      "title": "Swashbuckler"
+    },
+    {
+      "tgdb_id": 35789,
+      "title": "Choplifter"
+    },
+    {
+      "tgdb_id": 35791,
+      "title": "Lode Runner"
+    },
+    {
+      "tgdb_id": 35792,
+      "title": "Cavern Creatures"
+    },
+    {
+      "tgdb_id": 35794,
+      "title": "Karateka"
+    },
+    {
+      "tgdb_id": 35795,
+      "title": "The Oregon Trail"
+    },
+    {
+      "tgdb_id": 35796,
+      "title": "The Bard's Tale"
+    },
+    {
+      "tgdb_id": 35797,
+      "title": "Prince of Persia"
+    },
+    {
+      "tgdb_id": 35798,
+      "title": "Pinball Construction Set"
+    },
+    {
+      "tgdb_id": 39210,
+      "title": "221B Baker Street"
+    }
+  ]
+}

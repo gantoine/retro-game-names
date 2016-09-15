@@ -1,0 +1,535 @@
+{
+  "tgbd_id": 4953,
+  "tgdb_alias": "texas-instruments-ti-99-4a",
+  "name": "Texas Instruments TI-99/4A",
+  "titles": [
+    {
+      "tgdb_id": 37776,
+      "title": "Adventure"
+    },
+    {
+      "tgdb_id": 37777,
+      "title": "Car Wars"
+    },
+    {
+      "tgdb_id": 37778,
+      "title": "Fathom"
+    },
+    {
+      "tgdb_id": 37779,
+      "title": "Hunt the Wumpus"
+    },
+    {
+      "tgdb_id": 37780,
+      "title": "Munchman"
+    },
+    {
+      "tgdb_id": 37781,
+      "title": "Parsec"
+    },
+    {
+      "tgdb_id": 37782,
+      "title": "Star Trek - Strategic Operations Simulator"
+    },
+    {
+      "tgdb_id": 37783,
+      "title": "Super Demon Attack"
+    },
+    {
+      "tgdb_id": 37784,
+      "title": "The Attack"
+    },
+    {
+      "tgdb_id": 37785,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 37786,
+      "title": "Buck Rogers: Planet of Zoom"
+    },
+    {
+      "tgdb_id": 37787,
+      "title": "Blasto"
+    },
+    {
+      "tgdb_id": 37788,
+      "title": "Blackjack and Poker"
+    },
+    {
+      "tgdb_id": 37789,
+      "title": "A-Maze-Ing"
+    },
+    {
+      "tgdb_id": 37790,
+      "title": "Ambulance"
+    },
+    {
+      "tgdb_id": 37791,
+      "title": "Anteater"
+    },
+    {
+      "tgdb_id": 37792,
+      "title": "Bigfoot"
+    },
+    {
+      "tgdb_id": 37793,
+      "title": "Alpiner"
+    },
+    {
+      "tgdb_id": 37800,
+      "title": "Defender"
+    },
+    {
+      "tgdb_id": 37801,
+      "title": "Dig Dug"
+    },
+    {
+      "tgdb_id": 37802,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 37803,
+      "title": "Driving Demon"
+    },
+    {
+      "tgdb_id": 37804,
+      "title": "Shamus"
+    },
+    {
+      "tgdb_id": 37805,
+      "title": "TI-Writer Word Processor"
+    },
+    {
+      "tgdb_id": 37806,
+      "title": "Tombstone City"
+    },
+    {
+      "tgdb_id": 37807,
+      "title": "Treasure Island"
+    },
+    {
+      "tgdb_id": 37808,
+      "title": "Tunnels of Doom"
+    },
+    {
+      "tgdb_id": 37809,
+      "title": "Beyond Parsec"
+    },
+    {
+      "tgdb_id": 37810,
+      "title": "Espial"
+    },
+    {
+      "tgdb_id": 37811,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 37812,
+      "title": "Championship Baseball"
+    },
+    {
+      "tgdb_id": 37813,
+      "title": "Chisholm Trail"
+    },
+    {
+      "tgdb_id": 37814,
+      "title": "Congo Bongo"
+    },
+    {
+      "tgdb_id": 37815,
+      "title": "Connect Four"
+    },
+    {
+      "tgdb_id": 37816,
+      "title": "Face Maker"
+    },
+    {
+      "tgdb_id": 37817,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 37818,
+      "title": "Hangman"
+    },
+    {
+      "tgdb_id": 37819,
+      "title": "Hen Pecked"
+    },
+    {
+      "tgdb_id": 37820,
+      "title": "Henhouse"
+    },
+    {
+      "tgdb_id": 37821,
+      "title": "Home Financial Decisions"
+    },
+    {
+      "tgdb_id": 37822,
+      "title": "Honey Hunt"
+    },
+    {
+      "tgdb_id": 37823,
+      "title": "TI Extended BASIC"
+    },
+    {
+      "tgdb_id": 37824,
+      "title": "Tax & Investment Record Keeping"
+    },
+    {
+      "tgdb_id": 37825,
+      "title": "Teach Yourself BASIC"
+    },
+    {
+      "tgdb_id": 37826,
+      "title": "Terminal Emulator II"
+    },
+    {
+      "tgdb_id": 37827,
+      "title": "Terry Turtle's Adventure"
+    },
+    {
+      "tgdb_id": 37828,
+      "title": "Superfly"
+    },
+    {
+      "tgdb_id": 37829,
+      "title": "TI Logo II"
+    },
+    {
+      "tgdb_id": 37830,
+      "title": "Video Vegas"
+    },
+    {
+      "tgdb_id": 37831,
+      "title": "Tutankham"
+    },
+    {
+      "tgdb_id": 37832,
+      "title": "Video Chess"
+    },
+    {
+      "tgdb_id": 37833,
+      "title": "ZeroZap"
+    },
+    {
+      "tgdb_id": 37834,
+      "title": "Yahtzee"
+    },
+    {
+      "tgdb_id": 37835,
+      "title": "Video Games 1"
+    },
+    {
+      "tgdb_id": 37836,
+      "title": "SUPER Extended BASIC"
+    },
+    {
+      "tgdb_id": 37837,
+      "title": "Securities Analysis"
+    },
+    {
+      "tgdb_id": 37838,
+      "title": "Statistics"
+    },
+    {
+      "tgdb_id": 37839,
+      "title": "St. Nick"
+    },
+    {
+      "tgdb_id": 37840,
+      "title": "Hopper"
+    },
+    {
+      "tgdb_id": 37841,
+      "title": "Household Budget Management"
+    },
+    {
+      "tgdb_id": 37842,
+      "title": "Fractional Numbers"
+    },
+    {
+      "tgdb_id": 37843,
+      "title": "Beginning Grammer"
+    },
+    {
+      "tgdb_id": 37844,
+      "title": "Barrage"
+    },
+    {
+      "tgdb_id": 37845,
+      "title": "Alligator Mix"
+    },
+    {
+      "tgdb_id": 37846,
+      "title": "Addition and Subtraction 2"
+    },
+    {
+      "tgdb_id": 37847,
+      "title": "Addition and Subtraction 3"
+    },
+    {
+      "tgdb_id": 37848,
+      "title": "Addition and Subtraction 1"
+    },
+    {
+      "tgdb_id": 37849,
+      "title": "Personal Record Keeping"
+    },
+    {
+      "tgdb_id": 37850,
+      "title": "M*A*S*H"
+    },
+    {
+      "tgdb_id": 37851,
+      "title": "Meteor Belt"
+    },
+    {
+      "tgdb_id": 37852,
+      "title": "Alien Addition"
+    },
+    {
+      "tgdb_id": 37853,
+      "title": "Football"
+    },
+    {
+      "tgdb_id": 37854,
+      "title": "I'm Hiding"
+    },
+    {
+      "tgdb_id": 37855,
+      "title": "Indoor Soccer"
+    },
+    {
+      "tgdb_id": 37856,
+      "title": "Integers"
+    },
+    {
+      "tgdb_id": 37857,
+      "title": "Jawbreaker II"
+    },
+    {
+      "tgdb_id": 37858,
+      "title": "Jungle Hunt"
+    },
+    {
+      "tgdb_id": 37859,
+      "title": "Othello"
+    },
+    {
+      "tgdb_id": 37860,
+      "title": "Munch Mobile"
+    },
+    {
+      "tgdb_id": 37861,
+      "title": "TI Invaders"
+    },
+    {
+      "tgdb_id": 37863,
+      "title": "Burger Builder"
+    },
+    {
+      "tgdb_id": 37864,
+      "title": "Multiplication 1"
+    },
+    {
+      "tgdb_id": 37865,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 37866,
+      "title": "Number Magic"
+    },
+    {
+      "tgdb_id": 37867,
+      "title": "Picnic Paranoia"
+    },
+    {
+      "tgdb_id": 37868,
+      "title": "Plato Interpreter"
+    },
+    {
+      "tgdb_id": 37869,
+      "title": "Pole Position"
+    },
+    {
+      "tgdb_id": 37870,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 37871,
+      "title": "Princess and Frog"
+    },
+    {
+      "tgdb_id": 37872,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 37873,
+      "title": "Return to Pirate's Isle"
+    },
+    {
+      "tgdb_id": 37874,
+      "title": "Protector II"
+    },
+    {
+      "tgdb_id": 37875,
+      "title": "Rabbit Trail"
+    },
+    {
+      "tgdb_id": 37876,
+      "title": "Sewermania"
+    },
+    {
+      "tgdb_id": 37877,
+      "title": "Slymoids"
+    },
+    {
+      "tgdb_id": 37878,
+      "title": "Sneggit"
+    },
+    {
+      "tgdb_id": 37879,
+      "title": "Soundtrack Trolley"
+    },
+    {
+      "tgdb_id": 37880,
+      "title": "Space Bandits"
+    },
+    {
+      "tgdb_id": 37881,
+      "title": "Microsoft Multiplan"
+    },
+    {
+      "tgdb_id": 37882,
+      "title": "Microsurgeon"
+    },
+    {
+      "tgdb_id": 37883,
+      "title": "Mind Challengers"
+    },
+    {
+      "tgdb_id": 37884,
+      "title": "Miner 2049er"
+    },
+    {
+      "tgdb_id": 37885,
+      "title": "Moon Mine"
+    },
+    {
+      "tgdb_id": 37886,
+      "title": "Moon Patrol"
+    },
+    {
+      "tgdb_id": 37887,
+      "title": "Moonsweeper"
+    },
+    {
+      "tgdb_id": 37888,
+      "title": "Ms. Pac-Man"
+    },
+    {
+      "tgdb_id": 37889,
+      "title": "Space Journey"
+    },
+    {
+      "tgdb_id": 37890,
+      "title": "Schnoz-ola"
+    },
+    {
+      "tgdb_id": 37891,
+      "title": "Speech Editor"
+    },
+    {
+      "tgdb_id": 37892,
+      "title": "Video-Graphs"
+    },
+    {
+      "tgdb_id": 37893,
+      "title": "Word Invasion"
+    },
+    {
+      "tgdb_id": 37894,
+      "title": "Weight Control & Nutrition"
+    },
+    {
+      "tgdb_id": 37895,
+      "title": "Rotor Raiders"
+    },
+    {
+      "tgdb_id": 37896,
+      "title": "Reading Roundup"
+    },
+    {
+      "tgdb_id": 37897,
+      "title": "Reading Fun"
+    },
+    {
+      "tgdb_id": 37898,
+      "title": "Bomber"
+    },
+    {
+      "tgdb_id": 37899,
+      "title": "Computer Math Games II"
+    },
+    {
+      "tgdb_id": 37900,
+      "title": "Computer Math Games VI"
+    },
+    {
+      "tgdb_id": 37901,
+      "title": "Decimals 2"
+    },
+    {
+      "tgdb_id": 37902,
+      "title": "Decimals"
+    },
+    {
+      "tgdb_id": 37903,
+      "title": "Demolition Division"
+    },
+    {
+      "tgdb_id": 37905,
+      "title": "Demonstration"
+    },
+    {
+      "tgdb_id": 37906,
+      "title": "Diagnostic"
+    },
+    {
+      "tgdb_id": 37907,
+      "title": "Disk Manager 2"
+    },
+    {
+      "tgdb_id": 37908,
+      "title": "Division 1"
+    },
+    {
+      "tgdb_id": 37909,
+      "title": "Dragon Mix"
+    },
+    {
+      "tgdb_id": 37910,
+      "title": "Early Learning Fun"
+    },
+    {
+      "tgdb_id": 37911,
+      "title": "Early Logo Learning Fun"
+    },
+    {
+      "tgdb_id": 37912,
+      "title": "Early Reading"
+    },
+    {
+      "tgdb_id": 37913,
+      "title": "Editor - Assembler"
+    },
+    {
+      "tgdb_id": 37914,
+      "title": "Equations"
+    },
+    {
+      "tgdb_id": 37917,
+      "title": "Fractions"
+    }
+  ]
+}

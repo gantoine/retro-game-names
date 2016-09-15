@@ -1,290 +1,1847 @@
-[
-  "Balloon Buster",
-  "Balloonacy!",
-  "Aqua",
-  "Area 51",
-  "Arquimedes XXI",
-  "Balldozer",
-  "Balls",
-  "BeTiled!",
-  "Black Land",
-  "Batman",
-  "Super Hang-On",
-  "Boulder Dash",
-  "Hunchback",
-  "1942",
-  "Bad Cat",
-  "Ball Breaker",
-  "Ballblazer",
-  "After the war",
-  "Ishar 2: Messengers of Doom",
-  "Harrier Attack",
-  "Gunfright",
-  "Forgotten Worlds",
-  "Laser Squad",
-  "Bubble Bobble",
-  "M.G.T.",
-  "Arkanoid",
-  "Sonic Boom",
-  "Fruity Frank",
-  "La Abadía del Crimen",
-  "Abu Simbel Profanation",
-  "L'Aigle d'Or",
-  "Arkanoid: Revenge of Doh",
-  "The Sacred Armour of Antiriad",
-  "A.M.C.",
-  "Altered Beast",
-  "L'Affaire Santa Fe",
-  "Aftermath",
-  "Attack of the Killer Tomatoes",
-  "Avenger",
-  "L'Ange de Cristal",
-  "Ghosts'n Goblins",
-  "Target: Renegade",
-  "Barbarian: The Ultimate Warrior",
-  "Tetris",
-  "Double Dragon",
-  "Le Manoir de Mortevielle",
-  "Cauldron",
-  "Lemmings",
-  "Commando",
-  "Gryzor",
-  "Rick Dangerous",
-  "SimCity",
-  "Donkey Kong",
-  "Prince of Persia",
-  "Cauldron II : The Pumpkin Strikes Back",
-  "Ikari Warriors",
-  "Double Dragon II: The Revenge",
-  "Gauntlet",
-  "Gauntlet II",
-  "Shufflepuck Café",
-  "Crazy Cars II",
-  "Panza Kick Boxing",
-  "Sorcery",
-  "Golden Axe",
-  "Saboteur II",
-  "L'Arche du Capitaine Blood",
-  "Defender of the Crown",
-  "Rambo III",
-  "Samantha Fox Strip Poker",
-  "The Blues Brothers",
-  "Ghouls'n Ghosts",
-  "Batman: The Movie",
-  "California Games",
-  "Biggles",
-  "Lode Runner",
-  "Turrican II: The Final Fight",
-  "Jim Power in Mutant Planet",
-  "The Addams Family",
-  "Ace of Aces",
-  "The Goonies",
-  "Turrican",
-  "Le Passager du Temps",
-  "Wonder Boy",
-  "Prehistorik 2",
-  "Renegade",
-  "R-Type",
-  "Chase H.Q.",
-  "Teenage Queen",
-  "Saboteur",
-  "F-15 Strike Eagle",
-  "Vigilante",
-  "Bad Dudes Vs. DragonNinja",
-  "Shadow of the Beast",
-  "Double Dragon III: The Sacred Stones",
-  "Barbarian II: The Dungeon of Drax",
-  "Renegade III: The Final Chapter",
-  "The Way of the Tiger",
-  "Kick Off 2",
-  "Sorcery +",
-  "Strider",
-  "Wizball",
-  "Blade Runner",
-  "Teenage Mutant Hero Turtles: The Coin Op",
-  "007: Licence to Kill",
-  "Super Skweek",
-  "Kung-Fu Master",
-  "Xenon",
-  "1943: The Battle of Midway",
-  "Jet Set Willy",
-  "Ghostbusters II",
-  "Operation Wolf",
-  "Amélie Minuit",
-  "Paperboy 2",
-  "Platoon",
-  "Winter Games",
-  "Alien 8",
-  "Savage",
-  "RoboCop 2",
-  "E-motion",
-  "Nebulus",
-  "Rampage",
-  "The New Zealand Story",
-  "Arachnophobia",
-  "B.A.T.",
-  "Crazy Cars III",
-  "WEC Le Mans",
-  "Stunt Car Racer",
-  "Alphakhor",
-  "International Karate",
-  "Kick Off",
-  "Pac-Mania",
-  "Game Over",
-  "Beyond the Ice Palace",
-  "Italy 1990",
-  "Satan",
-  "Asphalt",
-  "Klax",
-  "Super Cauldron",
-  "Xyphoes Fantasy",
-  "Bactron",
-  "Macadam Bumper",
-  "BoBo",
-  "Cybernoid: The Fighting Machine",
-  "Stormlord",
-  "Lotus Esprit Turbo Challenge",
-  "Fire and Forget",
-  "Rainbow Islands",
-  "Times of Lore",
-  "Windsurf Willy",
-  "Bob Winner",
-  "Bomb Jack II",
-  "Trantor: The Last Stormtrooper",
-  "Operation Thunderbolt",
-  "Navy Moves",
-  "Knight Lore",
-  "Crafton et Xunk",
-  "Tomahawk",
-  "Daley Thompson's Olympic Challenge",
-  "Spellbound",
-  "The Saga of Erik the Viking",
-  "Robinson Crusoe",
-  "Robozone",
-  "Puzznic",
-  "Molecule Man",
-  "Monty Python's Flying Circus: The Computer Game",
-  "Megachess",
-  "Darkman",
-  "Mig-29 Soviet Fighter",
-  "Magicland Dizzy",
-  "Kwik Snax",
-  "Last Ninja 2: Back with a Vengeance",
-  "Knight Games",
-  "Grand Prix Master",
-  "The Guild of Thieves",
-  "Gazza's Super Soccer",
-  "Fantasy World Dizzy",
-  "Feud",
-  "Bivouac",
-  "Flimbo's Quest",
-  "Fire & Forget II",
-  "Enduro Racer",
-  "Druid",
-  "Dun Darach",
-  "Dizzy: Prince of the Yolkfolk",
-  "Dizzy's Excellent Adventures",
-  "Combat School",
-  "1001 B.C. A Mediterranean Odyssey",
-  "10th Frame",
-  "1815",
-  "3D Boxing",
-  "3D Fight",
-  "3D Grand Prix",
-  "3D Snooker",
-  "3D Starfighter",
-  "3D Starstrike",
-  "3D Stunt Rider",
-  "750cc Grand Prix",
-  "A 320",
-  "A View To A Kill",
-  "Action Fighter",
-  "Activator",
-  "After Burner",
-  "Airwolf",
-  "Airwolf II",
-  "Alien Syndrome",
-  "Amaurote",
-  "American Tag Team Wrestling",
-  "Anarchy",
-  "Angel Nieto Pole 500",
-  "Arkos",
-  "Asterix Chez Rahazade",
-  "Advanced Tactical Fighter",
-  "Athanor",
-  "Atrog",
-  "Auf Wiedersehen Monty",
-  "Back to the Golden Age",
-  "Averno",
-  "Axys: The Last Battle",
-  "Amnesia",
-  "Ant Attack",
-  "Carrier Command",
-  "Lords of Midnight",
-  "Rebelstar",
-  "Starglider",
-  "Zap'T'Balls",
-  "Harvey Headbanger",
-  "Knight Tyme",
-  "Starquake",
-  "Dragontorc",
-  "Koronis Rift",
-  "Deadline",
-  "Freedom: Rebels in the Darkness",
-  "Get Dexter",
-  "Goody",
-  "Hanse",
-  "Hostages: Rescue Mission",
-  "Infernal Runner",
-  "Lurking Horror",
-  "Mandragore",
-  "Rock Star Ate My Hamster",
-  "Southern Belle",
-  "Werewolves of London",
-  "The Ancient Art of War",
-  "Granny's Garden",
-  "Altair",
-  "Anduril",
-  "Ball Crazy",
-  "Jet Set Willy II: The Final Frontier",
-  "Village Of Lost Souls",
-  "180",
-  "2 Player Super League",
-  "Suspended: A Cryogenic Nightmare",
-  "Cybernoid II: The Revenge",
-  "Rick Dangerous II",
-  "1000 Bornes",
-  "002 Agent Double",
-  "20 000 Avant J.C.",
-  "20 000 Lieues sous les mers",
-  "2088",
-  "Fres Fighter II Turbo",
-  "007: The Living Daylights",
-  "007: The Spy Who Loved Me",
-  "2112 AD",
-  "3DC",
-  "3D Invaders",
-  "3D Monster Chase",
-  "Sharkey's 3D Pool",
-  "3D Time Trek",
-  "Three Weeks in Paradise",
-  "Orion Prime",
-  "R • Type",
-  "Relentless",
-  "Megablasters - Escape From Castle in the Clouds",
-  "Frog Alot",
-  "Freddy Hardest",
-  "Bubble Bobble 4 CPC",
-  "Dead on Time",
-  "Edge Grinder",
-  "Ishido",
-  "Justin",
-  "Overkoban",
-  "Binky",
-  "Friday the 13th",
-  "Karl's Treasure Hunt",
-  "Manic Miner",
-  "Mithos",
-  "Dustin",
-  "Camelot warriors"
-]
+{
+  "tgbd_id": 4914,
+  "tgdb_alias": "amstrad-cpc",
+  "name": "Amstrad CPC",
+  "titles": [
+    {
+      "tgdb_id": 28826,
+      "title": "Balloon Buster"
+    },
+    {
+      "tgdb_id": 28827,
+      "title": "Balloonacy!"
+    },
+    {
+      "tgdb_id": 37442,
+      "title": "Aqua"
+    },
+    {
+      "tgdb_id": 37443,
+      "title": "Area 51"
+    },
+    {
+      "tgdb_id": 37444,
+      "title": "Arquimedes XXI"
+    },
+    {
+      "tgdb_id": 37445,
+      "title": "Balldozer"
+    },
+    {
+      "tgdb_id": 37446,
+      "title": "Balls"
+    },
+    {
+      "tgdb_id": 37447,
+      "title": "BeTiled!"
+    },
+    {
+      "tgdb_id": 37448,
+      "title": "Black Land"
+    },
+    {
+      "tgdb_id": 34812,
+      "title": "Batman"
+    },
+    {
+      "tgdb_id": 16465,
+      "title": "Super Hang-On"
+    },
+    {
+      "tgdb_id": 17750,
+      "title": "Boulder Dash"
+    },
+    {
+      "tgdb_id": 17998,
+      "title": "Hunchback"
+    },
+    {
+      "tgdb_id": 18642,
+      "title": "1942"
+    },
+    {
+      "tgdb_id": 28822,
+      "title": "Bad Cat"
+    },
+    {
+      "tgdb_id": 28823,
+      "title": "Ball Breaker"
+    },
+    {
+      "tgdb_id": 28824,
+      "title": "Ballblazer"
+    },
+    {
+      "tgdb_id": 23279,
+      "title": "After the war"
+    },
+    {
+      "tgdb_id": 24671,
+      "title": "Ishar 2: Messengers of Doom"
+    },
+    {
+      "tgdb_id": 24748,
+      "title": "Harrier Attack"
+    },
+    {
+      "tgdb_id": 24749,
+      "title": "Gunfright"
+    },
+    {
+      "tgdb_id": 24901,
+      "title": "Forgotten Worlds"
+    },
+    {
+      "tgdb_id": 24963,
+      "title": "Laser Squad"
+    },
+    {
+      "tgdb_id": 24964,
+      "title": "Bubble Bobble"
+    },
+    {
+      "tgdb_id": 27123,
+      "title": "M.G.T."
+    },
+    {
+      "tgdb_id": 27124,
+      "title": "Arkanoid"
+    },
+    {
+      "tgdb_id": 27780,
+      "title": "Sonic Boom"
+    },
+    {
+      "tgdb_id": 27781,
+      "title": "Fruity Frank"
+    },
+    {
+      "tgdb_id": 28210,
+      "title": "La Abadía del Crimen"
+    },
+    {
+      "tgdb_id": 28213,
+      "title": "Abu Simbel Profanation"
+    },
+    {
+      "tgdb_id": 28214,
+      "title": "L'Aigle d'Or"
+    },
+    {
+      "tgdb_id": 28215,
+      "title": "Arkanoid: Revenge of Doh"
+    },
+    {
+      "tgdb_id": 28216,
+      "title": "The Sacred Armour of Antiriad"
+    },
+    {
+      "tgdb_id": 28217,
+      "title": "A.M.C."
+    },
+    {
+      "tgdb_id": 28242,
+      "title": "Altered Beast"
+    },
+    {
+      "tgdb_id": 28243,
+      "title": "L'Affaire Santa Fe"
+    },
+    {
+      "tgdb_id": 28244,
+      "title": "Aftermath"
+    },
+    {
+      "tgdb_id": 28246,
+      "title": "Attack of the Killer Tomatoes"
+    },
+    {
+      "tgdb_id": 28247,
+      "title": "Avenger"
+    },
+    {
+      "tgdb_id": 28248,
+      "title": "L'Ange de Cristal"
+    },
+    {
+      "tgdb_id": 28249,
+      "title": "Ghosts'n Goblins"
+    },
+    {
+      "tgdb_id": 28253,
+      "title": "Target: Renegade"
+    },
+    {
+      "tgdb_id": 28255,
+      "title": "Barbarian: The Ultimate Warrior"
+    },
+    {
+      "tgdb_id": 28258,
+      "title": "Tetris"
+    },
+    {
+      "tgdb_id": 28260,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 28261,
+      "title": "Le Manoir de Mortevielle"
+    },
+    {
+      "tgdb_id": 28262,
+      "title": "Cauldron"
+    },
+    {
+      "tgdb_id": 28263,
+      "title": "Lemmings"
+    },
+    {
+      "tgdb_id": 28264,
+      "title": "Commando"
+    },
+    {
+      "tgdb_id": 28265,
+      "title": "Gryzor"
+    },
+    {
+      "tgdb_id": 28266,
+      "title": "Rick Dangerous"
+    },
+    {
+      "tgdb_id": 28267,
+      "title": "SimCity"
+    },
+    {
+      "tgdb_id": 28268,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 28269,
+      "title": "Prince of Persia"
+    },
+    {
+      "tgdb_id": 28270,
+      "title": "Cauldron II : The Pumpkin Strikes Back"
+    },
+    {
+      "tgdb_id": 28271,
+      "title": "Ikari Warriors"
+    },
+    {
+      "tgdb_id": 28272,
+      "title": "Double Dragon II: The Revenge"
+    },
+    {
+      "tgdb_id": 28273,
+      "title": "Gauntlet"
+    },
+    {
+      "tgdb_id": 28274,
+      "title": "Gauntlet II"
+    },
+    {
+      "tgdb_id": 28275,
+      "title": "Shufflepuck Café"
+    },
+    {
+      "tgdb_id": 28276,
+      "title": "Crazy Cars II"
+    },
+    {
+      "tgdb_id": 28277,
+      "title": "Panza Kick Boxing"
+    },
+    {
+      "tgdb_id": 28278,
+      "title": "Sorcery"
+    },
+    {
+      "tgdb_id": 28279,
+      "title": "Golden Axe"
+    },
+    {
+      "tgdb_id": 28280,
+      "title": "Saboteur II"
+    },
+    {
+      "tgdb_id": 28281,
+      "title": "L'Arche du Capitaine Blood"
+    },
+    {
+      "tgdb_id": 28282,
+      "title": "Defender of the Crown"
+    },
+    {
+      "tgdb_id": 28283,
+      "title": "Rambo III"
+    },
+    {
+      "tgdb_id": 28284,
+      "title": "Samantha Fox Strip Poker"
+    },
+    {
+      "tgdb_id": 28285,
+      "title": "The Blues Brothers"
+    },
+    {
+      "tgdb_id": 28286,
+      "title": "Ghouls'n Ghosts"
+    },
+    {
+      "tgdb_id": 28287,
+      "title": "Batman: The Movie"
+    },
+    {
+      "tgdb_id": 28288,
+      "title": "California Games"
+    },
+    {
+      "tgdb_id": 28289,
+      "title": "Biggles"
+    },
+    {
+      "tgdb_id": 28290,
+      "title": "Lode Runner"
+    },
+    {
+      "tgdb_id": 28291,
+      "title": "Turrican II: The Final Fight"
+    },
+    {
+      "tgdb_id": 28292,
+      "title": "Jim Power in Mutant Planet"
+    },
+    {
+      "tgdb_id": 28293,
+      "title": "The Addams Family"
+    },
+    {
+      "tgdb_id": 28294,
+      "title": "Ace of Aces"
+    },
+    {
+      "tgdb_id": 28295,
+      "title": "The Goonies"
+    },
+    {
+      "tgdb_id": 28296,
+      "title": "Turrican"
+    },
+    {
+      "tgdb_id": 28297,
+      "title": "Le Passager du Temps"
+    },
+    {
+      "tgdb_id": 28298,
+      "title": "Wonder Boy"
+    },
+    {
+      "tgdb_id": 28299,
+      "title": "Prehistorik 2"
+    },
+    {
+      "tgdb_id": 28300,
+      "title": "Renegade"
+    },
+    {
+      "tgdb_id": 28301,
+      "title": "R-Type"
+    },
+    {
+      "tgdb_id": 28302,
+      "title": "Chase H.Q."
+    },
+    {
+      "tgdb_id": 28303,
+      "title": "Teenage Queen"
+    },
+    {
+      "tgdb_id": 28304,
+      "title": "Saboteur"
+    },
+    {
+      "tgdb_id": 28305,
+      "title": "F-15 Strike Eagle"
+    },
+    {
+      "tgdb_id": 28368,
+      "title": "Vigilante"
+    },
+    {
+      "tgdb_id": 28369,
+      "title": "Bad Dudes Vs. DragonNinja"
+    },
+    {
+      "tgdb_id": 28370,
+      "title": "Shadow of the Beast"
+    },
+    {
+      "tgdb_id": 28371,
+      "title": "Double Dragon III: The Sacred Stones"
+    },
+    {
+      "tgdb_id": 28372,
+      "title": "Barbarian II: The Dungeon of Drax"
+    },
+    {
+      "tgdb_id": 28373,
+      "title": "Renegade III: The Final Chapter"
+    },
+    {
+      "tgdb_id": 28374,
+      "title": "The Way of the Tiger"
+    },
+    {
+      "tgdb_id": 28403,
+      "title": "Kick Off 2"
+    },
+    {
+      "tgdb_id": 28407,
+      "title": "Sorcery +"
+    },
+    {
+      "tgdb_id": 28410,
+      "title": "Strider"
+    },
+    {
+      "tgdb_id": 28412,
+      "title": "Wizball"
+    },
+    {
+      "tgdb_id": 28413,
+      "title": "Blade Runner"
+    },
+    {
+      "tgdb_id": 28414,
+      "title": "Teenage Mutant Hero Turtles: The Coin Op"
+    },
+    {
+      "tgdb_id": 28416,
+      "title": "007: Licence to Kill"
+    },
+    {
+      "tgdb_id": 28417,
+      "title": "Super Skweek"
+    },
+    {
+      "tgdb_id": 28419,
+      "title": "Kung-Fu Master"
+    },
+    {
+      "tgdb_id": 28420,
+      "title": "Xenon"
+    },
+    {
+      "tgdb_id": 28421,
+      "title": "1943: The Battle of Midway"
+    },
+    {
+      "tgdb_id": 28422,
+      "title": "Jet Set Willy"
+    },
+    {
+      "tgdb_id": 28423,
+      "title": "Ghostbusters II"
+    },
+    {
+      "tgdb_id": 28424,
+      "title": "Operation Wolf"
+    },
+    {
+      "tgdb_id": 28425,
+      "title": "Amélie Minuit"
+    },
+    {
+      "tgdb_id": 28426,
+      "title": "Paperboy 2"
+    },
+    {
+      "tgdb_id": 28427,
+      "title": "Platoon"
+    },
+    {
+      "tgdb_id": 28428,
+      "title": "Winter Games"
+    },
+    {
+      "tgdb_id": 28429,
+      "title": "Alien 8"
+    },
+    {
+      "tgdb_id": 28430,
+      "title": "Savage"
+    },
+    {
+      "tgdb_id": 28451,
+      "title": "RoboCop 2"
+    },
+    {
+      "tgdb_id": 28469,
+      "title": "E-motion"
+    },
+    {
+      "tgdb_id": 28483,
+      "title": "Nebulus"
+    },
+    {
+      "tgdb_id": 28493,
+      "title": "Rampage"
+    },
+    {
+      "tgdb_id": 28495,
+      "title": "The New Zealand Story"
+    },
+    {
+      "tgdb_id": 28498,
+      "title": "Arachnophobia"
+    },
+    {
+      "tgdb_id": 28499,
+      "title": "B.A.T."
+    },
+    {
+      "tgdb_id": 28503,
+      "title": "Crazy Cars III"
+    },
+    {
+      "tgdb_id": 28504,
+      "title": "WEC Le Mans"
+    },
+    {
+      "tgdb_id": 28505,
+      "title": "Stunt Car Racer"
+    },
+    {
+      "tgdb_id": 28506,
+      "title": "Alphakhor"
+    },
+    {
+      "tgdb_id": 28507,
+      "title": "International Karate"
+    },
+    {
+      "tgdb_id": 28508,
+      "title": "Kick Off"
+    },
+    {
+      "tgdb_id": 28509,
+      "title": "Pac-Mania"
+    },
+    {
+      "tgdb_id": 28510,
+      "title": "Game Over"
+    },
+    {
+      "tgdb_id": 28517,
+      "title": "Beyond the Ice Palace"
+    },
+    {
+      "tgdb_id": 28518,
+      "title": "Italy 1990"
+    },
+    {
+      "tgdb_id": 28519,
+      "title": "Satan"
+    },
+    {
+      "tgdb_id": 28520,
+      "title": "Asphalt"
+    },
+    {
+      "tgdb_id": 28524,
+      "title": "Klax"
+    },
+    {
+      "tgdb_id": 28525,
+      "title": "Super Cauldron"
+    },
+    {
+      "tgdb_id": 28526,
+      "title": "Xyphoes Fantasy"
+    },
+    {
+      "tgdb_id": 28530,
+      "title": "Bactron"
+    },
+    {
+      "tgdb_id": 28532,
+      "title": "Macadam Bumper"
+    },
+    {
+      "tgdb_id": 28533,
+      "title": "BoBo"
+    },
+    {
+      "tgdb_id": 28534,
+      "title": "Cybernoid: The Fighting Machine"
+    },
+    {
+      "tgdb_id": 28535,
+      "title": "Stormlord"
+    },
+    {
+      "tgdb_id": 28537,
+      "title": "Lotus Esprit Turbo Challenge"
+    },
+    {
+      "tgdb_id": 28538,
+      "title": "Fire and Forget"
+    },
+    {
+      "tgdb_id": 28539,
+      "title": "Rainbow Islands"
+    },
+    {
+      "tgdb_id": 28540,
+      "title": "Times of Lore"
+    },
+    {
+      "tgdb_id": 28541,
+      "title": "Windsurf Willy"
+    },
+    {
+      "tgdb_id": 28542,
+      "title": "Bob Winner"
+    },
+    {
+      "tgdb_id": 28543,
+      "title": "Bomb Jack II"
+    },
+    {
+      "tgdb_id": 28544,
+      "title": "Trantor: The Last Stormtrooper"
+    },
+    {
+      "tgdb_id": 28545,
+      "title": "Operation Thunderbolt"
+    },
+    {
+      "tgdb_id": 28547,
+      "title": "Navy Moves"
+    },
+    {
+      "tgdb_id": 28549,
+      "title": "Knight Lore"
+    },
+    {
+      "tgdb_id": 28551,
+      "title": "Crafton et Xunk"
+    },
+    {
+      "tgdb_id": 28569,
+      "title": "Tomahawk"
+    },
+    {
+      "tgdb_id": 28611,
+      "title": "Daley Thompson's Olympic Challenge"
+    },
+    {
+      "tgdb_id": 28613,
+      "title": "Spellbound"
+    },
+    {
+      "tgdb_id": 28622,
+      "title": "The Saga of Erik the Viking"
+    },
+    {
+      "tgdb_id": 28630,
+      "title": "Robinson Crusoe"
+    },
+    {
+      "tgdb_id": 28631,
+      "title": "Robozone"
+    },
+    {
+      "tgdb_id": 28632,
+      "title": "Puzznic"
+    },
+    {
+      "tgdb_id": 28633,
+      "title": "Molecule Man"
+    },
+    {
+      "tgdb_id": 28634,
+      "title": "Monty Python's Flying Circus: The Computer Game"
+    },
+    {
+      "tgdb_id": 28635,
+      "title": "Megachess"
+    },
+    {
+      "tgdb_id": 28636,
+      "title": "Darkman"
+    },
+    {
+      "tgdb_id": 28637,
+      "title": "Mig-29 Soviet Fighter"
+    },
+    {
+      "tgdb_id": 28638,
+      "title": "Magicland Dizzy"
+    },
+    {
+      "tgdb_id": 28639,
+      "title": "Kwik Snax"
+    },
+    {
+      "tgdb_id": 28640,
+      "title": "Last Ninja 2: Back with a Vengeance"
+    },
+    {
+      "tgdb_id": 28641,
+      "title": "Knight Games"
+    },
+    {
+      "tgdb_id": 28642,
+      "title": "Grand Prix Master"
+    },
+    {
+      "tgdb_id": 28643,
+      "title": "The Guild of Thieves"
+    },
+    {
+      "tgdb_id": 28644,
+      "title": "Gazza's Super Soccer"
+    },
+    {
+      "tgdb_id": 28645,
+      "title": "Fantasy World Dizzy"
+    },
+    {
+      "tgdb_id": 28646,
+      "title": "Feud"
+    },
+    {
+      "tgdb_id": 28647,
+      "title": "Bivouac"
+    },
+    {
+      "tgdb_id": 28648,
+      "title": "Flimbo's Quest"
+    },
+    {
+      "tgdb_id": 28649,
+      "title": "Fire & Forget II"
+    },
+    {
+      "tgdb_id": 28650,
+      "title": "Enduro Racer"
+    },
+    {
+      "tgdb_id": 28651,
+      "title": "Druid"
+    },
+    {
+      "tgdb_id": 28652,
+      "title": "Dun Darach"
+    },
+    {
+      "tgdb_id": 28653,
+      "title": "Dizzy: Prince of the Yolkfolk"
+    },
+    {
+      "tgdb_id": 28654,
+      "title": "Dizzy's Excellent Adventures"
+    },
+    {
+      "tgdb_id": 28655,
+      "title": "Combat School"
+    },
+    {
+      "tgdb_id": 28715,
+      "title": "1001 B.C. A Mediterranean Odyssey"
+    },
+    {
+      "tgdb_id": 28787,
+      "title": "10th Frame"
+    },
+    {
+      "tgdb_id": 28790,
+      "title": "1815"
+    },
+    {
+      "tgdb_id": 28791,
+      "title": "3D Boxing"
+    },
+    {
+      "tgdb_id": 28792,
+      "title": "3D Fight"
+    },
+    {
+      "tgdb_id": 28793,
+      "title": "3D Grand Prix"
+    },
+    {
+      "tgdb_id": 28794,
+      "title": "3D Snooker"
+    },
+    {
+      "tgdb_id": 28795,
+      "title": "3D Starfighter"
+    },
+    {
+      "tgdb_id": 28796,
+      "title": "3D Starstrike"
+    },
+    {
+      "tgdb_id": 28797,
+      "title": "3D Stunt Rider"
+    },
+    {
+      "tgdb_id": 28798,
+      "title": "750cc Grand Prix"
+    },
+    {
+      "tgdb_id": 28799,
+      "title": "A 320"
+    },
+    {
+      "tgdb_id": 28800,
+      "title": "A View To A Kill"
+    },
+    {
+      "tgdb_id": 28801,
+      "title": "Action Fighter"
+    },
+    {
+      "tgdb_id": 28802,
+      "title": "Activator"
+    },
+    {
+      "tgdb_id": 28803,
+      "title": "After Burner"
+    },
+    {
+      "tgdb_id": 28805,
+      "title": "Airwolf"
+    },
+    {
+      "tgdb_id": 28806,
+      "title": "Airwolf II"
+    },
+    {
+      "tgdb_id": 28807,
+      "title": "Alien Syndrome"
+    },
+    {
+      "tgdb_id": 28808,
+      "title": "Amaurote"
+    },
+    {
+      "tgdb_id": 28809,
+      "title": "American Tag Team Wrestling"
+    },
+    {
+      "tgdb_id": 28810,
+      "title": "Anarchy"
+    },
+    {
+      "tgdb_id": 28811,
+      "title": "Angel Nieto Pole 500"
+    },
+    {
+      "tgdb_id": 28812,
+      "title": "Arkos"
+    },
+    {
+      "tgdb_id": 28813,
+      "title": "Asterix Chez Rahazade"
+    },
+    {
+      "tgdb_id": 28814,
+      "title": "Advanced Tactical Fighter"
+    },
+    {
+      "tgdb_id": 28815,
+      "title": "Athanor"
+    },
+    {
+      "tgdb_id": 28817,
+      "title": "Atrog"
+    },
+    {
+      "tgdb_id": 28818,
+      "title": "Auf Wiedersehen Monty"
+    },
+    {
+      "tgdb_id": 28821,
+      "title": "Back to the Golden Age"
+    },
+    {
+      "tgdb_id": 28819,
+      "title": "Averno"
+    },
+    {
+      "tgdb_id": 28820,
+      "title": "Axys: The Last Battle"
+    },
+    {
+      "tgdb_id": 37440,
+      "title": "Amnesia"
+    },
+    {
+      "tgdb_id": 37441,
+      "title": "Ant Attack"
+    },
+    {
+      "tgdb_id": 29897,
+      "title": "Carrier Command"
+    },
+    {
+      "tgdb_id": 29924,
+      "title": "Lords of Midnight"
+    },
+    {
+      "tgdb_id": 29946,
+      "title": "Rebelstar"
+    },
+    {
+      "tgdb_id": 29979,
+      "title": "Starglider"
+    },
+    {
+      "tgdb_id": 30126,
+      "title": "Zap'T'Balls"
+    },
+    {
+      "tgdb_id": 30134,
+      "title": "Harvey Headbanger"
+    },
+    {
+      "tgdb_id": 30149,
+      "title": "Knight Tyme"
+    },
+    {
+      "tgdb_id": 30157,
+      "title": "Starquake"
+    },
+    {
+      "tgdb_id": 30190,
+      "title": "Dragontorc"
+    },
+    {
+      "tgdb_id": 30192,
+      "title": "Koronis Rift"
+    },
+    {
+      "tgdb_id": 30351,
+      "title": "Deadline"
+    },
+    {
+      "tgdb_id": 30370,
+      "title": "Freedom: Rebels in the Darkness"
+    },
+    {
+      "tgdb_id": 30375,
+      "title": "Get Dexter"
+    },
+    {
+      "tgdb_id": 30378,
+      "title": "Goody"
+    },
+    {
+      "tgdb_id": 30390,
+      "title": "Hanse"
+    },
+    {
+      "tgdb_id": 30394,
+      "title": "Hostages: Rescue Mission"
+    },
+    {
+      "tgdb_id": 30403,
+      "title": "Infernal Runner"
+    },
+    {
+      "tgdb_id": 30415,
+      "title": "Lurking Horror"
+    },
+    {
+      "tgdb_id": 30418,
+      "title": "Mandragore"
+    },
+    {
+      "tgdb_id": 30472,
+      "title": "Rock Star Ate My Hamster"
+    },
+    {
+      "tgdb_id": 30488,
+      "title": "Southern Belle"
+    },
+    {
+      "tgdb_id": 30503,
+      "title": "Werewolves of London"
+    },
+    {
+      "tgdb_id": 30748,
+      "title": "The Ancient Art of War"
+    },
+    {
+      "tgdb_id": 30751,
+      "title": "Granny's Garden"
+    },
+    {
+      "tgdb_id": 30797,
+      "title": "Altair"
+    },
+    {
+      "tgdb_id": 30799,
+      "title": "Anduril"
+    },
+    {
+      "tgdb_id": 30800,
+      "title": "Ball Crazy"
+    },
+    {
+      "tgdb_id": 31040,
+      "title": "Jet Set Willy II: The Final Frontier"
+    },
+    {
+      "tgdb_id": 31244,
+      "title": "Village Of Lost Souls"
+    },
+    {
+      "tgdb_id": 31245,
+      "title": "180"
+    },
+    {
+      "tgdb_id": 31246,
+      "title": "2 Player Super League"
+    },
+    {
+      "tgdb_id": 31451,
+      "title": "Suspended: A Cryogenic Nightmare"
+    },
+    {
+      "tgdb_id": 31530,
+      "title": "Cybernoid II: The Revenge"
+    },
+    {
+      "tgdb_id": 31531,
+      "title": "Rick Dangerous II"
+    },
+    {
+      "tgdb_id": 32162,
+      "title": "1000 Bornes"
+    },
+    {
+      "tgdb_id": 32163,
+      "title": "002 Agent Double"
+    },
+    {
+      "tgdb_id": 32164,
+      "title": "20 000 Avant J.C."
+    },
+    {
+      "tgdb_id": 32165,
+      "title": "20 000 Lieues sous les mers"
+    },
+    {
+      "tgdb_id": 32166,
+      "title": "2088"
+    },
+    {
+      "tgdb_id": 32305,
+      "title": "Fres Fighter II Turbo"
+    },
+    {
+      "tgdb_id": 33707,
+      "title": "007: The Living Daylights"
+    },
+    {
+      "tgdb_id": 33708,
+      "title": "007: The Spy Who Loved Me"
+    },
+    {
+      "tgdb_id": 33711,
+      "title": "2112 AD"
+    },
+    {
+      "tgdb_id": 33712,
+      "title": "3DC"
+    },
+    {
+      "tgdb_id": 33713,
+      "title": "3D Invaders"
+    },
+    {
+      "tgdb_id": 33714,
+      "title": "3D Monster Chase"
+    },
+    {
+      "tgdb_id": 33715,
+      "title": "Sharkey's 3D Pool"
+    },
+    {
+      "tgdb_id": 33717,
+      "title": "3D Time Trek"
+    },
+    {
+      "tgdb_id": 33719,
+      "title": "Three Weeks in Paradise"
+    },
+    {
+      "tgdb_id": 37455,
+      "title": "Orion Prime"
+    },
+    {
+      "tgdb_id": 37456,
+      "title": "R • Type"
+    },
+    {
+      "tgdb_id": 37457,
+      "title": "Relentless"
+    },
+    {
+      "tgdb_id": 37458,
+      "title": "Megablasters - Escape From Castle in the Clouds"
+    },
+    {
+      "tgdb_id": 37459,
+      "title": "Frog Alot"
+    },
+    {
+      "tgdb_id": 34250,
+      "title": "Freddy Hardest"
+    },
+    {
+      "tgdb_id": 37449,
+      "title": "Bubble Bobble 4 CPC"
+    },
+    {
+      "tgdb_id": 37450,
+      "title": "Dead on Time"
+    },
+    {
+      "tgdb_id": 37451,
+      "title": "Edge Grinder"
+    },
+    {
+      "tgdb_id": 37452,
+      "title": "Ishido"
+    },
+    {
+      "tgdb_id": 37453,
+      "title": "Justin"
+    },
+    {
+      "tgdb_id": 37454,
+      "title": "Overkoban"
+    },
+    {
+      "tgdb_id": 35362,
+      "title": "Binky"
+    },
+    {
+      "tgdb_id": 35363,
+      "title": "Friday the 13th"
+    },
+    {
+      "tgdb_id": 35364,
+      "title": "Karl's Treasure Hunt"
+    },
+    {
+      "tgdb_id": 35365,
+      "title": "Manic Miner"
+    },
+    {
+      "tgdb_id": 36049,
+      "title": "Mithos"
+    },
+    {
+      "tgdb_id": 38707,
+      "title": "Barry McGuigan World Championship Boxing"
+    },
+    {
+      "tgdb_id": 38708,
+      "title": "Bomb Jack"
+    },
+    {
+      "tgdb_id": 38704,
+      "title": "Trivial Pursuit"
+    },
+    {
+      "tgdb_id": 38705,
+      "title": "Ghostbusters"
+    },
+    {
+      "tgdb_id": 38702,
+      "title": "Electro Freddy"
+    },
+    {
+      "tgdb_id": 38434,
+      "title": "Dustin"
+    },
+    {
+      "tgdb_id": 38435,
+      "title": "Camelot warriors"
+    },
+    {
+      "tgdb_id": 38703,
+      "title": "Thrust"
+    },
+    {
+      "tgdb_id": 38701,
+      "title": "Chuckie Egg"
+    },
+    {
+      "tgdb_id": 38714,
+      "title": "3D Voice Chess"
+    },
+    {
+      "tgdb_id": 38715,
+      "title": "5eme Axe , Le"
+    },
+    {
+      "tgdb_id": 38716,
+      "title": "Abracadabra"
+    },
+    {
+      "tgdb_id": 38717,
+      "title": "Advanced Art Studio"
+    },
+    {
+      "tgdb_id": 38718,
+      "title": "Alien"
+    },
+    {
+      "tgdb_id": 38719,
+      "title": "Aliens"
+    },
+    {
+      "tgdb_id": 38720,
+      "title": "Almirante Graf Spee"
+    },
+    {
+      "tgdb_id": 38721,
+      "title": "Amsilvania Castle"
+    },
+    {
+      "tgdb_id": 38722,
+      "title": "Animal, Vegetal, Mineral"
+    },
+    {
+      "tgdb_id": 38723,
+      "title": "Argo Navis"
+    },
+    {
+      "tgdb_id": 38724,
+      "title": "Asterix & the Magic Cauldron"
+    },
+    {
+      "tgdb_id": 38725,
+      "title": "Battle for Midway"
+    },
+    {
+      "tgdb_id": 38726,
+      "title": "Battle of the Planets"
+    },
+    {
+      "tgdb_id": 38727,
+      "title": "Beach Head 2"
+    },
+    {
+      "tgdb_id": 38728,
+      "title": "Big Trouble in the Little China"
+    },
+    {
+      "tgdb_id": 38729,
+      "title": "Billy la Banilieue"
+    },
+    {
+      "tgdb_id": 38730,
+      "title": "Billy la Banlieue"
+    },
+    {
+      "tgdb_id": 38731,
+      "title": "Blood Valley"
+    },
+    {
+      "tgdb_id": 38732,
+      "title": "Bobby Bearing"
+    },
+    {
+      "tgdb_id": 38733,
+      "title": "Bravestarr"
+    },
+    {
+      "tgdb_id": 38734,
+      "title": "Breakthru"
+    },
+    {
+      "tgdb_id": 38735,
+      "title": "Brian Bloodaxe"
+    },
+    {
+      "tgdb_id": 38736,
+      "title": "Bride of Frankenstein"
+    },
+    {
+      "tgdb_id": 38737,
+      "title": "Bruce Lee"
+    },
+    {
+      "tgdb_id": 38738,
+      "title": "Campeones"
+    },
+    {
+      "tgdb_id": 38739,
+      "title": "Carvalho. Los Pajaros de Bangkok"
+    },
+    {
+      "tgdb_id": 38740,
+      "title": "Castle Master"
+    },
+    {
+      "tgdb_id": 38741,
+      "title": "Cessna Over Moscow"
+    },
+    {
+      "tgdb_id": 38742,
+      "title": "Chamonix Challenge"
+    },
+    {
+      "tgdb_id": 38743,
+      "title": "Charlie Chaplin"
+    },
+    {
+      "tgdb_id": 38744,
+      "title": "Charly Diams"
+    },
+    {
+      "tgdb_id": 38745,
+      "title": "Cheril of the bosque"
+    },
+    {
+      "tgdb_id": 38746,
+      "title": "Le Chevalier Blanc"
+    },
+    {
+      "tgdb_id": 38747,
+      "title": "Chiller"
+    },
+    {
+      "tgdb_id": 38748,
+      "title": "Cluedo"
+    },
+    {
+      "tgdb_id": 38749,
+      "title": "Cobra Stallone"
+    },
+    {
+      "tgdb_id": 38750,
+      "title": "Cobras Arc"
+    },
+    {
+      "tgdb_id": 38751,
+      "title": "Combat Lynx"
+    },
+    {
+      "tgdb_id": 38752,
+      "title": "Codename Mat 3D"
+    },
+    {
+      "tgdb_id": 38753,
+      "title": "Codename Mat II"
+    },
+    {
+      "tgdb_id": 38754,
+      "title": "Cosa Nostra"
+    },
+    {
+      "tgdb_id": 38755,
+      "title": "La Diosa de Cozumel"
+    },
+    {
+      "tgdb_id": 38756,
+      "title": "Cray 5"
+    },
+    {
+      "tgdb_id": 38757,
+      "title": "Curse of Sherwood"
+    },
+    {
+      "tgdb_id": 38758,
+      "title": "Dan Dare"
+    },
+    {
+      "tgdb_id": 38759,
+      "title": "Dandy"
+    },
+    {
+      "tgdb_id": 38760,
+      "title": "Death Pit"
+    },
+    {
+      "tgdb_id": 38761,
+      "title": "Deflektor"
+    },
+    {
+      "tgdb_id": 38762,
+      "title": "Desert Fox"
+    },
+    {
+      "tgdb_id": 38763,
+      "title": "The Devils Crown"
+    },
+    {
+      "tgdb_id": 38764,
+      "title": "Don Quijote"
+    },
+    {
+      "tgdb_id": 38765,
+      "title": "Dragontorc of Avalon, the"
+    },
+    {
+      "tgdb_id": 38766,
+      "title": "Duet"
+    },
+    {
+      "tgdb_id": 38767,
+      "title": "Eden Blues"
+    },
+    {
+      "tgdb_id": 38768,
+      "title": "Doomsday Blues"
+    },
+    {
+      "tgdb_id": 38769,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 38770,
+      "title": "Dragon's Lair 2: Escape from Singe's Castle"
+    },
+    {
+      "tgdb_id": 38771,
+      "title": "El cuerpo Humano"
+    },
+    {
+      "tgdb_id": 38772,
+      "title": "El Laberinto del Sultan"
+    },
+    {
+      "tgdb_id": 38773,
+      "title": "El secreto de la Tumba"
+    },
+    {
+      "tgdb_id": 38774,
+      "title": "Elite"
+    },
+    {
+      "tgdb_id": 38775,
+      "title": "Enigma de Aceps, El (1 de 2)"
+    },
+    {
+      "tgdb_id": 38776,
+      "title": "Equinox"
+    },
+    {
+      "tgdb_id": 38777,
+      "title": "Everyone's a Wally"
+    },
+    {
+      "tgdb_id": 38778,
+      "title": "Exolon"
+    },
+    {
+      "tgdb_id": 38779,
+      "title": "Fairlight: A prelude"
+    },
+    {
+      "tgdb_id": 38780,
+      "title": "Fernando Martin Basket Master"
+    },
+    {
+      "tgdb_id": 38781,
+      "title": "Fighting Warrior"
+    },
+    {
+      "tgdb_id": 38782,
+      "title": "Firelord"
+    },
+    {
+      "tgdb_id": 38783,
+      "title": "Frank Bruno's Boxing"
+    },
+    {
+      "tgdb_id": 38784,
+      "title": "Frost Byte"
+    },
+    {
+      "tgdb_id": 38785,
+      "title": "Future Knight"
+    },
+    {
+      "tgdb_id": 38786,
+      "title": "Galivan"
+    },
+    {
+      "tgdb_id": 38787,
+      "title": "Gorbaf el Vikingo"
+    },
+    {
+      "tgdb_id": 38788,
+      "title": "Great Escape"
+    },
+    {
+      "tgdb_id": 38789,
+      "title": "Heavy on the Magick"
+    },
+    {
+      "tgdb_id": 38790,
+      "title": "Sir Fred"
+    },
+    {
+      "tgdb_id": 38793,
+      "title": "Dragon Spirit"
+    },
+    {
+      "tgdb_id": 38915,
+      "title": "Ghouls"
+    },
+    {
+      "tgdb_id": 39084,
+      "title": "Grand Prix 500cc"
+    },
+    {
+      "tgdb_id": 39085,
+      "title": "Grand Prix Rally II"
+    },
+    {
+      "tgdb_id": 39088,
+      "title": "Green Beret"
+    },
+    {
+      "tgdb_id": 39089,
+      "title": "Gremlins"
+    },
+    {
+      "tgdb_id": 39090,
+      "title": "Gyroscope"
+    },
+    {
+      "tgdb_id": 39091,
+      "title": "Haunted Hedges"
+    },
+    {
+      "tgdb_id": 39092,
+      "title": "Head Over Heels"
+    },
+    {
+      "tgdb_id": 39093,
+      "title": "Highway Encounter"
+    },
+    {
+      "tgdb_id": 39094,
+      "title": "House of Usher"
+    },
+    {
+      "tgdb_id": 39095,
+      "title": "Hundra"
+    },
+    {
+      "tgdb_id": 39096,
+      "title": "Hydrofool"
+    },
+    {
+      "tgdb_id": 39097,
+      "title": "Hyper Sports"
+    },
+    {
+      "tgdb_id": 39098,
+      "title": "Infiltrator"
+    },
+    {
+      "tgdb_id": 39099,
+      "title": "International Karate Plus"
+    },
+    {
+      "tgdb_id": 39100,
+      "title": "Into Oblivion"
+    },
+    {
+      "tgdb_id": 39101,
+      "title": "Jack the Nipper"
+    },
+    {
+      "tgdb_id": 39102,
+      "title": "Jack the Nipper II...In Coconut Capers"
+    },
+    {
+      "tgdb_id": 39103,
+      "title": "Jail Break"
+    },
+    {
+      "tgdb_id": 39104,
+      "title": "Kat Trap"
+    },
+    {
+      "tgdb_id": 39105,
+      "title": "Karnov"
+    },
+    {
+      "tgdb_id": 39106,
+      "title": "Knight Ghost"
+    },
+    {
+      "tgdb_id": 39107,
+      "title": "Knight rider"
+    },
+    {
+      "tgdb_id": 39108,
+      "title": "Knightmare"
+    },
+    {
+      "tgdb_id": 39109,
+      "title": "Krakout"
+    },
+    {
+      "tgdb_id": 39120,
+      "title": "La Banda Salvaje"
+    },
+    {
+      "tgdb_id": 39121,
+      "title": "Plaga Galactica"
+    },
+    {
+      "tgdb_id": 39125,
+      "title": "Las Tres Luces de Glaurung"
+    },
+    {
+      "tgdb_id": 39127,
+      "title": "Light Force"
+    },
+    {
+      "tgdb_id": 39128,
+      "title": "Little Computer People"
+    },
+    {
+      "tgdb_id": 39129,
+      "title": "Livingstone Supongo"
+    },
+    {
+      "tgdb_id": 39130,
+      "title": "Musica Maestro"
+    },
+    {
+      "tgdb_id": 39131,
+      "title": "Mag Max"
+    },
+    {
+      "tgdb_id": 39132,
+      "title": "Nonamed"
+    },
+    {
+      "tgdb_id": 39133,
+      "title": "Ole Toro"
+    },
+    {
+      "tgdb_id": 39134,
+      "title": "Sai Combat"
+    },
+    {
+      "tgdb_id": 39174,
+      "title": "Mask"
+    },
+    {
+      "tgdb_id": 39175,
+      "title": "Angle Ball"
+    },
+    {
+      "tgdb_id": 39176,
+      "title": "Mask II"
+    },
+    {
+      "tgdb_id": 39178,
+      "title": "Venom Strikes Back"
+    },
+    {
+      "tgdb_id": 39179,
+      "title": "Masters of the Universe"
+    },
+    {
+      "tgdb_id": 39180,
+      "title": "Doodlebug"
+    },
+    {
+      "tgdb_id": 39181,
+      "title": "Match Day"
+    },
+    {
+      "tgdb_id": 39182,
+      "title": "Match Day II"
+    },
+    {
+      "tgdb_id": 39183,
+      "title": "Mermaid Madness"
+    },
+    {
+      "tgdb_id": 39184,
+      "title": "Match Point"
+    },
+    {
+      "tgdb_id": 39185,
+      "title": "Mission"
+    },
+    {
+      "tgdb_id": 39186,
+      "title": "Movie"
+    },
+    {
+      "tgdb_id": 39187,
+      "title": "Mutan Zone"
+    },
+    {
+      "tgdb_id": 39188,
+      "title": "Myth"
+    },
+    {
+      "tgdb_id": 39189,
+      "title": "Nemesis"
+    },
+    {
+      "tgdb_id": 39190,
+      "title": "Nemesis the Warlock"
+    },
+    {
+      "tgdb_id": 39191,
+      "title": "Night Shade"
+    },
+    {
+      "tgdb_id": 39192,
+      "title": "Night Hunter"
+    },
+    {
+      "tgdb_id": 39193,
+      "title": "Nosferatu The Vampyre"
+    },
+    {
+      "tgdb_id": 39194,
+      "title": "Oh Mummy"
+    },
+    {
+      "tgdb_id": 39195,
+      "title": "Palitron"
+    },
+    {
+      "tgdb_id": 39196,
+      "title": "Phantis"
+    },
+    {
+      "tgdb_id": 39197,
+      "title": "Phantom Club"
+    },
+    {
+      "tgdb_id": 39198,
+      "title": "Pharaon"
+    },
+    {
+      "tgdb_id": 39199,
+      "title": "Ping Pong"
+    },
+    {
+      "tgdb_id": 39223,
+      "title": "Zynaps"
+    },
+    {
+      "tgdb_id": 39224,
+      "title": "Zorro"
+    },
+    {
+      "tgdb_id": 39225,
+      "title": "Yie ar Kung-Fu"
+    },
+    {
+      "tgdb_id": 39226,
+      "title": "Wizard's Lair"
+    },
+    {
+      "tgdb_id": 39227,
+      "title": "Willow Pattern"
+    },
+    {
+      "tgdb_id": 39228,
+      "title": "Who Dares Wins II"
+    },
+    {
+      "tgdb_id": 39229,
+      "title": "West Bank"
+    },
+    {
+      "tgdb_id": 39230,
+      "title": "Welcome to Amsoft Side A"
+    },
+    {
+      "tgdb_id": 39231,
+      "title": "Welcome to Amsoft Side B"
+    },
+    {
+      "tgdb_id": 39232,
+      "title": "Vindicator"
+    },
+    {
+      "tgdb_id": 39233,
+      "title": "The Way of the Exploding Fist"
+    },
+    {
+      "tgdb_id": 39234,
+      "title": "Warlock"
+    },
+    {
+      "tgdb_id": 39235,
+      "title": "Vixen"
+    },
+    {
+      "tgdb_id": 39236,
+      "title": "Victory Road"
+    },
+    {
+      "tgdb_id": 39237,
+      "title": "Predator"
+    },
+    {
+      "tgdb_id": 39238,
+      "title": "Prohibition"
+    },
+    {
+      "tgdb_id": 39239,
+      "title": "Psycho Pigs UXB"
+    },
+    {
+      "tgdb_id": 39240,
+      "title": "Pulsator"
+    },
+    {
+      "tgdb_id": 39241,
+      "title": "The Race Against Time"
+    },
+    {
+      "tgdb_id": 39242,
+      "title": "Vampire Killer"
+    },
+    {
+      "tgdb_id": 39243,
+      "title": "V - The Visitors"
+    },
+    {
+      "tgdb_id": 39244,
+      "title": "Turbo Girl"
+    },
+    {
+      "tgdb_id": 39299,
+      "title": "Mad Mix Game"
+    },
+    {
+      "tgdb_id": 39300,
+      "title": "Star Firebirds"
+    },
+    {
+      "tgdb_id": 39301,
+      "title": "They Stole a Million"
+    },
+    {
+      "tgdb_id": 39302,
+      "title": "Turbo Esprit"
+    }
+  ]
+}

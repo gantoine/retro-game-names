@@ -1,67 +1,267 @@
-[
-  "Mine Storm",
-  "Rip Off",
-  "Web Wars",
-  "Armor Attack",
-  "Bedlam",
-  "Berzerk",
-  "Blitz! - Action Football",
-  "Clean Sweep",
-  "Cosmic Chasm",
-  "Fortress of Narzod",
-  "Heads Up",
-  "Hyperchase Auto Race",
-  "AnimAction",
-  "Art Master",
-  "3D Crazy Coaster",
-  "Dark Tower",
-  "Moon Lander",
-  "Melody Master",
-  "Mine Storm 2",
-  "Narrow Escape",
-  "Omega Chase",
-  "Polar Rescue",
-  "Pole Position",
-  "Scramble",
-  "Solar Quest",
-  "Spin Ball",
-  "Space Wars",
-  "Spike Hoppin'",
-  "Spike",
-  "Star Castle",
-  "Star Trek - The Motion Picture",
-  "StarHawk",
-  "Vector Vaders",
-  "Star Ship",
-  "Webwarp",
-  "3D Mine Storm",
-  "3D Narrow Escape",
-  "Engine Analyzer",
-  "Mail Plane",
-  "Pitcher's Duel",
-  "RA+A Spectrum I+ Stress Tester",
-  "Sledge 3D",
-  "Test Cartridge",
-  "Tour De France",
-  "All Good Things",
-  "Birds of Prey",
-  "Gravitrex",
-  "Patriots",
-  "Repulse",
-  "Patriots Remix",
-  "Rockaroids Remix",
-  "Star Hawk",
-  "Vectrace",
-  "Verzerk",
-  "Space Frenzy",
-  "Spike's Water Ballons Analog",
-  "Vecmania",
-  "Vectopia",
-  "Nebula Commander",
-  "Protector YASI",
-  "Revector",
-  "Thrust",
-  "V-Frogger",
-  "Vectrexagon",
-  "Bee mod"
-]
+{
+  "tgbd_id": 4939,
+  "tgdb_alias": "vectrex",
+  "name": "Vectrex",
+  "titles": [
+    {
+      "tgdb_id": 32725,
+      "title": "Mine Storm"
+    },
+    {
+      "tgdb_id": 32726,
+      "title": "Rip Off"
+    },
+    {
+      "tgdb_id": 35984,
+      "title": "Web Wars"
+    },
+    {
+      "tgdb_id": 32361,
+      "title": "Armor Attack"
+    },
+    {
+      "tgdb_id": 32362,
+      "title": "Bedlam"
+    },
+    {
+      "tgdb_id": 32363,
+      "title": "Berzerk"
+    },
+    {
+      "tgdb_id": 32364,
+      "title": "Blitz! - Action Football"
+    },
+    {
+      "tgdb_id": 32365,
+      "title": "Clean Sweep"
+    },
+    {
+      "tgdb_id": 32366,
+      "title": "Cosmic Chasm"
+    },
+    {
+      "tgdb_id": 32367,
+      "title": "Fortress of Narzod"
+    },
+    {
+      "tgdb_id": 32368,
+      "title": "Heads Up"
+    },
+    {
+      "tgdb_id": 32369,
+      "title": "Hyperchase Auto Race"
+    },
+    {
+      "tgdb_id": 32648,
+      "title": "AnimAction"
+    },
+    {
+      "tgdb_id": 32670,
+      "title": "Art Master"
+    },
+    {
+      "tgdb_id": 32671,
+      "title": "3D Crazy Coaster"
+    },
+    {
+      "tgdb_id": 32682,
+      "title": "Dark Tower"
+    },
+    {
+      "tgdb_id": 32683,
+      "title": "Moon Lander"
+    },
+    {
+      "tgdb_id": 32684,
+      "title": "Melody Master"
+    },
+    {
+      "tgdb_id": 32685,
+      "title": "Mine Storm 2"
+    },
+    {
+      "tgdb_id": 32686,
+      "title": "Narrow Escape"
+    },
+    {
+      "tgdb_id": 32687,
+      "title": "Omega Chase"
+    },
+    {
+      "tgdb_id": 32688,
+      "title": "Polar Rescue"
+    },
+    {
+      "tgdb_id": 32689,
+      "title": "Pole Position"
+    },
+    {
+      "tgdb_id": 32727,
+      "title": "Scramble"
+    },
+    {
+      "tgdb_id": 32728,
+      "title": "Solar Quest"
+    },
+    {
+      "tgdb_id": 32798,
+      "title": "Spin Ball"
+    },
+    {
+      "tgdb_id": 32799,
+      "title": "Space Wars"
+    },
+    {
+      "tgdb_id": 32800,
+      "title": "Spike Hoppin'"
+    },
+    {
+      "tgdb_id": 32801,
+      "title": "Spike"
+    },
+    {
+      "tgdb_id": 32802,
+      "title": "Star Castle"
+    },
+    {
+      "tgdb_id": 32803,
+      "title": "Star Trek - The Motion Picture"
+    },
+    {
+      "tgdb_id": 32804,
+      "title": "StarHawk"
+    },
+    {
+      "tgdb_id": 32806,
+      "title": "Vector Vaders"
+    },
+    {
+      "tgdb_id": 33341,
+      "title": "Star Ship"
+    },
+    {
+      "tgdb_id": 33342,
+      "title": "Webwarp"
+    },
+    {
+      "tgdb_id": 36976,
+      "title": "3D Mine Storm"
+    },
+    {
+      "tgdb_id": 36977,
+      "title": "3D Narrow Escape"
+    },
+    {
+      "tgdb_id": 36978,
+      "title": "Engine Analyzer"
+    },
+    {
+      "tgdb_id": 36979,
+      "title": "Mail Plane"
+    },
+    {
+      "tgdb_id": 36980,
+      "title": "Pitcher's Duel"
+    },
+    {
+      "tgdb_id": 36981,
+      "title": "RA+A Spectrum I+ Stress Tester"
+    },
+    {
+      "tgdb_id": 36982,
+      "title": "Sledge 3D"
+    },
+    {
+      "tgdb_id": 36983,
+      "title": "Test Cartridge"
+    },
+    {
+      "tgdb_id": 36984,
+      "title": "Tour De France"
+    },
+    {
+      "tgdb_id": 37530,
+      "title": "All Good Things"
+    },
+    {
+      "tgdb_id": 37531,
+      "title": "Birds of Prey"
+    },
+    {
+      "tgdb_id": 37532,
+      "title": "Gravitrex"
+    },
+    {
+      "tgdb_id": 37533,
+      "title": "Patriots"
+    },
+    {
+      "tgdb_id": 37534,
+      "title": "Repulse"
+    },
+    {
+      "tgdb_id": 37535,
+      "title": "Patriots Remix"
+    },
+    {
+      "tgdb_id": 37536,
+      "title": "Rockaroids Remix"
+    },
+    {
+      "tgdb_id": 37537,
+      "title": "Star Hawk"
+    },
+    {
+      "tgdb_id": 37538,
+      "title": "Vectrace"
+    },
+    {
+      "tgdb_id": 37539,
+      "title": "Verzerk"
+    },
+    {
+      "tgdb_id": 37540,
+      "title": "Space Frenzy"
+    },
+    {
+      "tgdb_id": 37541,
+      "title": "Spike's Water Ballons Analog"
+    },
+    {
+      "tgdb_id": 37542,
+      "title": "Vecmania"
+    },
+    {
+      "tgdb_id": 37543,
+      "title": "Vectopia"
+    },
+    {
+      "tgdb_id": 37544,
+      "title": "Nebula Commander"
+    },
+    {
+      "tgdb_id": 37546,
+      "title": "Protector YASI"
+    },
+    {
+      "tgdb_id": 37547,
+      "title": "Revector"
+    },
+    {
+      "tgdb_id": 37548,
+      "title": "Thrust"
+    },
+    {
+      "tgdb_id": 37550,
+      "title": "V-Frogger"
+    },
+    {
+      "tgdb_id": 37553,
+      "title": "Vectrexagon"
+    },
+    {
+      "tgdb_id": 37683,
+      "title": "Bee mod"
+    }
+  ]
+}

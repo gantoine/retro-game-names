@@ -1,77 +1,307 @@
-[
-  "Pachinko Hisshou Guide: Pocket Parlor",
-  "The King of Fighters: Battle de Paradise",
-  "Shougi no Tatsujin Color",
-  "Neo Poke Pro Yakyuu",
-  "Pachi-Slot Aruze Oukoku Pocket: Del Sol 2",
-  "Pachi-Slot Aruze Oukoku Pocket: Hanabi",
-  "Party Mail",
-  "Pachisuro Aruze Oukoku Pocket: Dekahel 2",
-  "Pachi-Slot Aruze Oukoku Pocket: Ward of Lights",
-  "Pachi-Slot Aruze Oukoku: e-CUP",
-  "Pachi-Slot Aruze Oukoku Pocket: Azteca",
-  "Pachi-Slot Aruze Oukoku Pocket: Daihanabi",
-  "Pachi-Slot Aruze Oukoku Pocket: Porcano 2",
-  "Sore Ike!! Hanafuda Doujou",
-  "Super Real Mahjong Premium Collection",
-  "SNK vs. Capcom: Match of the Millennium",
-  "Baseball Stars Color",
-  "Sonic the Hedgehog Pocket Adventure",
-  "Samurai Shodown! 2",
-  "Pocket Tennis Color",
-  "King of Fighters R-2: Pocket Fighting Series",
-  "The Last Blade: Beyond The Destiny",
-  "Metal Slug 1st Mission",
-  "Metal Slug 2nd Mission",
-  "Neo Turf Masters",
-  "SNK Gals' Fighters",
-  "Fatal Fury First Contact",
-  "Crush Roller",
-  "Dynamite Slugger",
-  "Biomotor Unitron",
-  "Cotton: Fantastic Night Dreams",
-  "Dark Arms: Beast Buster 1999",
-  "Pocket Reversi",
-  "Magical Drop Pocket",
-  "Cool Boarders Pocket",
-  "Dive Alert : Becky's Version",
-  "Dive Alert : Matt's Version",
-  "Evolution : Eternal Dungeons",
-  "Faselei!",
-  "SNK vs. Capcom: Card Fighter's Clash - Capcom Version",
-  "SNK vs. Capcom: Card Fighter's Clash - SNK Version",
-  "Puzzle Link",
-  "Puzzle Link 2",
-  "Shanghai Mini",
-  "Pac-Man",
-  "Puyo Pop",
-  "Picture Puzzle",
-  "Neo 21",
-  "Neo Dragon's Wild",
-  "Neo Baccarat",
-  "Neo Cherry Master Color",
-  "Neo Mystery Bonus",
-  "Delta Warp",
-  "Bust-A-Move Pocket",
-  "Neo Geo Cup '98 Plus Color",
-  "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji",
-  "Memories Off Pure",
-  "SNK vs Capcom: Card Fighters 2 Expand Edition",
-  "Pocket Love: If",
-  "Big Bang Pro Wrestling",
-  "Rockman Battle & Fighters",
-  "Bikkuriman 2000: Viva! Pocket Festival!",
-  "Ganbare Neo Poke-Kun",
-  "Neo Derby Champ Daiyosou",
-  "Cool Cool Jam",
-  "Dokodemo Mahjong",
-  "Densha de Go! 2",
-  "Infinity Cure",
-  "Kikou Seiki Unitron",
-  "Koi Koi Mahjong",
-  "Mizuki Shigeru no Youkai Shashinkan",
-  "Mezase! Kanji Ou",
-  "Nige-ron-pa",
-  "Prize Game - PP-AA01 Pusher Program",
-  "Puzzle Bobble Mini"
-]
+{
+  "tgbd_id": 4923,
+  "tgdb_alias": "neo-geo-pocket-color",
+  "name": "Neo Geo Pocket Color",
+  "titles": [
+    {
+      "tgdb_id": 35891,
+      "title": "Pachinko Hisshou Guide: Pocket Parlor"
+    },
+    {
+      "tgdb_id": 35928,
+      "title": "The King of Fighters: Battle de Paradise"
+    },
+    {
+      "tgdb_id": 35929,
+      "title": "Shougi no Tatsujin Color"
+    },
+    {
+      "tgdb_id": 35877,
+      "title": "Neo Poke Pro Yakyuu"
+    },
+    {
+      "tgdb_id": 35897,
+      "title": "Pachi-Slot Aruze Oukoku Pocket: Del Sol 2"
+    },
+    {
+      "tgdb_id": 35899,
+      "title": "Pachi-Slot Aruze Oukoku Pocket: Hanabi"
+    },
+    {
+      "tgdb_id": 35908,
+      "title": "Party Mail"
+    },
+    {
+      "tgdb_id": 35898,
+      "title": "Pachisuro Aruze Oukoku Pocket: Dekahel 2"
+    },
+    {
+      "tgdb_id": 35903,
+      "title": "Pachi-Slot Aruze Oukoku Pocket: Ward of Lights"
+    },
+    {
+      "tgdb_id": 35892,
+      "title": "Pachi-Slot Aruze Oukoku: e-CUP"
+    },
+    {
+      "tgdb_id": 35894,
+      "title": "Pachi-Slot Aruze Oukoku Pocket: Azteca"
+    },
+    {
+      "tgdb_id": 35895,
+      "title": "Pachi-Slot Aruze Oukoku Pocket: Daihanabi"
+    },
+    {
+      "tgdb_id": 35901,
+      "title": "Pachi-Slot Aruze Oukoku Pocket: Porcano 2"
+    },
+    {
+      "tgdb_id": 35926,
+      "title": "Sore Ike!! Hanafuda Doujou"
+    },
+    {
+      "tgdb_id": 35927,
+      "title": "Super Real Mahjong Premium Collection"
+    },
+    {
+      "tgdb_id": 18477,
+      "title": "SNK vs. Capcom: Match of the Millennium"
+    },
+    {
+      "tgdb_id": 18478,
+      "title": "Baseball Stars Color"
+    },
+    {
+      "tgdb_id": 18479,
+      "title": "Sonic the Hedgehog Pocket Adventure"
+    },
+    {
+      "tgdb_id": 18481,
+      "title": "Samurai Shodown! 2"
+    },
+    {
+      "tgdb_id": 18482,
+      "title": "Pocket Tennis Color"
+    },
+    {
+      "tgdb_id": 18483,
+      "title": "King of Fighters R-2: Pocket Fighting Series"
+    },
+    {
+      "tgdb_id": 18484,
+      "title": "The Last Blade: Beyond The Destiny"
+    },
+    {
+      "tgdb_id": 18485,
+      "title": "Metal Slug 1st Mission"
+    },
+    {
+      "tgdb_id": 18486,
+      "title": "Metal Slug 2nd Mission"
+    },
+    {
+      "tgdb_id": 18487,
+      "title": "Neo Turf Masters"
+    },
+    {
+      "tgdb_id": 18488,
+      "title": "SNK Gals' Fighters"
+    },
+    {
+      "tgdb_id": 18489,
+      "title": "Fatal Fury First Contact"
+    },
+    {
+      "tgdb_id": 18490,
+      "title": "Crush Roller"
+    },
+    {
+      "tgdb_id": 18491,
+      "title": "Dynamite Slugger"
+    },
+    {
+      "tgdb_id": 18492,
+      "title": "Biomotor Unitron"
+    },
+    {
+      "tgdb_id": 18493,
+      "title": "Cotton: Fantastic Night Dreams"
+    },
+    {
+      "tgdb_id": 18495,
+      "title": "Dark Arms: Beast Buster 1999"
+    },
+    {
+      "tgdb_id": 18498,
+      "title": "Pocket Reversi"
+    },
+    {
+      "tgdb_id": 18499,
+      "title": "Magical Drop Pocket"
+    },
+    {
+      "tgdb_id": 18500,
+      "title": "Cool Boarders Pocket"
+    },
+    {
+      "tgdb_id": 18501,
+      "title": "Dive Alert : Becky's Version"
+    },
+    {
+      "tgdb_id": 18502,
+      "title": "Dive Alert : Matt's Version"
+    },
+    {
+      "tgdb_id": 18503,
+      "title": "Evolution : Eternal Dungeons"
+    },
+    {
+      "tgdb_id": 18504,
+      "title": "Faselei!"
+    },
+    {
+      "tgdb_id": 18505,
+      "title": "SNK vs. Capcom: Card Fighter's Clash -Capcom Version-"
+    },
+    {
+      "tgdb_id": 18506,
+      "title": "SNK vs. Capcom: Card Fighter's Clash -SNK Version-"
+    },
+    {
+      "tgdb_id": 18507,
+      "title": "Puzzle Link"
+    },
+    {
+      "tgdb_id": 18508,
+      "title": "Puzzle Link 2"
+    },
+    {
+      "tgdb_id": 18509,
+      "title": "Shanghai Mini"
+    },
+    {
+      "tgdb_id": 18510,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 18511,
+      "title": "Puyo Pop"
+    },
+    {
+      "tgdb_id": 18512,
+      "title": "Picture Puzzle"
+    },
+    {
+      "tgdb_id": 18513,
+      "title": "Neo 21"
+    },
+    {
+      "tgdb_id": 18514,
+      "title": "Neo Dragon's Wild"
+    },
+    {
+      "tgdb_id": 18515,
+      "title": "Neo Baccarat"
+    },
+    {
+      "tgdb_id": 18516,
+      "title": "Neo Cherry Master Color"
+    },
+    {
+      "tgdb_id": 18517,
+      "title": "Neo Mystery Bonus"
+    },
+    {
+      "tgdb_id": 19178,
+      "title": "Delta Warp"
+    },
+    {
+      "tgdb_id": 22445,
+      "title": "Bust-A-Move Pocket"
+    },
+    {
+      "tgdb_id": 22446,
+      "title": "Neo Geo Cup '98 Plus Color"
+    },
+    {
+      "tgdb_id": 23478,
+      "title": "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji"
+    },
+    {
+      "tgdb_id": 23480,
+      "title": "Memories Off Pure"
+    },
+    {
+      "tgdb_id": 35925,
+      "title": "SNK vs Capcom: Card Fighters 2 -Expand Edition-"
+    },
+    {
+      "tgdb_id": 35912,
+      "title": "Pocket Love: If"
+    },
+    {
+      "tgdb_id": 27580,
+      "title": "Big Bang Pro Wrestling"
+    },
+    {
+      "tgdb_id": 27582,
+      "title": "Rockman Battle & Fighters"
+    },
+    {
+      "tgdb_id": 29333,
+      "title": "Bikkuriman 2000: Viva! Pocket Festival!"
+    },
+    {
+      "tgdb_id": 30140,
+      "title": "Ganbare Neo Poke-Kun"
+    },
+    {
+      "tgdb_id": 35876,
+      "title": "Neo Derby Champ Daiyosou"
+    },
+    {
+      "tgdb_id": 34656,
+      "title": "Cool Cool Jam"
+    },
+    {
+      "tgdb_id": 36039,
+      "title": "Dokodemo Mahjong"
+    },
+    {
+      "tgdb_id": 34657,
+      "title": "Densha de Go! 2"
+    },
+    {
+      "tgdb_id": 34658,
+      "title": "Infinity Cure"
+    },
+    {
+      "tgdb_id": 35808,
+      "title": "Kikou Seiki Unitron"
+    },
+    {
+      "tgdb_id": 35845,
+      "title": "Koi Koi Mahjong"
+    },
+    {
+      "tgdb_id": 35847,
+      "title": "Mizuki Shigeru no Youkai Shashinkan"
+    },
+    {
+      "tgdb_id": 35850,
+      "title": "Mezase! Kanji Ou"
+    },
+    {
+      "tgdb_id": 35890,
+      "title": "Nige-ron-pa"
+    },
+    {
+      "tgdb_id": 36764,
+      "title": "Prize Game - PP-AA01 Pusher Program"
+    },
+    {
+      "tgdb_id": 38160,
+      "title": "Puzzle Bobble Mini"
+    }
+  ]
+}

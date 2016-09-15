@@ -1,24 +1,95 @@
-[
-  "Rayxanber",
-  "Zak McKracken and the Alien Mindbenders",
-  "After Burner",
-  "After Burner III",
-  "Ayumi-Chan Monogatari: Jisshaban",
-  "Ayumi-Chan Monogatari",
-  "AZURE",
-  "Blandia plus",
-  "Chase H.Q.",
-  "Cyber City",
-  "Death Brade",
-  "Emerald Dragon",
-  "Final Blow",
-  "Flashback: The Quest For Identity",
-  "Mad Stalker: Full Metal Force",
-  "Muscle Bomber: The Body Explosion",
-  "Ningyou Tsukai",
-  "Puyo Puyo",
-  "Rance III: Leazas Kanraku",
-  "Rance IV: Kyoudan no Isan",
-  "Ring Out!!",
-  "Super Street Fighter II: The New Challengers"
-]
+{
+  "tgbd_id": 4932,
+  "tgdb_alias": "fmtowns",
+  "name": "FM Towns Marty",
+  "titles": [
+    {
+      "tgdb_id": 32378,
+      "title": "Rayxanber"
+    },
+    {
+      "tgdb_id": 32465,
+      "title": "Zak McKracken and the Alien Mindbenders"
+    },
+    {
+      "tgdb_id": 38520,
+      "title": "After Burner"
+    },
+    {
+      "tgdb_id": 38521,
+      "title": "After Burner III"
+    },
+    {
+      "tgdb_id": 38522,
+      "title": "Ayumi-Chan Monogatari: Jisshaban"
+    },
+    {
+      "tgdb_id": 38523,
+      "title": "Ayumi-Chan Monogatari"
+    },
+    {
+      "tgdb_id": 38524,
+      "title": "AZURE"
+    },
+    {
+      "tgdb_id": 38525,
+      "title": "Blandia plus"
+    },
+    {
+      "tgdb_id": 38526,
+      "title": "Chase H.Q."
+    },
+    {
+      "tgdb_id": 38527,
+      "title": "Cyber City"
+    },
+    {
+      "tgdb_id": 38530,
+      "title": "Death Brade"
+    },
+    {
+      "tgdb_id": 38531,
+      "title": "Emerald Dragon"
+    },
+    {
+      "tgdb_id": 38532,
+      "title": "Final Blow"
+    },
+    {
+      "tgdb_id": 38533,
+      "title": "Flashback: The Quest For Identity"
+    },
+    {
+      "tgdb_id": 38534,
+      "title": "Mad Stalker: Full Metal Force"
+    },
+    {
+      "tgdb_id": 38536,
+      "title": "Muscle Bomber: The Body Explosion"
+    },
+    {
+      "tgdb_id": 38537,
+      "title": "Ningyou Tsukai"
+    },
+    {
+      "tgdb_id": 38538,
+      "title": "Puyo Puyo"
+    },
+    {
+      "tgdb_id": 38539,
+      "title": "Rance III: Leazas Kanraku"
+    },
+    {
+      "tgdb_id": 38540,
+      "title": "Rance IV: Kyoudan no Isan"
+    },
+    {
+      "tgdb_id": 38541,
+      "title": "Ring Out!!"
+    },
+    {
+      "tgdb_id": 38542,
+      "title": "Super Street Fighter II: The New Challengers"
+    }
+  ]
+}

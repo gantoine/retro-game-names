@@ -1,0 +1,695 @@
+{
+  "tgbd_id": 4917,
+  "tgdb_alias": "philips-cd-i",
+  "name": "Philips CD-i",
+  "titles": [
+    {
+      "tgdb_id": 22981,
+      "title": "Beauty and the Beast"
+    },
+    {
+      "tgdb_id": 14753,
+      "title": "Zelda: The Wand of Gamelon"
+    },
+    {
+      "tgdb_id": 14754,
+      "title": "Link: The Faces of Evil"
+    },
+    {
+      "tgdb_id": 14755,
+      "title": "Zelda's Adventure"
+    },
+    {
+      "tgdb_id": 14854,
+      "title": "The 7th Guest"
+    },
+    {
+      "tgdb_id": 14855,
+      "title": "Alice in Wonderland"
+    },
+    {
+      "tgdb_id": 14856,
+      "title": "Alien Gate"
+    },
+    {
+      "tgdb_id": 14857,
+      "title": "Apprentice"
+    },
+    {
+      "tgdb_id": 14904,
+      "title": "Hotel Mario"
+    },
+    {
+      "tgdb_id": 14905,
+      "title": "Myst"
+    },
+    {
+      "tgdb_id": 15070,
+      "title": "3rd Degree"
+    },
+    {
+      "tgdb_id": 15087,
+      "title": "Atlantis: The Last Resort"
+    },
+    {
+      "tgdb_id": 15088,
+      "title": "Dark Castle"
+    },
+    {
+      "tgdb_id": 19091,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 19093,
+      "title": "Dragon's Lair II: Time Warp"
+    },
+    {
+      "tgdb_id": 19094,
+      "title": "Space Ace"
+    },
+    {
+      "tgdb_id": 22972,
+      "title": "A Great Day At The Races"
+    },
+    {
+      "tgdb_id": 22973,
+      "title": "A Visit to Sesame Street: Letters"
+    },
+    {
+      "tgdb_id": 22974,
+      "title": "Accelerator"
+    },
+    {
+      "tgdb_id": 22975,
+      "title": "Alfapet"
+    },
+    {
+      "tgdb_id": 22976,
+      "title": "Arcade Classics - Namco Compilation: Galaxian, Galaga, Ms. Pac-Man"
+    },
+    {
+      "tgdb_id": 22977,
+      "title": "Asterix: Caesar's Challenge"
+    },
+    {
+      "tgdb_id": 22978,
+      "title": "Axis & Allies"
+    },
+    {
+      "tgdb_id": 22979,
+      "title": "Backgammon"
+    },
+    {
+      "tgdb_id": 22980,
+      "title": "Battleship"
+    },
+    {
+      "tgdb_id": 22982,
+      "title": "Big Bang Show"
+    },
+    {
+      "tgdb_id": 22983,
+      "title": "Brain Dead 13"
+    },
+    {
+      "tgdb_id": 22984,
+      "title": "Brer Rabbit and the Wonderful Tar Baby"
+    },
+    {
+      "tgdb_id": 22985,
+      "title": "Burn:Cycle"
+    },
+    {
+      "tgdb_id": 22986,
+      "title": "Caesar's World of Boxing"
+    },
+    {
+      "tgdb_id": 22987,
+      "title": "Caesar's World of Gambling"
+    },
+    {
+      "tgdb_id": 22988,
+      "title": "Cartoon Carnival"
+    },
+    {
+      "tgdb_id": 22989,
+      "title": "CD Shoot"
+    },
+    {
+      "tgdb_id": 22990,
+      "title": "Chaos Control"
+    },
+    {
+      "tgdb_id": 22991,
+      "title": "Christmas Country"
+    },
+    {
+      "tgdb_id": 22992,
+      "title": "Christmas Crisis"
+    },
+    {
+      "tgdb_id": 22993,
+      "title": "Cluedo"
+    },
+    {
+      "tgdb_id": 22994,
+      "title": "Cluedo: The Mysteries Continue"
+    },
+    {
+      "tgdb_id": 22995,
+      "title": "Connect Four"
+    },
+    {
+      "tgdb_id": 22996,
+      "title": "Crime Patrol"
+    },
+    {
+      "tgdb_id": 22998,
+      "title": "Crime Patrol 2: Drug Wars"
+    },
+    {
+      "tgdb_id": 22999,
+      "title": "Cyber Soldier Sharaku"
+    },
+    {
+      "tgdb_id": 23000,
+      "title": "Defender of the Crown"
+    },
+    {
+      "tgdb_id": 23002,
+      "title": "Earth Command"
+    },
+    {
+      "tgdb_id": 23003,
+      "title": "Effacer: Hangman from the 25th Century"
+    },
+    {
+      "tgdb_id": 23004,
+      "title": "Escape from Cyber City"
+    },
+    {
+      "tgdb_id": 23005,
+      "title": "Family Games"
+    },
+    {
+      "tgdb_id": 23007,
+      "title": "Family Games II: Junk Food Jive"
+    },
+    {
+      "tgdb_id": 23008,
+      "title": "Flashback: The Quest for Identity"
+    },
+    {
+      "tgdb_id": 23009,
+      "title": "Flintstones & Jetsons: Timewarp"
+    },
+    {
+      "tgdb_id": 23010,
+      "title": "Foqus"
+    },
+    {
+      "tgdb_id": 23011,
+      "title": "Frog Feast"
+    },
+    {
+      "tgdb_id": 23013,
+      "title": "Go - Special Edition"
+    },
+    {
+      "tgdb_id": 23014,
+      "title": "Karaoke Voetbal"
+    },
+    {
+      "tgdb_id": 23015,
+      "title": "Golden Oldies 1: Guardian and Invaders"
+    },
+    {
+      "tgdb_id": 23016,
+      "title": "Golden Oldies 2: Blockbuster and Bughunt"
+    },
+    {
+      "tgdb_id": 23017,
+      "title": "Golf Tips"
+    },
+    {
+      "tgdb_id": 23018,
+      "title": "Golgo 13"
+    },
+    {
+      "tgdb_id": 23019,
+      "title": "Great American Golf"
+    },
+    {
+      "tgdb_id": 23022,
+      "title": "Inca"
+    },
+    {
+      "tgdb_id": 23023,
+      "title": "Inca II"
+    },
+    {
+      "tgdb_id": 23024,
+      "title": "International Tennis Open"
+    },
+    {
+      "tgdb_id": 23025,
+      "title": "Invasion From The Planet Skyron"
+    },
+    {
+      "tgdb_id": 23026,
+      "title": "Jack Sprite Vs The Crimson Ghost"
+    },
+    {
+      "tgdb_id": 23027,
+      "title": "Jeopardy!"
+    },
+    {
+      "tgdb_id": 23028,
+      "title": "Karaoke Klassics: Family Favorites"
+    },
+    {
+      "tgdb_id": 23029,
+      "title": "Kether"
+    },
+    {
+      "tgdb_id": 23030,
+      "title": "Kingdom: The Far Reaches"
+    },
+    {
+      "tgdb_id": 23031,
+      "title": "Kingdom II: Shadoan"
+    },
+    {
+      "tgdb_id": 23032,
+      "title": "Labyrinth Of Crete"
+    },
+    {
+      "tgdb_id": 23033,
+      "title": "Laser Lords"
+    },
+    {
+      "tgdb_id": 23034,
+      "title": "Lemmings"
+    },
+    {
+      "tgdb_id": 23036,
+      "title": "Lettergreep"
+    },
+    {
+      "tgdb_id": 23037,
+      "title": "Lingo"
+    },
+    {
+      "tgdb_id": 23038,
+      "title": "Litil Divil"
+    },
+    {
+      "tgdb_id": 23039,
+      "title": "Little Monster at School"
+    },
+    {
+      "tgdb_id": 23040,
+      "title": "Lords of the Rising Sun"
+    },
+    {
+      "tgdb_id": 23041,
+      "title": "Lost Eden"
+    },
+    {
+      "tgdb_id": 23042,
+      "title": "Lucky Luke: The Video Game"
+    },
+    {
+      "tgdb_id": 23043,
+      "title": "Mad Dog McCree"
+    },
+    {
+      "tgdb_id": 23044,
+      "title": "Mad Dog II: The Lost Gold"
+    },
+    {
+      "tgdb_id": 23045,
+      "title": "MahJong"
+    },
+    {
+      "tgdb_id": 23046,
+      "title": "Marco Polo"
+    },
+    {
+      "tgdb_id": 23047,
+      "title": "Master Labyrinth"
+    },
+    {
+      "tgdb_id": 23048,
+      "title": "Max Magic"
+    },
+    {
+      "tgdb_id": 23049,
+      "title": "Mega-Maze"
+    },
+    {
+      "tgdb_id": 23050,
+      "title": "Merlin's Apprentice"
+    },
+    {
+      "tgdb_id": 23051,
+      "title": "Micro Machines"
+    },
+    {
+      "tgdb_id": 23052,
+      "title": "Mind Quest"
+    },
+    {
+      "tgdb_id": 23053,
+      "title": "Mutant Rampage: Bodyslam"
+    },
+    {
+      "tgdb_id": 23054,
+      "title": "Mystic Midway: Phantom Express"
+    },
+    {
+      "tgdb_id": 23055,
+      "title": "Mystic Midway: Rest in Pieces"
+    },
+    {
+      "tgdb_id": 23056,
+      "title": "Name That Tune"
+    },
+    {
+      "tgdb_id": 23057,
+      "title": "NFL Football Trivia Challenge ('94 - '95 Edition)"
+    },
+    {
+      "tgdb_id": 23058,
+      "title": "NFL Hall of Fame Football"
+    },
+    {
+      "tgdb_id": 23059,
+      "title": "NFL Instant Replay"
+    },
+    {
+      "tgdb_id": 23060,
+      "title": "Othello"
+    },
+    {
+      "tgdb_id": 23061,
+      "title": "P.A.W.S."
+    },
+    {
+      "tgdb_id": 23062,
+      "title": "Pac-Panic"
+    },
+    {
+      "tgdb_id": 23063,
+      "title": "Paint School II"
+    },
+    {
+      "tgdb_id": 23064,
+      "title": "Pinball"
+    },
+    {
+      "tgdb_id": 23065,
+      "title": "Plunderball"
+    },
+    {
+      "tgdb_id": 23066,
+      "title": "ABC Sports Presents: Power Hitter"
+    },
+    {
+      "tgdb_id": 23067,
+      "title": "Pyramid Adventures"
+    },
+    {
+      "tgdb_id": 23069,
+      "title": "Pyramid Episode 1 Treasures Of The Lost Pyramid"
+    },
+    {
+      "tgdb_id": 23070,
+      "title": "Sargon Chess"
+    },
+    {
+      "tgdb_id": 23071,
+      "title": "Scotland Yard Interactive"
+    },
+    {
+      "tgdb_id": 23072,
+      "title": "Secret Mission"
+    },
+    {
+      "tgdb_id": 23073,
+      "title": "Shaolin's Road"
+    },
+    {
+      "tgdb_id": 23074,
+      "title": "Solar Crusade"
+    },
+    {
+      "tgdb_id": 23075,
+      "title": "Space Ranger: Return to Earth"
+    },
+    {
+      "tgdb_id": 23076,
+      "title": "Sport Freaks"
+    },
+    {
+      "tgdb_id": 23077,
+      "title": "Steel Machine"
+    },
+    {
+      "tgdb_id": 23078,
+      "title": "Striker Pro"
+    },
+    {
+      "tgdb_id": 23079,
+      "title": "Surf City"
+    },
+    {
+      "tgdb_id": 23080,
+      "title": "Tangram"
+    },
+    {
+      "tgdb_id": 23081,
+      "title": "Tetris"
+    },
+    {
+      "tgdb_id": 23082,
+      "title": "Tetsuo Gaiden"
+    },
+    {
+      "tgdb_id": 23083,
+      "title": "Text Tiles"
+    },
+    {
+      "tgdb_id": 23084,
+      "title": "Berenstein Bears: On Their Own, And You On Your Own"
+    },
+    {
+      "tgdb_id": 23085,
+      "title": "The Joker's Wild"
+    },
+    {
+      "tgdb_id": 23087,
+      "title": "The Joy of Sex"
+    },
+    {
+      "tgdb_id": 23088,
+      "title": "The Last Bounty Hunter"
+    },
+    {
+      "tgdb_id": 23089,
+      "title": "The Lost Ride"
+    },
+    {
+      "tgdb_id": 23090,
+      "title": "ABC Sports Presents: The Palm Spring Open"
+    },
+    {
+      "tgdb_id": 23091,
+      "title": "The Wacky World of Miniature Golf"
+    },
+    {
+      "tgdb_id": 23092,
+      "title": "Thunder in Paradise"
+    },
+    {
+      "tgdb_id": 23094,
+      "title": "Ultra CDi Soccer"
+    },
+    {
+      "tgdb_id": 23095,
+      "title": "Uncover: Featuring Tatjanna"
+    },
+    {
+      "tgdb_id": 23096,
+      "title": "Vegas Girls"
+    },
+    {
+      "tgdb_id": 23097,
+      "title": "Video Speedway"
+    },
+    {
+      "tgdb_id": 23098,
+      "title": "Voyeur"
+    },
+    {
+      "tgdb_id": 23099,
+      "title": "Whack A Bubble"
+    },
+    {
+      "tgdb_id": 23100,
+      "title": "Who Shot Johnny Rock?"
+    },
+    {
+      "tgdb_id": 23102,
+      "title": "Wordplay"
+    },
+    {
+      "tgdb_id": 23103,
+      "title": "World Cup Golf: Hyatt Dorado Beach"
+    },
+    {
+      "tgdb_id": 23104,
+      "title": "Zenith"
+    },
+    {
+      "tgdb_id": 23105,
+      "title": "Zombie Dinos From Planet Zeltoid"
+    },
+    {
+      "tgdb_id": 23130,
+      "title": "Drug Wars"
+    },
+    {
+      "tgdb_id": 23131,
+      "title": "Great American Golf 2"
+    },
+    {
+      "tgdb_id": 23133,
+      "title": "Creature Shock"
+    },
+    {
+      "tgdb_id": 23137,
+      "title": "Making the Grade"
+    },
+    {
+      "tgdb_id": 23145,
+      "title": "Strip Poker Live"
+    },
+    {
+      "tgdb_id": 23146,
+      "title": "Strip Poker Pro"
+    },
+    {
+      "tgdb_id": 23150,
+      "title": "Tic Tac Toe"
+    },
+    {
+      "tgdb_id": 23153,
+      "title": "Girl's Club"
+    },
+    {
+      "tgdb_id": 23154,
+      "title": "Gnomes"
+    },
+    {
+      "tgdb_id": 23156,
+      "title": "Ultimate Noah's Ark"
+    },
+    {
+      "tgdb_id": 23157,
+      "title": "Sandy's Circus Adventure"
+    },
+    {
+      "tgdb_id": 23159,
+      "title": "Jigsaw"
+    },
+    {
+      "tgdb_id": 23161,
+      "title": "Children's Musical Theatre"
+    },
+    {
+      "tgdb_id": 23162,
+      "title": "Golf My Way"
+    },
+    {
+      "tgdb_id": 23163,
+      "title": "Dimos Quest"
+    },
+    {
+      "tgdb_id": 23164,
+      "title": "Titanic An Interactive Exploration"
+    },
+    {
+      "tgdb_id": 23167,
+      "title": "Paint School I"
+    },
+    {
+      "tgdb_id": 23168,
+      "title": "Peanuts: Yearn 2 Learn"
+    },
+    {
+      "tgdb_id": 23169,
+      "title": "Pecos Bill"
+    },
+    {
+      "tgdb_id": 23170,
+      "title": "Pegasus"
+    },
+    {
+      "tgdb_id": 23172,
+      "title": "Stickybear Math"
+    },
+    {
+      "tgdb_id": 23173,
+      "title": "Stickybear Preschool"
+    },
+    {
+      "tgdb_id": 23174,
+      "title": "Stickybear Reading"
+    },
+    {
+      "tgdb_id": 23175,
+      "title": "Tell Me Why 1"
+    },
+    {
+      "tgdb_id": 23176,
+      "title": "Tell Me Why 2"
+    },
+    {
+      "tgdb_id": 23177,
+      "title": "A Visit to Sesame Street: Numbers"
+    },
+    {
+      "tgdb_id": 30147,
+      "title": "Ram Raid"
+    },
+    {
+      "tgdb_id": 35403,
+      "title": "Super Mario's Wacky Worlds"
+    },
+    {
+      "tgdb_id": 38411,
+      "title": "Playboy's Complete Massage"
+    },
+    {
+      "tgdb_id": 38412,
+      "title": "Pleasure of Sex"
+    },
+    {
+      "tgdb_id": 38413,
+      "title": "Power Hitter"
+    },
+    {
+      "tgdb_id": 38422,
+      "title": "Golden Oldies Jukebox CD-I : An Interactive Music Video Experience"
+    },
+    {
+      "tgdb_id": 38423,
+      "title": "Treasures of the Smithsonian"
+    },
+    {
+      "tgdb_id": 38424,
+      "title": "Rand McNally's America: U.S. Atlas"
+    }
+  ]
+}

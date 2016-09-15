@@ -1,9 +1,35 @@
-[
-  "Resident Evil 2",
-  "Sonic Jam",
-  "Fighters Megamix",
-  "Mortal Kombat Trilogy",
-  "Batman & Robin",
-  "Duke Nukem 3D",
-  "The Lost World: Jurassic Park"
-]
+{
+  "tgbd_id": 4940,
+  "tgdb_alias": "game-com",
+  "name": "Game.com",
+  "titles": [
+    {
+      "tgdb_id": 32111,
+      "title": "Resident Evil 2"
+    },
+    {
+      "tgdb_id": 32112,
+      "title": "Sonic Jam"
+    },
+    {
+      "tgdb_id": 32113,
+      "title": "Fighters Megamix"
+    },
+    {
+      "tgdb_id": 32114,
+      "title": "Mortal Kombat Trilogy"
+    },
+    {
+      "tgdb_id": 32115,
+      "title": "Batman & Robin"
+    },
+    {
+      "tgdb_id": 32116,
+      "title": "Duke Nukem 3D"
+    },
+    {
+      "tgdb_id": 32117,
+      "title": "The Lost World: Jurassic Park"
+    }
+  ]
+}

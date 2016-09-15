@@ -1,26 +1,103 @@
-[
-  "Flight Simulator II",
-  "HardBall!",
-  "Archon: The Light and the Dark",
-  "Battlezone",
-  "Blue Max",
-  "Crime Buster",
-  "David's Midnight Magic",
-  "Desert Falcon",
-  "Lode Runner",
-  "Pole Position",
-  "Ace Of Aces",
-  "Missile Command",
-  "Android",
-  "Airball",
-  "Ballblazer",
-  "Barnyard Blaster",
-  "Choplifter",
-  "Crossbow",
-  "Dark Chambers",
-  "Fight Night",
-  "Food Fight",
-  "ThunderFox",
-  "Star Raiders II",
-  "Summer Games"
-]
+{
+  "tgbd_id": 30,
+  "tgdb_alias": "atari-xe",
+  "name": "Atari XE",
+  "titles": [
+    {
+      "tgdb_id": 35201,
+      "title": "Flight Simulator II"
+    },
+    {
+      "tgdb_id": 35202,
+      "title": "HardBall!"
+    },
+    {
+      "tgdb_id": 5726,
+      "title": "Archon: The Light and the Dark"
+    },
+    {
+      "tgdb_id": 5727,
+      "title": "Battlezone"
+    },
+    {
+      "tgdb_id": 5728,
+      "title": "Blue Max"
+    },
+    {
+      "tgdb_id": 5729,
+      "title": "Crime Buster"
+    },
+    {
+      "tgdb_id": 5730,
+      "title": "David's Midnight Magic"
+    },
+    {
+      "tgdb_id": 5731,
+      "title": "Desert Falcon"
+    },
+    {
+      "tgdb_id": 5732,
+      "title": "Lode Runner"
+    },
+    {
+      "tgdb_id": 5733,
+      "title": "Pole Position"
+    },
+    {
+      "tgdb_id": 17347,
+      "title": "Ace Of Aces"
+    },
+    {
+      "tgdb_id": 24108,
+      "title": "Missile Command"
+    },
+    {
+      "tgdb_id": 24109,
+      "title": "Android"
+    },
+    {
+      "tgdb_id": 29849,
+      "title": "Airball"
+    },
+    {
+      "tgdb_id": 29850,
+      "title": "Ballblazer"
+    },
+    {
+      "tgdb_id": 29851,
+      "title": "Barnyard Blaster"
+    },
+    {
+      "tgdb_id": 29853,
+      "title": "Choplifter"
+    },
+    {
+      "tgdb_id": 29854,
+      "title": "Crossbow"
+    },
+    {
+      "tgdb_id": 29857,
+      "title": "Dark Chambers"
+    },
+    {
+      "tgdb_id": 35200,
+      "title": "Fight Night"
+    },
+    {
+      "tgdb_id": 35193,
+      "title": "Food Fight"
+    },
+    {
+      "tgdb_id": 35194,
+      "title": "ThunderFox"
+    },
+    {
+      "tgdb_id": 35203,
+      "title": "Star Raiders II"
+    },
+    {
+      "tgdb_id": 35204,
+      "title": "Summer Games"
+    }
+  ]
+}

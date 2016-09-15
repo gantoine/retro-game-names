@@ -1,340 +1,1363 @@
-[
-  "Marvel vs. Capcom: Clash of Super Heroes",
-  "Ikaruga",
-  "Dino Crisis",
-  "Dynamite Cop",
-  "Jet Grind Radio",
-  "Kiss: Psycho Circus: The Nightmare Child",
-  "NBA 2K1",
-  "Phantasy Star Online",
-  "Resident Evil Code: Veronica",
-  "Samba de Amigo",
-  "Shenmue",
-  "Skies of Arcadia",
-  "Sonic Adventure 2",
-  "Space Channel 5",
-  "Street Fighter Alpha 3",
-  "Super Magnetic Neo",
-  "Virtua Fighter 3tb",
-  "Marvel vs. Capcom 2: New Age of Heroes",
-  "Bangai-O",
-  "Giga Wing 2",
-  "Sonic Shuffle",
-  "Spawn: In the Demon's Hand",
-  "Q*bert",
-  "Elemental Gimmick Gear",
-  "Alien Front Online",
-  "Crazy Taxi 2",
-  "Dead or Alive 2",
-  "Ecco the Dolphin: Defender of the Future",
-  "Grandia II",
-  "Sonic Adventure",
-  "Quake III Arena",
-  "Legacy of Kain: Soul Reaver",
-  "Armada",
-  "Wild Metal",
-  "102 Dalmatians: Puppies to the Rescue",
-  "Zombie Revenge",
-  "Power Stone",
-  "Power Stone 2",
-  "Plasma Sword: Nightmare of Bilstein",
-  "ChuChu Rocket!",
-  "The King of Fighters: Dream Match 1999",
-  "Nightmare Creatures II",
-  "Evolution: The World of Sacred Device",
-  "Gundam Side Story 0079: Rise From the Ashes",
-  "Carrier",
-  "Gunbird 2",
-  "Mortal Kombat Gold",
-  "Crazy Taxi",
-  "Blue Stinger",
-  "Cannon Spike",
-  "King of Fighters Evolution",
-  "Gauntlet Legends",
-  "Evolution 2: Far Off Promise",
-  "Capcom vs. SNK",
-  "Death Crimson OX",
-  "Fatal Fury: Mark Of The Wolves",
-  "JoJo's Bizarre Adventure",
-  "NCAA College Football 2K2",
-  "NFL 2K",
-  "NFL 2K1",
-  "NFL 2K2",
-  "Rayman 2: The Great Escape",
-  "Virtua Tennis",
-  "Resident Evil 2",
-  "Resident Evil 3: Nemesis",
-  "Seaman",
-  "The House of the Dead 2",
-  "System Shock 2",
-  "Spider-Man",
-  "Sydney 2000",
-  "Tee Off",
-  "Tom Clancy's Rainbow Six: Rogue Spear",
-  "Maken X",
-  "MDK 2",
-  "Omikron: The Nomad Soul",
-  "Ooga Booga",
-  "Outtrigger",
-  "Record of Lodoss War",
-  "Daytona USA",
-  "SoulCalibur",
-  "Sega GT",
-  "Starlancer",
-  "Ultimate Fighting Championship",
-  "Sega Rally Championship 2",
-  "Aqua GT",
-  "Army Men: Sarge's Heroes",
-  "Alone in the Dark: The New Nightmare",
-  "Atari Anniversary Edition",
-  "Bomberman Online",
-  "Buzz Lightyear of Star Command",
-  "Centipede",
-  "Chicken Run",
-  "Confidential Mission",
-  "Conflict Zone",
-  "D2",
-  "Demolition Racer: No Exit",
-  "Deep Fighter",
-  "Disney's Dinosaur",
-  "Donald Duck: Goin' Quackers",
-  "Love Hina: Totsuzen no Engeji Happening",
-  "Dragon Riders: Chronicles of Pern",
-  "Ducati World: Racing Challenge",
-  "Draconus: Cult of the Wyrm",
-  "Evil Dead: Hail to the King",
-  "F1 World Grand Prix",
-  "Fighting Force 2",
-  "Frogger 2: Swampy's Revenge",
-  "Floigan Bros.: Episode 1",
-  "Fur Fighters",
-  "Giga Wing",
-  "Grand Theft Auto 2",
-  "Half-Life",
-  "Hidden & Dangerous",
-  "Heavy Metal: Geomatrix",
-  "Incoming",
-  "Iron Aces",
-  "Jimmy White's 2: Cueball",
-  "Kao the Kangaroo",
-  "Le Mans 24 Hours",
-  "Max Steel",
-  "Monaco Grand Prix",
-  "Ms. Pac-Man Maze Madness",
-  "Namco Museum",
-  "Prince of Persia: Arabian Nights",
-  "Psychic Force 2012",
-  "Project Justice",
-  "Toy Story 2: Buzz Lightyear to the Rescue!",
-  "Urban Chaos",
-  "Cyber Troopers Virtual-On Oratorio Tangram",
-  "Wacky Races",
-  "Worms Armageddon",
-  "WWF Royal Rumble",
-  "Sega Bass Fishing",
-  "NBA 2K2",
-  "Guilty Gear X",
-  "The Grinch",
-  "Hydro Thunder",
-  "Industrial Spy: Operation Espionage",
-  "Space Channel 5: Part 2",
-  "Toy Commander",
-  "Zero Gunner 2",
-  "Trizeal",
-  "Trigger Heart Exelica",
-  "Super Street Fighter II X for Matching Service",
-  "Street Fighter III: 3rd Strike",
-  "Street Fighter III: Double Impact",
-  "Soldier of Fortune",
-  "Snow Surfers",
-  "18 Wheeler: American Pro Trucker",
-  "Headhunter",
-  "Metropolis Street Racer",
-  "WWF Attitude",
-  "Worms World Party",
-  "World Series Baseball 2K1",
-  "World Series Baseball 2K2",
-  "Who Wants To Beat Up A Millionaire",
-  "Wetrix+",
-  "Vigilante 8: 2nd Offense",
-  "Unreal Tournament",
-  "TrickStyle",
-  "Tony Hawk's Pro Skater",
-  "Tony Hawk's Pro Skater 2",
-  "Tomb Raider: The Last Revelation",
-  "Tomb Raider Chronicles",
-  "Tokyo Xtreme Racer",
-  "Tokyo Xtreme Racer 2",
-  "Time Stalkers",
-  "TNN Motorsports Hardcore Heat",
-  "The Typing of the Dead",
-  "Test Drive V-Rally",
-  "Test Drive Le Mans",
-  "Test Drive 6",
-  "Tennis 2K2",
-  "Tech Romancer",
-  "Surf Rocket Racers",
-  "Sword of the Berserk: Guts' Rage",
-  "Suzuki Alstare Extreme Racing",
-  "Star Wars: Episode I - Racer",
-  "Star Wars: Episode I - Jedi Power Battles",
-  "Star Wars: Demolition",
-  "Sports Jam",
-  "Spirit of Speed 1937",
-  "Spec Ops II: Omega Squad",
-  "Soul Fighter",
-  "Sno-Cross Championship Racing",
-  "Slave Zero",
-  "Silver",
-  "Sega Swirl",
-  "Sega Smash Pack Volume 1",
-  "Sega Marine Fishing",
-  "Sega Bass Fishing 2",
-  "San Francisco Rush 2049",
-  "Revolt",
-  "Reel Fishing: Wild",
-  "Red Dog: Superior Firepower",
-  "Ready 2 Rumble Boxing",
-  "Tom Clancy's Rainbow Six",
-  "Railroad Tycoon II: Gold Edition",
-  "Razor Freestyle Scooter",
-  "POD: Speedzone",
-  "Giant Killers",
-  "Shadow Man",
-  "Space Griffon VF-9",
-  "Striker Pro 2000",
-  "NBA 2K",
-  "NHL 2K",
-  "F1 Racing Championship",
-  "Coaster Works",
-  "Looney Tunes: Space Race",
-  "Ready 2 Rumble Boxing: Round 2",
-  "Illbleed",
-  "The Ring: Terror's Realm",
-  "NFL Quarterback Club 2000",
-  "Border Down",
-  "Chaos Field",
-  "Musapey's Choco Marker",
-  "Cosmic Smash",
-  "Capcom Vs SNK 2 Millionaire Fighting 2001",
-  "Capcom vs SNK: Millennium Fight 2000 Pro",
-  "Giant Gram: All Japan Pro Wrestling 2",
-  "Giant Gram 2000: All Japan Pro Wrestling 3",
-  "Shangri-La Cyber Angel Mahjong Battle",
-  "Under Defeat",
-  "Virtua Striker 2 Ver 2000",
-  "Virtua Tennis 2",
-  "Shenmue II",
-  "NBA Hoopz",
-  "Mr. Driller",
-  "VMU Backup CD",
-  "The Last Blade 2: Heart of the Samurai",
-  "Garou: Mark of the Wolves",
-  "Cool Cool Toon",
-  "AeroWings",
-  "Godzilla Generations",
-  "Godzilla Generations Maxium Impact",
-  "Charge 'n Blast",
-  "Fighters Mega Mix",
-  "Snk's Cool Cool Toon",
-  "King's Quest V",
-  "4 Wheel Thunder",
-  "AeroWings 2: Air Strike",
-  "ESPN International Track & Field",
-  "F355 Challenge",
-  "Fighting Vipers 2",
-  "Karous",
-  "Last Hope: Pink Bullets",
-  "Millennium Soldier Expendable",
-  "NBA Showtime: NBA on NBC",
-  "NFL Blitz 2001",
-  "Pro Pinball Trilogy",
-  "Psyvariar 2",
-  "Propeller Arena",
-  "Radirgy",
-  "Rez",
-  "Sega Worldwide Soccer 2000 Euro Edition",
-  "Speed Devils",
-  "Speed Devils Online Racing",
-  "UEFA Striker",
-  "Stunt GP",
-  "Toy Racer",
-  "Vanishing Point",
-  "Virtua Athlete 2000",
-  "Zusar Vasar",
-  "Rainbow Cotton",
-  "V-Rally 2 Expert Edition",
-  "Shikigami No Shiro 2",
-  "Sega GT European Edition",
-  "F1 World Grand Prix II",
-  "NHL 2K2",
-  "4x4 Evolution",
-  "Exhibition of Speed",
-  "Bang! Gunship Elite",
-  "NFL Blitz 2000",
-  "Silent Scope",
-  "Xtreme Sports",
-  "Sturmwind",
-  "South Park Rally",
-  "Mat Hoffman's Pro BMX",
-  "Bust-A-Move 4",
-  "Hoyle Casino",
-  "Maximum Pool",
-  "Expendable",
-  "Neo XYX",
-  "Gunlord",
-  "Dave Mirra Freestyle BMX",
-  "Championship Surfer",
-  "Cool Herders",
-  "Airforce Delta",
-  "Phantasy Star Online Ver. 2",
-  "Dragons Blood",
-  "MTV Sports Skateboarding",
-  "Pod 2",
-  "Stupid Invaders",
-  "Sakura Wars 2",
-  "Midway's Greatest Arcade Hits Volume 1",
-  "Re-Volt",
-  "Marvel vs capcom 2",
-  "Macross M3",
-  "Mobile Suit Gundam - Blood of Zeon",
-  "Caesars Palace 2000: Millennium Gold Edition",
-  "ECW Anarchy Rulz",
-  "ECW Hardcore Revolution",
-  "ESPN NBA 2Night",
-  "European Super League",
-  "CART Flag to Flag",
-  "Jeremy McGrath Supercross 2000",
-  "Mag Force Racing",
-  "Mars Matrix",
-  "Midway's Greatest Arcade Hits Volume 2",
-  "Planet Ring",
-  "Rippin' Riders",
-  "Roadsters",
-  "South Park: Chef's Luv Shack",
-  "Super Runabout: San Francisco Edition",
-  "UEFA Dream Soccer",
-  "Walt Disney World Quest: Magical Racing Tour",
-  "Who Wants to Be a Millionaire?",
-  "90 Minutes: Sega Championship Football",
-  "Shin Nippon Pro Wrestling: Toukon Retsuden 4",
-  "What's Shenmue?",
-  "Langrisser Millenium",
-  "Soul Calibur",
-  "L.O.L.: Lack of Love",
-  "Fire Pro Wrestling D",
-  "Segagaga",
-  "Taxi 2: Le Jeu",
-  "Alice's Mom's Rescue",
-  "DUX 1.5",
-  "Dux",
-  "Redux: Dark Matters",
-  "Ghost Blade",
-  "Last Hope",
-  "Bomber Hehhe",
-  "Volgarr the Viking",
-  "Dead or Alive 2 Limited Edition",
-  "Napple Tale: Arsia in Daydream",
-  "Super Robot Taisen Alpha",
-  "The King of Fighters: Evolution"
-]
+{
+  "tgbd_id": 16,
+  "tgdb_alias": "sega-dreamcast",
+  "name": "Sega Dreamcast",
+  "titles": [
+    {
+      "tgdb_id": 195,
+      "title": "Marvel vs. Capcom: Clash of Super Heroes"
+    },
+    {
+      "tgdb_id": 200,
+      "title": "Ikaruga"
+    },
+    {
+      "tgdb_id": 420,
+      "title": "Dino Crisis"
+    },
+    {
+      "tgdb_id": 421,
+      "title": "Dynamite Cop"
+    },
+    {
+      "tgdb_id": 423,
+      "title": "Jet Grind Radio"
+    },
+    {
+      "tgdb_id": 424,
+      "title": "Kiss: Psycho Circus: The Nightmare Child"
+    },
+    {
+      "tgdb_id": 425,
+      "title": "NBA 2K1"
+    },
+    {
+      "tgdb_id": 426,
+      "title": "Phantasy Star Online"
+    },
+    {
+      "tgdb_id": 428,
+      "title": "Resident Evil Code: Veronica"
+    },
+    {
+      "tgdb_id": 429,
+      "title": "Samba de Amigo"
+    },
+    {
+      "tgdb_id": 430,
+      "title": "Shenmue"
+    },
+    {
+      "tgdb_id": 431,
+      "title": "Skies of Arcadia"
+    },
+    {
+      "tgdb_id": 432,
+      "title": "Sonic Adventure 2"
+    },
+    {
+      "tgdb_id": 433,
+      "title": "Space Channel 5"
+    },
+    {
+      "tgdb_id": 434,
+      "title": "Street Fighter Alpha 3"
+    },
+    {
+      "tgdb_id": 435,
+      "title": "Super Magnetic Neo"
+    },
+    {
+      "tgdb_id": 436,
+      "title": "Virtua Fighter 3tb"
+    },
+    {
+      "tgdb_id": 2244,
+      "title": "Marvel vs. Capcom 2: New Age of Heroes"
+    },
+    {
+      "tgdb_id": 2252,
+      "title": "Bangai-O"
+    },
+    {
+      "tgdb_id": 2253,
+      "title": "Giga Wing 2"
+    },
+    {
+      "tgdb_id": 2254,
+      "title": "Sonic Shuffle"
+    },
+    {
+      "tgdb_id": 2255,
+      "title": "Spawn: In the Demon's Hand"
+    },
+    {
+      "tgdb_id": 4200,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 2410,
+      "title": "Elemental Gimmick Gear"
+    },
+    {
+      "tgdb_id": 2411,
+      "title": "Alien Front Online"
+    },
+    {
+      "tgdb_id": 2412,
+      "title": "Crazy Taxi 2"
+    },
+    {
+      "tgdb_id": 2413,
+      "title": "Dead or Alive 2"
+    },
+    {
+      "tgdb_id": 2414,
+      "title": "Ecco the Dolphin: Defender of the Future"
+    },
+    {
+      "tgdb_id": 2415,
+      "title": "Grandia II"
+    },
+    {
+      "tgdb_id": 2416,
+      "title": "Sonic Adventure"
+    },
+    {
+      "tgdb_id": 2925,
+      "title": "Quake III Arena"
+    },
+    {
+      "tgdb_id": 3652,
+      "title": "Legacy of Kain: Soul Reaver"
+    },
+    {
+      "tgdb_id": 3522,
+      "title": "Armada"
+    },
+    {
+      "tgdb_id": 3523,
+      "title": "Wild Metal"
+    },
+    {
+      "tgdb_id": 3524,
+      "title": "102 Dalmatians: Puppies to the Rescue"
+    },
+    {
+      "tgdb_id": 3575,
+      "title": "Zombie Revenge"
+    },
+    {
+      "tgdb_id": 3576,
+      "title": "Power Stone"
+    },
+    {
+      "tgdb_id": 3577,
+      "title": "Power Stone 2"
+    },
+    {
+      "tgdb_id": 3651,
+      "title": "Plasma Sword: Nightmare of Bilstein"
+    },
+    {
+      "tgdb_id": 3641,
+      "title": "ChuChu Rocket!"
+    },
+    {
+      "tgdb_id": 3642,
+      "title": "The King of Fighters: Dream Match 1999"
+    },
+    {
+      "tgdb_id": 3643,
+      "title": "Nightmare Creatures II"
+    },
+    {
+      "tgdb_id": 3644,
+      "title": "Evolution: The World of Sacred Device"
+    },
+    {
+      "tgdb_id": 3645,
+      "title": "Gundam Side Story 0079: Rise From the Ashes"
+    },
+    {
+      "tgdb_id": 3646,
+      "title": "Carrier"
+    },
+    {
+      "tgdb_id": 3647,
+      "title": "Gunbird 2"
+    },
+    {
+      "tgdb_id": 3648,
+      "title": "Mortal Kombat Gold"
+    },
+    {
+      "tgdb_id": 3649,
+      "title": "Crazy Taxi"
+    },
+    {
+      "tgdb_id": 3650,
+      "title": "Blue Stinger"
+    },
+    {
+      "tgdb_id": 3653,
+      "title": "Cannon Spike"
+    },
+    {
+      "tgdb_id": 3654,
+      "title": "King of Fighters Evolution"
+    },
+    {
+      "tgdb_id": 3655,
+      "title": "Gauntlet Legends"
+    },
+    {
+      "tgdb_id": 3656,
+      "title": "Evolution 2: Far Off Promise"
+    },
+    {
+      "tgdb_id": 3657,
+      "title": "Capcom vs. SNK"
+    },
+    {
+      "tgdb_id": 3658,
+      "title": "Death Crimson OX"
+    },
+    {
+      "tgdb_id": 3659,
+      "title": "Fatal Fury: Mark Of The Wolves"
+    },
+    {
+      "tgdb_id": 3661,
+      "title": "JoJo's Bizarre Adventure"
+    },
+    {
+      "tgdb_id": 3953,
+      "title": "NCAA College Football 2K2"
+    },
+    {
+      "tgdb_id": 3954,
+      "title": "NFL 2K"
+    },
+    {
+      "tgdb_id": 3955,
+      "title": "NFL 2K1"
+    },
+    {
+      "tgdb_id": 3956,
+      "title": "NFL 2K2"
+    },
+    {
+      "tgdb_id": 3957,
+      "title": "Rayman 2: The Great Escape"
+    },
+    {
+      "tgdb_id": 5894,
+      "title": "Virtua Tennis"
+    },
+    {
+      "tgdb_id": 3958,
+      "title": "Resident Evil 2"
+    },
+    {
+      "tgdb_id": 3959,
+      "title": "Resident Evil 3: Nemesis"
+    },
+    {
+      "tgdb_id": 3960,
+      "title": "Seaman"
+    },
+    {
+      "tgdb_id": 3961,
+      "title": "The House of the Dead 2"
+    },
+    {
+      "tgdb_id": 4175,
+      "title": "System Shock 2"
+    },
+    {
+      "tgdb_id": 8326,
+      "title": "Spider-Man"
+    },
+    {
+      "tgdb_id": 8327,
+      "title": "Sydney 2000"
+    },
+    {
+      "tgdb_id": 8328,
+      "title": "Tee Off"
+    },
+    {
+      "tgdb_id": 4442,
+      "title": "Tom Clancy's Rainbow Six: Rogue Spear"
+    },
+    {
+      "tgdb_id": 5562,
+      "title": "Maken X"
+    },
+    {
+      "tgdb_id": 5563,
+      "title": "MDK 2"
+    },
+    {
+      "tgdb_id": 5564,
+      "title": "Omikron: The Nomad Soul"
+    },
+    {
+      "tgdb_id": 5565,
+      "title": "Ooga Booga"
+    },
+    {
+      "tgdb_id": 5566,
+      "title": "Outtrigger"
+    },
+    {
+      "tgdb_id": 5568,
+      "title": "Record of Lodoss War"
+    },
+    {
+      "tgdb_id": 7766,
+      "title": "Daytona USA"
+    },
+    {
+      "tgdb_id": 7767,
+      "title": "SoulCalibur"
+    },
+    {
+      "tgdb_id": 7768,
+      "title": "Sega GT"
+    },
+    {
+      "tgdb_id": 7770,
+      "title": "Starlancer"
+    },
+    {
+      "tgdb_id": 7771,
+      "title": "Ultimate Fighting Championship"
+    },
+    {
+      "tgdb_id": 7773,
+      "title": "Sega Rally Championship 2"
+    },
+    {
+      "tgdb_id": 8105,
+      "title": "Aqua GT"
+    },
+    {
+      "tgdb_id": 8106,
+      "title": "Army Men: Sarge's Heroes"
+    },
+    {
+      "tgdb_id": 8107,
+      "title": "Alone in the Dark: The New Nightmare"
+    },
+    {
+      "tgdb_id": 8108,
+      "title": "Atari Anniversary Edition"
+    },
+    {
+      "tgdb_id": 8109,
+      "title": "Bomberman Online"
+    },
+    {
+      "tgdb_id": 8110,
+      "title": "Buzz Lightyear of Star Command"
+    },
+    {
+      "tgdb_id": 8113,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 8114,
+      "title": "Chicken Run"
+    },
+    {
+      "tgdb_id": 8115,
+      "title": "Confidential Mission"
+    },
+    {
+      "tgdb_id": 8116,
+      "title": "Conflict Zone"
+    },
+    {
+      "tgdb_id": 8117,
+      "title": "D2"
+    },
+    {
+      "tgdb_id": 8118,
+      "title": "Demolition Racer: No Exit"
+    },
+    {
+      "tgdb_id": 8119,
+      "title": "Deep Fighter"
+    },
+    {
+      "tgdb_id": 8120,
+      "title": "Disney's Dinosaur"
+    },
+    {
+      "tgdb_id": 8121,
+      "title": "Donald Duck: Goin' Quackers"
+    },
+    {
+      "tgdb_id": 36013,
+      "title": "Love Hina: Totsuzen no Engeji Happening"
+    },
+    {
+      "tgdb_id": 8122,
+      "title": "Dragon Riders: Chronicles of Pern"
+    },
+    {
+      "tgdb_id": 8123,
+      "title": "Ducati World: Racing Challenge"
+    },
+    {
+      "tgdb_id": 8125,
+      "title": "Draconus: Cult of the Wyrm"
+    },
+    {
+      "tgdb_id": 8126,
+      "title": "Evil Dead: Hail to the King"
+    },
+    {
+      "tgdb_id": 8127,
+      "title": "F1 World Grand Prix"
+    },
+    {
+      "tgdb_id": 8128,
+      "title": "Fighting Force 2"
+    },
+    {
+      "tgdb_id": 8129,
+      "title": "Frogger 2: Swampy's Revenge"
+    },
+    {
+      "tgdb_id": 8130,
+      "title": "Floigan Bros.: Episode 1"
+    },
+    {
+      "tgdb_id": 8131,
+      "title": "Fur Fighters"
+    },
+    {
+      "tgdb_id": 8132,
+      "title": "Giga Wing"
+    },
+    {
+      "tgdb_id": 8133,
+      "title": "Grand Theft Auto 2"
+    },
+    {
+      "tgdb_id": 8134,
+      "title": "Half-Life"
+    },
+    {
+      "tgdb_id": 8135,
+      "title": "Hidden & Dangerous"
+    },
+    {
+      "tgdb_id": 8137,
+      "title": "Heavy Metal: Geomatrix"
+    },
+    {
+      "tgdb_id": 8138,
+      "title": "Incoming"
+    },
+    {
+      "tgdb_id": 8139,
+      "title": "Iron Aces"
+    },
+    {
+      "tgdb_id": 8140,
+      "title": "Jimmy White's 2: Cueball"
+    },
+    {
+      "tgdb_id": 8141,
+      "title": "Kao the Kangaroo"
+    },
+    {
+      "tgdb_id": 8142,
+      "title": "Le Mans 24 Hours"
+    },
+    {
+      "tgdb_id": 8143,
+      "title": "Max Steel"
+    },
+    {
+      "tgdb_id": 8144,
+      "title": "Monaco Grand Prix"
+    },
+    {
+      "tgdb_id": 8145,
+      "title": "Ms. Pac-Man Maze Madness"
+    },
+    {
+      "tgdb_id": 8146,
+      "title": "Namco Museum"
+    },
+    {
+      "tgdb_id": 8147,
+      "title": "Prince of Persia: Arabian Nights"
+    },
+    {
+      "tgdb_id": 8148,
+      "title": "Psychic Force 2012"
+    },
+    {
+      "tgdb_id": 8149,
+      "title": "Project Justice"
+    },
+    {
+      "tgdb_id": 8338,
+      "title": "Toy Story 2: Buzz Lightyear to the Rescue!"
+    },
+    {
+      "tgdb_id": 8339,
+      "title": "Urban Chaos"
+    },
+    {
+      "tgdb_id": 8340,
+      "title": "Cyber Troopers Virtual-On Oratorio Tangram"
+    },
+    {
+      "tgdb_id": 8341,
+      "title": "Wacky Races"
+    },
+    {
+      "tgdb_id": 8342,
+      "title": "Worms Armageddon"
+    },
+    {
+      "tgdb_id": 8343,
+      "title": "WWF Royal Rumble"
+    },
+    {
+      "tgdb_id": 8793,
+      "title": "Sega Bass Fishing"
+    },
+    {
+      "tgdb_id": 8808,
+      "title": "NBA 2K2"
+    },
+    {
+      "tgdb_id": 9073,
+      "title": "Guilty Gear X"
+    },
+    {
+      "tgdb_id": 9865,
+      "title": "The Grinch"
+    },
+    {
+      "tgdb_id": 9866,
+      "title": "Hydro Thunder"
+    },
+    {
+      "tgdb_id": 9867,
+      "title": "Industrial Spy: Operation Espionage"
+    },
+    {
+      "tgdb_id": 9926,
+      "title": "Space Channel 5: Part 2"
+    },
+    {
+      "tgdb_id": 9927,
+      "title": "Toy Commander"
+    },
+    {
+      "tgdb_id": 9967,
+      "title": "Zero Gunner 2"
+    },
+    {
+      "tgdb_id": 9968,
+      "title": "Trizeal"
+    },
+    {
+      "tgdb_id": 9969,
+      "title": "Trigger Heart Exelica"
+    },
+    {
+      "tgdb_id": 9970,
+      "title": "Super Street Fighter II X for Matching Service"
+    },
+    {
+      "tgdb_id": 9971,
+      "title": "Street Fighter III: 3rd Strike"
+    },
+    {
+      "tgdb_id": 9972,
+      "title": "Street Fighter III: Double Impact"
+    },
+    {
+      "tgdb_id": 9973,
+      "title": "Soldier of Fortune"
+    },
+    {
+      "tgdb_id": 9974,
+      "title": "Snow Surfers"
+    },
+    {
+      "tgdb_id": 10587,
+      "title": "18 Wheeler: American Pro Trucker"
+    },
+    {
+      "tgdb_id": 10588,
+      "title": "Headhunter"
+    },
+    {
+      "tgdb_id": 10589,
+      "title": "Metropolis Street Racer"
+    },
+    {
+      "tgdb_id": 11057,
+      "title": "WWF Attitude"
+    },
+    {
+      "tgdb_id": 11058,
+      "title": "Worms World Party"
+    },
+    {
+      "tgdb_id": 11059,
+      "title": "World Series Baseball 2K1"
+    },
+    {
+      "tgdb_id": 11060,
+      "title": "World Series Baseball 2K2"
+    },
+    {
+      "tgdb_id": 11061,
+      "title": "Who Wants To Beat Up A Millionaire"
+    },
+    {
+      "tgdb_id": 11062,
+      "title": "Wetrix+"
+    },
+    {
+      "tgdb_id": 11063,
+      "title": "Vigilante 8: 2nd Offense"
+    },
+    {
+      "tgdb_id": 11064,
+      "title": "Unreal Tournament"
+    },
+    {
+      "tgdb_id": 11065,
+      "title": "TrickStyle"
+    },
+    {
+      "tgdb_id": 11066,
+      "title": "Tony Hawk's Pro Skater"
+    },
+    {
+      "tgdb_id": 11067,
+      "title": "Tony Hawk's Pro Skater 2"
+    },
+    {
+      "tgdb_id": 11068,
+      "title": "Tomb Raider: The Last Revelation"
+    },
+    {
+      "tgdb_id": 11069,
+      "title": "Tomb Raider Chronicles"
+    },
+    {
+      "tgdb_id": 11070,
+      "title": "Tokyo Xtreme Racer"
+    },
+    {
+      "tgdb_id": 11071,
+      "title": "Tokyo Xtreme Racer 2"
+    },
+    {
+      "tgdb_id": 11072,
+      "title": "Time Stalkers"
+    },
+    {
+      "tgdb_id": 11073,
+      "title": "TNN Motorsports Hardcore Heat"
+    },
+    {
+      "tgdb_id": 11074,
+      "title": "The Typing of the Dead"
+    },
+    {
+      "tgdb_id": 11075,
+      "title": "Test Drive V-Rally"
+    },
+    {
+      "tgdb_id": 11076,
+      "title": "Test Drive Le Mans"
+    },
+    {
+      "tgdb_id": 11077,
+      "title": "Test Drive 6"
+    },
+    {
+      "tgdb_id": 11078,
+      "title": "Tennis 2K2"
+    },
+    {
+      "tgdb_id": 11079,
+      "title": "Tech Romancer"
+    },
+    {
+      "tgdb_id": 11080,
+      "title": "Surf Rocket Racers"
+    },
+    {
+      "tgdb_id": 11081,
+      "title": "Sword of the Berserk: Guts' Rage"
+    },
+    {
+      "tgdb_id": 11082,
+      "title": "Suzuki Alstare Extreme Racing"
+    },
+    {
+      "tgdb_id": 11083,
+      "title": "Star Wars: Episode I - Racer"
+    },
+    {
+      "tgdb_id": 11084,
+      "title": "Star Wars: Episode I - Jedi Power Battles"
+    },
+    {
+      "tgdb_id": 11085,
+      "title": "Star Wars: Demolition"
+    },
+    {
+      "tgdb_id": 11086,
+      "title": "Sports Jam"
+    },
+    {
+      "tgdb_id": 11087,
+      "title": "Spirit of Speed 1937"
+    },
+    {
+      "tgdb_id": 11088,
+      "title": "Spec Ops II: Omega Squad"
+    },
+    {
+      "tgdb_id": 11089,
+      "title": "Soul Fighter"
+    },
+    {
+      "tgdb_id": 11090,
+      "title": "Sno-Cross Championship Racing"
+    },
+    {
+      "tgdb_id": 11091,
+      "title": "Slave Zero"
+    },
+    {
+      "tgdb_id": 11092,
+      "title": "Silver"
+    },
+    {
+      "tgdb_id": 11094,
+      "title": "Sega Swirl"
+    },
+    {
+      "tgdb_id": 11095,
+      "title": "Sega Smash Pack Volume 1"
+    },
+    {
+      "tgdb_id": 11096,
+      "title": "Sega Marine Fishing"
+    },
+    {
+      "tgdb_id": 11097,
+      "title": "Sega Bass Fishing 2"
+    },
+    {
+      "tgdb_id": 11098,
+      "title": "San Francisco Rush 2049"
+    },
+    {
+      "tgdb_id": 11099,
+      "title": "Revolt"
+    },
+    {
+      "tgdb_id": 11100,
+      "title": "Reel Fishing: Wild"
+    },
+    {
+      "tgdb_id": 11101,
+      "title": "Red Dog: Superior Firepower"
+    },
+    {
+      "tgdb_id": 11102,
+      "title": "Ready 2 Rumble Boxing"
+    },
+    {
+      "tgdb_id": 11104,
+      "title": "Tom Clancy's Rainbow Six"
+    },
+    {
+      "tgdb_id": 11105,
+      "title": "Railroad Tycoon II: Gold Edition"
+    },
+    {
+      "tgdb_id": 11106,
+      "title": "Razor Freestyle Scooter"
+    },
+    {
+      "tgdb_id": 11107,
+      "title": "POD: Speedzone"
+    },
+    {
+      "tgdb_id": 11109,
+      "title": "Giant Killers"
+    },
+    {
+      "tgdb_id": 11814,
+      "title": "Shadow Man"
+    },
+    {
+      "tgdb_id": 11823,
+      "title": "Space Griffon VF-9"
+    },
+    {
+      "tgdb_id": 11859,
+      "title": "Striker Pro 2000"
+    },
+    {
+      "tgdb_id": 11998,
+      "title": "NBA 2K"
+    },
+    {
+      "tgdb_id": 11999,
+      "title": "NHL 2K"
+    },
+    {
+      "tgdb_id": 13010,
+      "title": "F1 Racing Championship"
+    },
+    {
+      "tgdb_id": 13042,
+      "title": "Coaster Works"
+    },
+    {
+      "tgdb_id": 13202,
+      "title": "Looney Tunes: Space Race"
+    },
+    {
+      "tgdb_id": 13204,
+      "title": "Ready 2 Rumble Boxing: Round 2"
+    },
+    {
+      "tgdb_id": 14373,
+      "title": "Illbleed"
+    },
+    {
+      "tgdb_id": 14618,
+      "title": "The Ring: Terror's Realm"
+    },
+    {
+      "tgdb_id": 14845,
+      "title": "NFL Quarterback Club 2000"
+    },
+    {
+      "tgdb_id": 14989,
+      "title": "Border Down"
+    },
+    {
+      "tgdb_id": 14990,
+      "title": "Chaos Field"
+    },
+    {
+      "tgdb_id": 14991,
+      "title": "Musapey's Choco Marker"
+    },
+    {
+      "tgdb_id": 14992,
+      "title": "Cosmic Smash"
+    },
+    {
+      "tgdb_id": 14993,
+      "title": "Capcom Vs SNK 2 Millionaire Fighting 2001"
+    },
+    {
+      "tgdb_id": 14994,
+      "title": "Capcom vs SNK: Millennium Fight 2000 Pro"
+    },
+    {
+      "tgdb_id": 14995,
+      "title": "Giant Gram: All Japan Pro Wrestling 2"
+    },
+    {
+      "tgdb_id": 14997,
+      "title": "Giant Gram 2000: All Japan Pro Wrestling 3"
+    },
+    {
+      "tgdb_id": 15000,
+      "title": "Shangri-La Cyber Angel Mahjong Battle"
+    },
+    {
+      "tgdb_id": 15003,
+      "title": "Under Defeat"
+    },
+    {
+      "tgdb_id": 15005,
+      "title": "Virtua Striker 2 Ver 2000"
+    },
+    {
+      "tgdb_id": 15007,
+      "title": "Virtua Tennis 2"
+    },
+    {
+      "tgdb_id": 16260,
+      "title": "Shenmue II"
+    },
+    {
+      "tgdb_id": 23239,
+      "title": "NBA Hoopz"
+    },
+    {
+      "tgdb_id": 17380,
+      "title": "Mr. Driller"
+    },
+    {
+      "tgdb_id": 23214,
+      "title": "VMU Backup CD"
+    },
+    {
+      "tgdb_id": 17597,
+      "title": "The Last Blade 2: Heart of the Samurai"
+    },
+    {
+      "tgdb_id": 17598,
+      "title": "Garou: Mark of the Wolves"
+    },
+    {
+      "tgdb_id": 19297,
+      "title": "Cool Cool Toon"
+    },
+    {
+      "tgdb_id": 19308,
+      "title": "AeroWings"
+    },
+    {
+      "tgdb_id": 19310,
+      "title": "Godzilla Generations"
+    },
+    {
+      "tgdb_id": 19311,
+      "title": "Godzilla Generations Maxium Impact"
+    },
+    {
+      "tgdb_id": 19312,
+      "title": "Charge 'n Blast"
+    },
+    {
+      "tgdb_id": 19313,
+      "title": "Fighters Mega Mix"
+    },
+    {
+      "tgdb_id": 19314,
+      "title": "Snk's Cool Cool Toon"
+    },
+    {
+      "tgdb_id": 19315,
+      "title": "King's Quest V"
+    },
+    {
+      "tgdb_id": 19316,
+      "title": "4 Wheel Thunder"
+    },
+    {
+      "tgdb_id": 19317,
+      "title": "AeroWings 2: Air Strike"
+    },
+    {
+      "tgdb_id": 19318,
+      "title": "ESPN International Track & Field"
+    },
+    {
+      "tgdb_id": 19319,
+      "title": "F355 Challenge"
+    },
+    {
+      "tgdb_id": 19320,
+      "title": "Fighting Vipers 2"
+    },
+    {
+      "tgdb_id": 19321,
+      "title": "Karous"
+    },
+    {
+      "tgdb_id": 19322,
+      "title": "Last Hope: Pink Bullets"
+    },
+    {
+      "tgdb_id": 19323,
+      "title": "Millennium Soldier Expendable"
+    },
+    {
+      "tgdb_id": 19324,
+      "title": "NBA Showtime: NBA on NBC"
+    },
+    {
+      "tgdb_id": 19325,
+      "title": "NFL Blitz 2001"
+    },
+    {
+      "tgdb_id": 19326,
+      "title": "Pro Pinball Trilogy"
+    },
+    {
+      "tgdb_id": 19327,
+      "title": "Psyvariar 2"
+    },
+    {
+      "tgdb_id": 19328,
+      "title": "Propeller Arena"
+    },
+    {
+      "tgdb_id": 19329,
+      "title": "Radirgy"
+    },
+    {
+      "tgdb_id": 19330,
+      "title": "Rez"
+    },
+    {
+      "tgdb_id": 19331,
+      "title": "Sega Worldwide Soccer 2000 Euro Edition"
+    },
+    {
+      "tgdb_id": 19332,
+      "title": "Speed Devils"
+    },
+    {
+      "tgdb_id": 19333,
+      "title": "Speed Devils Online Racing"
+    },
+    {
+      "tgdb_id": 19334,
+      "title": "UEFA Striker"
+    },
+    {
+      "tgdb_id": 19335,
+      "title": "Stunt GP"
+    },
+    {
+      "tgdb_id": 19336,
+      "title": "Toy Racer"
+    },
+    {
+      "tgdb_id": 19337,
+      "title": "Vanishing Point"
+    },
+    {
+      "tgdb_id": 19338,
+      "title": "Virtua Athlete 2000"
+    },
+    {
+      "tgdb_id": 19339,
+      "title": "Zusar Vasar"
+    },
+    {
+      "tgdb_id": 19340,
+      "title": "Rainbow Cotton"
+    },
+    {
+      "tgdb_id": 19341,
+      "title": "V-Rally 2 Expert Edition"
+    },
+    {
+      "tgdb_id": 19342,
+      "title": "Shikigami No Shiro 2"
+    },
+    {
+      "tgdb_id": 19343,
+      "title": "Sega GT European Edition"
+    },
+    {
+      "tgdb_id": 19484,
+      "title": "F1 World Grand Prix II"
+    },
+    {
+      "tgdb_id": 19485,
+      "title": "NHL 2K2"
+    },
+    {
+      "tgdb_id": 20268,
+      "title": "4x4 Evolution"
+    },
+    {
+      "tgdb_id": 32208,
+      "title": "Exhibition of Speed"
+    },
+    {
+      "tgdb_id": 21256,
+      "title": "Bang! Gunship Elite"
+    },
+    {
+      "tgdb_id": 21257,
+      "title": "NFL Blitz 2000"
+    },
+    {
+      "tgdb_id": 21258,
+      "title": "Silent Scope"
+    },
+    {
+      "tgdb_id": 21259,
+      "title": "Xtreme Sports"
+    },
+    {
+      "tgdb_id": 21859,
+      "title": "Sturmwind"
+    },
+    {
+      "tgdb_id": 22469,
+      "title": "South Park Rally"
+    },
+    {
+      "tgdb_id": 23233,
+      "title": "Mat Hoffman's Pro BMX"
+    },
+    {
+      "tgdb_id": 23234,
+      "title": "Bust-A-Move 4"
+    },
+    {
+      "tgdb_id": 23235,
+      "title": "Hoyle Casino"
+    },
+    {
+      "tgdb_id": 23236,
+      "title": "Maximum Pool"
+    },
+    {
+      "tgdb_id": 23237,
+      "title": "Expendable"
+    },
+    {
+      "tgdb_id": 23715,
+      "title": "Neo XYX"
+    },
+    {
+      "tgdb_id": 23801,
+      "title": "Gunlord"
+    },
+    {
+      "tgdb_id": 23949,
+      "title": "Dave Mirra Freestyle BMX"
+    },
+    {
+      "tgdb_id": 23999,
+      "title": "Championship Surfer"
+    },
+    {
+      "tgdb_id": 24000,
+      "title": "Cool Herders"
+    },
+    {
+      "tgdb_id": 23996,
+      "title": "Airforce Delta"
+    },
+    {
+      "tgdb_id": 24155,
+      "title": "Phantasy Star Online Ver. 2"
+    },
+    {
+      "tgdb_id": 24224,
+      "title": "Dragons Blood"
+    },
+    {
+      "tgdb_id": 24229,
+      "title": "MTV Sports Skateboarding"
+    },
+    {
+      "tgdb_id": 24232,
+      "title": "Pod 2"
+    },
+    {
+      "tgdb_id": 24745,
+      "title": "Stupid Invaders"
+    },
+    {
+      "tgdb_id": 27084,
+      "title": "Sakura Wars 2"
+    },
+    {
+      "tgdb_id": 27342,
+      "title": "Midway's Greatest Arcade Hits Volume 1"
+    },
+    {
+      "tgdb_id": 27345,
+      "title": "Re-Volt"
+    },
+    {
+      "tgdb_id": 37685,
+      "title": "Marvel vs capcom 2"
+    },
+    {
+      "tgdb_id": 33166,
+      "title": "Macross M3"
+    },
+    {
+      "tgdb_id": 33167,
+      "title": "Mobile Suit Gundam - Blood of Zeon"
+    },
+    {
+      "tgdb_id": 29222,
+      "title": "Caesars Palace 2000: Millennium Gold Edition"
+    },
+    {
+      "tgdb_id": 29223,
+      "title": "ECW Anarchy Rulz"
+    },
+    {
+      "tgdb_id": 29224,
+      "title": "ECW Hardcore Revolution"
+    },
+    {
+      "tgdb_id": 29228,
+      "title": "ESPN NBA 2Night"
+    },
+    {
+      "tgdb_id": 29229,
+      "title": "European Super League"
+    },
+    {
+      "tgdb_id": 29230,
+      "title": "CART Flag to Flag"
+    },
+    {
+      "tgdb_id": 29231,
+      "title": "Jeremy McGrath Supercross 2000"
+    },
+    {
+      "tgdb_id": 29232,
+      "title": "Mag Force Racing"
+    },
+    {
+      "tgdb_id": 29233,
+      "title": "Mars Matrix"
+    },
+    {
+      "tgdb_id": 29235,
+      "title": "Midway's Greatest Arcade Hits Volume 2"
+    },
+    {
+      "tgdb_id": 29239,
+      "title": "Planet Ring"
+    },
+    {
+      "tgdb_id": 29240,
+      "title": "Rippin' Riders"
+    },
+    {
+      "tgdb_id": 29241,
+      "title": "Roadsters"
+    },
+    {
+      "tgdb_id": 29242,
+      "title": "South Park: Chef's Luv Shack"
+    },
+    {
+      "tgdb_id": 29243,
+      "title": "Super Runabout: San Francisco Edition"
+    },
+    {
+      "tgdb_id": 29246,
+      "title": "UEFA Dream Soccer"
+    },
+    {
+      "tgdb_id": 29247,
+      "title": "Walt Disney World Quest: Magical Racing Tour"
+    },
+    {
+      "tgdb_id": 29248,
+      "title": "Who Wants to Be a Millionaire?"
+    },
+    {
+      "tgdb_id": 29249,
+      "title": "90 Minutes: Sega Championship Football"
+    },
+    {
+      "tgdb_id": 29349,
+      "title": "Shin Nippon Pro Wrestling: Toukon Retsuden 4"
+    },
+    {
+      "tgdb_id": 29356,
+      "title": "What's Shenmue?"
+    },
+    {
+      "tgdb_id": 29521,
+      "title": "Langrisser Millenium"
+    },
+    {
+      "tgdb_id": 29739,
+      "title": "Soul Calibur"
+    },
+    {
+      "tgdb_id": 30093,
+      "title": "L.O.L.: Lack of Love"
+    },
+    {
+      "tgdb_id": 30315,
+      "title": "Fire Pro Wrestling D"
+    },
+    {
+      "tgdb_id": 30478,
+      "title": "Segagaga"
+    },
+    {
+      "tgdb_id": 30680,
+      "title": "Taxi 2: Le Jeu"
+    },
+    {
+      "tgdb_id": 31199,
+      "title": "Alice's Mom's Rescue"
+    },
+    {
+      "tgdb_id": 31200,
+      "title": "DUX 1.5"
+    },
+    {
+      "tgdb_id": 31201,
+      "title": "Dux"
+    },
+    {
+      "tgdb_id": 31222,
+      "title": "Redux: Dark Matters"
+    },
+    {
+      "tgdb_id": 31688,
+      "title": "Ghost Blade"
+    },
+    {
+      "tgdb_id": 31727,
+      "title": "Last Hope"
+    },
+    {
+      "tgdb_id": 34516,
+      "title": "Bomber Hehhe"
+    },
+    {
+      "tgdb_id": 35961,
+      "title": "Volgarr the Viking"
+    },
+    {
+      "tgdb_id": 36012,
+      "title": "Dead or Alive 2 Limited Edition"
+    },
+    {
+      "tgdb_id": 36015,
+      "title": "Napple Tale: Arsia in Daydream"
+    },
+    {
+      "tgdb_id": 37176,
+      "title": "Super Robot Taisen Alpha"
+    },
+    {
+      "tgdb_id": 38011,
+      "title": "The King of Fighters: Evolution"
+    },
+    {
+      "tgdb_id": 39279,
+      "title": "Pen Pen"
+    }
+  ]
+}

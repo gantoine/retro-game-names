@@ -1,72 +1,287 @@
-[
-  "Ballblazer",
-  "Choplifter",
-  "Commando",
-  "Desert Falcon",
-  "Donkey Kong",
-  "Galaga",
-  "Impossible Mission",
-  "Jinks",
-  "Joust",
-  "Karateka",
-  "Mat Mania Challenge",
-  "Pole Position II",
-  "Tower Toppler",
-  "Asteroids",
-  "Xenophobe",
-  "Winter Games",
-  "Touchdown Football",
-  "Title Match Pro Wrestling",
-  "Super Skateboardin'",
-  "Xevious",
-  "Crack'ed",
-  "Crossbow",
-  "Dark Chambers",
-  "DigDug",
-  "Donkey Kong Junior",
-  "Double Dragon",
-  "Fatal Run",
-  "Fight Night",
-  "Food Fight",
-  "Hat Trick",
-  "Ikari Warriors",
-  "Mario Bros.",
-  "Mean 18 Ultimate Golf",
-  "Meltdown",
-  "Midnight Mutants",
-  "Motor Psycho",
-  "Ms. Pac-Man",
-  "Ninja Golf",
-  "One-on-One Basketball",
-  "RealSports Baseball",
-  "Robotron: 2084",
-  "Scrapyard Dog",
-  "Summer Games",
-  "Super Huey UH-IX",
-  "F-18 Hornet",
-  "Ace of Aces",
-  "Alien Brigade",
-  "Barnyard Blaster",
-  "Basketbrawl",
-  "Beef Drop 7800",
-  "Centipede",
-  "Gato",
-  "Kung Fu Master",
-  "Klax",
-  "Pit Fighter",
-  "Missing In Action",
-  "Pete Rose Baseball",
-  "Planet Smashers",
-  "Plutos",
-  "Rampage",
-  "Rampart",
-  "Rescue on Fractalus",
-  "Sentinel",
-  "Sirius",
-  "Tank Command",
-  "Tomcat: The F-14 Fighter Simulator",
-  "Water Ski",
-  "Space Invaders",
-  "Piepay",
-  "Dig Dug"
-]
+{
+  "tgbd_id": 27,
+  "tgdb_alias": "atari-7800",
+  "name": "Atari 7800",
+  "titles": [
+    {
+      "tgdb_id": 4893,
+      "title": "Ballblazer"
+    },
+    {
+      "tgdb_id": 4894,
+      "title": "Choplifter"
+    },
+    {
+      "tgdb_id": 4896,
+      "title": "Commando"
+    },
+    {
+      "tgdb_id": 4897,
+      "title": "Desert Falcon"
+    },
+    {
+      "tgdb_id": 4898,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 4899,
+      "title": "Galaga"
+    },
+    {
+      "tgdb_id": 4900,
+      "title": "Impossible Mission"
+    },
+    {
+      "tgdb_id": 4901,
+      "title": "Jinks"
+    },
+    {
+      "tgdb_id": 4902,
+      "title": "Joust"
+    },
+    {
+      "tgdb_id": 4903,
+      "title": "Karateka"
+    },
+    {
+      "tgdb_id": 4905,
+      "title": "Mat Mania Challenge"
+    },
+    {
+      "tgdb_id": 4906,
+      "title": "Pole Position II"
+    },
+    {
+      "tgdb_id": 4907,
+      "title": "Tower Toppler"
+    },
+    {
+      "tgdb_id": 18177,
+      "title": "Asteroids"
+    },
+    {
+      "tgdb_id": 20609,
+      "title": "Xenophobe"
+    },
+    {
+      "tgdb_id": 20610,
+      "title": "Winter Games"
+    },
+    {
+      "tgdb_id": 20612,
+      "title": "Touchdown Football"
+    },
+    {
+      "tgdb_id": 20613,
+      "title": "Title Match Pro Wrestling"
+    },
+    {
+      "tgdb_id": 20614,
+      "title": "Super Skateboardin'"
+    },
+    {
+      "tgdb_id": 20608,
+      "title": "Xevious"
+    },
+    {
+      "tgdb_id": 21036,
+      "title": "Crack'ed"
+    },
+    {
+      "tgdb_id": 21037,
+      "title": "Crossbow"
+    },
+    {
+      "tgdb_id": 21038,
+      "title": "Dark Chambers"
+    },
+    {
+      "tgdb_id": 21039,
+      "title": "DigDug"
+    },
+    {
+      "tgdb_id": 21040,
+      "title": "Donkey Kong Junior"
+    },
+    {
+      "tgdb_id": 21041,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 21042,
+      "title": "Fatal Run"
+    },
+    {
+      "tgdb_id": 21043,
+      "title": "Fight Night"
+    },
+    {
+      "tgdb_id": 21044,
+      "title": "Food Fight"
+    },
+    {
+      "tgdb_id": 21045,
+      "title": "Hat Trick"
+    },
+    {
+      "tgdb_id": 21046,
+      "title": "Ikari Warriors"
+    },
+    {
+      "tgdb_id": 21047,
+      "title": "Mario Bros."
+    },
+    {
+      "tgdb_id": 21048,
+      "title": "Mean 18 Ultimate Golf"
+    },
+    {
+      "tgdb_id": 21049,
+      "title": "Meltdown"
+    },
+    {
+      "tgdb_id": 21050,
+      "title": "Midnight Mutants"
+    },
+    {
+      "tgdb_id": 21051,
+      "title": "Motor Psycho"
+    },
+    {
+      "tgdb_id": 21052,
+      "title": "Ms. Pac-Man"
+    },
+    {
+      "tgdb_id": 21053,
+      "title": "Ninja Golf"
+    },
+    {
+      "tgdb_id": 21054,
+      "title": "One-on-One Basketball"
+    },
+    {
+      "tgdb_id": 21055,
+      "title": "RealSports Baseball"
+    },
+    {
+      "tgdb_id": 21056,
+      "title": "Robotron: 2084"
+    },
+    {
+      "tgdb_id": 21057,
+      "title": "Scrapyard Dog"
+    },
+    {
+      "tgdb_id": 21058,
+      "title": "Summer Games"
+    },
+    {
+      "tgdb_id": 21059,
+      "title": "Super Huey UH-IX"
+    },
+    {
+      "tgdb_id": 21093,
+      "title": "F-18 Hornet"
+    },
+    {
+      "tgdb_id": 21095,
+      "title": "Ace of Aces"
+    },
+    {
+      "tgdb_id": 21096,
+      "title": "Alien Brigade"
+    },
+    {
+      "tgdb_id": 21097,
+      "title": "Barnyard Blaster"
+    },
+    {
+      "tgdb_id": 21098,
+      "title": "Basketbrawl"
+    },
+    {
+      "tgdb_id": 21099,
+      "title": "Beef Drop 7800"
+    },
+    {
+      "tgdb_id": 21100,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 21101,
+      "title": "Gato"
+    },
+    {
+      "tgdb_id": 21102,
+      "title": "Kung Fu Master"
+    },
+    {
+      "tgdb_id": 21103,
+      "title": "Klax"
+    },
+    {
+      "tgdb_id": 21197,
+      "title": "Pit Fighter"
+    },
+    {
+      "tgdb_id": 22378,
+      "title": "Missing In Action"
+    },
+    {
+      "tgdb_id": 22379,
+      "title": "Pete Rose Baseball"
+    },
+    {
+      "tgdb_id": 22380,
+      "title": "Planet Smashers"
+    },
+    {
+      "tgdb_id": 22382,
+      "title": "Plutos"
+    },
+    {
+      "tgdb_id": 22383,
+      "title": "Rampage"
+    },
+    {
+      "tgdb_id": 22384,
+      "title": "Rampart"
+    },
+    {
+      "tgdb_id": 22385,
+      "title": "Rescue on Fractalus"
+    },
+    {
+      "tgdb_id": 22386,
+      "title": "Sentinel"
+    },
+    {
+      "tgdb_id": 22387,
+      "title": "Sirius"
+    },
+    {
+      "tgdb_id": 22388,
+      "title": "Tank Command"
+    },
+    {
+      "tgdb_id": 22389,
+      "title": "Tomcat: The F-14 Fighter Simulator"
+    },
+    {
+      "tgdb_id": 22390,
+      "title": "Water Ski"
+    },
+    {
+      "tgdb_id": 28406,
+      "title": "Space Invaders"
+    },
+    {
+      "tgdb_id": 37690,
+      "title": "Piepay"
+    },
+    {
+      "tgdb_id": 38189,
+      "title": "Dig Dug"
+    }
+  ]
+}

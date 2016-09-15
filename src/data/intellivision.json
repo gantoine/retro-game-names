@@ -1,169 +1,675 @@
-[
-  "ABPA Backgammon",
-  "Advanced Dungeons & Dragons",
-  "Armor Battle",
-  "Astrosmash",
-  "Auto Racing",
-  "B-17 Bomber",
-  "Baseball",
-  "Basketball",
-  "Bomb Squad",
-  "Bowling",
-  "Boxing",
-  "BurgerTime",
-  "Buzz Bombers",
-  "Demon Attack",
-  "Donkey Kong",
-  "Dracula",
-  "Dragonfire",
-  "Football",
-  "Frog Bog",
-  "Frogger",
-  "Golf",
-  "Horse Racing",
-  "Lock 'n' Chase",
-  "Loco-Motion",
-  "Microsurgeon",
-  "Mission-X",
-  "NASL Soccer",
-  "NHL Hockey",
-  "Night Stalker",
-  "PBA Bowling",
-  "Pitfall!",
-  "Las Vegas Poker & Blackjack",
-  "Popeye",
-  "Reversi",
-  "Las Vegas Roulette",
-  "Sea Battle",
-  "Shark! Shark!",
-  "Sharp Shot",
-  "Skiing",
-  "Snafu",
-  "Space Armada",
-  "Space Battle",
-  "Space Hawk",
-  "Space Spartans",
-  "Stampede",
-  "Star Strike",
-  "Sub Hunt",
-  "Swords & Serpents",
-  "Tennis",
-  "Triple Action",
-  "Tron: Deadly Discs",
-  "Tron: Maze-a-Tron",
-  "Tron: Solar Sailer",
-  "Tropical Trouble",
-  "Utopia",
-  "Vectron",
-  "Masters of the Universe: The Power of He-Man",
-  "AD&D: Treasure of Tarmin",
-  "Venture",
-  "Major League Baseball",
-  "Atlantis",
-  "Beamrider",
-  "Blockade Runner",
-  "Body Slam: Super Pro Wrestling",
-  "Centipede",
-  "Championship Tennis",
-  "Checkers",
-  "Chip Shot: Super Pro Golf",
-  "Commando",
-  "Defender",
-  "Dig Dug",
-  "Diner",
-  "Donkey Kong Junior",
-  "The Dreadnaught Factor",
-  "The Electric Company: Math Fun",
-  "The Electric Company: Word Fun",
-  "Fathom",
-  "Go for the Gold",
-  "Happy Trails",
-  "Hover Force",
-  "Ice Trek",
-  "The Jetson's: Ways with Words",
-  "Kool-Aid Man",
-  "Learning Fun I",
-  "Learning Fun II",
-  "Mind Strike",
-  "Motocross",
-  "Mountain Madness: Super Pro Skiing",
-  "Mouse Trap",
-  "NBA Basketball",
-  "NFL Football",
-  "PGA Golf",
-  "Pinball",
-  "Pole Position",
-  "River Raid",
-  "Royal Dealer",
-  "Safecracker",
-  "Scooby Doo's Maze Chase",
-  "Sewer Sam",
-  "Slam Dunk: Super Pro Basketball",
-  "Slap Shot: Super Pro Hockey",
-  "Spiker! Super Pro Volleyball",
-  "Stadium Mud Buggies",
-  "Star Wars: The Empire Strikes Back",
-  "Super Cobra",
-  "Super Pro Decathlon",
-  "Super Pro Football",
-  "Thin Ice",
-  "Thunder Castle",
-  "Tower of Doom",
-  "Triple Challenge",
-  "Truckin'",
-  "Turbo",
-  "Tutankham",
-  "U.S. Ski Team Skiing",
-  "USCF Chess",
-  "White Water!",
-  "World Series Major League Baseball",
-  "Worm Whomper",
-  "Zaxxon",
-  "Bump 'n' Jump",
-  "Beauty & the Beast",
-  "Nova Blast",
-  "Carnival",
-  "Congo Bongo",
-  "Q*bert",
-  "World Championship Baseball",
-  "Pac-Man",
-  "Deep Pockets-Super Pro Pool and Billiards",
-  "Soccer",
-  "World Cup Soccer",
-  "Stonix",
-  "BRICKOUT",
-  "TAKEOVER",
-  "4-Tris",
-  "Grid Shock",
-  "Hard Hat",
-  "Air Strike",
-  "Hypnotic Lights",
-  "Robot Rubble",
-  "League of Light",
-  "Space Cadet",
-  "Crazy Clones",
-  "Doom",
-  "Deadly Dogs",
-  "Tetris",
-  "Santa's Helper",
-  "Game Factory",
-  "King of the Mountain",
-  "Lady Bug",
-  "Land Battle",
-  "Number Jumble",
-  "Minehunter",
-  "Mr. Basic Meets Bits 'N Bytes",
-  "Melody Blaster",
-  "Magic Carousel",
-  "Blix",
-  "Christmas Carol vs. The Ghost of Christmas Presents",
-  "Piggy Bank",
-  "Same Game and Robots",
-  "Space Patrol",
-  "Super Masters!",
-  "Street",
-  "Pong",
-  "Easter Eggs",
-  "Groovy!",
-  "Eggs 'n' Eyes"
-]
+{
+  "tgbd_id": 32,
+  "tgdb_alias": "intellivision",
+  "name": "Intellivision",
+  "titles": [
+    {
+      "tgdb_id": 4049,
+      "title": "ABPA Backgammon"
+    },
+    {
+      "tgdb_id": 4050,
+      "title": "Advanced Dungeons & Dragons"
+    },
+    {
+      "tgdb_id": 4051,
+      "title": "Armor Battle"
+    },
+    {
+      "tgdb_id": 4052,
+      "title": "Astrosmash"
+    },
+    {
+      "tgdb_id": 4053,
+      "title": "Auto Racing"
+    },
+    {
+      "tgdb_id": 4054,
+      "title": "B-17 Bomber"
+    },
+    {
+      "tgdb_id": 4055,
+      "title": "Baseball"
+    },
+    {
+      "tgdb_id": 4056,
+      "title": "Basketball"
+    },
+    {
+      "tgdb_id": 4057,
+      "title": "Bomb Squad"
+    },
+    {
+      "tgdb_id": 4058,
+      "title": "Bowling"
+    },
+    {
+      "tgdb_id": 4059,
+      "title": "Boxing"
+    },
+    {
+      "tgdb_id": 4060,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 4061,
+      "title": "Buzz Bombers"
+    },
+    {
+      "tgdb_id": 4062,
+      "title": "Demon Attack"
+    },
+    {
+      "tgdb_id": 4063,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 4064,
+      "title": "Dracula"
+    },
+    {
+      "tgdb_id": 4065,
+      "title": "Dragonfire"
+    },
+    {
+      "tgdb_id": 4066,
+      "title": "Football"
+    },
+    {
+      "tgdb_id": 4067,
+      "title": "Frog Bog"
+    },
+    {
+      "tgdb_id": 4068,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 4069,
+      "title": "Golf"
+    },
+    {
+      "tgdb_id": 4070,
+      "title": "Horse Racing"
+    },
+    {
+      "tgdb_id": 4071,
+      "title": "Lock 'n' Chase"
+    },
+    {
+      "tgdb_id": 4072,
+      "title": "Loco-Motion"
+    },
+    {
+      "tgdb_id": 4073,
+      "title": "Microsurgeon"
+    },
+    {
+      "tgdb_id": 4074,
+      "title": "Mission-X"
+    },
+    {
+      "tgdb_id": 4075,
+      "title": "NASL Soccer"
+    },
+    {
+      "tgdb_id": 4076,
+      "title": "NHL Hockey"
+    },
+    {
+      "tgdb_id": 4077,
+      "title": "Night Stalker"
+    },
+    {
+      "tgdb_id": 4078,
+      "title": "PBA Bowling"
+    },
+    {
+      "tgdb_id": 4079,
+      "title": "Pitfall!"
+    },
+    {
+      "tgdb_id": 4080,
+      "title": "Las Vegas Poker & Blackjack"
+    },
+    {
+      "tgdb_id": 4081,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 4082,
+      "title": "Reversi"
+    },
+    {
+      "tgdb_id": 4083,
+      "title": "Las Vegas Roulette"
+    },
+    {
+      "tgdb_id": 4084,
+      "title": "Sea Battle"
+    },
+    {
+      "tgdb_id": 4085,
+      "title": "Shark! Shark!"
+    },
+    {
+      "tgdb_id": 4086,
+      "title": "Sharp Shot"
+    },
+    {
+      "tgdb_id": 4087,
+      "title": "Skiing"
+    },
+    {
+      "tgdb_id": 4088,
+      "title": "Snafu"
+    },
+    {
+      "tgdb_id": 4089,
+      "title": "Space Armada"
+    },
+    {
+      "tgdb_id": 4090,
+      "title": "Space Battle"
+    },
+    {
+      "tgdb_id": 4091,
+      "title": "Space Hawk"
+    },
+    {
+      "tgdb_id": 4092,
+      "title": "Space Spartans"
+    },
+    {
+      "tgdb_id": 4093,
+      "title": "Stampede"
+    },
+    {
+      "tgdb_id": 4094,
+      "title": "Star Strike"
+    },
+    {
+      "tgdb_id": 4095,
+      "title": "Sub Hunt"
+    },
+    {
+      "tgdb_id": 4096,
+      "title": "Swords & Serpents"
+    },
+    {
+      "tgdb_id": 4097,
+      "title": "Tennis"
+    },
+    {
+      "tgdb_id": 4098,
+      "title": "Triple Action"
+    },
+    {
+      "tgdb_id": 4099,
+      "title": "Tron: Deadly Discs"
+    },
+    {
+      "tgdb_id": 4100,
+      "title": "Tron: Maze-a-Tron"
+    },
+    {
+      "tgdb_id": 4101,
+      "title": "Tron: Solar Sailer"
+    },
+    {
+      "tgdb_id": 4102,
+      "title": "Tropical Trouble"
+    },
+    {
+      "tgdb_id": 4103,
+      "title": "Utopia"
+    },
+    {
+      "tgdb_id": 4104,
+      "title": "Vectron"
+    },
+    {
+      "tgdb_id": 7934,
+      "title": "Masters of the Universe: The Power of He-Man"
+    },
+    {
+      "tgdb_id": 9367,
+      "title": "AD&D: Treasure of Tarmin"
+    },
+    {
+      "tgdb_id": 10279,
+      "title": "Venture"
+    },
+    {
+      "tgdb_id": 10498,
+      "title": "Major League Baseball"
+    },
+    {
+      "tgdb_id": 10499,
+      "title": "Atlantis"
+    },
+    {
+      "tgdb_id": 10500,
+      "title": "Beamrider"
+    },
+    {
+      "tgdb_id": 10501,
+      "title": "Blockade Runner"
+    },
+    {
+      "tgdb_id": 10502,
+      "title": "Body Slam: Super Pro Wrestling"
+    },
+    {
+      "tgdb_id": 10503,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 10504,
+      "title": "Championship Tennis"
+    },
+    {
+      "tgdb_id": 10505,
+      "title": "Checkers"
+    },
+    {
+      "tgdb_id": 10506,
+      "title": "Chip Shot: Super Pro Golf"
+    },
+    {
+      "tgdb_id": 10507,
+      "title": "Commando"
+    },
+    {
+      "tgdb_id": 10508,
+      "title": "Defender"
+    },
+    {
+      "tgdb_id": 10509,
+      "title": "Dig Dug"
+    },
+    {
+      "tgdb_id": 10510,
+      "title": "Diner"
+    },
+    {
+      "tgdb_id": 10511,
+      "title": "Donkey Kong Junior"
+    },
+    {
+      "tgdb_id": 10512,
+      "title": "The Dreadnaught Factor"
+    },
+    {
+      "tgdb_id": 10513,
+      "title": "The Electric Company: Math Fun"
+    },
+    {
+      "tgdb_id": 10514,
+      "title": "The Electric Company: Word Fun"
+    },
+    {
+      "tgdb_id": 10515,
+      "title": "Fathom"
+    },
+    {
+      "tgdb_id": 10516,
+      "title": "Go for the Gold"
+    },
+    {
+      "tgdb_id": 10517,
+      "title": "Happy Trails"
+    },
+    {
+      "tgdb_id": 10518,
+      "title": "Hover Force"
+    },
+    {
+      "tgdb_id": 10523,
+      "title": "Ice Trek"
+    },
+    {
+      "tgdb_id": 10524,
+      "title": "The Jetson's: Ways with Words"
+    },
+    {
+      "tgdb_id": 10525,
+      "title": "Kool-Aid Man"
+    },
+    {
+      "tgdb_id": 10526,
+      "title": "Learning Fun I"
+    },
+    {
+      "tgdb_id": 10527,
+      "title": "Learning Fun II"
+    },
+    {
+      "tgdb_id": 10528,
+      "title": "Mind Strike"
+    },
+    {
+      "tgdb_id": 10529,
+      "title": "Motocross"
+    },
+    {
+      "tgdb_id": 10530,
+      "title": "Mountain Madness: Super Pro Skiing"
+    },
+    {
+      "tgdb_id": 10531,
+      "title": "Mouse Trap"
+    },
+    {
+      "tgdb_id": 10532,
+      "title": "NBA Basketball"
+    },
+    {
+      "tgdb_id": 10533,
+      "title": "NFL Football"
+    },
+    {
+      "tgdb_id": 10534,
+      "title": "PGA Golf"
+    },
+    {
+      "tgdb_id": 10535,
+      "title": "Pinball"
+    },
+    {
+      "tgdb_id": 10536,
+      "title": "Pole Position"
+    },
+    {
+      "tgdb_id": 10537,
+      "title": "River Raid"
+    },
+    {
+      "tgdb_id": 10538,
+      "title": "Royal Dealer"
+    },
+    {
+      "tgdb_id": 10539,
+      "title": "Safecracker"
+    },
+    {
+      "tgdb_id": 10540,
+      "title": "Scooby Doo's Maze Chase"
+    },
+    {
+      "tgdb_id": 10541,
+      "title": "Sewer Sam"
+    },
+    {
+      "tgdb_id": 10542,
+      "title": "Slam Dunk: Super Pro Basketball"
+    },
+    {
+      "tgdb_id": 10543,
+      "title": "Slap Shot: Super Pro Hockey"
+    },
+    {
+      "tgdb_id": 10544,
+      "title": "Spiker! Super Pro Volleyball"
+    },
+    {
+      "tgdb_id": 10545,
+      "title": "Stadium Mud Buggies"
+    },
+    {
+      "tgdb_id": 10546,
+      "title": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "tgdb_id": 10547,
+      "title": "Super Cobra"
+    },
+    {
+      "tgdb_id": 10548,
+      "title": "Super Pro Decathlon"
+    },
+    {
+      "tgdb_id": 10549,
+      "title": "Super Pro Football"
+    },
+    {
+      "tgdb_id": 10550,
+      "title": "Thin Ice"
+    },
+    {
+      "tgdb_id": 10551,
+      "title": "Thunder Castle"
+    },
+    {
+      "tgdb_id": 10552,
+      "title": "Tower of Doom"
+    },
+    {
+      "tgdb_id": 10553,
+      "title": "Triple Challenge"
+    },
+    {
+      "tgdb_id": 10554,
+      "title": "Truckin'"
+    },
+    {
+      "tgdb_id": 10555,
+      "title": "Turbo"
+    },
+    {
+      "tgdb_id": 10556,
+      "title": "Tutankham"
+    },
+    {
+      "tgdb_id": 10557,
+      "title": "U.S. Ski Team Skiing"
+    },
+    {
+      "tgdb_id": 10558,
+      "title": "USCF Chess"
+    },
+    {
+      "tgdb_id": 10559,
+      "title": "White Water!"
+    },
+    {
+      "tgdb_id": 10560,
+      "title": "World Series Major League Baseball"
+    },
+    {
+      "tgdb_id": 10561,
+      "title": "Worm Whomper"
+    },
+    {
+      "tgdb_id": 10562,
+      "title": "Zaxxon"
+    },
+    {
+      "tgdb_id": 25819,
+      "title": "Bump 'n' Jump"
+    },
+    {
+      "tgdb_id": 25820,
+      "title": "Beauty & the Beast"
+    },
+    {
+      "tgdb_id": 25821,
+      "title": "Nova Blast"
+    },
+    {
+      "tgdb_id": 25964,
+      "title": "Carnival"
+    },
+    {
+      "tgdb_id": 25965,
+      "title": "Congo Bongo"
+    },
+    {
+      "tgdb_id": 25966,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 25967,
+      "title": "World Championship Baseball"
+    },
+    {
+      "tgdb_id": 26160,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 27566,
+      "title": "Deep Pockets-Super Pro Pool and Billiards"
+    },
+    {
+      "tgdb_id": 28208,
+      "title": "Soccer"
+    },
+    {
+      "tgdb_id": 28209,
+      "title": "World Cup Soccer"
+    },
+    {
+      "tgdb_id": 31164,
+      "title": "Stonix"
+    },
+    {
+      "tgdb_id": 31467,
+      "title": "BRICKOUT"
+    },
+    {
+      "tgdb_id": 31468,
+      "title": "TAKEOVER"
+    },
+    {
+      "tgdb_id": 31710,
+      "title": "4-Tris"
+    },
+    {
+      "tgdb_id": 33265,
+      "title": "Grid Shock"
+    },
+    {
+      "tgdb_id": 33266,
+      "title": "Hard Hat"
+    },
+    {
+      "tgdb_id": 36851,
+      "title": "Air Strike"
+    },
+    {
+      "tgdb_id": 36852,
+      "title": "Hypnotic Lights"
+    },
+    {
+      "tgdb_id": 36853,
+      "title": "Robot Rubble"
+    },
+    {
+      "tgdb_id": 36854,
+      "title": "League of Light"
+    },
+    {
+      "tgdb_id": 36855,
+      "title": "Space Cadet"
+    },
+    {
+      "tgdb_id": 36856,
+      "title": "Crazy Clones"
+    },
+    {
+      "tgdb_id": 36857,
+      "title": "Doom"
+    },
+    {
+      "tgdb_id": 36858,
+      "title": "Deadly Dogs"
+    },
+    {
+      "tgdb_id": 36859,
+      "title": "Tetris"
+    },
+    {
+      "tgdb_id": 36860,
+      "title": "Santa's Helper"
+    },
+    {
+      "tgdb_id": 36861,
+      "title": "Game Factory"
+    },
+    {
+      "tgdb_id": 36862,
+      "title": "King of the Mountain"
+    },
+    {
+      "tgdb_id": 36863,
+      "title": "Lady Bug"
+    },
+    {
+      "tgdb_id": 36864,
+      "title": "Land Battle"
+    },
+    {
+      "tgdb_id": 36865,
+      "title": "Number Jumble"
+    },
+    {
+      "tgdb_id": 36866,
+      "title": "Minehunter"
+    },
+    {
+      "tgdb_id": 36867,
+      "title": "Mr. Basic Meets Bits 'N Bytes"
+    },
+    {
+      "tgdb_id": 36868,
+      "title": "Melody Blaster"
+    },
+    {
+      "tgdb_id": 36869,
+      "title": "Magic Carousel"
+    },
+    {
+      "tgdb_id": 36964,
+      "title": "Blix"
+    },
+    {
+      "tgdb_id": 36965,
+      "title": "Christmas Carol vs. The Ghost of Christmas Presents"
+    },
+    {
+      "tgdb_id": 36966,
+      "title": "Piggy Bank"
+    },
+    {
+      "tgdb_id": 36967,
+      "title": "Same Game and Robots"
+    },
+    {
+      "tgdb_id": 36968,
+      "title": "Space Patrol"
+    },
+    {
+      "tgdb_id": 36969,
+      "title": "Super Masters!"
+    },
+    {
+      "tgdb_id": 36970,
+      "title": "Street"
+    },
+    {
+      "tgdb_id": 36971,
+      "title": "Pong"
+    },
+    {
+      "tgdb_id": 36972,
+      "title": "Easter Eggs"
+    },
+    {
+      "tgdb_id": 36973,
+      "title": "Groovy!"
+    },
+    {
+      "tgdb_id": 36975,
+      "title": "Eggs 'n' Eyes"
+    }
+  ]
+}

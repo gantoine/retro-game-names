@@ -1,16 +1,63 @@
-[
-  "Abductor",
-  "The Wizard and the Princess",
-  "Cosmiads",
-  "The Sword of Fargoal",
-  "Gridrunner",
-  "Arcadia",
-  "Chariot Race",
-  "JetPac",
-  "Laser Zone",
-  "Rockman",
-  "Adventure 3: Mission Impossible",
-  "Metagalactic Llamas Battle at the Edge of Time",
-  "Dark Dungeons",
-  "Adventure 1: Adventureland"
-]
+{
+  "tgbd_id": 4945,
+  "tgdb_alias": "commodore-vic20",
+  "name": "Commodore VIC-20",
+  "titles": [
+    {
+      "tgdb_id": 33308,
+      "title": "Abductor"
+    },
+    {
+      "tgdb_id": 32487,
+      "title": "The Wizard and the Princess"
+    },
+    {
+      "tgdb_id": 32489,
+      "title": "Cosmiads"
+    },
+    {
+      "tgdb_id": 32492,
+      "title": "The Sword of Fargoal"
+    },
+    {
+      "tgdb_id": 32491,
+      "title": "Gridrunner"
+    },
+    {
+      "tgdb_id": 32457,
+      "title": "Arcadia"
+    },
+    {
+      "tgdb_id": 32458,
+      "title": "Chariot Race"
+    },
+    {
+      "tgdb_id": 32459,
+      "title": "JetPac"
+    },
+    {
+      "tgdb_id": 32493,
+      "title": "Laser Zone"
+    },
+    {
+      "tgdb_id": 32496,
+      "title": "Rockman"
+    },
+    {
+      "tgdb_id": 33309,
+      "title": "Adventure 3: Mission Impossible"
+    },
+    {
+      "tgdb_id": 33310,
+      "title": "Metagalactic Llamas Battle at the Edge of Time"
+    },
+    {
+      "tgdb_id": 33312,
+      "title": "Dark Dungeons"
+    },
+    {
+      "tgdb_id": 33313,
+      "title": "Adventure 1: Adventureland"
+    }
+  ]
+}

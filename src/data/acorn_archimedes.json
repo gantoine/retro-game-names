@@ -1,7 +1,27 @@
-[
-  "Warlocks",
-  "Provocator",
-  "Zarch",
-  "Chocks Away",
-  "Freddy's Folly"
-]
+{
+  "tgbd_id": 4944,
+  "tgdb_alias": "acorn-archimedes",
+  "name": "Acorn Archimedes",
+  "titles": [
+    {
+      "tgdb_id": 32448,
+      "title": "Warlocks"
+    },
+    {
+      "tgdb_id": 32452,
+      "title": "Provocator"
+    },
+    {
+      "tgdb_id": 32456,
+      "title": "Zarch"
+    },
+    {
+      "tgdb_id": 32495,
+      "title": "Chocks Away"
+    },
+    {
+      "tgdb_id": 32498,
+      "title": "Freddy's Folly"
+    }
+  ]
+}

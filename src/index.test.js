@@ -66,7 +66,7 @@ describe('retro-game-names', () => {
     })
 
     it('should return a {platform, [titles]} when given a platform', () => {
-      const foundNames = retroNames.find({platform: 'super_nintendo_snes', title: 'Battle'})
+      const foundNames = retroNames.find({platform: 'super_nintendo_snes', title: 'Super Battle'})
 
       expect(foundNames.platform).to.equal('super_nintendo_snes')
       foundNames.titles.forEach((item) => {
@@ -78,7 +78,7 @@ describe('retro-game-names', () => {
     it('should return a [{platform, [titles]}] when given an array of platforms', () => {
       const multiPlatforms = retroNames.all.super_nintendo_snes.titles.concat(retroNames.all.sega_cd.titles)
 
-      const foundNames = retroNames.find({platforms: ['super_nintendo_snes', 'sega_cd'], title: 'Battle'})
+      const foundNames = retroNames.find({platforms: ['super_nintendo_snes', 'sega_cd'], title: 'Super Battle'})
 
       const keys = Object.keys(foundNames)
       keys.forEach((key) =>{

@@ -1,185 +1,739 @@
-[
-  "DoDonPachi",
-  "Metal Slug",
-  "Metal Slug 2",
-  "Metal Slug 3",
-  "Metal Slug 4",
-  "Metal Slug 5",
-  "Aero Fighters 3 / Sonic Wings 3",
-  "Aero Fighters 2 / Sonic Wings 2",
-  "Samurai Shodown",
-  "Metal Slug X",
-  "Ghost Pilots",
-  "The King of Fighters '94",
-  "The King of Fighters '95",
-  "The King of Fighters '96",
-  "The King of Fighters '97",
-  "The King of Fighters '99: Millennium Battle",
-  "Magical Drop II",
-  "Magical Drop III",
-  "Samurai Shodown II",
-  "Samurai Shodown IV",
-  "World Heroes",
-  "World Heroes 2",
-  "World Heroes Perfect",
-  "Art of Fighting 2",
-  "Burning Fight",
-  "Garou: Mark of the Wolves",
-  "Joy Joy Kid",
-  "NAM-1975",
-  "Savage Reign",
-  "Thrash Rally",
-  "3 Count Bout",
-  "2020 Super Baseball",
-  "Aggressors of Dark Kombat",
-  "Baseball Stars 2",
-  "Baseball Stars Professional",
-  "Ironclad",
-  "Fatal Fury 3: Road to the Final Victory",
-  "Fatal Fury Special",
-  "Far East of Eden: Kabuki Klash",
-  "Last Resort",
-  "Magician Lord",
-  "Mutation Nation",
-  "Ninja Commando",
-  "Ninja Master's",
-  "Puzzle Bobble / Bust-A-Move",
-  "Robo Army",
-  "Samurai Shodown III",
-  "Street Slam",
-  "The Last Blade",
-  "The Last Blade 2",
-  "Twinkle Star Sprites",
-  "Viewpoint",
-  "Voltage Fighter Gowcaizer",
-  "WindJammers",
-  "Fatal Fury: Wild Ambition",
-  "League Bowling",
-  "Fatal Fury 2",
-  "Fatal Fury",
-  "ASO II: Last Guardian",
-  "Andro Dunos",
-  "Art of Fighting 3: The Path of the Warrior",
-  "Bang Bead",
-  "Battle Flip Shot",
-  "Blazing Star",
-  "Breakers",
-  "Bust-A-Move Again",
-  "Crossed Swords",
-  "Cyber-Lip",
-  "Fast Striker",
-  "The King of Fighters 2003",
-  "Kizuna Encounter",
-  "Marvel Super Heroes",
-  "Marvel Super Heroes vs. Street Fighter",
-  "Samurai Shodown V Special",
-  "Neo Geo Cup '98: The Road to the Victory",
-  "King of the Monsters",
-  "Neo Turf Masters",
-  "Pulstar",
-  "Riding Hero",
-  "Sengoku",
-  "Sengoku 2",
-  "Street Hoop",
-  "Super Sidekicks 3",
-  "Alpha Mission II",
-  "Blue's Journey",
-  "Breakers Revenge",
-  "Captain Tomaday",
-  "EightMan",
-  "Football Frenzy",
-  "Fight Fever",
-  "Galaxy Fight: Universal Warriors",
-  "Ganryu",
-  "Ghostlop",
-  "Goal! Goal! Goal!",
-  "Gururin",
-  "Puzzled",
-  "The King of Fighters 2000",
-  "The King of Fighters 2001",
-  "The King of Fighters 2002",
-  "King of the Monsters 2",
-  "Legend of Success Joe",
-  "Power Instinct Matrimelee",
-  "Zed Blade",
-  "Ninja Combat",
-  "Neo Bomberman",
-  "Neo Drift Out",
-  "Neo Mr. Do!",
-  "Nightmare in the Dark",
-  "OverTop",
-  "Bomberman: Panic Bomber",
-  "Pleasure Goal: 5 on 5 Mini Soccer",
-  "Pochi & Nyaa",
-  "Pop 'n Bounce",
-  "Prehistoric Isle 2",
-  "Power Spikes II",
-  "Puzzle de Pon! R",
-  "Puzzle De Pon!",
-  "Ragnagard",
-  "Real Bout Fatal Fury",
-  "Real Bout Fatal Fury 2: The Newcomers",
-  "Real Bout Fatal Fury Special",
-  "Rage of the Dragons",
-  "Strikers 1945 Plus",
-  "Samurai Shodown V",
-  "Super Dodge Ball",
-  "Sengoku 3",
-  "Shock Troopers: 2nd Squad",
-  "Soccer Brawl",
-  "Spinmaster",
-  "Super Sidekicks",
-  "Super Sidekicks 2",
-  "The Ultimate 11: SNK Football Championship",
-  "Stakes Winner",
-  "Stakes Winner 2",
-  "The Super Spy",
-  "SNK vs. Capcom: SVC Chaos",
-  "Top Hunter: Roddy & Cathy",
-  "Top Player's Golf",
-  "Tecmo World Soccer '96",
-  "Waku Waku 7",
-  "World Heroes 2 Jet",
-  "Zupapa!",
-  "Money Idol Exchanger",
-  "Puzzle Bobble 2 / Bust-A-Move 2",
-  "Double Dragon",
-  "The King of Fighters '98",
-  "Karnov's Revenge",
-  "Art Of Fighting",
-  "Bakatonosama Mahjong Manyuki",
-  "Chibi Maruko-chan Deluxe Quiz",
-  "Minnasan no Okagesama Desu! Dai Sugoroku Taikai",
-  "Quiz Daisōsa Sen: The Last Count Down",
-  "Quiz Meitantei Neo & Geo: Quiz Daisōsasen Part 2",
-  "Quiz King of Fighters",
-  "Shogi no Tatsujin",
-  "The Irritating Maze",
-  "Shock Troopers: 1st Squad",
-  "Jockey Grand Prix",
-  "Shinsetsu Samurai Spirits: Bushido Retsuden",
-  "Jyanshin Densetsu - Quest of Jongmaster",
-  "Minnasanno Okagesamadesu! Daisugorokutaikai",
-  "Codename: Blut Engel",
-  "Zintrick / Oshidashi Zentrix",
-  "Metal Slug 6",
-  "Choutetsu Brikin'Ger",
-  "King Of Gladiator",
-  "The King Of Fighters Special Edition 2004",
-  "Digger Man",
-  "Snow Bros",
-  "Bust-A-Move",
-  "Bang Bang Busters",
-  "Columns",
-  "Jonas Indiana and the Lost Temple of RA",
-  "Neo No Panepon",
-  "Neo Pong",
-  "NeoGeo 2-Player Tetris",
-  "Neo Thunder",
-  "NGEM2K",
-  "Frog Feast",
-  "Poker Night",
-  "Treasure of the Caribbean",
-  "Unknown Neo-Geo Vs. Fighter",
-  "V-Liner"
-]
+{
+  "tgbd_id": 24,
+  "tgdb_alias": "neogeo",
+  "name": "Neo Geo",
+  "titles": [
+    {
+      "tgdb_id": 215,
+      "title": "DoDonPachi"
+    },
+    {
+      "tgdb_id": 222,
+      "title": "Metal Slug"
+    },
+    {
+      "tgdb_id": 223,
+      "title": "Metal Slug 2"
+    },
+    {
+      "tgdb_id": 224,
+      "title": "Metal Slug 3"
+    },
+    {
+      "tgdb_id": 225,
+      "title": "Metal Slug 4"
+    },
+    {
+      "tgdb_id": 226,
+      "title": "Metal Slug 5"
+    },
+    {
+      "tgdb_id": 742,
+      "title": "Aero Fighters 3 / Sonic Wings 3"
+    },
+    {
+      "tgdb_id": 743,
+      "title": "Aero Fighters 2 / Sonic Wings 2"
+    },
+    {
+      "tgdb_id": 744,
+      "title": "Samurai Shodown"
+    },
+    {
+      "tgdb_id": 973,
+      "title": "Metal Slug X"
+    },
+    {
+      "tgdb_id": 976,
+      "title": "Ghost Pilots"
+    },
+    {
+      "tgdb_id": 977,
+      "title": "The King of Fighters '94"
+    },
+    {
+      "tgdb_id": 978,
+      "title": "The King of Fighters '95"
+    },
+    {
+      "tgdb_id": 979,
+      "title": "The King of Fighters '96"
+    },
+    {
+      "tgdb_id": 980,
+      "title": "The King of Fighters '97"
+    },
+    {
+      "tgdb_id": 981,
+      "title": "The King of Fighters '99: Millennium Battle"
+    },
+    {
+      "tgdb_id": 982,
+      "title": "Magical Drop II"
+    },
+    {
+      "tgdb_id": 983,
+      "title": "Magical Drop III"
+    },
+    {
+      "tgdb_id": 984,
+      "title": "Samurai Shodown II"
+    },
+    {
+      "tgdb_id": 985,
+      "title": "Samurai Shodown IV"
+    },
+    {
+      "tgdb_id": 988,
+      "title": "World Heroes"
+    },
+    {
+      "tgdb_id": 989,
+      "title": "World Heroes 2"
+    },
+    {
+      "tgdb_id": 990,
+      "title": "World Heroes Perfect"
+    },
+    {
+      "tgdb_id": 1334,
+      "title": "Art of Fighting 2"
+    },
+    {
+      "tgdb_id": 1335,
+      "title": "Burning Fight"
+    },
+    {
+      "tgdb_id": 1336,
+      "title": "Garou: Mark of the Wolves"
+    },
+    {
+      "tgdb_id": 1337,
+      "title": "Joy Joy Kid"
+    },
+    {
+      "tgdb_id": 1338,
+      "title": "NAM-1975"
+    },
+    {
+      "tgdb_id": 1339,
+      "title": "Savage Reign"
+    },
+    {
+      "tgdb_id": 1340,
+      "title": "Thrash Rally"
+    },
+    {
+      "tgdb_id": 1485,
+      "title": "3 Count Bout"
+    },
+    {
+      "tgdb_id": 1486,
+      "title": "2020 Super Baseball"
+    },
+    {
+      "tgdb_id": 1487,
+      "title": "Aggressors of Dark Kombat"
+    },
+    {
+      "tgdb_id": 1488,
+      "title": "Baseball Stars 2"
+    },
+    {
+      "tgdb_id": 1489,
+      "title": "Baseball Stars Professional"
+    },
+    {
+      "tgdb_id": 1490,
+      "title": "Ironclad"
+    },
+    {
+      "tgdb_id": 1491,
+      "title": "Fatal Fury 3: Road to the Final Victory"
+    },
+    {
+      "tgdb_id": 1492,
+      "title": "Fatal Fury Special"
+    },
+    {
+      "tgdb_id": 1493,
+      "title": "Far East of Eden: Kabuki Klash"
+    },
+    {
+      "tgdb_id": 1494,
+      "title": "Last Resort"
+    },
+    {
+      "tgdb_id": 1495,
+      "title": "Magician Lord"
+    },
+    {
+      "tgdb_id": 1496,
+      "title": "Mutation Nation"
+    },
+    {
+      "tgdb_id": 1497,
+      "title": "Ninja Commando"
+    },
+    {
+      "tgdb_id": 1498,
+      "title": "Ninja Master's"
+    },
+    {
+      "tgdb_id": 1499,
+      "title": "Puzzle Bobble / Bust-A-Move"
+    },
+    {
+      "tgdb_id": 1500,
+      "title": "Robo Army"
+    },
+    {
+      "tgdb_id": 1504,
+      "title": "Samurai Shodown III"
+    },
+    {
+      "tgdb_id": 1506,
+      "title": "Street Slam"
+    },
+    {
+      "tgdb_id": 1508,
+      "title": "The Last Blade"
+    },
+    {
+      "tgdb_id": 1510,
+      "title": "The Last Blade 2"
+    },
+    {
+      "tgdb_id": 1512,
+      "title": "Twinkle Star Sprites"
+    },
+    {
+      "tgdb_id": 1513,
+      "title": "Viewpoint"
+    },
+    {
+      "tgdb_id": 1514,
+      "title": "Voltage Fighter Gowcaizer"
+    },
+    {
+      "tgdb_id": 1516,
+      "title": "WindJammers"
+    },
+    {
+      "tgdb_id": 8259,
+      "title": "Fatal Fury: Wild Ambition"
+    },
+    {
+      "tgdb_id": 2608,
+      "title": "League Bowling"
+    },
+    {
+      "tgdb_id": 2862,
+      "title": "Fatal Fury 2"
+    },
+    {
+      "tgdb_id": 2907,
+      "title": "Fatal Fury"
+    },
+    {
+      "tgdb_id": 6463,
+      "title": "ASO II: Last Guardian"
+    },
+    {
+      "tgdb_id": 6464,
+      "title": "Andro Dunos"
+    },
+    {
+      "tgdb_id": 6465,
+      "title": "Art of Fighting 3: The Path of the Warrior"
+    },
+    {
+      "tgdb_id": 6466,
+      "title": "Bang Bead"
+    },
+    {
+      "tgdb_id": 6467,
+      "title": "Battle Flip Shot"
+    },
+    {
+      "tgdb_id": 6468,
+      "title": "Blazing Star"
+    },
+    {
+      "tgdb_id": 6469,
+      "title": "Breakers"
+    },
+    {
+      "tgdb_id": 6470,
+      "title": "Bust-A-Move Again"
+    },
+    {
+      "tgdb_id": 6471,
+      "title": "Crossed Swords"
+    },
+    {
+      "tgdb_id": 6472,
+      "title": "Cyber-Lip"
+    },
+    {
+      "tgdb_id": 6474,
+      "title": "Fast Striker"
+    },
+    {
+      "tgdb_id": 8261,
+      "title": "The King of Fighters 2003"
+    },
+    {
+      "tgdb_id": 8262,
+      "title": "Kizuna Encounter"
+    },
+    {
+      "tgdb_id": 8263,
+      "title": "Marvel Super Heroes"
+    },
+    {
+      "tgdb_id": 8264,
+      "title": "Marvel Super Heroes vs. Street Fighter"
+    },
+    {
+      "tgdb_id": 8267,
+      "title": "Samurai Shodown V Special"
+    },
+    {
+      "tgdb_id": 8505,
+      "title": "Neo Geo Cup '98: The Road to the Victory"
+    },
+    {
+      "tgdb_id": 8673,
+      "title": "King of the Monsters"
+    },
+    {
+      "tgdb_id": 8674,
+      "title": "Neo Turf Masters"
+    },
+    {
+      "tgdb_id": 8675,
+      "title": "Pulstar"
+    },
+    {
+      "tgdb_id": 8676,
+      "title": "Riding Hero"
+    },
+    {
+      "tgdb_id": 8677,
+      "title": "Sengoku"
+    },
+    {
+      "tgdb_id": 8678,
+      "title": "Sengoku 2"
+    },
+    {
+      "tgdb_id": 8680,
+      "title": "Street Hoop"
+    },
+    {
+      "tgdb_id": 8681,
+      "title": "Super Sidekicks 3"
+    },
+    {
+      "tgdb_id": 10036,
+      "title": "Alpha Mission II"
+    },
+    {
+      "tgdb_id": 10050,
+      "title": "Blue's Journey"
+    },
+    {
+      "tgdb_id": 10051,
+      "title": "Breakers Revenge"
+    },
+    {
+      "tgdb_id": 10052,
+      "title": "Captain Tomaday"
+    },
+    {
+      "tgdb_id": 10053,
+      "title": "EightMan"
+    },
+    {
+      "tgdb_id": 10054,
+      "title": "Football Frenzy"
+    },
+    {
+      "tgdb_id": 10055,
+      "title": "Fight Fever"
+    },
+    {
+      "tgdb_id": 10056,
+      "title": "Galaxy Fight: Universal Warriors"
+    },
+    {
+      "tgdb_id": 10057,
+      "title": "Ganryu"
+    },
+    {
+      "tgdb_id": 10058,
+      "title": "Ghostlop"
+    },
+    {
+      "tgdb_id": 10059,
+      "title": "Goal! Goal! Goal!"
+    },
+    {
+      "tgdb_id": 10060,
+      "title": "Gururin"
+    },
+    {
+      "tgdb_id": 10061,
+      "title": "Puzzled"
+    },
+    {
+      "tgdb_id": 10062,
+      "title": "The King of Fighters 2000"
+    },
+    {
+      "tgdb_id": 10063,
+      "title": "The King of Fighters 2001"
+    },
+    {
+      "tgdb_id": 10064,
+      "title": "The King of Fighters 2002"
+    },
+    {
+      "tgdb_id": 10065,
+      "title": "King of the Monsters 2"
+    },
+    {
+      "tgdb_id": 10066,
+      "title": "Legend of Success Joe"
+    },
+    {
+      "tgdb_id": 10067,
+      "title": "Power Instinct Matrimelee"
+    },
+    {
+      "tgdb_id": 10276,
+      "title": "Zed Blade"
+    },
+    {
+      "tgdb_id": 10450,
+      "title": "Ninja Combat"
+    },
+    {
+      "tgdb_id": 10451,
+      "title": "Neo Bomberman"
+    },
+    {
+      "tgdb_id": 10452,
+      "title": "Neo Drift Out"
+    },
+    {
+      "tgdb_id": 10453,
+      "title": "Neo Mr. Do!"
+    },
+    {
+      "tgdb_id": 10454,
+      "title": "Nightmare in the Dark"
+    },
+    {
+      "tgdb_id": 10455,
+      "title": "OverTop"
+    },
+    {
+      "tgdb_id": 10456,
+      "title": "Bomberman: Panic Bomber"
+    },
+    {
+      "tgdb_id": 10457,
+      "title": "Pleasure Goal: 5 on 5 Mini Soccer"
+    },
+    {
+      "tgdb_id": 10458,
+      "title": "Pochi & Nyaa"
+    },
+    {
+      "tgdb_id": 10459,
+      "title": "Pop 'n Bounce"
+    },
+    {
+      "tgdb_id": 10460,
+      "title": "Prehistoric Isle 2"
+    },
+    {
+      "tgdb_id": 10461,
+      "title": "Power Spikes II"
+    },
+    {
+      "tgdb_id": 10462,
+      "title": "Puzzle de Pon! R"
+    },
+    {
+      "tgdb_id": 10463,
+      "title": "Puzzle De Pon!"
+    },
+    {
+      "tgdb_id": 10464,
+      "title": "Ragnagard"
+    },
+    {
+      "tgdb_id": 10465,
+      "title": "Real Bout Fatal Fury"
+    },
+    {
+      "tgdb_id": 10466,
+      "title": "Real Bout Fatal Fury 2: The Newcomers"
+    },
+    {
+      "tgdb_id": 10467,
+      "title": "Real Bout Fatal Fury Special"
+    },
+    {
+      "tgdb_id": 10468,
+      "title": "Rage of the Dragons"
+    },
+    {
+      "tgdb_id": 10469,
+      "title": "Strikers 1945 Plus"
+    },
+    {
+      "tgdb_id": 10470,
+      "title": "Samurai Shodown V"
+    },
+    {
+      "tgdb_id": 10471,
+      "title": "Super Dodge Ball"
+    },
+    {
+      "tgdb_id": 10472,
+      "title": "Sengoku 3"
+    },
+    {
+      "tgdb_id": 10473,
+      "title": "Shock Troopers: 2nd Squad"
+    },
+    {
+      "tgdb_id": 10474,
+      "title": "Soccer Brawl"
+    },
+    {
+      "tgdb_id": 10475,
+      "title": "Spinmaster"
+    },
+    {
+      "tgdb_id": 10476,
+      "title": "Super Sidekicks"
+    },
+    {
+      "tgdb_id": 10477,
+      "title": "Super Sidekicks 2"
+    },
+    {
+      "tgdb_id": 10478,
+      "title": "The Ultimate 11: SNK Football Championship"
+    },
+    {
+      "tgdb_id": 10479,
+      "title": "Stakes Winner"
+    },
+    {
+      "tgdb_id": 10480,
+      "title": "Stakes Winner 2"
+    },
+    {
+      "tgdb_id": 10481,
+      "title": "The Super Spy"
+    },
+    {
+      "tgdb_id": 10482,
+      "title": "SNK vs. Capcom: SVC Chaos"
+    },
+    {
+      "tgdb_id": 10483,
+      "title": "Top Hunter: Roddy & Cathy"
+    },
+    {
+      "tgdb_id": 10484,
+      "title": "Top Player's Golf"
+    },
+    {
+      "tgdb_id": 10485,
+      "title": "Tecmo World Soccer '96"
+    },
+    {
+      "tgdb_id": 10486,
+      "title": "Waku Waku 7"
+    },
+    {
+      "tgdb_id": 10487,
+      "title": "World Heroes 2 Jet"
+    },
+    {
+      "tgdb_id": 10488,
+      "title": "Zupapa!"
+    },
+    {
+      "tgdb_id": 17883,
+      "title": "Money Idol Exchanger"
+    },
+    {
+      "tgdb_id": 18531,
+      "title": "Puzzle Bobble 2 / Bust-A-Move 2"
+    },
+    {
+      "tgdb_id": 18532,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 18533,
+      "title": "The King of Fighters '98"
+    },
+    {
+      "tgdb_id": 18534,
+      "title": "Karnov's Revenge"
+    },
+    {
+      "tgdb_id": 18829,
+      "title": "Art Of Fighting"
+    },
+    {
+      "tgdb_id": 18953,
+      "title": "Bakatonosama Mahjong Manyuki"
+    },
+    {
+      "tgdb_id": 18954,
+      "title": "Chibi Maruko-chan Deluxe Quiz"
+    },
+    {
+      "tgdb_id": 18956,
+      "title": "Minnasan no Okagesama Desu! Dai Sugoroku Taikai"
+    },
+    {
+      "tgdb_id": 18957,
+      "title": "Quiz Daisōsa Sen: The Last Count Down"
+    },
+    {
+      "tgdb_id": 18958,
+      "title": "Quiz Meitantei Neo & Geo: Quiz Daisōsasen Part 2"
+    },
+    {
+      "tgdb_id": 18959,
+      "title": "Quiz King of Fighters"
+    },
+    {
+      "tgdb_id": 18960,
+      "title": "Shogi no Tatsujin"
+    },
+    {
+      "tgdb_id": 18961,
+      "title": "The Irritating Maze"
+    },
+    {
+      "tgdb_id": 19594,
+      "title": "Shock Troopers: 1st Squad"
+    },
+    {
+      "tgdb_id": 20885,
+      "title": "Jockey Grand Prix"
+    },
+    {
+      "tgdb_id": 24149,
+      "title": "Shinsetsu Samurai Spirits: Bushido Retsuden"
+    },
+    {
+      "tgdb_id": 24619,
+      "title": "Jyanshin Densetsu - Quest of Jongmaster"
+    },
+    {
+      "tgdb_id": 24620,
+      "title": "Minnasanno Okagesamadesu! Daisugorokutaikai"
+    },
+    {
+      "tgdb_id": 28905,
+      "title": "Codename: Blut Engel"
+    },
+    {
+      "tgdb_id": 29406,
+      "title": "Zintrick / Oshidashi Zentrix"
+    },
+    {
+      "tgdb_id": 29500,
+      "title": "Metal Slug 6"
+    },
+    {
+      "tgdb_id": 29501,
+      "title": "Choutetsu Brikin'Ger"
+    },
+    {
+      "tgdb_id": 29502,
+      "title": "King Of Gladiator"
+    },
+    {
+      "tgdb_id": 29503,
+      "title": "The King Of Fighters Special Edition 2004"
+    },
+    {
+      "tgdb_id": 31598,
+      "title": "Digger Man"
+    },
+    {
+      "tgdb_id": 34152,
+      "title": "Snow Bros"
+    },
+    {
+      "tgdb_id": 35110,
+      "title": "Bust-A-Move"
+    },
+    {
+      "tgdb_id": 37986,
+      "title": "Bang Bang Busters"
+    },
+    {
+      "tgdb_id": 37991,
+      "title": "Columns"
+    },
+    {
+      "tgdb_id": 37993,
+      "title": "Jonas Indiana and the Lost Temple of RA"
+    },
+    {
+      "tgdb_id": 37994,
+      "title": "Neo No Panepon"
+    },
+    {
+      "tgdb_id": 37996,
+      "title": "Neo Pong"
+    },
+    {
+      "tgdb_id": 37997,
+      "title": "NeoGeo 2-Player Tetris"
+    },
+    {
+      "tgdb_id": 38013,
+      "title": "Neo Thunder"
+    },
+    {
+      "tgdb_id": 38014,
+      "title": "NGEM2K"
+    },
+    {
+      "tgdb_id": 38015,
+      "title": "Frog Feast"
+    },
+    {
+      "tgdb_id": 38017,
+      "title": "Poker Night"
+    },
+    {
+      "tgdb_id": 38018,
+      "title": "Treasure of the Caribbean"
+    },
+    {
+      "tgdb_id": 38020,
+      "title": "Unknown Neo-Geo Vs. Fighter"
+    },
+    {
+      "tgdb_id": 38022,
+      "title": "V-Liner"
+    }
+  ]
+}

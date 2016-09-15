@@ -1,78 +1,319 @@
-[
-  "Metroid",
-  "Hikari Shinwa: Palutena no Kagami",
-  "Famicom Grand Prix: F-1 Race",
-  "Santa Claus no Takarabako",
-  "Sylviana: Ai Ippai no Boukensha",
-  "Seiken: Psycho Calibur",
-  "Family Computer Golf: U.S. Course",
-  "I Am a Teacher: Super Mario Sweater",
-  "Bio Miracle Bokutte Upa",
-  "Nazo no Murasame Jou",
-  "Esper Dream",
-  "Zelda no Densetsu: The Hyrule Fantasy",
-  "Big Challenge! Gun Fighter",
-  "Super Mario Brothers 2",
-  "BodyConQuest I - Abakareshi Musume Tachi",
-  "Ai Senshi Nicol",
-  "Samurai Sword",
-  "Exciting Soccer: Konami Cup",
-  "Dirty Pair: Project Eden",
-  "Monty on the Run",
-  "Otocky",
-  "Yume Koujou: Doki Doki Panic",
-  "Koneko Monogatari: The Adventures of Chatran",
-  "Knight Move",
-  "KiKi KaiKai: Dotou Hen",
-  "Relics: Ankoku Yousai",
-  "Fire Bam",
-  "Super Mario Brothers",
-  "Final Commando: Akai Yousai",
-  "Youkai Yashiki",
-  "Kamen Rider Black: Taiketsu Shadow Moon",
-  "Fuuun Shourin Ken",
-  "Fuuun Shourin Ken: Ankoku no Maou",
-  "Halley Wars",
-  "Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi",
-  "Family Computer Golf: Japan Course",
-  "Eggerland",
-  "Legend of Zelda 2: Adventure of Link",
-  "Roger Rabbit",
-  "Kidou Keisatsu Patlabor: Dai 2 Shoutai Shutsudou Seyo!",
-  "Cocona World",
-  "Famicom Grand Prix II: 3D Hot Rally",
-  "Kaettekita Mario Bros.",
-  "Akumajou Dracula",
-  "Arumana no Kiseki",
-  "Pro Wrestling",
-  "Dracula II: Noroi no Fuuin",
-  "All Night Nippon Super Mario Brothers",
-  "Aliens: Alien 2",
-  "Michael English Daibouken",
-  "Hao-kun no Fushigi na Tabi",
-  "Meikyuu Jiin Dababa",
-  "Falsion",
-  "Wardner no Mori",
-  "Matou no Houkai",
-  "Family Composer",
-  "Kalin no Tsurugi",
-  "Gal Force: Eternal Story",
-  "Suishou no Dragon",
-  "Smash Ping Pong",
-  "Baseball",
-  "Fairytale",
-  "Apple Town Monogatari - Little Computer People",
-  "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen",
-  "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen",
-  "Dead Zone",
-  "Dr. Chaos - Jigoku no Tobira",
-  "Druid - Kyoufu no Tobira",
-  "Exciting Baseball",
-  "Famicom Mukashibanashi - Yuuyuuki - Kouhen",
-  "Famicom Mukashibanashi - Yuuyuuki - Zenpen",
-  "Famicom Tantei Club - Kieta Koukeisha - Kouhen",
-  "Famicom Tantei Club - Kieta Koukeisha - Zenpen",
-  "Game no Tatsujin - Money Wars",
-  "Golf",
-  "TwinBee"
-]
+{
+  "tgbd_id": 4936,
+  "tgdb_alias": "fds",
+  "name": "Famicom Disk System",
+  "titles": [
+    {
+      "tgdb_id": 32222,
+      "title": "Metroid"
+    },
+    {
+      "tgdb_id": 32214,
+      "title": "Hikari Shinwa: Palutena no Kagami"
+    },
+    {
+      "tgdb_id": 32216,
+      "title": "Famicom Grand Prix: F-1 Race"
+    },
+    {
+      "tgdb_id": 33186,
+      "title": "Santa Claus no Takarabako"
+    },
+    {
+      "tgdb_id": 33187,
+      "title": "Sylviana: Ai Ippai no Boukensha"
+    },
+    {
+      "tgdb_id": 32221,
+      "title": "Seiken: Psycho Calibur"
+    },
+    {
+      "tgdb_id": 32218,
+      "title": "Family Computer Golf: U.S. Course"
+    },
+    {
+      "tgdb_id": 32219,
+      "title": "I Am a Teacher: Super Mario Sweater"
+    },
+    {
+      "tgdb_id": 32211,
+      "title": "Bio Miracle Bokutte Upa"
+    },
+    {
+      "tgdb_id": 32220,
+      "title": "Nazo no Murasame Jou"
+    },
+    {
+      "tgdb_id": 33172,
+      "title": "Esper Dream"
+    },
+    {
+      "tgdb_id": 19053,
+      "title": "Zelda no Densetsu: The Hyrule Fantasy"
+    },
+    {
+      "tgdb_id": 33169,
+      "title": "Big Challenge! Gun Fighter"
+    },
+    {
+      "tgdb_id": 22771,
+      "title": "Super Mario Brothers 2"
+    },
+    {
+      "tgdb_id": 23375,
+      "title": "BodyConQuest I - Abakareshi Musume Tachi"
+    },
+    {
+      "tgdb_id": 23403,
+      "title": "Ai Senshi Nicol"
+    },
+    {
+      "tgdb_id": 33185,
+      "title": "Samurai Sword"
+    },
+    {
+      "tgdb_id": 33171,
+      "title": "Exciting Soccer: Konami Cup"
+    },
+    {
+      "tgdb_id": 26451,
+      "title": "Dirty Pair: Project Eden"
+    },
+    {
+      "tgdb_id": 26481,
+      "title": "Monty on the Run"
+    },
+    {
+      "tgdb_id": 26494,
+      "title": "Otocky"
+    },
+    {
+      "tgdb_id": 26522,
+      "title": "Yume Koujou: Doki Doki Panic"
+    },
+    {
+      "tgdb_id": 33183,
+      "title": "Koneko Monogatari: The Adventures of Chatran"
+    },
+    {
+      "tgdb_id": 33182,
+      "title": "Knight Move"
+    },
+    {
+      "tgdb_id": 33181,
+      "title": "KiKi KaiKai: Dotou Hen"
+    },
+    {
+      "tgdb_id": 33184,
+      "title": "Relics: Ankoku Yousai"
+    },
+    {
+      "tgdb_id": 33174,
+      "title": "Fire Bam"
+    },
+    {
+      "tgdb_id": 33175,
+      "title": "Super Mario Brothers"
+    },
+    {
+      "tgdb_id": 33173,
+      "title": "Final Commando: Akai Yousai"
+    },
+    {
+      "tgdb_id": 33189,
+      "title": "Youkai Yashiki"
+    },
+    {
+      "tgdb_id": 33179,
+      "title": "Kamen Rider Black: Taiketsu Shadow Moon"
+    },
+    {
+      "tgdb_id": 33176,
+      "title": "Fuuun Shourin Ken"
+    },
+    {
+      "tgdb_id": 33177,
+      "title": "Fuuun Shourin Ken: Ankoku no Maou"
+    },
+    {
+      "tgdb_id": 33178,
+      "title": "Halley Wars"
+    },
+    {
+      "tgdb_id": 33188,
+      "title": "Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi"
+    },
+    {
+      "tgdb_id": 32217,
+      "title": "Family Computer Golf: Japan Course"
+    },
+    {
+      "tgdb_id": 32215,
+      "title": "Eggerland"
+    },
+    {
+      "tgdb_id": 32212,
+      "title": "Legend of Zelda 2: Adventure of Link"
+    },
+    {
+      "tgdb_id": 32213,
+      "title": "Roger Rabbit"
+    },
+    {
+      "tgdb_id": 33180,
+      "title": "Kidou Keisatsu Patlabor: Dai 2 Shoutai Shutsudou Seyo!"
+    },
+    {
+      "tgdb_id": 30480,
+      "title": "Cocona World"
+    },
+    {
+      "tgdb_id": 30487,
+      "title": "Famicom Grand Prix II: 3D Hot Rally"
+    },
+    {
+      "tgdb_id": 30867,
+      "title": "Kaettekita Mario Bros."
+    },
+    {
+      "tgdb_id": 32097,
+      "title": "Akumajou Dracula"
+    },
+    {
+      "tgdb_id": 32098,
+      "title": "Arumana no Kiseki"
+    },
+    {
+      "tgdb_id": 32099,
+      "title": "Pro Wrestling"
+    },
+    {
+      "tgdb_id": 32118,
+      "title": "Dracula II: Noroi no Fuuin"
+    },
+    {
+      "tgdb_id": 32161,
+      "title": "All Night Nippon Super Mario Brothers"
+    },
+    {
+      "tgdb_id": 32178,
+      "title": "Aliens: Alien 2"
+    },
+    {
+      "tgdb_id": 32203,
+      "title": "Michael English Daibouken"
+    },
+    {
+      "tgdb_id": 32443,
+      "title": "Hao-kun no Fushigi na Tabi"
+    },
+    {
+      "tgdb_id": 32444,
+      "title": "Meikyuu Jiin Dababa"
+    },
+    {
+      "tgdb_id": 32445,
+      "title": "Falsion"
+    },
+    {
+      "tgdb_id": 32446,
+      "title": "Wardner no Mori"
+    },
+    {
+      "tgdb_id": 32466,
+      "title": "Matou no Houkai"
+    },
+    {
+      "tgdb_id": 32467,
+      "title": "Family Composer"
+    },
+    {
+      "tgdb_id": 32468,
+      "title": "Kalin no Tsurugi"
+    },
+    {
+      "tgdb_id": 32469,
+      "title": "Gal Force: Eternal Story"
+    },
+    {
+      "tgdb_id": 32767,
+      "title": "Nakayama Miho no Tokimeki High School"
+    },
+    {
+      "tgdb_id": 33242,
+      "title": "Suishou no Dragon"
+    },
+    {
+      "tgdb_id": 33252,
+      "title": "Smash Ping Pong"
+    },
+    {
+      "tgdb_id": 34280,
+      "title": "Baseball"
+    },
+    {
+      "tgdb_id": 34283,
+      "title": "Fairytale"
+    },
+    {
+      "tgdb_id": 34343,
+      "title": "Apple Town Monogatari - Little Computer People"
+    },
+    {
+      "tgdb_id": 34384,
+      "title": "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen"
+    },
+    {
+      "tgdb_id": 34385,
+      "title": "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen"
+    },
+    {
+      "tgdb_id": 34386,
+      "title": "Dead Zone"
+    },
+    {
+      "tgdb_id": 34387,
+      "title": "Dr. Chaos - Jigoku no Tobira"
+    },
+    {
+      "tgdb_id": 34388,
+      "title": "Druid - Kyoufu no Tobira"
+    },
+    {
+      "tgdb_id": 34389,
+      "title": "Exciting Baseball"
+    },
+    {
+      "tgdb_id": 34685,
+      "title": "Famicom Mukashibanashi - Yuuyuuki - Kouhen"
+    },
+    {
+      "tgdb_id": 34688,
+      "title": "Famicom Mukashibanashi - Yuuyuuki - Zenpen"
+    },
+    {
+      "tgdb_id": 34690,
+      "title": "Famicom Tantei Club - Kieta Koukeisha - Kouhen"
+    },
+    {
+      "tgdb_id": 34691,
+      "title": "Famicom Tantei Club - Kieta Koukeisha - Zenpen"
+    },
+    {
+      "tgdb_id": 34692,
+      "title": "Game no Tatsujin - Money Wars"
+    },
+    {
+      "tgdb_id": 34693,
+      "title": "Golf"
+    },
+    {
+      "tgdb_id": 38159,
+      "title": "TwinBee"
+    },
+    {
+      "tgdb_id": 38674,
+      "title": "Dracula II: Noroi no Fuuin"
+    }
+  ]
+}

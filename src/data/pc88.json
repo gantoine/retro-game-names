@@ -1,5 +1,19 @@
-[
-  "Super Mario Bros. Special",
-  "Punch Ball Mario Bros.",
-  "Mario Bros. Special"
-]
+{
+  "tgbd_id": 4933,
+  "tgdb_alias": "pc88",
+  "name": "PC-88",
+  "titles": [
+    {
+      "tgdb_id": 31791,
+      "title": "Super Mario Bros. Special"
+    },
+    {
+      "tgdb_id": 31819,
+      "title": "Punch Ball Mario Bros."
+    },
+    {
+      "tgdb_id": 31820,
+      "title": "Mario Bros. Special"
+    }
+  ]
+}

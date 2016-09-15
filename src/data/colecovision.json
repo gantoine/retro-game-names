@@ -1,166 +1,663 @@
-[
-  "Pippols",
-  "Carnival",
-  "Cosmic Avenger",
-  "Donkey Kong",
-  "Donkey Kong Junior",
-  "Frenzy",
-  "Front Line",
-  "Gorf",
-  "Lady Bug",
-  "Looping",
-  "Mouse Trap",
-  "Mr. Do!",
-  "Nova Blast",
-  "Omega Race",
-  "Pepper II",
-  "Pitfall!",
-  "Q*bert",
-  "River Raid",
-  "Rocky",
-  "Roc 'N Rope",
-  "Slither",
-  "Space Fury",
-  "SubRoc",
-  "Time Pilot",
-  "Turbo",
-  "Zaxxon",
-  "Pooyan",
-  "Zenji",
-  "James Bond 007",
-  "Joust",
-  "Gyruss",
-  "Frogger",
-  "Frogger II: Threeedeep!",
-  "Fraction Fever",
-  "Dig Dug",
-  "Alcazar: The Forgotten Fortress",
-  "Amazing Bumpman",
-  "Antarctic Adventure",
-  "Aquattack",
-  "Artillery Duel",
-  "2010: The Graphic Action Game",
-  "B.C. II: Grog's Revenge",
-  "Beamrider",
-  "Blockade Runner",
-  "Boulder Dash",
-  "Brain Strainers",
-  "Buck Rogers: Planet of Zoom",
-  "Bump 'n' Jump",
-  "BurgerTime",
-  "Campaign '84",
-  "Centipede",
-  "Choplifter",
-  "Chuck Norris Superkicks",
-  "WarGames",
-  "Galaxian",
-  "Congo Bongo",
-  "Death Race",
-  "Defender",
-  "Cosmic Crisis",
-  "The Dam Busters",
-  "Dance Fantasy",
-  "Decathlon",
-  "Destructor",
-  "Dr. Seuss' Fix-Up the Mix-Up Puzzler",
-  "Dragonfire",
-  "The Dukes of Hazzard",
-  "Escape from the Mindmaster",
-  "Evolution",
-  "Facemaker",
-  "Fathom",
-  "Flipper Slipper",
-  "Fortune Builder",
-  "Frantic Freddy",
-  "Tarzan",
-  "Gateway to Apshai",
-  "Gulkave",
-  "Gust Buster",
-  "H.E.R.O.",
-  "The Heist",
-  "Illusions",
-  "It's Only Rock 'N Roll",
-  "Jukebox",
-  "Jumpman Junior",
-  "Jungle Hunt",
-  "Ken Uston's Blackjack/Poker",
-  "Keystone Kapers",
-  "Learning with Leeper",
-  "Linking Logic",
-  "Logic Levels",
-  "Memory Manor",
-  "Meteoric Shower",
-  "Miner 2049er",
-  "Monkey Academy",
-  "Montezuma's Revenge",
-  "Moonsweeper",
-  "Motocross Racer",
-  "Mountain King",
-  "Mr. Do's Castle",
-  "Pitfall II: Lost Caverns",
-  "Pitstop",
-  "Popeye",
-  "Q*bert's Qubes",
-  "Quest for Quintana Roo",
-  "Robin Hood",
-  "Rock 'N Bolt",
-  "Rocky Super Action Boxing",
-  "Rolloverture",
-  "Sammy Lightfoot",
-  "Sector Alpha",
-  "Sewer Sam",
-  "Sir Lancelot",
-  "Slurpy",
-  "Smurf Paint 'n' Play Workshop",
-  "Smurf: Rescue in Gargamel's Castle",
-  "Space Panic",
-  "Spectron",
-  "Star Trek: Strategic Operations Simulator",
-  "Star Wars: The Arcade Game",
-  "Steamroller",
-  "Strike It!",
-  "Super Action Baseball",
-  "Super Action Football",
-  "Super Action Soccer",
-  "Super Cross Force",
-  "Tank Wars",
-  "Telly Turtle",
-  "Threshold",
-  "Tomarc the Barbarian",
-  "Tournament Tennis",
-  "Tutankham",
-  "Up'n Down",
-  "Victory",
-  "War Room",
-  "Wing War",
-  "The Wizard of Id's Wiz Math",
-  "Word Feud",
-  "Cabbage Patch Kids: Adventures in the Park",
-  "Cabbage Patch Kids: Picture Show",
-  "Oil's Well",
-  "Squish 'Em Featuring Sam",
-  "B.C.'s Quest for Tires",
-  "Venture",
-  "Root Beer Tapper",
-  "Alphabet Zoo",
-  "One-on-One Basketball",
-  "Skiing",
-  "Spy Hunter",
-  "Super Cobra",
-  "M.A.S.H",
-  "Adam's Musicbox Demo",
-  "ColecoVision Monitor Test",
-  "Fall Guy",
-  "Final Test Cartridge",
-  "Moon Patrol",
-  "Ms. Space Fury",
-  "Pac-Man",
-  "Porky's",
-  "Power Lords - Quest for Volcan",
-  "Super Controller Tester",
-  "Super DK!",
-  "Super DK! Junior",
-  "Tunnels & Trolls",
-  "Video Hustler",
-  "The Yolk's on You"
-]
+{
+  "tgbd_id": 31,
+  "tgdb_alias": "colecovision",
+  "name": "Colecovision",
+  "titles": [
+    {
+      "tgdb_id": 35952,
+      "title": "Pippols"
+    },
+    {
+      "tgdb_id": 3998,
+      "title": "Carnival"
+    },
+    {
+      "tgdb_id": 3999,
+      "title": "Cosmic Avenger"
+    },
+    {
+      "tgdb_id": 4000,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 4001,
+      "title": "Donkey Kong Junior"
+    },
+    {
+      "tgdb_id": 4002,
+      "title": "Frenzy"
+    },
+    {
+      "tgdb_id": 4003,
+      "title": "Front Line"
+    },
+    {
+      "tgdb_id": 4004,
+      "title": "Gorf"
+    },
+    {
+      "tgdb_id": 4005,
+      "title": "Lady Bug"
+    },
+    {
+      "tgdb_id": 4006,
+      "title": "Looping"
+    },
+    {
+      "tgdb_id": 4008,
+      "title": "Mouse Trap"
+    },
+    {
+      "tgdb_id": 4009,
+      "title": "Mr. Do!"
+    },
+    {
+      "tgdb_id": 4010,
+      "title": "Nova Blast"
+    },
+    {
+      "tgdb_id": 4011,
+      "title": "Omega Race"
+    },
+    {
+      "tgdb_id": 4012,
+      "title": "Pepper II"
+    },
+    {
+      "tgdb_id": 4013,
+      "title": "Pitfall!"
+    },
+    {
+      "tgdb_id": 4014,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 4015,
+      "title": "River Raid"
+    },
+    {
+      "tgdb_id": 4016,
+      "title": "Rocky"
+    },
+    {
+      "tgdb_id": 4017,
+      "title": "Roc 'N Rope"
+    },
+    {
+      "tgdb_id": 4018,
+      "title": "Slither"
+    },
+    {
+      "tgdb_id": 4020,
+      "title": "Space Fury"
+    },
+    {
+      "tgdb_id": 4021,
+      "title": "SubRoc"
+    },
+    {
+      "tgdb_id": 4022,
+      "title": "Time Pilot"
+    },
+    {
+      "tgdb_id": 4023,
+      "title": "Turbo"
+    },
+    {
+      "tgdb_id": 4024,
+      "title": "Zaxxon"
+    },
+    {
+      "tgdb_id": 35953,
+      "title": "Pooyan"
+    },
+    {
+      "tgdb_id": 8257,
+      "title": "Zenji"
+    },
+    {
+      "tgdb_id": 10114,
+      "title": "James Bond 007"
+    },
+    {
+      "tgdb_id": 10116,
+      "title": "Joust"
+    },
+    {
+      "tgdb_id": 10117,
+      "title": "Gyruss"
+    },
+    {
+      "tgdb_id": 10118,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 10119,
+      "title": "Frogger II: Threeedeep!"
+    },
+    {
+      "tgdb_id": 10121,
+      "title": "Fraction Fever"
+    },
+    {
+      "tgdb_id": 10123,
+      "title": "Dig Dug"
+    },
+    {
+      "tgdb_id": 10253,
+      "title": "Alcazar: The Forgotten Fortress"
+    },
+    {
+      "tgdb_id": 10254,
+      "title": "Amazing Bumpman"
+    },
+    {
+      "tgdb_id": 10255,
+      "title": "Antarctic Adventure"
+    },
+    {
+      "tgdb_id": 10256,
+      "title": "Aquattack"
+    },
+    {
+      "tgdb_id": 10257,
+      "title": "Artillery Duel"
+    },
+    {
+      "tgdb_id": 10258,
+      "title": "2010: The Graphic Action Game"
+    },
+    {
+      "tgdb_id": 10259,
+      "title": "B.C. II: Grog's Revenge"
+    },
+    {
+      "tgdb_id": 10260,
+      "title": "Beamrider"
+    },
+    {
+      "tgdb_id": 10261,
+      "title": "Blockade Runner"
+    },
+    {
+      "tgdb_id": 10262,
+      "title": "Boulder Dash"
+    },
+    {
+      "tgdb_id": 10263,
+      "title": "Brain Strainers"
+    },
+    {
+      "tgdb_id": 10264,
+      "title": "Buck Rogers: Planet of Zoom"
+    },
+    {
+      "tgdb_id": 10265,
+      "title": "Bump 'n' Jump"
+    },
+    {
+      "tgdb_id": 10266,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 10267,
+      "title": "Campaign '84"
+    },
+    {
+      "tgdb_id": 10268,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 10269,
+      "title": "Choplifter"
+    },
+    {
+      "tgdb_id": 10270,
+      "title": "Chuck Norris Superkicks"
+    },
+    {
+      "tgdb_id": 10278,
+      "title": "WarGames"
+    },
+    {
+      "tgdb_id": 10280,
+      "title": "Galaxian"
+    },
+    {
+      "tgdb_id": 10281,
+      "title": "Congo Bongo"
+    },
+    {
+      "tgdb_id": 10282,
+      "title": "Death Race"
+    },
+    {
+      "tgdb_id": 10283,
+      "title": "Defender"
+    },
+    {
+      "tgdb_id": 10318,
+      "title": "Cosmic Crisis"
+    },
+    {
+      "tgdb_id": 10319,
+      "title": "The Dam Busters"
+    },
+    {
+      "tgdb_id": 10320,
+      "title": "Dance Fantasy"
+    },
+    {
+      "tgdb_id": 10321,
+      "title": "Decathlon"
+    },
+    {
+      "tgdb_id": 10322,
+      "title": "Destructor"
+    },
+    {
+      "tgdb_id": 10323,
+      "title": "Dr. Seuss' Fix-Up the Mix-Up Puzzler"
+    },
+    {
+      "tgdb_id": 10324,
+      "title": "Dragonfire"
+    },
+    {
+      "tgdb_id": 10325,
+      "title": "The Dukes of Hazzard"
+    },
+    {
+      "tgdb_id": 10326,
+      "title": "Escape from the Mindmaster"
+    },
+    {
+      "tgdb_id": 10327,
+      "title": "Evolution"
+    },
+    {
+      "tgdb_id": 10328,
+      "title": "Facemaker"
+    },
+    {
+      "tgdb_id": 10329,
+      "title": "Fathom"
+    },
+    {
+      "tgdb_id": 10330,
+      "title": "Flipper Slipper"
+    },
+    {
+      "tgdb_id": 10331,
+      "title": "Fortune Builder"
+    },
+    {
+      "tgdb_id": 10332,
+      "title": "Frantic Freddy"
+    },
+    {
+      "tgdb_id": 10333,
+      "title": "Tarzan"
+    },
+    {
+      "tgdb_id": 10336,
+      "title": "Gateway to Apshai"
+    },
+    {
+      "tgdb_id": 10337,
+      "title": "Gulkave"
+    },
+    {
+      "tgdb_id": 10338,
+      "title": "Gust Buster"
+    },
+    {
+      "tgdb_id": 10339,
+      "title": "H.E.R.O."
+    },
+    {
+      "tgdb_id": 10340,
+      "title": "The Heist"
+    },
+    {
+      "tgdb_id": 10341,
+      "title": "Illusions"
+    },
+    {
+      "tgdb_id": 10342,
+      "title": "It's Only Rock 'N Roll"
+    },
+    {
+      "tgdb_id": 10343,
+      "title": "Jukebox"
+    },
+    {
+      "tgdb_id": 10344,
+      "title": "Jumpman Junior"
+    },
+    {
+      "tgdb_id": 10345,
+      "title": "Jungle Hunt"
+    },
+    {
+      "tgdb_id": 10346,
+      "title": "Ken Uston's Blackjack/Poker"
+    },
+    {
+      "tgdb_id": 10348,
+      "title": "Keystone Kapers"
+    },
+    {
+      "tgdb_id": 10349,
+      "title": "Learning with Leeper"
+    },
+    {
+      "tgdb_id": 10350,
+      "title": "Linking Logic"
+    },
+    {
+      "tgdb_id": 10351,
+      "title": "Logic Levels"
+    },
+    {
+      "tgdb_id": 10402,
+      "title": "Memory Manor"
+    },
+    {
+      "tgdb_id": 10403,
+      "title": "Meteoric Shower"
+    },
+    {
+      "tgdb_id": 10404,
+      "title": "Miner 2049er"
+    },
+    {
+      "tgdb_id": 10405,
+      "title": "Monkey Academy"
+    },
+    {
+      "tgdb_id": 10406,
+      "title": "Montezuma's Revenge"
+    },
+    {
+      "tgdb_id": 10407,
+      "title": "Moonsweeper"
+    },
+    {
+      "tgdb_id": 10408,
+      "title": "Motocross Racer"
+    },
+    {
+      "tgdb_id": 10409,
+      "title": "Mountain King"
+    },
+    {
+      "tgdb_id": 10410,
+      "title": "Mr. Do's Castle"
+    },
+    {
+      "tgdb_id": 10411,
+      "title": "Pitfall II: Lost Caverns"
+    },
+    {
+      "tgdb_id": 10412,
+      "title": "Pitstop"
+    },
+    {
+      "tgdb_id": 10413,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 10414,
+      "title": "Q*bert's Qubes"
+    },
+    {
+      "tgdb_id": 10415,
+      "title": "Quest for Quintana Roo"
+    },
+    {
+      "tgdb_id": 10416,
+      "title": "Robin Hood"
+    },
+    {
+      "tgdb_id": 10417,
+      "title": "Rock 'N Bolt"
+    },
+    {
+      "tgdb_id": 10418,
+      "title": "Rocky Super Action Boxing"
+    },
+    {
+      "tgdb_id": 10419,
+      "title": "Rolloverture"
+    },
+    {
+      "tgdb_id": 10420,
+      "title": "Sammy Lightfoot"
+    },
+    {
+      "tgdb_id": 10421,
+      "title": "Sector Alpha"
+    },
+    {
+      "tgdb_id": 10422,
+      "title": "Sewer Sam"
+    },
+    {
+      "tgdb_id": 10423,
+      "title": "Sir Lancelot"
+    },
+    {
+      "tgdb_id": 10424,
+      "title": "Slurpy"
+    },
+    {
+      "tgdb_id": 10425,
+      "title": "Smurf Paint 'n' Play Workshop"
+    },
+    {
+      "tgdb_id": 10426,
+      "title": "Smurf: Rescue in Gargamel's Castle"
+    },
+    {
+      "tgdb_id": 10427,
+      "title": "Space Panic"
+    },
+    {
+      "tgdb_id": 10428,
+      "title": "Spectron"
+    },
+    {
+      "tgdb_id": 10429,
+      "title": "Star Trek: Strategic Operations Simulator"
+    },
+    {
+      "tgdb_id": 10430,
+      "title": "Star Wars: The Arcade Game"
+    },
+    {
+      "tgdb_id": 10431,
+      "title": "Steamroller"
+    },
+    {
+      "tgdb_id": 10432,
+      "title": "Strike It!"
+    },
+    {
+      "tgdb_id": 10433,
+      "title": "Super Action Baseball"
+    },
+    {
+      "tgdb_id": 10434,
+      "title": "Super Action Football"
+    },
+    {
+      "tgdb_id": 10435,
+      "title": "Super Action Soccer"
+    },
+    {
+      "tgdb_id": 10436,
+      "title": "Super Cross Force"
+    },
+    {
+      "tgdb_id": 10437,
+      "title": "Tank Wars"
+    },
+    {
+      "tgdb_id": 10438,
+      "title": "Telly Turtle"
+    },
+    {
+      "tgdb_id": 10439,
+      "title": "Threshold"
+    },
+    {
+      "tgdb_id": 10440,
+      "title": "Tomarc the Barbarian"
+    },
+    {
+      "tgdb_id": 10441,
+      "title": "Tournament Tennis"
+    },
+    {
+      "tgdb_id": 10443,
+      "title": "Tutankham"
+    },
+    {
+      "tgdb_id": 10444,
+      "title": "Up'n Down"
+    },
+    {
+      "tgdb_id": 10445,
+      "title": "Victory"
+    },
+    {
+      "tgdb_id": 10446,
+      "title": "War Room"
+    },
+    {
+      "tgdb_id": 10447,
+      "title": "Wing War"
+    },
+    {
+      "tgdb_id": 10448,
+      "title": "The Wizard of Id's Wiz Math"
+    },
+    {
+      "tgdb_id": 10449,
+      "title": "Word Feud"
+    },
+    {
+      "tgdb_id": 12962,
+      "title": "Cabbage Patch Kids: Adventures in the Park"
+    },
+    {
+      "tgdb_id": 12963,
+      "title": "Cabbage Patch Kids: Picture Show"
+    },
+    {
+      "tgdb_id": 12964,
+      "title": "Oil's Well"
+    },
+    {
+      "tgdb_id": 18663,
+      "title": "Squish 'Em Featuring Sam"
+    },
+    {
+      "tgdb_id": 18664,
+      "title": "B.C.'s Quest for Tires"
+    },
+    {
+      "tgdb_id": 18665,
+      "title": "Venture"
+    },
+    {
+      "tgdb_id": 28146,
+      "title": "Root Beer Tapper"
+    },
+    {
+      "tgdb_id": 32931,
+      "title": "Alphabet Zoo"
+    },
+    {
+      "tgdb_id": 32932,
+      "title": "One-on-One Basketball"
+    },
+    {
+      "tgdb_id": 32933,
+      "title": "Skiing"
+    },
+    {
+      "tgdb_id": 32934,
+      "title": "Spy Hunter"
+    },
+    {
+      "tgdb_id": 32935,
+      "title": "Super Cobra"
+    },
+    {
+      "tgdb_id": 36771,
+      "title": "M.A.S.H"
+    },
+    {
+      "tgdb_id": 36815,
+      "title": "Adam's Musicbox Demo"
+    },
+    {
+      "tgdb_id": 36820,
+      "title": "ColecoVision Monitor Test"
+    },
+    {
+      "tgdb_id": 36821,
+      "title": "Fall Guy"
+    },
+    {
+      "tgdb_id": 36822,
+      "title": "Final Test Cartridge"
+    },
+    {
+      "tgdb_id": 36823,
+      "title": "Moon Patrol"
+    },
+    {
+      "tgdb_id": 36824,
+      "title": "Ms. Space Fury"
+    },
+    {
+      "tgdb_id": 36825,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 36826,
+      "title": "Porky's"
+    },
+    {
+      "tgdb_id": 36827,
+      "title": "Power Lords - Quest for Volcan"
+    },
+    {
+      "tgdb_id": 36828,
+      "title": "Super Controller Tester"
+    },
+    {
+      "tgdb_id": 36829,
+      "title": "Super DK!"
+    },
+    {
+      "tgdb_id": 36830,
+      "title": "Super DK! Junior"
+    },
+    {
+      "tgdb_id": 36831,
+      "title": "Tunnels & Trolls"
+    },
+    {
+      "tgdb_id": 36833,
+      "title": "Video Hustler"
+    },
+    {
+      "tgdb_id": 36834,
+      "title": "The Yolk's on You"
+    }
+  ]
+}

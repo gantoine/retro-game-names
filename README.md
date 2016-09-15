@@ -32,9 +32,9 @@ Return an object of platforms, each with an array of titles
 ```javascript
 {
   nintendo_entertainment_system_nes:
-   [titles],
+    name, tgdb_alias, tgdb_id, [{title, tgdb_id}],
   super_nintendo_snes:
-   [titles]
+    name, tgdb_alias, tgdb_id, [titles]
 }
 ```
 
@@ -46,12 +46,15 @@ const consoles = retro.platforms()
 // ['3do', 'amiga', 'acorn_electron', ...]
 ```
 
-#### retro.games(platform)
+#### retro.info(platform)
 
-Returns an array of titles for the given platform
+Returns all information for the given platform
 ```javascript
-const titles = retro.games('nintendo_entertainment_system_nes')
-// ['10-Yard Fight', '1942', ...]
+const titles = retro.info('nintendo_entertainment_system_nes')
+// { tgbd_id: 7,
+//   tgdb_alias: 'nintendo-entertainment-system-nes',
+//   name: 'Nintendo Entertainment System (NES)',
+//   titles: [{title: '10-Yard Fight', tgdb_id: 317}, {title: '1942', tgdb_id: 4178}, ...]
 ```
 
 #### retro.random(options = {})
@@ -59,19 +62,19 @@ const titles = retro.games('nintendo_entertainment_system_nes')
 Returns a random game form the game list.
 ```javascript
 const randomGame = retro.random()
-// {title: 'Battletoads', platform: 'super_nintendo_snes'}
+// {title: 'Battletoads', tgdb_id: 2770, platform: 'nintendo_entertainment_system_nes'}
 ```
 
 The `platform` option can be passed in, which will return a random game from that platform
 ```javascript
 const randomGames = retro.random({platform: 'super_nintendo_snes'})
-// {title: 'The Adventures of Dr. Franken', platform: 'super_nintendo_snes'}
+// {title: 'The Adventures of Dr. Franken', tgdb_id: 1050, platform: 'super_nintendo_snes'}
 ```
 
 Likewise, `platforms` can be used in place of `platform`, and will return a random game from a list of platforms
 ```javascript
 const randomGames = retro.random({platforms: ['super_nintendo_snes', 'sega_cd']})
-// {title: 'Armed Dragon Fantasy Villgust - The Vanished Girl', platform: 'super_nintendo_snes'}
+// {title: 'Armed Dragon Fantasy Villgust - The Vanished Girl', tgdb_id: 23122, platform: 'super_nintendo_snes'}
 ```
 
 #### retro.find(options = {})
@@ -81,6 +84,8 @@ The options hash acceps the following:
  - **platform** *(optional)*: The tag of the platform ('super_nintendo_snes', 'sega_cd', etc.)
  - **platforms** *(optional)*: An array of platform tags (['super_nintendo_snes', 'sega_cd'], for example)
  - **ignoreCase** *(optional)*: If true, the search is case-insensitive.
+
+Note: All games returned in the arrays will have the usual format: `{title, tgdb_id}`.
 
 Returns an object with multiple {platform, [titles]}
 ```javascript

@@ -1,4 +1,15 @@
-[
-  "A Mind Forever Voyaging",
-  "Ultima V: Warriors of Destiny"
-]
+{
+  "tgbd_id": 4946,
+  "tgdb_alias": "c128",
+  "name": "Commodore 128",
+  "titles": [
+    {
+      "tgdb_id": 32440,
+      "title": "A Mind Forever Voyaging"
+    },
+    {
+      "tgdb_id": 32441,
+      "title": "Ultima V: Warriors of Destiny"
+    }
+  ]
+}

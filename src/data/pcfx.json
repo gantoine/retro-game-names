@@ -1,19 +1,75 @@
-[
-  "Battle Heat",
-  "Chip-Chan Kick!",
-  "Choujin Heiki Zeroigar",
-  "Dragon Knight 4",
-  "Fire Woman: Matoi Gumi",
-  "Kishin Douji Zenki FX: Vajra Fight",
-  "Last Imperial Prince",
-  "Pia Carrot e Youkoso!!",
-  "Zen Nihon Joshi Pro Wrestling: Queen of Queens",
-  "Der Langrisser FX",
-  "Farland Story FX",
-  "Tengai Makyu Karakuri Kakutouden",
-  "Kokuu Hyouryuu Nirgends",
-  "Ruruli Ra Rura",
-  "Boundary Gate: Daughter of Kingdom",
-  "Blue Breaker ~A Smile Over a Sword~",
-  "Sparkling Feather"
-]
+{
+  "tgbd_id": 4930,
+  "tgdb_alias": "pcfx",
+  "name": "PC-FX",
+  "titles": [
+    {
+      "tgdb_id": 31743,
+      "title": "Battle Heat"
+    },
+    {
+      "tgdb_id": 31744,
+      "title": "Chip-Chan Kick!"
+    },
+    {
+      "tgdb_id": 31745,
+      "title": "Choujin Heiki Zeroigar"
+    },
+    {
+      "tgdb_id": 31746,
+      "title": "Dragon Knight 4"
+    },
+    {
+      "tgdb_id": 31747,
+      "title": "Fire Woman: Matoi Gumi"
+    },
+    {
+      "tgdb_id": 31749,
+      "title": "Kishin Douji Zenki FX: Vajra Fight"
+    },
+    {
+      "tgdb_id": 31750,
+      "title": "Last Imperial Prince"
+    },
+    {
+      "tgdb_id": 31751,
+      "title": "Pia Carrot e Youkoso!!"
+    },
+    {
+      "tgdb_id": 31752,
+      "title": "Zen Nihon Joshi Pro Wrestling: Queen of Queens"
+    },
+    {
+      "tgdb_id": 35039,
+      "title": "Der Langrisser FX"
+    },
+    {
+      "tgdb_id": 35040,
+      "title": "Farland Story FX"
+    },
+    {
+      "tgdb_id": 35215,
+      "title": "Tengai Makyu Karakuri Kakutouden"
+    },
+    {
+      "tgdb_id": 35216,
+      "title": "Kokuu Hyouryuu Nirgends"
+    },
+    {
+      "tgdb_id": 35217,
+      "title": "Ruruli Ra Rura"
+    },
+    {
+      "tgdb_id": 38517,
+      "title": "Boundary Gate: Daughter of Kingdom"
+    },
+    {
+      "tgdb_id": 38518,
+      "title": "Blue Breaker ~A Smile Over a Sword~"
+    },
+    {
+      "tgdb_id": 38519,
+      "title": "Sparkling Feather"
+    }
+  ]
+}

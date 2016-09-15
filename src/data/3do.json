@@ -1,152 +1,611 @@
-[
-  "Mad Dog McCree",
-  "AD&D: Slayer",
-  "Blade Force",
-  "Battle Chess",
-  "Brain Dead 13",
-  "Burning Soldier",
-  "Corpse Killer",
-  "AD&D: DeathKeep",
-  "Dennis Miller: That's News to Me",
-  "Doom",
-  "FIFA International Soccer",
-  "Foes of Ali",
-  "Gex",
-  "Hell: A Cyberpunk Thriller",
-  "Icebreaker",
-  "Immercenary",
-  "Jammit",
-  "Killing Time",
-  "Mad Dog II: The Lost Gold",
-  "Myst",
-  "Novastorm",
-  "Pebble Beach Golf Links",
-  "Plumbers Don't Wear Ties",
-  "Primal Rage",
-  "Quarantine",
-  "Road Rash",
-  "Samurai Shodown",
-  "Sewer Shark",
-  "Shock Wave",
-  "Shock Wave 2: Beyond the Gate",
-  "Shock Wave: Operation Jump Gate",
-  "Slam 'n Jam 95",
-  "Space Hulk: Vengeance of the Blood Angels",
-  "StarBlade",
-  "Star Control II",
-  "Star Wars: Rebel Assault",
-  "Stellar 7: Draxon's Revenge",
-  "Super Street Fighter II Turbo",
-  "Super Wing Commander",
-  "Syndicate",
-  "The Daedalus Encounter",
-  "The Horde",
-  "Theme Park",
-  "The Need for Speed",
-  "Total Eclipse",
-  "Twisted: The Game Show",
-  "Way of the Warrior",
-  "Wing Commander III: Heart of the Tiger",
-  "Twinkle Knights",
-  "Creature Shock",
-  "Dragon's Lair",
-  "The Incredible Machine",
-  "Jurassic Park Interactive",
-  "Psychic Detective",
-  "Snow Job",
-  "Supreme Warrior",
-  "The Coven",
-  "Sex",
-  "Alone in the Dark",
-  "Alone In The Dark 2",
-  "Ballz: The Director's Cut",
-  "BC Racers",
-  "Demolition Man",
-  "DinoPark Tycoon",
-  "Bust-A-Move",
-  "Cannon Fodder",
-  "Captain Quazar",
-  "Casper",
-  "Crash 'n Burn",
-  "Crime Patrol",
-  "Cyberdillo",
-  "Cyberia",
-  "Defcon 5",
-  "Dragon Lore",
-  "Escape from Monster Manor",
-  "Family Feud",
-  "Flying Nightmares",
-  "Gridders",
-  "Guardian War",
-  "Iron Angel of the Apocalypse: The Return",
-  "Iron Angel of the Apocalypse",
-  "John Madden Football",
-  "Johnny Bazookatone",
-  "Kingdom: The Far Reaches",
-  "The Last Bounty Hunter",
-  "Lost Eden",
-  "Lucienne's Quest",
-  "Mazer",
-  "MegaRace",
-  "Microcosm",
-  "Night Trap",
-  "Off-World Interceptor",
-  "Olympic Soccer",
-  "Olympic Summer Games",
-  "Out of This World",
-  "Panzer General",
-  "Pataank",
-  "The Perfect General",
-  "PGA Tour 96",
-  "Phoenix 3",
-  "Quarterback Attack with Mike Ditka",
-  "Real Pinball",
-  "Return Fire",
-  "Robinson's Requiem",
-  "Scramble Cobra",
-  "Shanghai: Triple-Threat",
-  "Soccer Kid",
-  "Space Ace",
-  "Space Pirates",
-  "Star Fighter",
-  "Strahl",
-  "Striker: World Cup Special",
-  "Trip'd",
-  "Virtuoso",
-  "VR Stalker",
-  "Waialae Country Club",
-  "Who Shot Johnny Rock?",
-  "Wicked 18",
-  "Wolfenstein 3D",
-  "World Cup Golf: Hyatt Dorado Beach",
-  "Zhadnost: The People's Party",
-  "PO'ed",
-  "The Lost Files of Sherlock Holmes",
-  "DeathKeep",
-  "Air Warrior",
-  "Carrier: Fortress at Sea",
-  "20th Century Video Almanac",
-  "Flashback: The Quest for Identity",
-  "Cowboy Casino",
-  "Club 3DO: Station Invasion",
-  "D",
-  "3DO Action Pak",
-  "3DO Maniac Pack",
-  "Autobahn Tokio",
-  "Battle Pinball",
-  "Battlesport",
-  "Blue Forest Story: Kaze no Fūin",
-  "Winning Post",
-  "Royal Pro Wrestling: Jikkyou Live!!",
-  "Doctor Hauzer",
-  "Rise of the Robots",
-  "Shadow: War of Succession",
-  "Eye of the Typhoon",
-  "Bishoujo Senshi Sailor Moon S",
-  "Yuu Yuu Hakusho",
-  "Mind Teazzer",
-  "J-League Virtual Stadium '95",
-  "V-Goal Soccer '96",
-  "Blonde Justice",
-  "NeuroDancer: Journey into the NeuroNET"
-]
+{
+  "tgbd_id": 25,
+  "tgdb_alias": "3do",
+  "name": "3DO",
+  "titles": [
+    {
+      "tgdb_id": 6429,
+      "title": "Mad Dog McCree"
+    },
+    {
+      "tgdb_id": 3143,
+      "title": "AD&D: Slayer"
+    },
+    {
+      "tgdb_id": 4826,
+      "title": "Blade Force"
+    },
+    {
+      "tgdb_id": 4829,
+      "title": "Battle Chess"
+    },
+    {
+      "tgdb_id": 4830,
+      "title": "Brain Dead 13"
+    },
+    {
+      "tgdb_id": 4831,
+      "title": "Burning Soldier"
+    },
+    {
+      "tgdb_id": 4833,
+      "title": "Corpse Killer"
+    },
+    {
+      "tgdb_id": 4834,
+      "title": "AD&D: DeathKeep"
+    },
+    {
+      "tgdb_id": 4835,
+      "title": "Dennis Miller: That's News to Me"
+    },
+    {
+      "tgdb_id": 4836,
+      "title": "Doom"
+    },
+    {
+      "tgdb_id": 4838,
+      "title": "FIFA International Soccer"
+    },
+    {
+      "tgdb_id": 4839,
+      "title": "Foes of Ali"
+    },
+    {
+      "tgdb_id": 4841,
+      "title": "Gex"
+    },
+    {
+      "tgdb_id": 4842,
+      "title": "Hell: A Cyberpunk Thriller"
+    },
+    {
+      "tgdb_id": 4843,
+      "title": "Icebreaker"
+    },
+    {
+      "tgdb_id": 4844,
+      "title": "Immercenary"
+    },
+    {
+      "tgdb_id": 4846,
+      "title": "Jammit"
+    },
+    {
+      "tgdb_id": 4847,
+      "title": "Killing Time"
+    },
+    {
+      "tgdb_id": 4848,
+      "title": "Mad Dog II: The Lost Gold"
+    },
+    {
+      "tgdb_id": 4849,
+      "title": "Myst"
+    },
+    {
+      "tgdb_id": 4850,
+      "title": "Novastorm"
+    },
+    {
+      "tgdb_id": 4851,
+      "title": "Pebble Beach Golf Links"
+    },
+    {
+      "tgdb_id": 4852,
+      "title": "Plumbers Don't Wear Ties"
+    },
+    {
+      "tgdb_id": 4853,
+      "title": "Primal Rage"
+    },
+    {
+      "tgdb_id": 4854,
+      "title": "Quarantine"
+    },
+    {
+      "tgdb_id": 4855,
+      "title": "Road Rash"
+    },
+    {
+      "tgdb_id": 4857,
+      "title": "Samurai Shodown"
+    },
+    {
+      "tgdb_id": 4858,
+      "title": "Sewer Shark"
+    },
+    {
+      "tgdb_id": 4861,
+      "title": "Shock Wave"
+    },
+    {
+      "tgdb_id": 4862,
+      "title": "Shock Wave 2: Beyond the Gate"
+    },
+    {
+      "tgdb_id": 4864,
+      "title": "Shock Wave: Operation Jump Gate"
+    },
+    {
+      "tgdb_id": 4866,
+      "title": "Slam 'n Jam 95"
+    },
+    {
+      "tgdb_id": 4868,
+      "title": "Space Hulk: Vengeance of the Blood Angels"
+    },
+    {
+      "tgdb_id": 4869,
+      "title": "StarBlade"
+    },
+    {
+      "tgdb_id": 4870,
+      "title": "Star Control II"
+    },
+    {
+      "tgdb_id": 4871,
+      "title": "Star Wars: Rebel Assault"
+    },
+    {
+      "tgdb_id": 4873,
+      "title": "Stellar 7: Draxon's Revenge"
+    },
+    {
+      "tgdb_id": 4875,
+      "title": "Super Street Fighter II Turbo"
+    },
+    {
+      "tgdb_id": 4876,
+      "title": "Super Wing Commander"
+    },
+    {
+      "tgdb_id": 4878,
+      "title": "Syndicate"
+    },
+    {
+      "tgdb_id": 4879,
+      "title": "The Daedalus Encounter"
+    },
+    {
+      "tgdb_id": 4880,
+      "title": "The Horde"
+    },
+    {
+      "tgdb_id": 4881,
+      "title": "Theme Park"
+    },
+    {
+      "tgdb_id": 4882,
+      "title": "The Need for Speed"
+    },
+    {
+      "tgdb_id": 4883,
+      "title": "Total Eclipse"
+    },
+    {
+      "tgdb_id": 4884,
+      "title": "Twisted: The Game Show"
+    },
+    {
+      "tgdb_id": 4885,
+      "title": "Way of the Warrior"
+    },
+    {
+      "tgdb_id": 4886,
+      "title": "Wing Commander III: Heart of the Tiger"
+    },
+    {
+      "tgdb_id": 27250,
+      "title": "Twinkle Knights"
+    },
+    {
+      "tgdb_id": 5840,
+      "title": "Creature Shock"
+    },
+    {
+      "tgdb_id": 5841,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 5842,
+      "title": "The Incredible Machine"
+    },
+    {
+      "tgdb_id": 5843,
+      "title": "Jurassic Park Interactive"
+    },
+    {
+      "tgdb_id": 5844,
+      "title": "Psychic Detective"
+    },
+    {
+      "tgdb_id": 5845,
+      "title": "Snow Job"
+    },
+    {
+      "tgdb_id": 5846,
+      "title": "Supreme Warrior"
+    },
+    {
+      "tgdb_id": 35419,
+      "title": "The Coven"
+    },
+    {
+      "tgdb_id": 35420,
+      "title": "Sex"
+    },
+    {
+      "tgdb_id": 10080,
+      "title": "Alone in the Dark"
+    },
+    {
+      "tgdb_id": 10081,
+      "title": "Alone In The Dark 2"
+    },
+    {
+      "tgdb_id": 10082,
+      "title": "Ballz: The Director's Cut"
+    },
+    {
+      "tgdb_id": 10083,
+      "title": "BC Racers"
+    },
+    {
+      "tgdb_id": 14371,
+      "title": "Demolition Man"
+    },
+    {
+      "tgdb_id": 14372,
+      "title": "DinoPark Tycoon"
+    },
+    {
+      "tgdb_id": 10085,
+      "title": "Bust-A-Move"
+    },
+    {
+      "tgdb_id": 10086,
+      "title": "Cannon Fodder"
+    },
+    {
+      "tgdb_id": 10087,
+      "title": "Captain Quazar"
+    },
+    {
+      "tgdb_id": 10088,
+      "title": "Casper"
+    },
+    {
+      "tgdb_id": 10089,
+      "title": "Crash 'n Burn"
+    },
+    {
+      "tgdb_id": 10090,
+      "title": "Crime Patrol"
+    },
+    {
+      "tgdb_id": 10091,
+      "title": "Cyberdillo"
+    },
+    {
+      "tgdb_id": 10092,
+      "title": "Cyberia"
+    },
+    {
+      "tgdb_id": 10094,
+      "title": "Defcon 5"
+    },
+    {
+      "tgdb_id": 10095,
+      "title": "Dragon Lore"
+    },
+    {
+      "tgdb_id": 10096,
+      "title": "Escape from Monster Manor"
+    },
+    {
+      "tgdb_id": 10097,
+      "title": "Family Feud"
+    },
+    {
+      "tgdb_id": 10098,
+      "title": "Flying Nightmares"
+    },
+    {
+      "tgdb_id": 10099,
+      "title": "Gridders"
+    },
+    {
+      "tgdb_id": 10100,
+      "title": "Guardian War"
+    },
+    {
+      "tgdb_id": 10101,
+      "title": "Iron Angel of the Apocalypse: The Return"
+    },
+    {
+      "tgdb_id": 10102,
+      "title": "Iron Angel of the Apocalypse"
+    },
+    {
+      "tgdb_id": 10103,
+      "title": "John Madden Football"
+    },
+    {
+      "tgdb_id": 10104,
+      "title": "Johnny Bazookatone"
+    },
+    {
+      "tgdb_id": 10105,
+      "title": "Kingdom: The Far Reaches"
+    },
+    {
+      "tgdb_id": 10106,
+      "title": "The Last Bounty Hunter"
+    },
+    {
+      "tgdb_id": 10107,
+      "title": "Lost Eden"
+    },
+    {
+      "tgdb_id": 10108,
+      "title": "Lucienne's Quest"
+    },
+    {
+      "tgdb_id": 10109,
+      "title": "Mazer"
+    },
+    {
+      "tgdb_id": 10110,
+      "title": "MegaRace"
+    },
+    {
+      "tgdb_id": 10111,
+      "title": "Microcosm"
+    },
+    {
+      "tgdb_id": 10112,
+      "title": "Night Trap"
+    },
+    {
+      "tgdb_id": 10131,
+      "title": "Off-World Interceptor"
+    },
+    {
+      "tgdb_id": 10132,
+      "title": "Olympic Soccer"
+    },
+    {
+      "tgdb_id": 10133,
+      "title": "Olympic Summer Games"
+    },
+    {
+      "tgdb_id": 10134,
+      "title": "Out of This World"
+    },
+    {
+      "tgdb_id": 10135,
+      "title": "Panzer General"
+    },
+    {
+      "tgdb_id": 10136,
+      "title": "Pataank"
+    },
+    {
+      "tgdb_id": 10137,
+      "title": "The Perfect General"
+    },
+    {
+      "tgdb_id": 10138,
+      "title": "PGA Tour 96"
+    },
+    {
+      "tgdb_id": 10139,
+      "title": "Phoenix 3"
+    },
+    {
+      "tgdb_id": 10140,
+      "title": "Quarterback Attack with Mike Ditka"
+    },
+    {
+      "tgdb_id": 10141,
+      "title": "Real Pinball"
+    },
+    {
+      "tgdb_id": 10142,
+      "title": "Return Fire"
+    },
+    {
+      "tgdb_id": 10143,
+      "title": "Robinson's Requiem"
+    },
+    {
+      "tgdb_id": 10144,
+      "title": "Scramble Cobra"
+    },
+    {
+      "tgdb_id": 10145,
+      "title": "Shanghai: Triple-Threat"
+    },
+    {
+      "tgdb_id": 10146,
+      "title": "Soccer Kid"
+    },
+    {
+      "tgdb_id": 10147,
+      "title": "Space Ace"
+    },
+    {
+      "tgdb_id": 10148,
+      "title": "Space Pirates"
+    },
+    {
+      "tgdb_id": 10149,
+      "title": "Star Fighter"
+    },
+    {
+      "tgdb_id": 10150,
+      "title": "Strahl"
+    },
+    {
+      "tgdb_id": 10151,
+      "title": "Striker: World Cup Special"
+    },
+    {
+      "tgdb_id": 10152,
+      "title": "Trip'd"
+    },
+    {
+      "tgdb_id": 10153,
+      "title": "Virtuoso"
+    },
+    {
+      "tgdb_id": 10154,
+      "title": "VR Stalker"
+    },
+    {
+      "tgdb_id": 10155,
+      "title": "Waialae Country Club"
+    },
+    {
+      "tgdb_id": 10156,
+      "title": "Who Shot Johnny Rock?"
+    },
+    {
+      "tgdb_id": 10157,
+      "title": "Wicked 18"
+    },
+    {
+      "tgdb_id": 10158,
+      "title": "Wolfenstein 3D"
+    },
+    {
+      "tgdb_id": 10159,
+      "title": "World Cup Golf: Hyatt Dorado Beach"
+    },
+    {
+      "tgdb_id": 10160,
+      "title": "Zhadnost: The People's Party"
+    },
+    {
+      "tgdb_id": 11728,
+      "title": "PO'ed"
+    },
+    {
+      "tgdb_id": 12477,
+      "title": "The Lost Files of Sherlock Holmes"
+    },
+    {
+      "tgdb_id": 14370,
+      "title": "DeathKeep"
+    },
+    {
+      "tgdb_id": 14369,
+      "title": "Air Warrior"
+    },
+    {
+      "tgdb_id": 17688,
+      "title": "Carrier: Fortress at Sea"
+    },
+    {
+      "tgdb_id": 17687,
+      "title": "20th Century Video Almanac"
+    },
+    {
+      "tgdb_id": 19027,
+      "title": "Flashback: The Quest for Identity"
+    },
+    {
+      "tgdb_id": 23988,
+      "title": "Cowboy Casino"
+    },
+    {
+      "tgdb_id": 23989,
+      "title": "Club 3DO: Station Invasion"
+    },
+    {
+      "tgdb_id": 23990,
+      "title": "D"
+    },
+    {
+      "tgdb_id": 25182,
+      "title": "3DO Action Pak"
+    },
+    {
+      "tgdb_id": 25183,
+      "title": "3DO Maniac Pack"
+    },
+    {
+      "tgdb_id": 25184,
+      "title": "Autobahn Tokio"
+    },
+    {
+      "tgdb_id": 25185,
+      "title": "Battle Pinball"
+    },
+    {
+      "tgdb_id": 25186,
+      "title": "Battlesport"
+    },
+    {
+      "tgdb_id": 25187,
+      "title": "Blue Forest Story: Kaze no Fūin"
+    },
+    {
+      "tgdb_id": 25189,
+      "title": "Winning Post"
+    },
+    {
+      "tgdb_id": 26666,
+      "title": "Royal Pro Wrestling: Jikkyou Live!!"
+    },
+    {
+      "tgdb_id": 26667,
+      "title": "Doctor Hauzer"
+    },
+    {
+      "tgdb_id": 26668,
+      "title": "Rise of the Robots"
+    },
+    {
+      "tgdb_id": 26700,
+      "title": "Shadow: War of Succession"
+    },
+    {
+      "tgdb_id": 26701,
+      "title": "Eye of the Typhoon"
+    },
+    {
+      "tgdb_id": 26724,
+      "title": "Bishoujo Senshi Sailor Moon S"
+    },
+    {
+      "tgdb_id": 29220,
+      "title": "Yuu Yuu Hakusho"
+    },
+    {
+      "tgdb_id": 29579,
+      "title": "Mind Teazzer"
+    },
+    {
+      "tgdb_id": 32768,
+      "title": "J-League Virtual Stadium '95"
+    },
+    {
+      "tgdb_id": 32769,
+      "title": "V-Goal Soccer '96"
+    },
+    {
+      "tgdb_id": 35035,
+      "title": "Blonde Justice"
+    },
+    {
+      "tgdb_id": 35028,
+      "title": "NeuroDancer: Journey into the NeuroNET"
+    },
+    {
+      "tgdb_id": 38684,
+      "title": "Lemmings"
+    }
+  ]
+}

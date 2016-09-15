@@ -1,26 +1,103 @@
-[
-  "Videocart-21: Bowling",
-  "Videocart-16: Dodge-It",
-  "Videocart-23: Galactic Space Wars",
-  "Videocart-24: Pro Football",
-  "Videocart-20: Video Whizball",
-  "Videocart-18: Hangman",
-  "Videocart-19: Checkers",
-  "Videocart-17: Pinball Challenge",
-  "Videocart-22: Slot Machine",
-  "Videocart-1: Tic-Tac-Toe & Shooting Gallery & Doodle & Quadra-Doodle",
-  "Videocart-2: Desert Fox & Shooting Gallery",
-  "Videocart-3: Video Blackjack",
-  "Videocart-5: Space War",
-  "Videocart-4: Spitfire",
-  "Videocart-6: Math Quiz I  (Addition & Subtraction)",
-  "Videocart-7: Math Quiz II  (Multiplication & Division)",
-  "Videocart-14: Sonar Search",
-  "Videocart-8: Mind Reader, Nim",
-  "Videocart-9: Drag Strip",
-  "Videocart-10: Maze, Cat and Mouse",
-  "Videocart-11: Backgammon, Acey-Deucey",
-  "Videocart-12: Baseball",
-  "Videocart-13: Robot War, Torpedo Alley",
-  "Videocart-15: Memory Match"
-]
+{
+  "tgbd_id": 4928,
+  "tgdb_alias": "fairchild",
+  "name": "Fairchild Channel F",
+  "titles": [
+    {
+      "tgdb_id": 35185,
+      "title": "Videocart-21: Bowling"
+    },
+    {
+      "tgdb_id": 35180,
+      "title": "Videocart-16: Dodge-It"
+    },
+    {
+      "tgdb_id": 35187,
+      "title": "Videocart-23: Galactic Space Wars"
+    },
+    {
+      "tgdb_id": 35188,
+      "title": "Videocart-24: Pro Football"
+    },
+    {
+      "tgdb_id": 35184,
+      "title": "Videocart-20: Video Whizball"
+    },
+    {
+      "tgdb_id": 35182,
+      "title": "Videocart-18: Hangman"
+    },
+    {
+      "tgdb_id": 35183,
+      "title": "Videocart-19: Checkers"
+    },
+    {
+      "tgdb_id": 35181,
+      "title": "Videocart-17: Pinball Challenge"
+    },
+    {
+      "tgdb_id": 35186,
+      "title": "Videocart-22: Slot Machine"
+    },
+    {
+      "tgdb_id": 23571,
+      "title": "Videocart-1: Tic-Tac-Toe & Shooting Gallery & Doodle & Quadra-Doodle"
+    },
+    {
+      "tgdb_id": 23578,
+      "title": "Videocart-2: Desert Fox & Shooting Gallery"
+    },
+    {
+      "tgdb_id": 23582,
+      "title": "Videocart-3: Video Blackjack"
+    },
+    {
+      "tgdb_id": 23589,
+      "title": "Videocart-5: Space War"
+    },
+    {
+      "tgdb_id": 23588,
+      "title": "Videocart-4: Spitfire"
+    },
+    {
+      "tgdb_id": 23590,
+      "title": "Videocart-6: Math Quiz I  (Addition & Subtraction)"
+    },
+    {
+      "tgdb_id": 23591,
+      "title": "Videocart-7: Math Quiz II  (Multiplication & Division)"
+    },
+    {
+      "tgdb_id": 35178,
+      "title": "Videocart-14: Sonar Search"
+    },
+    {
+      "tgdb_id": 29072,
+      "title": "Videocart-8: Mind Reader, Nim"
+    },
+    {
+      "tgdb_id": 29075,
+      "title": "Videocart-9: Drag Strip"
+    },
+    {
+      "tgdb_id": 29076,
+      "title": "Videocart-10: Maze, Cat and Mouse"
+    },
+    {
+      "tgdb_id": 29077,
+      "title": "Videocart-11: Backgammon, Acey-Deucey"
+    },
+    {
+      "tgdb_id": 29078,
+      "title": "Videocart-12: Baseball"
+    },
+    {
+      "tgdb_id": 29079,
+      "title": "Videocart-13: Robot War, Torpedo Alley"
+    },
+    {
+      "tgdb_id": 35179,
+      "title": "Videocart-15: Memory Match"
+    }
+  ]
+}

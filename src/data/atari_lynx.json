@@ -1,89 +1,355 @@
-[
-  "Super Skweek",
-  "Battle Wheels",
-  "Blue Lightning",
-  "Crystal Mines II",
-  "Dirty Larry: Renegade Cop",
-  "Dracula: The Undead",
-  "Electrocop",
-  "Gates of Zendocon",
-  "Lemmings",
-  "Scrapyard Dog",
-  "Todd's Adventures in Slime World",
-  "Warbirds",
-  "Xenophobe",
-  "Xybots",
-  "Zarlor Mercenary",
-  "California Games",
-  "Checkered Flag",
-  "Chip's Challenge",
-  "Robo-Squash",
-  "Krazy Ace Miniature Golf",
-  "Alien vs. Predator",
-  "A.P.B. - All Points Bulletin",
-  "Baseball Heroes",
-  "Basketbrawl",
-  "Batman Returns",
-  "Battlezone 2000",
-  "Bill & Ted's Excellent Adventure",
-  "Block Out",
-  "Bubble Trouble",
-  "Centipede",
-  "Daemonsgate",
-  "Desert Strike: Return to the Gulf",
-  "Dinolympics",
-  "Double Dragon",
-  "European Soccer Challenge",
-  "Eye of the Beholder",
-  "Fat Bobby",
-  "Fidelity Ultimate Chess Challenge",
-  "Gauntlet: The Third Encounter",
-  "Gordo 106",
-  "Hard Drivin'",
-  "Hockey",
-  "Hydra",
-  "Ishido: The Way of Stones",
-  "Jimmy Connors' Tennis",
-  "Joust",
-  "KLAX",
-  "Kung Food",
-  "Lexis",
-  "Loopz",
-  "Lynx Casino",
-  "Malibu Bikini Volleyball",
-  "Marlboro Go!",
-  "Ms. Pac-Man",
-  "NFL Football",
-  "Ninja Gaiden",
-  "Ninja Gaiden III: Ancient Ship of Doom",
-  "Road Riot 4WD",
-  "Awesome Golf",
-  "Pac-Land",
-  "Paperboy",
-  "Pinball Jam",
-  "Pit Fighter",
-  "Championship Rally",
-  "Rampage",
-  "Rampart",
-  "RoadBlasters",
-  "Robotron: 2084",
-  "Rygar: Legendary Warrior",
-  "S.T.U.N. Runner",
-  "Shadow of the Beast",
-  "Steel Talons",
-  "Super Off Road",
-  "Switchblade II",
-  "Shanghai",
-  "Toki",
-  "Tournament Cyberball",
-  "Turbo Sub",
-  "Viking Child",
-  "World Class Soccer",
-  "Power Factor",
-  "Qix",
-  "Super Asteroids & Missile Command",
-  "Raiden",
-  "Lode Runner",
-  "Lynx II Production Test",
-  "T-Tris"
-]
+{
+  "tgbd_id": 4924,
+  "tgdb_alias": "atari-lynx",
+  "name": "Atari Lynx",
+  "titles": [
+    {
+      "tgdb_id": 23744,
+      "title": "Super Skweek"
+    },
+    {
+      "tgdb_id": 19539,
+      "title": "Battle Wheels"
+    },
+    {
+      "tgdb_id": 19540,
+      "title": "Blue Lightning"
+    },
+    {
+      "tgdb_id": 19541,
+      "title": "Crystal Mines II"
+    },
+    {
+      "tgdb_id": 19542,
+      "title": "Dirty Larry: Renegade Cop"
+    },
+    {
+      "tgdb_id": 19550,
+      "title": "Dracula: The Undead"
+    },
+    {
+      "tgdb_id": 19551,
+      "title": "Electrocop"
+    },
+    {
+      "tgdb_id": 19552,
+      "title": "Gates of Zendocon"
+    },
+    {
+      "tgdb_id": 19553,
+      "title": "Lemmings"
+    },
+    {
+      "tgdb_id": 19555,
+      "title": "Scrapyard Dog"
+    },
+    {
+      "tgdb_id": 19556,
+      "title": "Todd's Adventures in Slime World"
+    },
+    {
+      "tgdb_id": 19557,
+      "title": "Warbirds"
+    },
+    {
+      "tgdb_id": 19558,
+      "title": "Xenophobe"
+    },
+    {
+      "tgdb_id": 19559,
+      "title": "Xybots"
+    },
+    {
+      "tgdb_id": 19560,
+      "title": "Zarlor Mercenary"
+    },
+    {
+      "tgdb_id": 19608,
+      "title": "California Games"
+    },
+    {
+      "tgdb_id": 19609,
+      "title": "Checkered Flag"
+    },
+    {
+      "tgdb_id": 19610,
+      "title": "Chip's Challenge"
+    },
+    {
+      "tgdb_id": 19611,
+      "title": "Robo-Squash"
+    },
+    {
+      "tgdb_id": 19612,
+      "title": "Krazy Ace Miniature Golf"
+    },
+    {
+      "tgdb_id": 22400,
+      "title": "Alien vs. Predator"
+    },
+    {
+      "tgdb_id": 22401,
+      "title": "A.P.B. - All Points Bulletin"
+    },
+    {
+      "tgdb_id": 22402,
+      "title": "Baseball Heroes"
+    },
+    {
+      "tgdb_id": 22403,
+      "title": "Basketbrawl"
+    },
+    {
+      "tgdb_id": 22404,
+      "title": "Batman Returns"
+    },
+    {
+      "tgdb_id": 22405,
+      "title": "Battlezone 2000"
+    },
+    {
+      "tgdb_id": 22406,
+      "title": "Bill & Ted's Excellent Adventure"
+    },
+    {
+      "tgdb_id": 22407,
+      "title": "Block Out"
+    },
+    {
+      "tgdb_id": 22408,
+      "title": "Bubble Trouble"
+    },
+    {
+      "tgdb_id": 22409,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 22410,
+      "title": "Daemonsgate"
+    },
+    {
+      "tgdb_id": 22411,
+      "title": "Desert Strike: Return to the Gulf"
+    },
+    {
+      "tgdb_id": 22412,
+      "title": "Dinolympics"
+    },
+    {
+      "tgdb_id": 22413,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 22414,
+      "title": "European Soccer Challenge"
+    },
+    {
+      "tgdb_id": 22415,
+      "title": "Eye of the Beholder"
+    },
+    {
+      "tgdb_id": 22416,
+      "title": "Fat Bobby"
+    },
+    {
+      "tgdb_id": 22417,
+      "title": "Fidelity Ultimate Chess Challenge"
+    },
+    {
+      "tgdb_id": 22418,
+      "title": "Gauntlet: The Third Encounter"
+    },
+    {
+      "tgdb_id": 22419,
+      "title": "Gordo 106"
+    },
+    {
+      "tgdb_id": 22420,
+      "title": "Hard Drivin'"
+    },
+    {
+      "tgdb_id": 22421,
+      "title": "Hockey"
+    },
+    {
+      "tgdb_id": 22422,
+      "title": "Hydra"
+    },
+    {
+      "tgdb_id": 22423,
+      "title": "Ishido: The Way of Stones"
+    },
+    {
+      "tgdb_id": 22425,
+      "title": "Jimmy Connors' Tennis"
+    },
+    {
+      "tgdb_id": 22426,
+      "title": "Joust"
+    },
+    {
+      "tgdb_id": 22427,
+      "title": "KLAX"
+    },
+    {
+      "tgdb_id": 22428,
+      "title": "Kung Food"
+    },
+    {
+      "tgdb_id": 22429,
+      "title": "Lexis"
+    },
+    {
+      "tgdb_id": 22430,
+      "title": "Loopz"
+    },
+    {
+      "tgdb_id": 22431,
+      "title": "Lynx Casino"
+    },
+    {
+      "tgdb_id": 22432,
+      "title": "Malibu Bikini Volleyball"
+    },
+    {
+      "tgdb_id": 22433,
+      "title": "Marlboro Go!"
+    },
+    {
+      "tgdb_id": 22434,
+      "title": "Ms. Pac-Man"
+    },
+    {
+      "tgdb_id": 22435,
+      "title": "NFL Football"
+    },
+    {
+      "tgdb_id": 22436,
+      "title": "Ninja Gaiden"
+    },
+    {
+      "tgdb_id": 22437,
+      "title": "Ninja Gaiden III: Ancient Ship of Doom"
+    },
+    {
+      "tgdb_id": 22438,
+      "title": "Road Riot 4WD"
+    },
+    {
+      "tgdb_id": 23773,
+      "title": "Awesome Golf"
+    },
+    {
+      "tgdb_id": 23774,
+      "title": "Pac-Land"
+    },
+    {
+      "tgdb_id": 23890,
+      "title": "Paperboy"
+    },
+    {
+      "tgdb_id": 23891,
+      "title": "Pinball Jam"
+    },
+    {
+      "tgdb_id": 23892,
+      "title": "Pit Fighter"
+    },
+    {
+      "tgdb_id": 27034,
+      "title": "Championship Rally"
+    },
+    {
+      "tgdb_id": 27035,
+      "title": "Rampage"
+    },
+    {
+      "tgdb_id": 27036,
+      "title": "Rampart"
+    },
+    {
+      "tgdb_id": 27037,
+      "title": "RoadBlasters"
+    },
+    {
+      "tgdb_id": 27038,
+      "title": "Robotron: 2084"
+    },
+    {
+      "tgdb_id": 27039,
+      "title": "Rygar: Legendary Warrior"
+    },
+    {
+      "tgdb_id": 27040,
+      "title": "S.T.U.N. Runner"
+    },
+    {
+      "tgdb_id": 27041,
+      "title": "Shadow of the Beast"
+    },
+    {
+      "tgdb_id": 27042,
+      "title": "Steel Talons"
+    },
+    {
+      "tgdb_id": 27043,
+      "title": "Super Off Road"
+    },
+    {
+      "tgdb_id": 27044,
+      "title": "Switchblade II"
+    },
+    {
+      "tgdb_id": 27045,
+      "title": "Shanghai"
+    },
+    {
+      "tgdb_id": 27046,
+      "title": "Toki"
+    },
+    {
+      "tgdb_id": 27047,
+      "title": "Tournament Cyberball"
+    },
+    {
+      "tgdb_id": 27048,
+      "title": "Turbo Sub"
+    },
+    {
+      "tgdb_id": 27049,
+      "title": "Viking Child"
+    },
+    {
+      "tgdb_id": 27050,
+      "title": "World Class Soccer"
+    },
+    {
+      "tgdb_id": 27051,
+      "title": "Power Factor"
+    },
+    {
+      "tgdb_id": 27052,
+      "title": "Qix"
+    },
+    {
+      "tgdb_id": 27053,
+      "title": "Super Asteroids & Missile Command"
+    },
+    {
+      "tgdb_id": 31701,
+      "title": "Raiden"
+    },
+    {
+      "tgdb_id": 37715,
+      "title": "Lode Runner"
+    },
+    {
+      "tgdb_id": 37716,
+      "title": "Lynx II Production Test"
+    },
+    {
+      "tgdb_id": 37717,
+      "title": "T-Tris"
+    }
+  ]
+}

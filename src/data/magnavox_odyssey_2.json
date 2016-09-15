@@ -1,132 +1,527 @@
-[
-  "Dynasty",
-  "Helicopter Rescue",
-  "Hockey / Soccer",
-  "Invaders from Hyperspace",
-  "I've Got Your Number",
-  "K.C. Munchkin",
-  "Cosmic Conflict",
-  "Football!",
-  "Frogger",
-  "4 in 1 Row",
-  "Air-Sea War / Battle",
-  "Alien Invaders Plus",
-  "Alpine Skiing",
-  "AMOK!",
-  "Armada",
-  "Atlantis",
-  "Attack of the Timelord",
-  "Baseball",
-  "Backgammon",
-  "Blackjack!",
-  "Blobbers",
-  "Blockout / Breakdown",
-  "Bowling / Basketball",
-  "Casino Slot Machine",
-  "Catch the Ball / Noughts and Crosses",
-  "Chez Maxime",
-  "Chinese Logic",
-  "Clay Pigeon!",
-  "Comando Noturno",
-  "Computer Golf",
-  "Computer Intro",
-  "Conquest of the World",
-  "Demon Attack",
-  "Depth Charge / Marksman",
-  "Didi na Mina Encantada",
-  "Electronic Table Soccer",
-  "Exojet +",
-  "Freedom Fighters",
-  "Great Wall Street Fortune Hunt",
-  "K.C.'s Krazy Chase",
-  "Keyboard Creations",
-  "Killer Bees",
-  "Kinder im Verkehr 1",
-  "Labyrinth Game / Supermind",
-  "Las Vegas Blackjack",
-  "Le Trésor Englouti +",
-  "Loony Balloon",
-  "Matchmaker / Buzzword / Logix",
-  "Math-A-Magic / Echo",
-  "Monkeyshines",
-  "Morse",
-  "Moto-Crash +",
-  "The Mousing Cat",
-  "Musician",
-  "Neutron Star",
-  "Nightmare",
-  "Nimble Numbers Ned",
-  "Norseman",
-  "Out of this World / Helicopter Rescue",
-  "Pachinko",
-  "Pick Axe Pete",
-  "Pocket Billiards",
-  "Popeye",
-  "Power Lords",
-  "P.T. Barnum's Acrobats",
-  "Q*Bert",
-  "Race / Spin-Out / Cryptogram",
-  "SID the Spellbinder",
-  "Secret of the Pharaohs",
-  "Showdown in 2100 AD",
-  "Smithereens",
-  "Speedway / Spin-Out / Crypto-Logic",
-  "Armored Encounter / Sub Chase",
-  "Super Bee",
-  "Super Cobra",
-  "Syracuse",
-  "Take the Money and Run",
-  "Thunderball",
-  "Trans American Rally",
-  "Turtles",
-  "Type & Tell",
-  "UFO!",
-  "Volleyball",
-  "War of Nerves",
-  "Mr. Roboto!",
-  "Planet Lander!",
-  "Puzzle Piece Panic!",
-  "The Quest for the Rings",
-  "Calculator",
-  "Pinball",
-  "Pong",
-  "Tutankham",
-  "Electronic Volleyball",
-  "Stone Sling",
-  "Spider-Man",
-  "Skiing",
-  "Shark Hunter",
-  "Satellite Attack",
-  "Samurai",
-  "Robot City",
-  "Red Baron",
-  "Prendre l'Argent et Fuir",
-  "Pairs / Space Rendezvous / Logic",
-  "O Segredo do Farao",
-  "O Malabarista / Jogo da Velha",
-  "Night Fighter",
-  "Newscaster",
-  "Le Mur Magique",
-  "Munchkin",
-  "Missão Impossível / Viagem Programada",
-  "Mathematician / Echo",
-  "Martian Threat",
-  "Laser War",
-  "Las Vegas Gambling",
-  "Jumping Acrobats",
-  "Tenpin Bowling / Basketball",
-  "Interpol",
-  "Gunfighter",
-  "Golf",
-  "Computer Programmer",
-  "Buraco Negro!",
-  "Bombardeio Submarino / Tiro ao Alvo",
-  "Billiard Americain",
-  "Flipper Game",
-  "Chat et Souris",
-  "Chess",
-  "Playtag",
-  "Verkehrsspiele 1",
-  "Verkehrsspiele 2",
-  "Desafio Chinês!"
-]
+{
+  "tgbd_id": 4927,
+  "tgdb_alias": "magnavox-odyssey-2",
+  "name": "Magnavox Odyssey 2",
+  "titles": [
+    {
+      "tgdb_id": 22838,
+      "title": "Dynasty"
+    },
+    {
+      "tgdb_id": 22846,
+      "title": "Helicopter Rescue"
+    },
+    {
+      "tgdb_id": 22847,
+      "title": "Hockey / Soccer"
+    },
+    {
+      "tgdb_id": 22848,
+      "title": "Invaders from Hyperspace"
+    },
+    {
+      "tgdb_id": 22849,
+      "title": "I've Got Your Number"
+    },
+    {
+      "tgdb_id": 22850,
+      "title": "K.C. Munchkin"
+    },
+    {
+      "tgdb_id": 22834,
+      "title": "Cosmic Conflict"
+    },
+    {
+      "tgdb_id": 22842,
+      "title": "Football!"
+    },
+    {
+      "tgdb_id": 22844,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 22809,
+      "title": "4 in 1 Row"
+    },
+    {
+      "tgdb_id": 22810,
+      "title": "Air-Sea War / Battle"
+    },
+    {
+      "tgdb_id": 22811,
+      "title": "Alien Invaders Plus"
+    },
+    {
+      "tgdb_id": 22812,
+      "title": "Alpine Skiing"
+    },
+    {
+      "tgdb_id": 22813,
+      "title": "AMOK!"
+    },
+    {
+      "tgdb_id": 22814,
+      "title": "Armada"
+    },
+    {
+      "tgdb_id": 22816,
+      "title": "Atlantis"
+    },
+    {
+      "tgdb_id": 22817,
+      "title": "Attack of the Timelord"
+    },
+    {
+      "tgdb_id": 22818,
+      "title": "Baseball"
+    },
+    {
+      "tgdb_id": 22819,
+      "title": "Backgammon"
+    },
+    {
+      "tgdb_id": 22820,
+      "title": "Blackjack!"
+    },
+    {
+      "tgdb_id": 22821,
+      "title": "Blobbers"
+    },
+    {
+      "tgdb_id": 22822,
+      "title": "Blockout / Breakdown"
+    },
+    {
+      "tgdb_id": 22823,
+      "title": "Bowling / Basketball"
+    },
+    {
+      "tgdb_id": 22824,
+      "title": "Casino Slot Machine"
+    },
+    {
+      "tgdb_id": 22825,
+      "title": "Catch the Ball / Noughts and Crosses"
+    },
+    {
+      "tgdb_id": 22826,
+      "title": "Chez Maxime"
+    },
+    {
+      "tgdb_id": 22827,
+      "title": "Chinese Logic"
+    },
+    {
+      "tgdb_id": 22828,
+      "title": "Clay Pigeon!"
+    },
+    {
+      "tgdb_id": 22830,
+      "title": "Comando Noturno"
+    },
+    {
+      "tgdb_id": 22831,
+      "title": "Computer Golf"
+    },
+    {
+      "tgdb_id": 22832,
+      "title": "Computer Intro"
+    },
+    {
+      "tgdb_id": 22833,
+      "title": "Conquest of the World"
+    },
+    {
+      "tgdb_id": 22836,
+      "title": "Demon Attack"
+    },
+    {
+      "tgdb_id": 22837,
+      "title": "Depth Charge / Marksman"
+    },
+    {
+      "tgdb_id": 22839,
+      "title": "Didi na Mina Encantada"
+    },
+    {
+      "tgdb_id": 22840,
+      "title": "Electronic Table Soccer"
+    },
+    {
+      "tgdb_id": 22841,
+      "title": "Exojet +"
+    },
+    {
+      "tgdb_id": 22843,
+      "title": "Freedom Fighters"
+    },
+    {
+      "tgdb_id": 22845,
+      "title": "Great Wall Street Fortune Hunt"
+    },
+    {
+      "tgdb_id": 22851,
+      "title": "K.C.'s Krazy Chase"
+    },
+    {
+      "tgdb_id": 22852,
+      "title": "Keyboard Creations"
+    },
+    {
+      "tgdb_id": 22853,
+      "title": "Killer Bees"
+    },
+    {
+      "tgdb_id": 22854,
+      "title": "Kinder im Verkehr 1"
+    },
+    {
+      "tgdb_id": 22855,
+      "title": "Labyrinth Game / Supermind"
+    },
+    {
+      "tgdb_id": 22856,
+      "title": "Las Vegas Blackjack"
+    },
+    {
+      "tgdb_id": 22857,
+      "title": "Le Trésor Englouti +"
+    },
+    {
+      "tgdb_id": 22858,
+      "title": "Loony Balloon"
+    },
+    {
+      "tgdb_id": 22859,
+      "title": "Matchmaker / Buzzword / Logix"
+    },
+    {
+      "tgdb_id": 22860,
+      "title": "Math-A-Magic / Echo"
+    },
+    {
+      "tgdb_id": 22861,
+      "title": "Monkeyshines"
+    },
+    {
+      "tgdb_id": 22862,
+      "title": "Morse"
+    },
+    {
+      "tgdb_id": 22863,
+      "title": "Moto-Crash +"
+    },
+    {
+      "tgdb_id": 22864,
+      "title": "The Mousing Cat"
+    },
+    {
+      "tgdb_id": 22865,
+      "title": "Musician"
+    },
+    {
+      "tgdb_id": 22866,
+      "title": "Neutron Star"
+    },
+    {
+      "tgdb_id": 22867,
+      "title": "Nightmare"
+    },
+    {
+      "tgdb_id": 22868,
+      "title": "Nimble Numbers Ned"
+    },
+    {
+      "tgdb_id": 22869,
+      "title": "Norseman"
+    },
+    {
+      "tgdb_id": 22870,
+      "title": "Out of this World / Helicopter Rescue"
+    },
+    {
+      "tgdb_id": 22871,
+      "title": "Pachinko"
+    },
+    {
+      "tgdb_id": 22872,
+      "title": "Pick Axe Pete"
+    },
+    {
+      "tgdb_id": 22873,
+      "title": "Pocket Billiards"
+    },
+    {
+      "tgdb_id": 22874,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 22875,
+      "title": "Power Lords"
+    },
+    {
+      "tgdb_id": 22876,
+      "title": "P.T. Barnum's Acrobats"
+    },
+    {
+      "tgdb_id": 22877,
+      "title": "Q*Bert"
+    },
+    {
+      "tgdb_id": 22879,
+      "title": "Race / Spin-Out / Cryptogram"
+    },
+    {
+      "tgdb_id": 22880,
+      "title": "SID the Spellbinder"
+    },
+    {
+      "tgdb_id": 22881,
+      "title": "Secret of the Pharaohs"
+    },
+    {
+      "tgdb_id": 22882,
+      "title": "Showdown in 2100 AD"
+    },
+    {
+      "tgdb_id": 22883,
+      "title": "Smithereens"
+    },
+    {
+      "tgdb_id": 22884,
+      "title": "Speedway / Spin-Out / Crypto-Logic"
+    },
+    {
+      "tgdb_id": 22885,
+      "title": "Armored Encounter / Sub Chase"
+    },
+    {
+      "tgdb_id": 22886,
+      "title": "Super Bee"
+    },
+    {
+      "tgdb_id": 22887,
+      "title": "Super Cobra"
+    },
+    {
+      "tgdb_id": 22888,
+      "title": "Syracuse"
+    },
+    {
+      "tgdb_id": 22889,
+      "title": "Take the Money and Run"
+    },
+    {
+      "tgdb_id": 22890,
+      "title": "Thunderball"
+    },
+    {
+      "tgdb_id": 22891,
+      "title": "Trans American Rally"
+    },
+    {
+      "tgdb_id": 22892,
+      "title": "Turtles"
+    },
+    {
+      "tgdb_id": 22893,
+      "title": "Type & Tell"
+    },
+    {
+      "tgdb_id": 22894,
+      "title": "UFO!"
+    },
+    {
+      "tgdb_id": 22895,
+      "title": "Volleyball"
+    },
+    {
+      "tgdb_id": 22896,
+      "title": "War of Nerves"
+    },
+    {
+      "tgdb_id": 22897,
+      "title": "Mr. Roboto!"
+    },
+    {
+      "tgdb_id": 22898,
+      "title": "Planet Lander!"
+    },
+    {
+      "tgdb_id": 22899,
+      "title": "Puzzle Piece Panic!"
+    },
+    {
+      "tgdb_id": 22900,
+      "title": "The Quest for the Rings"
+    },
+    {
+      "tgdb_id": 22901,
+      "title": "Calculator"
+    },
+    {
+      "tgdb_id": 22903,
+      "title": "Pinball"
+    },
+    {
+      "tgdb_id": 22904,
+      "title": "Pong"
+    },
+    {
+      "tgdb_id": 22905,
+      "title": "Tutankham"
+    },
+    {
+      "tgdb_id": 22906,
+      "title": "Electronic Volleyball"
+    },
+    {
+      "tgdb_id": 22909,
+      "title": "Stone Sling"
+    },
+    {
+      "tgdb_id": 22910,
+      "title": "Spider-Man"
+    },
+    {
+      "tgdb_id": 22911,
+      "title": "Skiing"
+    },
+    {
+      "tgdb_id": 22912,
+      "title": "Shark Hunter"
+    },
+    {
+      "tgdb_id": 22913,
+      "title": "Satellite Attack"
+    },
+    {
+      "tgdb_id": 22914,
+      "title": "Samurai"
+    },
+    {
+      "tgdb_id": 22915,
+      "title": "Robot City"
+    },
+    {
+      "tgdb_id": 22916,
+      "title": "Red Baron"
+    },
+    {
+      "tgdb_id": 22917,
+      "title": "Prendre l'Argent et Fuir"
+    },
+    {
+      "tgdb_id": 22918,
+      "title": "Pairs / Space Rendezvous / Logic"
+    },
+    {
+      "tgdb_id": 22919,
+      "title": "O Segredo do Farao"
+    },
+    {
+      "tgdb_id": 22920,
+      "title": "O Malabarista / Jogo da Velha"
+    },
+    {
+      "tgdb_id": 22921,
+      "title": "Night Fighter"
+    },
+    {
+      "tgdb_id": 22922,
+      "title": "Newscaster"
+    },
+    {
+      "tgdb_id": 22923,
+      "title": "Le Mur Magique"
+    },
+    {
+      "tgdb_id": 22924,
+      "title": "Munchkin"
+    },
+    {
+      "tgdb_id": 22925,
+      "title": "Missão Impossível / Viagem Programada"
+    },
+    {
+      "tgdb_id": 22926,
+      "title": "Mathematician / Echo"
+    },
+    {
+      "tgdb_id": 22927,
+      "title": "Martian Threat"
+    },
+    {
+      "tgdb_id": 22928,
+      "title": "Laser War"
+    },
+    {
+      "tgdb_id": 22929,
+      "title": "Las Vegas Gambling"
+    },
+    {
+      "tgdb_id": 22930,
+      "title": "Jumping Acrobats"
+    },
+    {
+      "tgdb_id": 22931,
+      "title": "Tenpin Bowling / Basketball"
+    },
+    {
+      "tgdb_id": 22932,
+      "title": "Interpol"
+    },
+    {
+      "tgdb_id": 22933,
+      "title": "Gunfighter"
+    },
+    {
+      "tgdb_id": 22934,
+      "title": "Golf"
+    },
+    {
+      "tgdb_id": 22936,
+      "title": "Computer Programmer"
+    },
+    {
+      "tgdb_id": 22937,
+      "title": "Buraco Negro!"
+    },
+    {
+      "tgdb_id": 22938,
+      "title": "Bombardeio Submarino / Tiro ao Alvo"
+    },
+    {
+      "tgdb_id": 22939,
+      "title": "Billiard Americain"
+    },
+    {
+      "tgdb_id": 22940,
+      "title": "Flipper Game"
+    },
+    {
+      "tgdb_id": 37121,
+      "title": "Chat et Souris"
+    },
+    {
+      "tgdb_id": 37122,
+      "title": "Chess"
+    },
+    {
+      "tgdb_id": 37123,
+      "title": "Playtag"
+    },
+    {
+      "tgdb_id": 37124,
+      "title": "Verkehrsspiele 1"
+    },
+    {
+      "tgdb_id": 37125,
+      "title": "Verkehrsspiele 2"
+    },
+    {
+      "tgdb_id": 37582,
+      "title": "Desafio Chinês!"
+    }
+  ]
+}

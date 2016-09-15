@@ -1,102 +1,407 @@
-[
-  "Taikyoku Igo: Heisei Kiin",
-  "Beatmania",
-  "Chaos Gear: Michibi Kareshi Mono",
-  "Crazy Climber",
-  "Makaimura for WonderSwan",
-  "Mobile Suit Gundam MSVS",
-  "Buffers Evolution",
-  "Glocal Hexcite",
-  "Pocket Fighter",
-  "RockMan & Forte",
-  "Turntablist: DJ Battle",
-  "Anchorz Field",
-  "Armored Unit",
-  "Bakusou Dekotora Densetsu",
-  "Card Captor Sakura: Sakura to Fushigi na Clow Card",
-  "Chocobo no Fushigi Dungeon",
-  "Cho Aniki: Otoko no Tamafuda",
-  "Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou",
-  "Clock Tower",
-  "D's Garage21 Kōbo Game: Tane o maku tori",
-  "Densha de Go!",
-  "Densha de Go! 2",
-  "Digital Monster Ver. WonderSwan",
-  "Digimon Adventure 02: Tag Tamers",
-  "Digimon Adventure: Anode Tamer",
-  "Digimon Adventure: Cathode Tamer",
-  "Digital Partner",
-  "Dokodemo Hamster",
-  "Engacho!",
-  "Final Lap 2000",
-  "Fire Pro Wrestling for WonderSwan",
-  "Fishing Freaks: BassRise for WonderSwan",
-  "From the TV Animation:One Piece ~Mezase Kaizokuou!~",
-  "Ganso JaJaMaru-kun",
-  "Gomokunarabe & Reversi: Touryuumon",
-  "Goraku Ou Tango!",
-  "Gunpey",
-  "Hanafuda Shiyouyo",
-  "Harobots",
-  "Hunter X Hunter: Ishi o Tsugomono",
-  "Uzumaki: Denshi Kaiki-hen",
-  "Uzumaki: Noroi Simulation",
-  "Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen",
-  "Kaze no Klonoa: Moonlight Museum",
-  "KISS Yori... Seaside Serenade",
-  "Kosodate Quiz Dokodemo: My Angel",
-  "Kyousouba Ikusei Simulation: Keiba",
-  "Langrisser Millennium WS: The Last Century",
-  "Last Stand",
-  "Lode Runner for WonderSwan",
-  "Macross: True Love Song",
-  "Magical Drop for WonderSwan",
-  "Meta Communication Therapy: Nee Kiite!",
-  "Medarot: Perfect Edition - Kabuto Version",
-  "Medarot: Perfect Edition - Kuwagata Version",
-  "Meitantei Conan: Majutsushi no Chousenjou!",
-  "Meitantei Conan: Nishi no Meitantei Saidai no Kiki!?",
-  "Mingle Magnet",
-  "Moero!! Pro Yakyuu Rookies",
-  "Nazo-Oh Pocket",
-  "Neon Genesis Evangelion: Shito Ikusei",
-  "Nice On",
-  "Nobunaga no Yabou",
-  "Ochan no Oekaki Logic",
-  "Puyo Puyo Tsuu",
-  "Puzzle Bobble",
-  "Rainbow Islands: Putty's Party",
-  "Ring: Infinity",
-  "Sangokushi",
-  "Sangokushi II",
-  "SD Gundam: Emotional Jam",
-  "SD Gundam G Generation: Gather Beat",
-  "SD Gundam: Gashapon Senki Episode 1",
-  "Senkaiden: TV Animation Senkaiden Houshin Engi Yori",
-  "Sennou Millennium",
-  "Shanghai Pocket",
-  "Shin Nippon Pro Wrestling: Toukon Retsuden",
-  "Side Pocket for WonderSwan",
-  "Slither Link",
-  "Soccer Yarou!: Challenge The World",
-  "Sotsugyou Graduation for WonderSwan",
-  "Space Invaders",
-  "Super Robot Taisen Compact",
-  "Super Robot Taisen Compact 2 Dai-1-Bu: Chijou Gekidou-hen",
-  "Super Robot Taisen Compact 2 Dai-2-Bu: Uchuu Gekishin-hen",
-  "Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen",
-  "Tanjou Debut for WonderSwan",
-  "Tarepanda no Gunpey",
-  "Tekken Card Challenge",
-  "Terrors",
-  "Tetsujin 28-gou",
-  "Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo",
-  "Tokyo Majin Gakuen: Fuju Houroku",
-  "Umizuri ni Ikou!",
-  "Vaitz Blade",
-  "Wuz up b? Produce: Street Dancer",
-  "Wonder Stadium",
-  "Wonder Stadium '99",
-  "WonderSwan Handy Sonar",
-  "Tane Wo Maku Tori"
-]
+{
+  "tgbd_id": 4925,
+  "tgdb_alias": "wonderswan",
+  "name": "WonderSwan",
+  "titles": [
+    {
+      "tgdb_id": 31927,
+      "title": "Taikyoku Igo: Heisei Kiin"
+    },
+    {
+      "tgdb_id": 19545,
+      "title": "Beatmania"
+    },
+    {
+      "tgdb_id": 19546,
+      "title": "Chaos Gear: Michibi Kareshi Mono"
+    },
+    {
+      "tgdb_id": 19547,
+      "title": "Crazy Climber"
+    },
+    {
+      "tgdb_id": 19548,
+      "title": "Makaimura for WonderSwan"
+    },
+    {
+      "tgdb_id": 19549,
+      "title": "Mobile Suit Gundam MSVS"
+    },
+    {
+      "tgdb_id": 19613,
+      "title": "Buffers Evolution"
+    },
+    {
+      "tgdb_id": 19614,
+      "title": "Glocal Hexcite"
+    },
+    {
+      "tgdb_id": 19615,
+      "title": "Pocket Fighter"
+    },
+    {
+      "tgdb_id": 19616,
+      "title": "Rock Man & Forte: Challenger from the Future"
+    },
+    {
+      "tgdb_id": 27680,
+      "title": "Turntablist: DJ Battle"
+    },
+    {
+      "tgdb_id": 27587,
+      "title": "Anchorz Field"
+    },
+    {
+      "tgdb_id": 27588,
+      "title": "Armored Unit"
+    },
+    {
+      "tgdb_id": 27589,
+      "title": "Bakusou Dekotora Densetsu"
+    },
+    {
+      "tgdb_id": 27590,
+      "title": "Card Captor Sakura: Sakura to Fushigi na Clow Card"
+    },
+    {
+      "tgdb_id": 27591,
+      "title": "Chocobo no Fushigi Dungeon"
+    },
+    {
+      "tgdb_id": 27592,
+      "title": "Cho Aniki: Otoko no Tamafuda"
+    },
+    {
+      "tgdb_id": 27593,
+      "title": "Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou"
+    },
+    {
+      "tgdb_id": 27594,
+      "title": "Clock Tower"
+    },
+    {
+      "tgdb_id": 27595,
+      "title": "D's Garage21 Kōbo Game: Tane o maku tori"
+    },
+    {
+      "tgdb_id": 27596,
+      "title": "Densha de Go!"
+    },
+    {
+      "tgdb_id": 27597,
+      "title": "Densha de Go! 2"
+    },
+    {
+      "tgdb_id": 27598,
+      "title": "Digital Monster Ver. WonderSwan"
+    },
+    {
+      "tgdb_id": 27599,
+      "title": "Digimon Adventure 02: Tag Tamers"
+    },
+    {
+      "tgdb_id": 27600,
+      "title": "Digimon Adventure: Anode Tamer"
+    },
+    {
+      "tgdb_id": 27601,
+      "title": "Digimon Adventure: Cathode Tamer"
+    },
+    {
+      "tgdb_id": 27602,
+      "title": "Digital Partner"
+    },
+    {
+      "tgdb_id": 27603,
+      "title": "Dokodemo Hamster"
+    },
+    {
+      "tgdb_id": 27604,
+      "title": "Engacho!"
+    },
+    {
+      "tgdb_id": 27605,
+      "title": "Final Lap 2000"
+    },
+    {
+      "tgdb_id": 27606,
+      "title": "Fire Pro Wrestling for WonderSwan"
+    },
+    {
+      "tgdb_id": 27607,
+      "title": "Fishing Freaks: BassRise for WonderSwan"
+    },
+    {
+      "tgdb_id": 27608,
+      "title": "From the TV Animation:One Piece ~Mezase Kaizokuou!~"
+    },
+    {
+      "tgdb_id": 27609,
+      "title": "Ganso JaJaMaru-kun"
+    },
+    {
+      "tgdb_id": 27610,
+      "title": "Gomokunarabe & Reversi: Touryuumon"
+    },
+    {
+      "tgdb_id": 27611,
+      "title": "Goraku Ou Tango!"
+    },
+    {
+      "tgdb_id": 27612,
+      "title": "Gunpey"
+    },
+    {
+      "tgdb_id": 27613,
+      "title": "Hanafuda Shiyouyo"
+    },
+    {
+      "tgdb_id": 27614,
+      "title": "Harobots"
+    },
+    {
+      "tgdb_id": 27624,
+      "title": "Hunter X Hunter: Ishi o Tsugomono"
+    },
+    {
+      "tgdb_id": 27625,
+      "title": "Uzumaki: Denshi Kaiki-hen"
+    },
+    {
+      "tgdb_id": 27626,
+      "title": "Uzumaki: Noroi Simulation"
+    },
+    {
+      "tgdb_id": 27627,
+      "title": "Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen"
+    },
+    {
+      "tgdb_id": 27628,
+      "title": "Kaze no Klonoa: Moonlight Museum"
+    },
+    {
+      "tgdb_id": 27629,
+      "title": "KISS Yori... Seaside Serenade"
+    },
+    {
+      "tgdb_id": 27630,
+      "title": "Kosodate Quiz Dokodemo: My Angel"
+    },
+    {
+      "tgdb_id": 27631,
+      "title": "Kyousouba Ikusei Simulation: Keiba"
+    },
+    {
+      "tgdb_id": 27632,
+      "title": "Langrisser Millennium WS: The Last Century"
+    },
+    {
+      "tgdb_id": 27633,
+      "title": "Last Stand"
+    },
+    {
+      "tgdb_id": 27634,
+      "title": "Lode Runner for WonderSwan"
+    },
+    {
+      "tgdb_id": 27635,
+      "title": "Macross: True Love Song"
+    },
+    {
+      "tgdb_id": 27636,
+      "title": "Magical Drop for WonderSwan"
+    },
+    {
+      "tgdb_id": 27638,
+      "title": "Meta Communication Therapy: Nee Kiite!"
+    },
+    {
+      "tgdb_id": 27639,
+      "title": "Medarot: Perfect Edition - Kabuto Version"
+    },
+    {
+      "tgdb_id": 27640,
+      "title": "Medarot: Perfect Edition - Kuwagata Version"
+    },
+    {
+      "tgdb_id": 27641,
+      "title": "Meitantei Conan: Majutsushi no Chousenjou!"
+    },
+    {
+      "tgdb_id": 27642,
+      "title": "Meitantei Conan: Nishi no Meitantei Saidai no Kiki!?"
+    },
+    {
+      "tgdb_id": 27643,
+      "title": "Mingle Magnet"
+    },
+    {
+      "tgdb_id": 27644,
+      "title": "Moero!! Pro Yakyuu Rookies"
+    },
+    {
+      "tgdb_id": 27645,
+      "title": "Nazo-Oh Pocket"
+    },
+    {
+      "tgdb_id": 27646,
+      "title": "Neon Genesis Evangelion: Shito Ikusei"
+    },
+    {
+      "tgdb_id": 27647,
+      "title": "Nice On"
+    },
+    {
+      "tgdb_id": 27648,
+      "title": "Nobunaga no Yabou"
+    },
+    {
+      "tgdb_id": 27649,
+      "title": "Ochan no Oekaki Logic"
+    },
+    {
+      "tgdb_id": 27650,
+      "title": "Puyo Puyo Tsuu"
+    },
+    {
+      "tgdb_id": 27651,
+      "title": "Puzzle Bobble"
+    },
+    {
+      "tgdb_id": 27652,
+      "title": "Rainbow Islands: Putty's Party"
+    },
+    {
+      "tgdb_id": 27653,
+      "title": "Ring: Infinity"
+    },
+    {
+      "tgdb_id": 27654,
+      "title": "Sangokushi"
+    },
+    {
+      "tgdb_id": 27655,
+      "title": "Sangokushi II"
+    },
+    {
+      "tgdb_id": 27656,
+      "title": "SD Gundam: Emotional Jam"
+    },
+    {
+      "tgdb_id": 27657,
+      "title": "SD Gundam G Generation: Gather Beat"
+    },
+    {
+      "tgdb_id": 27658,
+      "title": "SD Gundam: Gashapon Senki Episode 1"
+    },
+    {
+      "tgdb_id": 27659,
+      "title": "Senkaiden: TV Animation Senkaiden Houshin Engi Yori"
+    },
+    {
+      "tgdb_id": 27660,
+      "title": "Sennou Millennium"
+    },
+    {
+      "tgdb_id": 27661,
+      "title": "Shanghai Pocket"
+    },
+    {
+      "tgdb_id": 27662,
+      "title": "Shin Nippon Pro Wrestling: Toukon Retsuden"
+    },
+    {
+      "tgdb_id": 27663,
+      "title": "Side Pocket for WonderSwan"
+    },
+    {
+      "tgdb_id": 27664,
+      "title": "Slither Link"
+    },
+    {
+      "tgdb_id": 27665,
+      "title": "Soccer Yarou!: Challenge The World"
+    },
+    {
+      "tgdb_id": 27666,
+      "title": "Sotsugyou Graduation for WonderSwan"
+    },
+    {
+      "tgdb_id": 27667,
+      "title": "Space Invaders"
+    },
+    {
+      "tgdb_id": 27668,
+      "title": "Super Robot Taisen Compact"
+    },
+    {
+      "tgdb_id": 27669,
+      "title": "Super Robot Taisen Compact 2 Dai-1-Bu: Chijou Gekidou-hen"
+    },
+    {
+      "tgdb_id": 27670,
+      "title": "Super Robot Taisen Compact 2 Dai-2-Bu: Uchuu Gekishin-hen"
+    },
+    {
+      "tgdb_id": 27671,
+      "title": "Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen"
+    },
+    {
+      "tgdb_id": 27672,
+      "title": "Tanjou Debut for WonderSwan"
+    },
+    {
+      "tgdb_id": 27673,
+      "title": "Tarepanda no Gunpey"
+    },
+    {
+      "tgdb_id": 27674,
+      "title": "Tekken Card Challenge"
+    },
+    {
+      "tgdb_id": 27675,
+      "title": "Terrors"
+    },
+    {
+      "tgdb_id": 27676,
+      "title": "Tetsujin 28-gou"
+    },
+    {
+      "tgdb_id": 27677,
+      "title": "Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo"
+    },
+    {
+      "tgdb_id": 27678,
+      "title": "Tokyo Majin Gakuen: Fuju Houroku"
+    },
+    {
+      "tgdb_id": 27681,
+      "title": "Umizuri ni Ikou!"
+    },
+    {
+      "tgdb_id": 27682,
+      "title": "Vaitz Blade"
+    },
+    {
+      "tgdb_id": 27684,
+      "title": "Wuz up b? Produce: Street Dancer"
+    },
+    {
+      "tgdb_id": 27685,
+      "title": "Wonder Stadium"
+    },
+    {
+      "tgdb_id": 27687,
+      "title": "Wonder Stadium '99"
+    },
+    {
+      "tgdb_id": 27688,
+      "title": "WonderSwan Handy Sonar"
+    },
+    {
+      "tgdb_id": 30154,
+      "title": "Tane Wo Maku Tori"
+    }
+  ]
+}

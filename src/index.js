@@ -4,13 +4,13 @@ import _ from 'underscore'
 
 const mainExport = {
   all: platforms,
-  games: platformGames,
+  info: platformGames,
   platforms: platformList,
   random: random,
   find: find
 };
 
-// Returns an array of titles
+// Returns all info for a platform
 function platformGames(platform) {
   return platforms[platform]
 }
@@ -20,19 +20,19 @@ function platformList() {
   return Object.keys(platforms)
 }
 
-// Returns an object of type {title, platform}
+// Returns an object of type {title, tgdb_id, platform}
 function random(options = {}) {
   const _platform = options.platform || _randomPlatform(options.platforms)
-  const game = uniqueRandomArray(platforms[_platform])()
-  return {title: game, platform: _platform}
+  const game = uniqueRandomArray(platforms[_platform].titles)()
+  return {title: game.title, tgdb_id: game.tgdb_id, platform: _platform}
 }
 
-// Returns on object of type {platform, [titles]}
+// Returns an object of type {platform, [titles]}
 function find(options = {}) {
   if (_.isEmpty(options) || !options.title) {
     return 'Error: You must pass options containing a title (required).'
   } else if (options.platform) {
-    const names = _.filter(platforms[options.platform], (s) => _inString(options, s))
+    const names = _.filter(platforms[options.platform].titles, (g) => _inString(options, g))
     return {platform: options.platform, titles: names}
   } else {
     return _findAll(options)
@@ -46,7 +46,7 @@ function _findAll(options) {
     _.each(unwanted, (platform) => delete _platforms[platform])
   }
   const found = _.mapObject(_platforms, (games) => {
-    return _.filter(games, (s) => _inString(options, s))
+    return _.filter(games.titles, (g) => _inString(options, g))
   })
   return _.reduce(found, (memo, value, key) => {
     if (!_.isEmpty(value)) {memo[key] = value}
@@ -54,11 +54,11 @@ function _findAll(options) {
   }, {})
 }
 
-function _inString(options, string) {
+function _inString(options, game) {
   if (options.ignoreCase) {
-    return string.toLowerCase().includes(options.title.toLowerCase())
+    return game.title.toLowerCase().includes(options.title.toLowerCase())
   } else {
-    return string.includes(options.title)
+    return game.title.includes(options.title)
   }
 }
 

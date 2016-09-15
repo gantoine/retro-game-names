@@ -1,58 +1,231 @@
-[
-  "Donkey Kong Circus - Panorama Screen",
-  "Donkey Kong II - Multi Screen",
-  "Donkey Kong Jr. - Panorama Screen",
-  "Donkey Kong - Table Top",
-  "Egg - Wide Screen",
-  "Lifeboat - Multi Screen",
-  "Mario Bros. - Multi Screen",
-  "Mickey Mouse - Wide Screen",
-  "Parachute - Wide Screen",
-  "Snoopy - Panorama Screen",
-  "Snoopy Tennis - Wide Screen",
-  "Turtle Bridge - Wide Screen",
-  "Bomb Fight",
-  "Donkey Kong Jr. - Coleco Table Top",
-  "Dugeons & Dragons Computer Fantasy Game",
-  "Baseball",
-  "Wild Man Jump - Table Top",
-  "Pirate",
-  "Las Vegas",
-  "Hippo Teeth",
-  "Armor Battle",
-  "Banana",
-  "Caccia al Ladro",
-  "Cessate il Fuoco",
-  "Chicky Woggy",
-  "Chicky Woggy - Table Top",
-  "Condor",
-  "Crazy Chewy",
-  "Defendo",
-  "Donkey Kong - Multi Screen",
-  "Donkey Kong Jr. - Nintendo Table Top",
-  "Engine Room",
-  "Escape",
-  "Explorers of Space",
-  "Galaxy II - Table Top",
-  "Grab Man",
-  "Tron",
-  "Towering Rescue",
-  "Tennis Menace - Sport",
-  "Sub Chase",
-  "Snoopy - Table Top",
-  "Mario's Bombs Away - Panorama Screen",
-  "Hot Line - Sport",
-  "Hot Line",
-  "Hippo Teeth - Sport",
-  "Mickey Mouse - Panorama Screen",
-  "Monkey",
-  "Monkey Jump",
-  "Motor Cross",
-  "Pac Man - Table Top",
-  "Pancake",
-  "Roller Coaster",
-  "Safari",
-  "Sleep Walker",
-  "Fowling",
-  "Frog Boaster"
-]
+{
+  "tgbd_id": 4950,
+  "tgdb_alias": "game-and-watch",
+  "name": "Game &amp; Watch",
+  "titles": [
+    {
+      "tgdb_id": 33453,
+      "title": "Donkey Kong Circus - Panorama Screen"
+    },
+    {
+      "tgdb_id": 33452,
+      "title": "Donkey Kong II - Multi Screen"
+    },
+    {
+      "tgdb_id": 33454,
+      "title": "Donkey Kong Jr. - Panorama Screen"
+    },
+    {
+      "tgdb_id": 33306,
+      "title": "Donkey Kong - Table Top"
+    },
+    {
+      "tgdb_id": 33455,
+      "title": "Egg - Wide Screen"
+    },
+    {
+      "tgdb_id": 33456,
+      "title": "Lifeboat - Multi Screen"
+    },
+    {
+      "tgdb_id": 33457,
+      "title": "Mario Bros. - Multi Screen"
+    },
+    {
+      "tgdb_id": 33458,
+      "title": "Mickey Mouse - Wide Screen"
+    },
+    {
+      "tgdb_id": 33459,
+      "title": "Parachute - Wide Screen"
+    },
+    {
+      "tgdb_id": 33460,
+      "title": "Snoopy - Panorama Screen"
+    },
+    {
+      "tgdb_id": 33461,
+      "title": "Snoopy Tennis - Wide Screen"
+    },
+    {
+      "tgdb_id": 33462,
+      "title": "Turtle Bridge - Wide Screen"
+    },
+    {
+      "tgdb_id": 36928,
+      "title": "Bomb Fight"
+    },
+    {
+      "tgdb_id": 36929,
+      "title": "Donkey Kong Jr. - Coleco Table Top"
+    },
+    {
+      "tgdb_id": 36930,
+      "title": "Dugeons & Dragons Computer Fantasy Game"
+    },
+    {
+      "tgdb_id": 36931,
+      "title": "Baseball"
+    },
+    {
+      "tgdb_id": 36960,
+      "title": "Wild Man Jump - Table Top"
+    },
+    {
+      "tgdb_id": 37186,
+      "title": "Pirate"
+    },
+    {
+      "tgdb_id": 37187,
+      "title": "Las Vegas"
+    },
+    {
+      "tgdb_id": 37188,
+      "title": "Hippo Teeth"
+    },
+    {
+      "tgdb_id": 37191,
+      "title": "Armor Battle"
+    },
+    {
+      "tgdb_id": 37192,
+      "title": "Banana"
+    },
+    {
+      "tgdb_id": 37193,
+      "title": "Caccia al Ladro"
+    },
+    {
+      "tgdb_id": 37194,
+      "title": "Cessate il Fuoco"
+    },
+    {
+      "tgdb_id": 37195,
+      "title": "Chicky Woggy"
+    },
+    {
+      "tgdb_id": 37196,
+      "title": "Chicky Woggy - Table Top"
+    },
+    {
+      "tgdb_id": 37197,
+      "title": "Condor"
+    },
+    {
+      "tgdb_id": 37198,
+      "title": "Crazy Chewy"
+    },
+    {
+      "tgdb_id": 37199,
+      "title": "Defendo"
+    },
+    {
+      "tgdb_id": 37200,
+      "title": "Donkey Kong - Multi Screen"
+    },
+    {
+      "tgdb_id": 37201,
+      "title": "Donkey Kong Jr. - Nintendo Table Top"
+    },
+    {
+      "tgdb_id": 37203,
+      "title": "Engine Room"
+    },
+    {
+      "tgdb_id": 37204,
+      "title": "Escape"
+    },
+    {
+      "tgdb_id": 37205,
+      "title": "Explorers of Space"
+    },
+    {
+      "tgdb_id": 37206,
+      "title": "Galaxy II - Table Top"
+    },
+    {
+      "tgdb_id": 37207,
+      "title": "Grab Man"
+    },
+    {
+      "tgdb_id": 37208,
+      "title": "Tron"
+    },
+    {
+      "tgdb_id": 37209,
+      "title": "Towering Rescue"
+    },
+    {
+      "tgdb_id": 37210,
+      "title": "Tennis Menace - Sport"
+    },
+    {
+      "tgdb_id": 37211,
+      "title": "Sub Chase"
+    },
+    {
+      "tgdb_id": 37212,
+      "title": "Snoopy - Table Top"
+    },
+    {
+      "tgdb_id": 37213,
+      "title": "Mario's Bombs Away - Panorama Screen"
+    },
+    {
+      "tgdb_id": 37214,
+      "title": "Hot Line - Sport"
+    },
+    {
+      "tgdb_id": 37216,
+      "title": "Hot Line"
+    },
+    {
+      "tgdb_id": 37217,
+      "title": "Hippo Teeth - Sport"
+    },
+    {
+      "tgdb_id": 37218,
+      "title": "Mickey Mouse - Panorama Screen"
+    },
+    {
+      "tgdb_id": 37219,
+      "title": "Monkey"
+    },
+    {
+      "tgdb_id": 37220,
+      "title": "Monkey Jump"
+    },
+    {
+      "tgdb_id": 37221,
+      "title": "Motor Cross"
+    },
+    {
+      "tgdb_id": 37223,
+      "title": "Pac Man - Table Top"
+    },
+    {
+      "tgdb_id": 37224,
+      "title": "Pancake"
+    },
+    {
+      "tgdb_id": 37225,
+      "title": "Roller Coaster"
+    },
+    {
+      "tgdb_id": 37226,
+      "title": "Safari"
+    },
+    {
+      "tgdb_id": 37227,
+      "title": "Sleep Walker"
+    },
+    {
+      "tgdb_id": 37228,
+      "title": "Fowling"
+    },
+    {
+      "tgdb_id": 37229,
+      "title": "Frog Boaster"
+    }
+  ]
+}

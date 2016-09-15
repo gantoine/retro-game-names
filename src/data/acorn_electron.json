@@ -1,18 +1,71 @@
-[
-  "Labyrinth",
-  "Overdrive",
-  "Camelot",
-  "Castle Quest",
-  "Citadel",
-  "Crazy Painter",
-  "Daredevil Dennis",
-  "Elite",
-  "Exile",
-  "Imogen",
-  "Ravenskull",
-  "Repton 3",
-  "Repton",
-  "Starship Command",
-  "Stryker's Run",
-  "Thrust"
-]
+{
+  "tgbd_id": 4954,
+  "tgdb_alias": "acorn-electron",
+  "name": "Acorn Electron",
+  "titles": [
+    {
+      "tgdb_id": 35236,
+      "title": "Labyrinth"
+    },
+    {
+      "tgdb_id": 35227,
+      "title": "Overdrive"
+    },
+    {
+      "tgdb_id": 35228,
+      "title": "Camelot"
+    },
+    {
+      "tgdb_id": 35229,
+      "title": "Castle Quest"
+    },
+    {
+      "tgdb_id": 35230,
+      "title": "Citadel"
+    },
+    {
+      "tgdb_id": 35231,
+      "title": "Crazy Painter"
+    },
+    {
+      "tgdb_id": 35232,
+      "title": "Daredevil Dennis"
+    },
+    {
+      "tgdb_id": 35233,
+      "title": "Elite"
+    },
+    {
+      "tgdb_id": 35234,
+      "title": "Exile"
+    },
+    {
+      "tgdb_id": 35235,
+      "title": "Imogen"
+    },
+    {
+      "tgdb_id": 35237,
+      "title": "Ravenskull"
+    },
+    {
+      "tgdb_id": 35238,
+      "title": "Repton 3"
+    },
+    {
+      "tgdb_id": 35239,
+      "title": "Repton"
+    },
+    {
+      "tgdb_id": 35240,
+      "title": "Starship Command"
+    },
+    {
+      "tgdb_id": 35241,
+      "title": "Stryker's Run"
+    },
+    {
+      "tgdb_id": 35242,
+      "title": "Thrust"
+    }
+  ]
+}

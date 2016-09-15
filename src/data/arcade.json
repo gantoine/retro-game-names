@@ -1,1599 +1,7027 @@
-[
-  "Tapper",
-  "Space Invaders",
-  "Daytona USA",
-  "Daytona USA 2",
-  "1942",
-  "Metal Slug 6",
-  "Lightning Sword",
-  "Laser Ghost",
-  "Knights of Valour Super Heroes",
-  "Wizard fire",
-  "Hyper Dyne Side Arms",
-  "Lady Bug",
-  "Tetris: The Grand Master 3 ~Terror Instinct~",
-  "Art of Fighting",
-  "19XX: The War Against Destiny",
-  "1941: Counter Attack",
-  "1944: The Loop Master",
-  "1945k III",
-  "Crime City",
-  "Double-Wings",
-  "Golden Axe: The Revenge Of Death Adder",
-  "Joe & Mac Returns",
-  "Nemo",
-  "P-47 Aces",
-  "P-47: The Phantom Fighter",
-  "Prehistoric Isle 2",
-  "Raiden",
-  "Raiden II",
-  "Raiden DX",
-  "Raiden Fighters",
-  "Raiden Fighters 2: Operation Hell Dive",
-  "Raiden Fighters Jet",
-  "The Real GhostBusters",
-  "The Simpsons",
-  "Strikers 1945",
-  "Strikers 1945 II",
-  "Strikers 1945 III",
-  "Strikers 1945 Plus",
-  "Twin Cobra II",
-  "Twin Eagle II: The Rescue Mission",
-  "Undercover Cops",
-  "X-Men: Children Of The Atom",
-  "Street Fighter Alpha 2",
-  "Bubble Bobble",
-  "Contra",
-  "Donkey Kong 3",
-  "Splash!",
-  "Balloon Bomber",
-  "Frog & Spiders",
-  "Gauntlet",
-  "Asteroids",
-  "Cyberball",
-  "Darius",
-  "Defender",
-  "All American Football",
-  "Astro Zone",
-  "Alien Syndrome",
-  "64th. Street: A Detective Story",
-  "Tron",
-  "R-Type",
-  "Final Fight",
-  "Golden Axe",
-  "Bad Dudes Vs. DragonNinja",
-  "Elevator Action",
-  "Gauntlet II",
-  "Altered Beast",
-  "Mortal Kombat II",
-  "Street Fighter II: The World Warrior",
-  "DANCING EYES",
-  "After Burner",
-  "City Bomber",
-  "Ghosts'n Goblins",
-  "Bomb Jack",
-  "Operation Wolf",
-  "Salamander",
-  "Blasteroids",
-  "The New Zealand Story",
-  "Mortal Kombat",
-  "Rampage",
-  "Indiana Jones and the Temple of Doom",
-  "Klax",
-  "Moon Cresta",
-  "Out Zone",
-  "Port Man",
-  "Road Champion",
-  "Space Cyclone",
-  "Sub Hunter",
-  "Super Pac-Man",
-  "Time Tunnel",
-  "Zoar",
-  "Alpine Ski",
-  "Captain Commando",
-  "Hoccer",
-  "Lupin III",
-  "Moon Patrol",
-  "Wild Western",
-  "Galaga",
-  "Donkey Kong",
-  "Donkey Kong Junior",
-  "PacMan",
-  "Galaxian",
-  "X-Men vs. Street Fighter",
-  "Pong",
-  "Cadillacs and Dinosaurs",
-  "Marvel vs. Capcom 2: New Age of Heroes",
-  "Street Fighter",
-  "Killer Instinct",
-  "Out Run",
-  "Missile Command",
-  "Marvel vs. Capcom: Clash of Super Heroes",
-  "Street Fighter Alpha 3",
-  "Super Street Fighter II: The New Challengers",
-  "Metal Slug 2",
-  "Killer Instinct 2",
-  "1943: The Battle of Midway",
-  "10-Yard Fight",
-  "18 Wheeler: American Pro Trucker",
-  "3 Count Bout",
-  "720 Degrees",
-  "Ajax",
-  "Aero Fighters",
-  "Aero Fighters 2",
-  "After Burner Climax",
-  "Air Buster",
-  "Air Inferno",
-  "Air Raid",
-  "Aliens",
-  "Apache 3",
-  "Aqua Jack",
-  "Arabian",
-  "Arkanoid",
-  "Armor Attack",
-  "Armored Warriors",
-  "Assault",
-  "Ataxx",
-  "Aztarac",
-  "After Burner II",
-  "Commando",
-  "Teenage Mutant Ninja Turtles: Turtles In Time",
-  "Street Fighter EX",
-  "Street Fighter EX 2",
-  "Mortal Kombat 4",
-  "Muscle Bomber Duo: Ultimate Team Battle",
-  "Quiz & Dragons: Capcom Quiz Game",
-  "Red Earth",
-  "Section-Z",
-  "Solar Fox",
-  "Strider",
-  "Super Gem Fighter Mini Mix",
-  "Super Street Fighter II Turbo",
-  "Tech Romancer",
-  "The Punisher",
-  "U.N. Squadron",
-  "Varth: Operation Thunderstorm",
-  "Willow",
-  "Windjammers",
-  "Buck Rogers: Planet of Zoom",
-  "ESPRa.De.",
-  "Gauntlet Dark Legacy",
-  "Toki",
-  "Black Tiger",
-  "Street Fighter III: 3rd Strike",
-  "Super Sidekicks 3: The Next Glory",
-  "Van Van Car",
-  "Vandyke",
-  "Vanguard 2",
-  "Space Harrier",
-  "Teenage Mutant Ninja Turtles",
-  "Track & Field",
-  "King of the Monsters",
-  "Shock Troopers",
-  "'88 Games",
-  "Double Dragon II: The Revenge",
-  "Dungeons & Dragons: Shadow Over Mystara",
-  "Dungeons & Dragons: Tower of Doom",
-  "Final Fight Revenge",
-  "Frogger",
-  "Golden Tee 2K",
-  "Ghouls 'N Ghosts",
-  "Gradius III",
-  "Knights of the Round",
-  "Kung-Fu Master",
-  "Michael Jackson's Moonwalker",
-  "NARC",
-  "Pac-Land",
-  "Pang",
-  "Rainbow Islands",
-  "RoboCop",
-  "Rolling Thunder",
-  "Rygar",
-  "Shadow Dancer",
-  "Shadow Warriors",
-  "Shinobi",
-  "Smash TV",
-  "Snow Bros.",
-  "800 Fathoms",
-  "AAARGH!",
-  "Ace Driver",
-  "Aggressors of Dark Kombat",
-  "Sunset Riders",
-  "Super Hang-On",
-  "Super Puzzle Fighter II Turbo",
-  "Wonder Boy",
-  "Wonder Boy III: Monster Lair",
-  "Wonder Boy in Monster Land",
-  "WWF WrestleFest",
-  "WWF Wrestlemania",
-  "Battlezone",
-  "BurgerTime",
-  "Captain America and the Avengers",
-  "Joe & Mac: Caveman Ninja",
-  "Centipede",
-  "Choplifter",
-  "DigDug",
-  "Joust",
-  "Mouse Trap",
-  "Pengo",
-  "Pole Position",
-  "Punch-Out!!",
-  "Rastan",
-  "Sea Wolf",
-  "Spy Hunter",
-  "Star Wars",
-  "Star Wars Trilogy Arcade",
-  "Tempest",
-  "Tetris",
-  "Warlords",
-  "Zaxxon",
-  "Battletoads",
-  "Funky Jet",
-  "Golden Axe: The Duel",
-  "Giga Wing",
-  "Giga Wing 2",
-  "Magical Drop II",
-  "Magical Drop III",
-  "Zarzon",
-  "Zed Blade",
-  "Zero Hour",
-  "Metal Slug X",
-  "Lady Master of Kung Fu",
-  "Tekken Tag Tournament",
-  "Super Street Fighter IV: Arcade Edition",
-  "Mario Kart Arcade GP 2",
-  "X-Men",
-  "Spider-Man: The Video Game",
-  "Alien vs. Predator",
-  "Marvel Super Heroes",
-  "Marvel Super Heroes vs. Street Fighter",
-  "Batman",
-  "G.I. Joe",
-  "Mario Kart Arcade GP",
-  "SegaSonic the Hedgehog",
-  "Double Dragon",
-  "NBA JAM",
-  "Sengoku Blade: Sengoku Ace Episode II",
-  "Three Wonders",
-  "NBA Jam Tournament Edition",
-  "Arcana Heart 3",
-  "Bloody Roar",
-  "Crazy Cross",
-  "Street Fighter Alpha: Warriors' Dreams",
-  "A.B.Cop Air Bike",
-  "Act-Fancer: Cybernetick Hyper Weapon",
-  "Air Attack",
-  "Air Combat 22",
-  "Air Duel",
-  "005",
-  "Alien3: The Gun",
-  "Alligator Hunt",
-  "Alpine Racer",
-  "Alpine Racer 2",
-  "American Speedway",
-  "Anteater",
-  "APB All-Points Bulletin",
-  "Arabian Fight",
-  "Arabian Magic",
-  "Arch Rivals",
-  "Area 88",
-  "Argus",
-  "Arkanoid Returns",
-  "Arlington Horse Racing",
-  "Arm Wrestling",
-  "Ashura Blaster",
-  "Asteroids Deluxe",
-  "Astro Blaster",
-  "Astro Fighter",
-  "Astron Belt",
-  "Asuka & Asuka",
-  "Asura Blade: Sword of Dynasty",
-  "Atari Football",
-  "Avenger",
-  "Avengers in Galactic Storm",
-  "Avenging Spirit",
-  "Bagman",
-  "Bang",
-  "Barrier",
-  "Battle Circuit",
-  "Batsugun",
-  "Battlantis",
-  "Best Bout Boxing",
-  "Battle Chopper",
-  "Battle Bakraid",
-  "Blaster",
-  "Block Block",
-  "Blood Brothers",
-  "Bonze Adventure",
-  "Bosconian",
-  "Back Street Soccer",
-  "Bubbles",
-  "Black Widow",
-  "Cameltry",
-  "Canyon Bomber",
-  "Capcom Bowling",
-  "CarnEvil",
-  "Carrier Air Wing",
-  "Crude Buster",
-  "Champion Baseball",
-  "Cloak & Dagger",
-  "Cosmo Gang",
-  "Crazy Balloon",
-  "Crossbow",
-  "Capcom Sports Club",
-  "Championship Sprint",
-  "Cube Quest",
-  "Cyberball 2072",
-  "Cyberbots: Full Metal Madness",
-  "Dark Adventure",
-  "Tōkidenshō Angel Eyes",
-  "Dimahoo",
-  "Domino Man",
-  "Don Doko Don",
-  "Discs of Tron",
-  "Mr. Do's Wild Ride",
-  "Dragon Saber",
-  "Darkstalkers",
-  "Dungeon Magic",
-  "Dynasty Wars",
-  "Eco Fighters",
-  "Empire City: 1931",
-  "Cyber Police ESWAT",
-  "Exerion",
-  "Express Raider",
-  "Food Fight",
-  "Flying Shark",
-  "Bega's Battle",
-  "Galaxy Ranger",
-  "GP World",
-  "Interstellar",
-  "Dragon's Lair II",
-  "M.A.C.H. 3",
-  "Road Blasters",
-  "Super Don Quix-ote",
-  "Thayer's Quest",
-  "Us Vs. Them",
-  "Galaga '88",
-  "Gladiator",
-  "Golden Tee Classic",
-  "Great 1000 Mile Rally",
-  "Guardians of the 'Hood",
-  "Gunbird",
-  "Guwange",
-  "Heated Barrel",
-  "American Horseshoes",
-  "Hat Trick Hero '93",
-  "Hat Trick Hero '94",
-  "Hunchback",
-  "Intrepid",
-  "I, Robot",
-  "Iron Horse",
-  "Jack The Giantkiller",
-  "Jail Break",
-  "Star Wars: Return Of The Jedi",
-  "Jumping Jack",
-  "Journey",
-  "Joust 2: Survival Of The Fittest",
-  "Jump Bug",
-  "Jungle King",
-  "Knuckle Bash",
-  "Karate Champ",
-  "Kick",
-  "Kicker",
-  "Kick And Run",
-  "KiKi KaiKai",
-  "Kozmik Krooz'r",
-  "Krull",
-  "Legion",
-  "Leprechaun",
-  "Lightning Fighters",
-  "Lunar Lander",
-  "Lucky & Wild",
-  "Make Trax",
-  "Mappy",
-  "Martial Masters",
-  "Mat Mania",
-  "Mega Man 2: The Power Fighters",
-  "Metamorphic Force",
-  "Major Havoc",
-  "Mikie: High School Graffiti",
-  "Mars Matrix",
-  "Wild West C.O.W.-Boys of Moo Mesa",
-  "Mouser",
-  "Mad Planets",
-  "Mr. Driller",
-  "Nastar",
-  "Nibbler",
-  "New Rally-X",
-  "The Outfoxies",
-  "Pandora's Palace",
-  "Puzzle Bobble 3",
-  "Puzzle Bobble 4",
-  "Peter Pack Rat",
-  "Pig Out",
-  "Pigskin",
-  "Poker Ladies",
-  "Penguin-Kun Wars",
-  "Pleiades",
-  "Ponpoko",
-  "Pooyan",
-  "Prehistoric Isle",
-  "Progear: Storm Of Progia",
-  "Psychic 5",
-  "Parallel Turn",
-  "Quantum",
-  "Radar Scope",
-  "Red Baron (Sierra)",
-  "Roc'n Rope",
-  "R-Type II",
-  "R-Type Leo",
-  "Super Basketball",
-  "Super Contra",
-  "Scramble",
-  "Street Fighter EX Plus",
-  "Street Fighter III: New Generation",
-  "Satan's Hollow",
-  "Shuffleshot",
-  "Shuuz",
-  "Sly Spy",
-  "Snake Pit",
-  "Snacks 'n Jaxson",
-  "Space Duel",
-  "Space Invaders DX",
-  "Super Qix",
-  "Speed Rumbler",
-  "Star Castle",
-  "Stratovox",
-  "Vs. Super Mario Bros.",
-  "Swimmer",
-  "Super Zaxxon",
-  "Tac/Scan",
-  "Tank Battalion",
-  "Tetris Plus 2",
-  "Tetris: The Grand Master",
-  "Thief",
-  "Timber",
-  "Tumblepop",
-  "Ultra Tank",
-  "U.S. Championship V'Ball",
-  "Victory Road",
-  "Violent Storm",
-  "Vampire Savior: The Lord Of Vampire",
-  "Gradius II: Gofer no Yabou",
-  "Wacko",
-  "Warp & Warp",
-  "Warrior",
-  "Warrior Blade",
-  "World Class Bowling",
-  "War Of The Worlds",
-  "WWF Superstars",
-  "Xain'd Sleena",
-  "XX Mission",
-  "Xybots",
-  "Bubble Symphony",
-  "Fishin' Frenzy",
-  "Groove on Fight",
-  "Juno First",
-  "Pinball Action",
-  "Space Bomber",
-  "Silent Dragon",
-  "The Legend of Silkroad",
-  "The Simpsons Bowling",
-  "Warriors of Fate",
-  "Dark Edge",
-  "Yie Ar Kung-Fu",
-  "Boxing Bugs",
-  "Demon",
-  "Eliminator",
-  "Solar Quest",
-  "Speed Freak",
-  "Sundance",
-  "TailGunner",
-  "Zektor",
-  "Demolish Fist",
-  "Chase 1929",
-  "Dolphin Blue",
-  "Dirty Pigskin Football",
-  "Faster Than Speed",
-  "Force Five",
-  "Fist of the North Star",
-  "Guilty Gear Isuka",
-  "Kenju",
-  "The King of Fighters Neowave",
-  "The King of Fighters XI",
-  "The King of Fighters XII",
-  "Knights of Valour: The Seven Spirits",
-  "Maximum Speed",
-  "Neo Geo Battle Coliseum",
-  "Ranger Mission",
-  "The Rumble Fish",
-  "The Rumble Fish 2",
-  "Samurai Shodown VI",
-  "Sega Bass Fishing Challenge",
-  "Sega Clay Challenge",
-  "Sports Shooting USA",
-  "Extreme Hunting 2 Tournament Edition",
-  "Extreme Hunting",
-  "Behind Enemy Lines",
-  "Desert Tank",
-  "Dead or Alive",
-  "Gunblade NY",
-  "Motor Raid",
-  "Pilot Kids",
-  "Sonic Championship",
-  "Sega Ski Super G",
-  "Sky Target",
-  "Sega Rally Championship",
-  "Sega Touring Car Championship",
-  "Virtua Striker",
-  "Wave Runner",
-  "Zero Gunner",
-  "Guilty Gear XX",
-  "The Maze Of The Kings",
-  "Slashout",
-  "Spikers Battle",
-  "Virtua NBA",
-  "Virtua Striker 3",
-  "Heavy Barrel",
-  "Ms. PacMan",
-  "Q*bert",
-  "RoadBlasters",
-  "Deadstorm Pirates",
-  "Guerrilla War",
-  "Ikari Warriors",
-  "Lethal Enforcers",
-  "Mario Bros.",
-  "Rampage World Tour",
-  "Rampart",
-  "Get Bass: Sega Bass Fishing",
-  "Waku Waku Sonic Patrol Car",
-  "Alex Kidd: The Lost Stars",
-  "Indy 500",
-  "Virtua Fighter 2",
-  "Mortal Kombat 3",
-  "Green Beret",
-  "Carnival",
-  "Bust-A-Move Again",
-  "Ninja Master's: Haou Ninpou-ko",
-  "Ninja-Kun: Majou no Bouken",
-  "Nebulas ray",
-  "Insector X",
-  "Tokio",
-  "Side pocket",
-  "4-D Warriors",
-  "Aeroboto",
-  "Air Gallet",
-  "Backfire!",
-  "Metal Slug 3",
-  "Metal Slug 4",
-  "Metal Slug 5",
-  "Dynamite Cop",
-  "Last Bronx",
-  "Manx TT Superbike",
-  "Top Skater",
-  "Over Rev",
-  "Dirt Devils",
-  "The Lost World: Jurassic Park",
-  "Fighting Vipers 2",
-  "Street Fighter EX2 Plus",
-  "Emergency Call Ambulance",
-  "Harley-Davidson & L.A. Riders",
-  "L.A. Machineguns: Rage Of The Machines",
-  "Le Mans 24 Hours",
-  "Magical Truck Adventure",
-  "Scud Race",
-  "The Ocean Hunter",
-  "Spike Out",
-  "Sega Rally 2 Championship",
-  "Virtua Fighter 3",
-  "Virtua Striker 2",
-  "Cyber Troopers Virtual-On",
-  "Cyber Troopers Virtual-On: Oratorio Tangram",
-  "Fighting Vipers",
-  "The House of the Dead",
-  "Sega Water Ski",
-  "Virtua Cop",
-  "Virtua Cop 2",
-  "Rail Chase 2",
-  "Art of Fighting 2",
-  "Art of Fighting 3",
-  "Alcon",
-  "Ali Baba and 40 Thieves",
-  "Ambush",
-  "King of the Monsters 2",
-  "Paperboy",
-  "Kid Niki: Radical Ninja",
-  "Magician Lord",
-  "Marble Madness",
-  "Super Dodge Ball",
-  "Tiger Heli",
-  "Gain Ground",
-  "Asterix",
-  "Double Dragon 3: The Rosetta Stone",
-  "The King of Dragons",
-  "Airwolf",
-  "Gals Panic",
-  "Superman",
-  "Sonic Wings 3",
-  "Neo Bomberman",
-  "The King of Fighters 2002",
-  "Street Fighter II: Champion Edition",
-  "Super Sidekicks",
-  "Arkanoid: Revenge of DOH",
-  "Bionic Commando",
-  "Bomber Man World",
-  "Bonanza Bros.",
-  "Brave Blade",
-  "BreakThru",
-  "Bubble Memories",
-  "Bucky O'Hare",
-  "Burning Force",
-  "Caliber .50",
-  "Chase Bombers",
-  "Chase H.Q.",
-  "Cotton 2: Magical Night Dreams",
-  "Cotton: Fantastic Night Dreams",
-  "The Crystal of Kings",
-  "Fix It Felix Jr.",
-  "Mercs",
-  "Sexy Parodius",
-  "Battle Rangers",
-  "Blades of Steel",
-  "Bottom of the Ninth",
-  "Champion Wrestler",
-  "F-1 Dream",
-  "Football Champ",
-  "Hit The Ice",
-  "Hot Chase",
-  "Hyper Sports",
-  "Jr. PacMan",
-  "Kick Off",
-  "Kick Rider",
-  "Load Runner 4",
-  "Ironman Off Road",
-  "Pang! 3",
-  "Pitfall II: Lost Caverns",
-  "RedLine Racer",
-  "Relief Pitcher",
-  "Road Fighter",
-  "Super Champion Baseball",
-  "Super Volley Ball",
-  "Final Blow",
-  "Tail to Nose",
-  "Tank Force",
-  "Traverse USA",
-  "World Court",
-  "Worl Cup 95 Volleyball",
-  "Boulder Dash",
-  "The Tower of Druaga",
-  "Tehkan World Cup",
-  "Darius Gaiden",
-  "Pocket Gal",
-  "Magic Sword: Heroic Fantasy",
-  "The Main Event",
-  "Ring Rage",
-  "DonPachi",
-  "Astroids",
-  "Super Sidekicks 2",
-  "Hook",
-  "Acrobat Mission",
-  "Azurian Attack",
-  "Zzyzzyxx",
-  "Cyber-Lip",
-  "E.D.F. Earth Defense Force",
-  "Fantasy Zone",
-  "Fantasy Zone II: The Tears of Opa-Opa",
-  "GangBusters",
-  "Mega Man: The Power Battle",
-  "Thunder Cross",
-  "Thunder Cross II",
-  "Xexex",
-  "Qix",
-  "Bust-a-Move",
-  "Circus",
-  "Robot Bowl",
-  "Car Polo",
-  "Side Trak",
-  "Rip Cord",
-  "Fire One",
-  "Crash",
-  "Star Fire",
-  "Targ",
-  "Spectar",
-  "Hard Hat",
-  "Victory",
-  "Teeter Torture",
-  "Fax",
-  "Top Gunner",
-  "Robby Roto",
-  "Super Tank",
-  "Looping",
-  "Gridlee",
-  "Alien Arena",
-  "Breakers",
-  "Fatal Fury 3: Road to the Final Victory",
-  "Galaxy Fight: Universal Warriors",
-  "Kizuna Encounter: Super Tag Battle",
-  "NAM-1975",
-  "Neo Geo Cup '98: The Road to the Victory",
-  "Over Top",
-  "Pulstar",
-  "Splatterhouse",
-  "Street Fighter II: Rainbow Edition",
-  "Die Hard Arcade",
-  "CRIME FIGHTERS 2",
-  "Defend The Terra Attack On The Red UFO",
-  "Dragon Buster",
-  "Buster Bros",
-  "Alien challenge",
-  "Alien Sector",
-  "Dig Dug II",
-  "Gradius",
-  "Pac-Mania",
-  "Xevious",
-  "TwinBee",
-  "Toobin'",
-  "Street Fighter II Turbo: Hyper Fighting",
-  "Mutation Nation",
-  "Samurai Shodown",
-  "Samurai Shodown II",
-  "Samurai Shodown III",
-  "The King of Fighters '94",
-  "The King of Fighters '95",
-  "The King of Fighters '96",
-  "The King of Fighters '97",
-  "The King of Fighters '98",
-  "Real Bout Fatal Fury Special",
-  "Real Bout Fatal Fury",
-  "Mystic Warriors: Wrath of the Ninjas",
-  "Master of Weapon",
-  "A.D. 2083",
-  "Action Hollywood",
-  "Surprise Attack",
-  "Hyper Street Fighter II: The Anniversary Edition",
-  "Street Fighter III: 2nd Impact",
-  "Denjin Makai",
-  "Guardians: Denjin Makai II",
-  "Dragon Master",
-  "Blade Master",
-  "Samurai Shodown IV",
-  "Cabal",
-  "Haunted Castle",
-  "Fatal Fury: King of Fighters",
-  "Fatal Fury 2",
-  "Robo Army",
-  "Samurai Shodown V",
-  "Sengoku",
-  "Sengoku 2",
-  "Sengoku 3",
-  "SNK vs. Capcom: SVC Chaos",
-  "The King of Fighters '99",
-  "The King of Fighters 2000",
-  "The King of Fighters 2001",
-  "The King of Fighters 2003",
-  "Mr. Do! (Universal)",
-  "Pac-Man",
-  "Puck-Man",
-  "Real Bout Fatal Fury 2: The Newcomers",
-  "Shock Troopers - 2nd Squad",
-  "Baseball Stars 2",
-  "Neo Mr. Do!",
-  "Hang-On",
-  "Rambo III",
-  "Neo Turf Masters",
-  "Street Fighter: The Movie",
-  "Last Blade",
-  "Last Blade 2",
-  "The Ultimate 11: SNK Football Championship",
-  "Ah Eikou No Koshien",
-  "Batman Forever",
-  "Battle K-Road",
-  "Blood Storm",
-  "Blood Warrior",
-  "Breakers Revenge",
-  "Burning Fight",
-  "Burning Rival",
-  "Dragoon Might",
-  "Far East of Eden: Kabuki Klash",
-  "Fatal Fury Special",
-  "Fight Fever",
-  "Fighter's History",
-  "Fighting Layer",
-  "Fire Trap",
-  "Gaia Crusaders",
-  "Garou: Mark of the Wolves",
-  "Goal! Goal! Goal!",
-  "Power Instinct Legends",
-  "Kaiser Knuckle",
-  "Fighter's History Dynamite",
-  "Magical Cat Adventure",
-  "Martial Champion",
-  "Power Instinct Matrimelee",
-  "Metamoqester",
-  "Monster Maulers",
-  "Night Slashers",
-  "Night Warriors: Darkstalkers' Revenge",
-  "Oriental Legend",
-  "OutRunners",
-  "Pit Fighter",
-  "Power Instinct",
-  "Power Instinct 2",
-  "Pretty Soldier Sailor Moon",
-  "Purikura Daisakusen",
-  "PuLiRuLa",
-  "Rad Mobile",
-  "Rad Rally",
-  "Rally Bike",
-  "Ring of Destruction: Slam Masters 2",
-  "RoboCop 2",
-  "Samurai Shodown V Special",
-  "Saturday Night Slam Masters",
-  "Savage Reign",
-  "SD Fighters",
-  "Special Criminal Investigation",
-  "Super Pang",
-  "Tattoo Assassins",
-  "Ultimate Mortal Kombat 3",
-  "Vamf x1/2",
-  "Vendetta",
-  "World Heroes",
-  "World Heroes 2",
-  "World Heroes 2 Jet",
-  "World Heroes Perfect",
-  "Mirax",
-  "Mangchi",
-  "Voltage Fighter Gowcaizer",
-  "Waku Waku 7",
-  "Salamander 2",
-  "Rage of the Dragons",
-  "Metal Slug",
-  "Knuckle Heads",
-  "Death Brade",
-  "Stone Ball",
-  "Survival Arts",
-  "Ta•o Taido",
-  "Shogun Warriors",
-  "BattleCry",
-  "Best of Best",
-  "Blazing Tornado",
-  "Brute Force",
-  "Crime Fighters",
-  "The Fallen Angels",
-  "Fantasy",
-  "FlashGal",
-  "Karate Blazers",
-  "Ashita No Joe",
-  "Legionnaire",
-  "Ninja Baseball Bat Man",
-  "Plasma Sword: Nightmare of Bilstein",
-  "Riding Fight",
-  "Rise of the Robots (Prototype)",
-  "Violence Fight",
-  "Superior Soldiers",
-  "Star Gladiator Episode I: Final Crusade",
-  "Jackie Chan: The Kung-Fu Master",
-  "Jackie Chan in Fists of Fire",
-  "MegaPony",
-  "Silent Hill: The Arcade",
-  "NBA Showtime: NBA On NBC",
-  "Gyruss",
-  "Time Pilot",
-  "Phoenix",
-  "Astra Super Stars",
-  "Fatal Fury: Wild Ambition",
-  "Melty Blood: Act Cadenza",
-  "Melty Blood: Act Cadenza Ver. B",
-  "Neo Drift Out: New Technology",
-  "Battle Arena Toshinden 2",
-  "NFL Blitz 99",
-  "NFL Blitz 2000 Gold Edition",
-  "Lethal Enforcers II Gun Fighters",
-  "Crime Patrol",
-  "Crime Patrol 2: Drug Wars",
-  "Mad Dog McCree",
-  "Area 51/Maximum Force Duo",
-  "Cruis'n USA",
-  "Cruis'n World",
-  "NFL Blitz",
-  "Tekken",
-  "Tekken 2",
-  "Tekken 3",
-  "Time Crisis II",
-  "NBA Maximum Hangtime",
-  "California Speed",
-  "Crazy Taxi",
-  "Terminator 2: Judgment Day",
-  "Baseball Stars Professional",
-  "Confidential Mission",
-  "The House Of The Dead 2",
-  "Lupin The 3rd The Shooting",
-  "Jambo Safari",
-  "NASCAR",
-  "Smashing Drive",
-  "Capcom Vs. SNK: Millennium Fight 2000",
-  "Capcom Vs. SNK 2: Mark of The Millennium 2001",
-  "Dead or Alive 2 Millennium",
-  "Aero Fighters 3",
-  "Cannon Spike",
-  "Amidar",
-  "Andro Dunos",
-  "Arbalester",
-  "Armed Formation F",
-  "Atomic Point",
-  "Aurail",
-  "The Battle Road",
-  "Bay Route",
-  "The Berlin Wall",
-  "Big Karnak",
-  "Biomechanical Toy",
-  "Black Hole",
-  "Blood Bros.",
-  "Bells & Whistles",
-  "Blue Print",
-  "Brain",
-  "Calipso",
-  "Cosmic Avenger",
-  "Check Man",
-  "Chelnov",
-  "Crazy Kong",
-  "Cobra Command",
-  "Cookie & Bibi 3",
-  "Crossed Swords",
-  "Crush Roller",
-  "Captain Silver",
-  "The Combatribes",
-  "Cue Brick",
-  "Dark Seal",
-  "Carnica",
-  "Dead Connection",
-  "Demon's World",
-  "Devil Fish",
-  "Devastators",
-  "Digger Man",
-  "Dino Rex",
-  "Dogyuun",
-  "Downtown",
-  "Dream Shopper",
-  "Dragon Unit",
-  "Dream Soccer '94",
-  "Stakes Winner",
-  "Stakes Winner 2",
-  "WWF Royal Rumble",
-  "Ninja Assault",
-  "Invasion - The Abductors",
-  "Off Road Challenge",
-  "2 on 2 Open Ice Challenge",
-  "ASO II: Last Guardian",
-  "Astro Invader",
-  "Athena",
-  "Bad Lands",
-  "Blazing Star",
-  "Block Out",
-  "Blue's Journey",
-  "Bomb Jack Twin",
-  "Boot Camp",
-  "Break Thru",
-  "Burnin' Rubber",
-  "Dynamite Duke",
-  "Enduro Racer",
-  "Exed Exes",
-  "Explosive Breaker",
-  "Eyes",
-  "Football Frenzy",
-  "Fever SOS",
-  "Fire Shark",
-  "Flicky",
-  "Azumanga Daioh Puzzle Bobble",
-  "Dynamite Deka EX ~Asian Dynamite~",
-  "Chopper I",
-  "Congo Bongo",
-  "Cosmo Gang The Video",
-  "Crazy Cop",
-  "Cuby Bop",
-  "Devil World",
-  "Drift Out",
-  "Dyger",
-  "Dynamite Dux",
-  "Euro Champ '92",
-  "Faster Harder More Challenging Q*bert",
-  "Steel Force",
-  "News",
-  "Puzz Loop 2",
-  "Puzzle King",
-  "Virtua Fighter 4",
-  "Virtua Fighter 4 Evolution",
-  "Virtua Fighter 4 Final Tuned",
-  "Alpha Mission II",
-  "Battle Flip Shot",
-  "Spinal Breakers",
-  "Twinkle Star Sprites",
-  "2020 Super Baseball",
-  "Mega Twins",
-  "Wild Fang",
-  "Forgotten Worlds",
-  "Bomberman: Panic Bomber",
-  "Truxton",
-  "Truxton II",
-  "Oni - The Ninja Master",
-  "Knights of Valour",
-  "Do DonPachi",
-  "Dragon Blaze",
-  "Super Slams",
-  "Gaplus",
-  "Super Slam",
-  "Gang Busters",
-  "Gang Wars",
-  "Ghost Pilots",
-  "Ghox",
-  "Gimme a Break",
-  "Gridiron Fight",
-  "Growl",
-  "Guzzler",
-  "The Fairyland Story",
-  "Fancy World - Earth of Crisis",
-  "Funky Fish",
-  "Flash Point",
-  "The Final Round",
-  "Gardia",
-  "Grind Stormer",
-  "Gunforce",
-  "Gun & Frontier",
-  "Gun.Smoke",
-  "Gyrodine",
-  "Head Panic",
-  "Hellfire",
-  "Hammerin' Harry",
-  "Hippodrome",
-  "Hotdog Storm",
-  "Heavy Metal",
-  "Heavyweight Champ",
-  "Ikari III",
-  "In the Hunt",
-  "Jump Kids",
-  "Batrider",
-  "Battle Garegga",
-  "DoDonPachi",
-  "Cybattler",
-  "Kageki",
-  "Konami GT",
-  "Last Resort",
-  "LED Storm",
-  "Legend Of Hero Tonma",
-  "Liquid Kids",
-  "Gorf",
-  "Fast Freddie",
-  "Crazy Climber",
-  "D-day",
-  "Boot Hill",
-  "Demolition Derby",
-  "Final Furlong",
-  "Golden Tee Live",
-  "Gemini Wing",
-  "Parodius Da! Shinwa kara Owarai e",
-  "Soul Edge",
-  "RayForce",
-  "Baby Pac-Man",
-  "Pac-Man Plus",
-  "Computer Space",
-  "Marchen Maze",
-  "Puzz Loop",
-  "Minasan",
-  "Guardian Force",
-  "Elevator Action Returns",
-  "Guilty Gear Xrd",
-  "Ninja Hayate",
-  "Tank",
-  "Rally-X",
-  "Golden Tee Golf",
-  "Frogs",
-  "Galaxy Game",
-  "Golden Tee Fore! 2004",
-  "Gran Trak 10",
-  "Guitar Freaks",
-  "Maneater",
-  "Plump Pop",
-  "Quadrapong",
-  "Rebound",
-  "Jumping Pop",
-  "Kangaroo",
-  "Karnov",
-  "The Killing Blade",
-  "King & Balloon",
-  "Kingdom Grand Prix",
-  "Terra Cresta",
-  "Lode Runner II",
-  "Lethal Thunder",
-  "Levers",
-  "Lizard Wizard",
-  "The Legend of Kage",
-  "Lost Tomb",
-  "Legendary Wings",
-  "Mad Gear",
-  "Marine Boy",
-  "Soulcalibur III",
-  "Spectral vs. Generation",
-  "Asura Buster: Eternal Warriors",
-  "Denjinmakai",
-  "Tumble Pop",
-  "Virtua Racing",
-  "ASO - Armored Scrum Object",
-  "Muchi Muchi Pork!",
-  "Vampire Hunter 2",
-  "Vampire Savior 2",
-  "Darius II",
-  "Dragon Ball Z",
-  "Espgaluda II",
-  "JoJo's Venture",
-  "Sonic Wings Limited",
-  "S.T.G - Strike Gunner",
-  "Zero Wing",
-  "Super Cobra",
-  "G-Loc - Air Battle",
-  "Robotron: 2084",
-  "G-Darius",
-  "Mariner",
-  "Meta Fox",
-  "Metro-Cross",
-  "Magical Crystals",
-  "Space Invaders 95",
-  "Minefield",
-  "Mole Attack",
-  "Moon Quasar",
-  "MoreMore plus",
-  "Mighty! Pang",
-  "Mr. TNT",
-  "Mister Viking",
-  "Multi Champ",
-  "SRD Super Real Darwin",
-  "My Hero",
-  "Mystic Riders",
-  "Mysterious Stones",
-  "Super Space Invaders 91",
-  "Circus Charlie",
-  "Star Wars: The Empire Strikes Back",
-  "NebulasRay",
-  "Trio The Punch – Never Forget Me...",
-  "The Typing of the Dead 2",
-  "Rave Racer",
-  "Laser Clay Shooting System",
-  "Metal Saver",
-  "Night Driver",
-  "Athena In Wonderland",
-  "Alien Storm",
-  "Dragon Breed",
-  "Dyna Gears",
-  "G.I.JOE A Real American Hero",
-  "Gun Force II (Geo Storm)",
-  "Macross",
-  "Macross II",
-  "Mach Breakers",
-  "Mazinger Z",
-  "Os Man",
-  "Power Drift",
-  "Rolling Thunder 2",
-  "Sol Divide",
-  "Jungle Hunt",
-  "Ninja Gaiden",
-  "Marvel Land",
-  "Psycho Soldier",
-  "P.O.W.: Prisoners of War",
-  "Phelios",
-  "Sonson",
-  "Street Smart",
-  "S.L.Y Special Project Y",
-  "Wardner",
-  "Legend Of Valkyrie",
-  "Vigilante",
-  "Midnight Resistance",
-  "Forty-Love",
-  "Gauntlet Legends",
-  "Vs. Ice Climber",
-  "'99 : The Last War",
-  "Datsun 280 Zzzap",
-  "Spinmaster",
-  "Sonic Wings 2",
-  "Mille Miglia 2: Great 1000 Miles Rally",
-  "Shadow Force",
-  "Virtua Fighter",
-  "Popeye",
-  "Dr. Mario",
-  "Ms. Pac Man (Speedup Hack)",
-  "The Astyanax",
-  "Chiller",
-  "Renegade",
-  "Strider 2",
-  "The Ninja Warriors",
-  "Wayne Gretzky's 3D Hockey",
-  "Vapor TRX",
-  "JoJo's Bizarre Adventure",
-  "Demon Front",
-  "Osman",
-  "Cannon Dancer (Osman)",
-  "The Ninja Kids",
-  "Age Of Heroes - Silkroad 2",
-  "Atari Baseball",
-  "Crazy Fight",
-  "Strato Fighter",
-  "Twin Hawk",
-  "Final Star Force",
-  "Action fighter",
-  "Capcom World 2 - Adventure Quiz",
-  "Bonk's adventure",
-  "BCStory",
-  "BlaZeon",
-  "Body Slam",
-  "Loco-Motion",
-  "Nitro Ball",
-  "Burglar x",
-  "Captain tomaday",
-  "Sharpshooter",
-  "Mace: The Dark Age",
-  "Choky! Choky!",
-  "Dangun Feveron",
-  "Crypt Killer",
-  "Maximum Force",
-  "Dragon World II",
-  "Dunk Shot",
-  "EightMan",
-  "Zwackery",
-  "Zupapa",
-  "Zintrick / Oshidashi Zentrix",
-  "Zing zing zip",
-  "Zunzunkyou No Yabou",
-  "Cavelon",
-  "Joy Joy kid",
-  "Nekketsu Koukou Dodgeball Bu",
-  "Nekketsu Kouha Kunio Kun",
-  "Naughty mouse",
-  "Nemesis",
-  "Ninja clowns",
-  "Nightmare in the dark",
-  "Namco classics volume 1",
-  "Noboranka",
-  "Night stocker",
-  "Namco classics volume 2",
-  "No mans land",
-  "Ninja kid 2",
-  "Ninja emaki",
-  "Night striker",
-  "Name that tune",
-  "Nato defense",
-  "Naughty boy",
-  "Neratte chu",
-  "600",
-  "Zip & zap",
-  "Zero zone",
-  "Zero point 2",
-  "Shadowland",
-  "Youjyuden",
-  "Kamikaze cabbie",
-  "Yam yam",
-  "Go go mr yamaguchi",
-  "New fantasia",
-  "New hidden catch",
-  "Net wars",
-  "Space fury",
-  "Sky smasher",
-  "Bank Panic",
-  "1 On 1 Government",
-  "Berzerk",
-  "Dragon's Lair",
-  "Frenzy",
-  "Crazy Climber 2",
-  "Xmultiply",
-  "Xyonix",
-  "Hyper Pac-Man",
-  "Lock 'N' Chase",
-  "Millipede",
-  "Xenophobe",
-  "Star Trek: Strategic Operations Simulator",
-  "Stargate",
-  "Rip Off",
-  "Point Blank",
-  "Point Blank 2",
-  "Primal Rage",
-  "Atomic Robo-Kid",
-  "Radiant Silvergun",
-  "Time Crisis",
-  "Zoo Keeper",
-  "Zombie Raid",
-  "Jurassic Park",
-  "Front Line",
-  "Gaiapolis",
-  "Sonic the Hedgehog",
-  "Jackal",
-  "Twin Cobra",
-  "Star Wars Arcade",
-  "Space Invaders Part II",
-  "Black Heart",
-  "Bubble Bobble 2",
-  "B-Wings",
-  "Cadash",
-  "Street Hoop",
-  "StarBlade",
-  "Thunder Blade",
-  "Viper Phase 1",
-  "Area 51",
-  "Beast Busters",
-  "Beastorizer",
-  "Big Striker",
-  "Blaze On",
-  "Blomby Car",
-  "Change Air Blade",
-  "Charlie Ninja",
-  "Cool Boarders Arcade Jam",
-  "Cosmic Cop",
-  "Cotton Boomerang",
-  "Cyber Cycles",
-  "Cyber Sled",
-  "Cycle Warriors",
-  "Dead Or Alive ++",
-  "Dirt Dash",
-  "DoDonPachi Dai-Fukkatsu Ver 1.5",
-  "DoDonPachi Dai-Ou-Jou V101",
-  "Drift Out '94 - The Hard Order",
-  "Driver's Edge",
-  "Dunk Mania",
-  "Bomber Man",
-  "Judge Dredd",
-  "Area 51: Site 4",
-  "Cyvern",
-  "Exciting Soccer II",
-  "Indoor Soccer",
-  "Police Trainer",
-  "GunNail",
-  "Slipstream",
-  "Twin Bee Yahhoo!",
-  "Trigon",
-  "Riot City",
-  "Silent Dragon US",
-  "War of Aero",
-  "Vulgus",
-  "Euro League",
-  "Street Fighter Zero",
-  "Sinistar",
-  "The King of Fighters 10th Anniversary 2005 Unique",
-  "Wrestle War",
-  "Water balls",
-  "9 Ball Shootout",
-  "Appoooh",
-  "Avengers",
-  "Gun Fight",
-  "Breakout",
-  "Last Duel",
-  "Knights of valour yitongzhongyuan",
-  "Samurai Aces",
-  "Soccer Brawl",
-  "Snow bros 2",
-  "Snow bros 3",
-  "DoDonPachi II - Bee Storm",
-  "Tetris The Grand Master 2",
-  "The Gladiator : Road of the Sword",
-  "Excelsior",
-  "7ordi",
-  "Gravitar",
-  "Wizard of Wor",
-  "Phozon",
-  "DigDug II",
-  "Amazing Maze",
-  "Vanguard",
-  "Super VolleyBall",
-  "Tecmo World Cup '90",
-  "US AAF Mustang",
-  "Powered Gears",
-  "Red Baron (Atari)",
-  "PacNPal",
-  "SkyKid",
-  "Toy Pop",
-  "Baraduke",
-  "Grobda",
-  "Grid Seeker: Project Storm Hammer",
-  "Motos (Namco)",
-  "1943 Kai: Midway Kaisen",
-  "Crystal Castles",
-  "Liberator",
-  "SkyKid Deluxe",
-  "D. D. Crew",
-  "Daioh",
-  "Dark Tower",
-  "DJ Boy",
-  "Desert Breaker",
-  "Gunbarich",
-  "Sound Voltex: Booth",
-  "Sound Voltex II: Infinite Infection",
-  "Sound Voltex III: Gravity Wars",
-  "Bostilda",
-  "Storm",
-  "Rapid Hero",
-  "Armed Police Batrider",
-  "BRap Boy",
-  "B. C. Story",
-  "Bells and Whistles",
-  "Bio-Ship Paladin",
-  "Blandia",
-  "Blue Hawk",
-  "Knuckle Joe",
-  "Boogie Wings",
-  "Buccaneers",
-  "Chuka Taisen (Cloud Master)",
-  "Continental Circus",
-  "Diet Go Go",
-  "Diver Boy",
-  "Chain Reaction",
-  "Double AXLE",
-  "Dragon Ball Z 2 Super Battle",
-  "E-SWAT: Cyber Police",
-  "E.D.F. - Earth Defense Force",
-  "Eight Forces",
-  "Escape Kids",
-  "Espgaluda",
-  "Exc3lsior",
-  "Extermination",
-  "Extreme Downhill",
-  "Deletar",
-  "Exzisus",
-  "F-1 Grand Prix",
-  "F-1 Grand Prix Part II",
-  "Fever S.O.S.",
-  "Fighting Fantasy",
-  "Fixeight",
-  "Marvin's Maze",
-  "Q*bert's Qubes",
-  "Tazz-Mania",
-  "Mega Man III",
-  "Bloody Roar 2",
-  "Ganryu",
-  "Knights of Valour 2",
-  "Ninja Combat",
-  "Thunder Fox",
-  "Abcop - A.B. Cop",
-  "Twinkle",
-  "Toppy & Rappy",
-  "Turbo Force",
-  "Twin Adventure",
-  "Super Trio",
-  "Squash",
-  "Dokkaebi-ga Ganda",
-  "Twins",
-  "Baryon",
-  "Funky Ball",
-  "Kozure Ookami",
-  "Tang Tang",
-  "Swat Police",
-  "Twin Action",
-  "Success Joe",
-  "Sprint One",
-  "Super Sprint",
-  "Ketsui: Kizuna Jigoku Tachi",
-  "Pang Pang",
-  "Packin Bang Bang",
-  "Ninja Kazan",
-  "Grasspin",
-  "Guardian",
-  "GP Rider",
-  "Galaxy Force II",
-  "Flying Tiger",
-  "B. Rap Boys",
-  "Bullet",
-  "Clutch Hitter",
-  "Ace Attacker",
-  "Air Assault",
-  "XESS - The New Revolution",
-  "Thunder Heroes",
-  "Riot",
-  "Aqua Jet",
-  "RoadWars",
-  "Big Run",
-  "Buggy Boy",
-  "Chequered Flag",
-  "Combat School",
-  "Cisco Heat",
-  "Lethal Crash Race",
-  "Dead Angle",
-  "Desert War",
-  "Dig Dug",
-  "Dog Fight",
-  "Duck Hunt",
-  "The Cliffhanger - Edward Randy",
-  "Excitebike",
-  "F1 Exhaust Note",
-  "Grand Prix Star",
-  "Fantastic Journey",
-  "Fast Lane",
-  "Final Fight 2",
-  "Fighter & Attacker",
-  "Final Lap R",
-  "Final Lap",
-  "Gold Medalist",
-  "Gradius 4",
-  "Gratia - Second Earth",
-  "Danny Sullivan's Indy Heat",
-  "Lode Runner",
-  "Super Spacefortress Macross",
-  "Mobile Suit Gundam",
-  "Konami's Ping Pong",
-  "Pole Position II",
-  "Quartet",
-  "Racing Hero",
-  "Raiders",
-  "Road Riot 4WD",
-  "Road Runner",
-  "Super Football Champ",
-  "Side by Side 2",
-  "Silk Worm",
-  "Slip Stream",
-  "Super Monaco GP",
-  "Soul Calibur",
-  "Speed Racer",
-  "Thunder Dragon",
-  "Tetris Plus",
-  "Tiger Road",
-  "Time Scanner",
-  "Tropical Angel",
-  "World Rally",
-  "Final Tetris",
-  "Chiki Chiki Boys",
-  "Daimakaimura",
-  "Dragon Bowl",
-  "Eight Man",
-  "Fantasia II",
-  "Gogetsuji Legends",
-  "Top Hunter",
-  "Thrash Rally",
-  "Honey Dolls",
-  "Hyper Pacman",
-  "Gundhara - Juudan Arashi",
-  "Hydra",
-  "King of Boxer",
-  "Mad Motor",
-  "Masked Riders Club: Battle Race",
-  "Mobile Suit Gundam: EX Revue",
-  "OutRun",
-  "NBA Hangtime",
-  "Numan Athletics",
-  "Ninja Spirit",
-  "Oscar",
-  "Punk Shot",
-  "Puzzle Bobble",
-  "Puzzle Bobble 2",
-  "S.P.Y. Special Project Y",
-  "Super Xevious",
-  "Tecmo World Soccer '96",
-  "Super Spy",
-  "Puzzled",
-  "Riding Hero",
-  "Sangokushi II",
-  "Sorcer Striker",
-  "Spin Master",
-  "Super Muscle Bomber",
-  "Legend Of Makai",
-  "Legend Of Succes Joe",
-  "Magical Drop",
-  "Mahou",
-  "Miss Mister World '96",
-  "MoreMore",
-  "NeoMr.Do!",
-  "Ninja Commando",
-  "Pleasure Goal",
-  "Pocket Fighter",
-  "Pop 'n Bounce",
-  "Puzzle Uo Poko",
-  "Puzzle De Pon!",
-  "Street Fighter Zero 2",
-  "Street Fighter Zero 3",
-  "Puzzle & Action: Ichidant-R",
-  "Power Spikes II",
-  "Badlands",
-  "Cliff Hanger",
-  "Esh's Aurunmilla",
-  "Space Ace",
-  "Star Blazer",
-  "Tengai",
-  "Thunder Zone",
-  "Total Carnage",
-  "Super Street Fighter II X: Grand Master Challenge",
-  "Battle City",
-  "The Alphax Z",
-  "Dragon Spirit",
-  "Tag Team Wrestling"
-]
+{
+  "tgbd_id": 23,
+  "tgdb_alias": "arcade",
+  "name": "Arcade",
+  "titles": [
+    {
+      "tgdb_id": 6,
+      "title": "Tapper"
+    },
+    {
+      "tgdb_id": 116,
+      "title": "Space Invaders"
+    },
+    {
+      "tgdb_id": 7994,
+      "title": "Daytona USA"
+    },
+    {
+      "tgdb_id": 19714,
+      "title": "Daytona USA 2"
+    },
+    {
+      "tgdb_id": 202,
+      "title": "1942"
+    },
+    {
+      "tgdb_id": 227,
+      "title": "Metal Slug 6"
+    },
+    {
+      "tgdb_id": 36411,
+      "title": "Lightning Sword"
+    },
+    {
+      "tgdb_id": 36412,
+      "title": "Laser Ghost"
+    },
+    {
+      "tgdb_id": 35520,
+      "title": "Knights of Valour Super Heroes"
+    },
+    {
+      "tgdb_id": 35521,
+      "title": "Wizard fire"
+    },
+    {
+      "tgdb_id": 23887,
+      "title": "Hyper Dyne Side Arms"
+    },
+    {
+      "tgdb_id": 954,
+      "title": "Lady Bug"
+    },
+    {
+      "tgdb_id": 28883,
+      "title": "Tetris: The Grand Master 3 ~Terror Instinct~"
+    },
+    {
+      "tgdb_id": 8258,
+      "title": "Art of Fighting"
+    },
+    {
+      "tgdb_id": 2433,
+      "title": "19XX: The War Against Destiny"
+    },
+    {
+      "tgdb_id": 2434,
+      "title": "1941: Counter Attack"
+    },
+    {
+      "tgdb_id": 2435,
+      "title": "1944: The Loop Master"
+    },
+    {
+      "tgdb_id": 2436,
+      "title": "1945k III"
+    },
+    {
+      "tgdb_id": 2437,
+      "title": "Crime City"
+    },
+    {
+      "tgdb_id": 2438,
+      "title": "Double-Wings"
+    },
+    {
+      "tgdb_id": 2440,
+      "title": "Golden Axe: The Revenge Of Death Adder"
+    },
+    {
+      "tgdb_id": 2441,
+      "title": "Joe & Mac Returns"
+    },
+    {
+      "tgdb_id": 2444,
+      "title": "Nemo"
+    },
+    {
+      "tgdb_id": 2445,
+      "title": "P-47 Aces"
+    },
+    {
+      "tgdb_id": 2446,
+      "title": "P-47: The Phantom Fighter"
+    },
+    {
+      "tgdb_id": 2447,
+      "title": "Prehistoric Isle 2"
+    },
+    {
+      "tgdb_id": 2448,
+      "title": "Raiden"
+    },
+    {
+      "tgdb_id": 2449,
+      "title": "Raiden II"
+    },
+    {
+      "tgdb_id": 2450,
+      "title": "Raiden DX"
+    },
+    {
+      "tgdb_id": 2451,
+      "title": "Raiden Fighters"
+    },
+    {
+      "tgdb_id": 2452,
+      "title": "Raiden Fighters 2: Operation Hell Dive"
+    },
+    {
+      "tgdb_id": 2453,
+      "title": "Raiden Fighters Jet"
+    },
+    {
+      "tgdb_id": 2454,
+      "title": "The Real GhostBusters"
+    },
+    {
+      "tgdb_id": 2455,
+      "title": "The Simpsons"
+    },
+    {
+      "tgdb_id": 2461,
+      "title": "Strikers 1945"
+    },
+    {
+      "tgdb_id": 2462,
+      "title": "Strikers 1945 II"
+    },
+    {
+      "tgdb_id": 2463,
+      "title": "Strikers 1945 III"
+    },
+    {
+      "tgdb_id": 2464,
+      "title": "Strikers 1945 Plus"
+    },
+    {
+      "tgdb_id": 2465,
+      "title": "Twin Cobra II"
+    },
+    {
+      "tgdb_id": 2466,
+      "title": "Twin Eagle II: The Rescue Mission"
+    },
+    {
+      "tgdb_id": 2467,
+      "title": "Undercover Cops"
+    },
+    {
+      "tgdb_id": 2468,
+      "title": "X-Men: Children Of The Atom"
+    },
+    {
+      "tgdb_id": 2532,
+      "title": "Street Fighter Alpha 2"
+    },
+    {
+      "tgdb_id": 2776,
+      "title": "Bubble Bobble"
+    },
+    {
+      "tgdb_id": 2859,
+      "title": "Contra"
+    },
+    {
+      "tgdb_id": 3089,
+      "title": "Donkey Kong 3"
+    },
+    {
+      "tgdb_id": 36116,
+      "title": "Splash!"
+    },
+    {
+      "tgdb_id": 7840,
+      "title": "Balloon Bomber"
+    },
+    {
+      "tgdb_id": 7841,
+      "title": "Frog & Spiders"
+    },
+    {
+      "tgdb_id": 7842,
+      "title": "Gauntlet"
+    },
+    {
+      "tgdb_id": 5482,
+      "title": "Asteroids"
+    },
+    {
+      "tgdb_id": 7835,
+      "title": "Cyberball"
+    },
+    {
+      "tgdb_id": 7836,
+      "title": "Darius"
+    },
+    {
+      "tgdb_id": 7837,
+      "title": "Defender"
+    },
+    {
+      "tgdb_id": 7838,
+      "title": "All American Football"
+    },
+    {
+      "tgdb_id": 7839,
+      "title": "Astro Zone"
+    },
+    {
+      "tgdb_id": 3902,
+      "title": "Alien Syndrome"
+    },
+    {
+      "tgdb_id": 12043,
+      "title": "64th. Street: A Detective Story"
+    },
+    {
+      "tgdb_id": 38820,
+      "title": "Sky Fox"
+    },
+    {
+      "tgdb_id": 12040,
+      "title": "Tron"
+    },
+    {
+      "tgdb_id": 5479,
+      "title": "R-Type"
+    },
+    {
+      "tgdb_id": 5480,
+      "title": "Final Fight"
+    },
+    {
+      "tgdb_id": 5481,
+      "title": "Golden Axe"
+    },
+    {
+      "tgdb_id": 5525,
+      "title": "Bad Dudes Vs. DragonNinja"
+    },
+    {
+      "tgdb_id": 5526,
+      "title": "Elevator Action"
+    },
+    {
+      "tgdb_id": 5527,
+      "title": "Gauntlet II"
+    },
+    {
+      "tgdb_id": 5529,
+      "title": "Altered Beast"
+    },
+    {
+      "tgdb_id": 5537,
+      "title": "Mortal Kombat II"
+    },
+    {
+      "tgdb_id": 5548,
+      "title": "Street Fighter II: The World Warrior"
+    },
+    {
+      "tgdb_id": 36874,
+      "title": "DANCING EYES"
+    },
+    {
+      "tgdb_id": 6236,
+      "title": "After Burner"
+    },
+    {
+      "tgdb_id": 33447,
+      "title": "City Bomber"
+    },
+    {
+      "tgdb_id": 6382,
+      "title": "Ghosts'n Goblins"
+    },
+    {
+      "tgdb_id": 6390,
+      "title": "Bomb Jack"
+    },
+    {
+      "tgdb_id": 6399,
+      "title": "Operation Wolf"
+    },
+    {
+      "tgdb_id": 6418,
+      "title": "Salamander"
+    },
+    {
+      "tgdb_id": 6437,
+      "title": "Blasteroids"
+    },
+    {
+      "tgdb_id": 6493,
+      "title": "The New Zealand Story"
+    },
+    {
+      "tgdb_id": 7193,
+      "title": "Mortal Kombat"
+    },
+    {
+      "tgdb_id": 7382,
+      "title": "Rampage"
+    },
+    {
+      "tgdb_id": 7844,
+      "title": "Indiana Jones and the Temple of Doom"
+    },
+    {
+      "tgdb_id": 7845,
+      "title": "Klax"
+    },
+    {
+      "tgdb_id": 7846,
+      "title": "Moon Cresta"
+    },
+    {
+      "tgdb_id": 7847,
+      "title": "Out Zone"
+    },
+    {
+      "tgdb_id": 7848,
+      "title": "Port Man"
+    },
+    {
+      "tgdb_id": 7849,
+      "title": "Road Champion"
+    },
+    {
+      "tgdb_id": 7850,
+      "title": "Space Cyclone"
+    },
+    {
+      "tgdb_id": 7851,
+      "title": "Sub Hunter"
+    },
+    {
+      "tgdb_id": 7852,
+      "title": "Super Pac-Man"
+    },
+    {
+      "tgdb_id": 7853,
+      "title": "Time Tunnel"
+    },
+    {
+      "tgdb_id": 7854,
+      "title": "Zoar"
+    },
+    {
+      "tgdb_id": 7855,
+      "title": "Alpine Ski"
+    },
+    {
+      "tgdb_id": 7856,
+      "title": "Captain Commando"
+    },
+    {
+      "tgdb_id": 7857,
+      "title": "Hoccer"
+    },
+    {
+      "tgdb_id": 7858,
+      "title": "Lupin III"
+    },
+    {
+      "tgdb_id": 7859,
+      "title": "Moon Patrol"
+    },
+    {
+      "tgdb_id": 7860,
+      "title": "Wild Western"
+    },
+    {
+      "tgdb_id": 7861,
+      "title": "Galaga"
+    },
+    {
+      "tgdb_id": 7862,
+      "title": "Donkey Kong"
+    },
+    {
+      "tgdb_id": 7863,
+      "title": "Donkey Kong Junior"
+    },
+    {
+      "tgdb_id": 7865,
+      "title": "PacMan"
+    },
+    {
+      "tgdb_id": 7866,
+      "title": "Galaxian"
+    },
+    {
+      "tgdb_id": 7867,
+      "title": "X-Men vs. Street Fighter"
+    },
+    {
+      "tgdb_id": 7868,
+      "title": "Pong"
+    },
+    {
+      "tgdb_id": 7870,
+      "title": "Cadillacs and Dinosaurs"
+    },
+    {
+      "tgdb_id": 7871,
+      "title": "Marvel vs. Capcom 2: New Age of Heroes"
+    },
+    {
+      "tgdb_id": 7872,
+      "title": "Street Fighter"
+    },
+    {
+      "tgdb_id": 7873,
+      "title": "Killer Instinct"
+    },
+    {
+      "tgdb_id": 7874,
+      "title": "Out Run"
+    },
+    {
+      "tgdb_id": 7875,
+      "title": "Missile Command"
+    },
+    {
+      "tgdb_id": 7876,
+      "title": "Marvel vs. Capcom: Clash of Super Heroes"
+    },
+    {
+      "tgdb_id": 7877,
+      "title": "Street Fighter Alpha 3"
+    },
+    {
+      "tgdb_id": 7879,
+      "title": "Super Street Fighter II: The New Challengers"
+    },
+    {
+      "tgdb_id": 7880,
+      "title": "Metal Slug 2"
+    },
+    {
+      "tgdb_id": 7881,
+      "title": "Killer Instinct 2"
+    },
+    {
+      "tgdb_id": 7882,
+      "title": "1943: The Battle of Midway"
+    },
+    {
+      "tgdb_id": 7883,
+      "title": "10-Yard Fight"
+    },
+    {
+      "tgdb_id": 7884,
+      "title": "18 Wheeler: American Pro Trucker"
+    },
+    {
+      "tgdb_id": 7885,
+      "title": "3 Count Bout"
+    },
+    {
+      "tgdb_id": 7886,
+      "title": "720 Degrees"
+    },
+    {
+      "tgdb_id": 7887,
+      "title": "Ajax"
+    },
+    {
+      "tgdb_id": 7888,
+      "title": "Aero Fighters"
+    },
+    {
+      "tgdb_id": 7889,
+      "title": "Aero Fighters 2"
+    },
+    {
+      "tgdb_id": 7890,
+      "title": "After Burner Climax"
+    },
+    {
+      "tgdb_id": 7891,
+      "title": "Air Buster"
+    },
+    {
+      "tgdb_id": 7892,
+      "title": "Air Inferno"
+    },
+    {
+      "tgdb_id": 7893,
+      "title": "Air Raid"
+    },
+    {
+      "tgdb_id": 7894,
+      "title": "Aliens"
+    },
+    {
+      "tgdb_id": 7895,
+      "title": "Apache 3"
+    },
+    {
+      "tgdb_id": 7896,
+      "title": "Aqua Jack"
+    },
+    {
+      "tgdb_id": 7897,
+      "title": "Arabian"
+    },
+    {
+      "tgdb_id": 7898,
+      "title": "Arkanoid"
+    },
+    {
+      "tgdb_id": 7899,
+      "title": "Armor Attack"
+    },
+    {
+      "tgdb_id": 7900,
+      "title": "Armored Warriors"
+    },
+    {
+      "tgdb_id": 7901,
+      "title": "Assault"
+    },
+    {
+      "tgdb_id": 7902,
+      "title": "Ataxx"
+    },
+    {
+      "tgdb_id": 7903,
+      "title": "Aztarac"
+    },
+    {
+      "tgdb_id": 7997,
+      "title": "After Burner II"
+    },
+    {
+      "tgdb_id": 7998,
+      "title": "Commando"
+    },
+    {
+      "tgdb_id": 7999,
+      "title": "Teenage Mutant Ninja Turtles: Turtles In Time"
+    },
+    {
+      "tgdb_id": 8000,
+      "title": "Street Fighter EX"
+    },
+    {
+      "tgdb_id": 8001,
+      "title": "Street Fighter EX 2"
+    },
+    {
+      "tgdb_id": 8265,
+      "title": "Mortal Kombat 4"
+    },
+    {
+      "tgdb_id": 8266,
+      "title": "Muscle Bomber Duo: Ultimate Team Battle"
+    },
+    {
+      "tgdb_id": 8268,
+      "title": "Quiz & Dragons: Capcom Quiz Game"
+    },
+    {
+      "tgdb_id": 8269,
+      "title": "Red Earth"
+    },
+    {
+      "tgdb_id": 8270,
+      "title": "Section-Z"
+    },
+    {
+      "tgdb_id": 12834,
+      "title": "Solar Fox"
+    },
+    {
+      "tgdb_id": 8272,
+      "title": "Strider"
+    },
+    {
+      "tgdb_id": 8273,
+      "title": "Super Gem Fighter Mini Mix"
+    },
+    {
+      "tgdb_id": 8274,
+      "title": "Super Street Fighter II Turbo"
+    },
+    {
+      "tgdb_id": 8275,
+      "title": "Tech Romancer"
+    },
+    {
+      "tgdb_id": 8276,
+      "title": "The Punisher"
+    },
+    {
+      "tgdb_id": 8277,
+      "title": "U.N. Squadron"
+    },
+    {
+      "tgdb_id": 8278,
+      "title": "Varth: Operation Thunderstorm"
+    },
+    {
+      "tgdb_id": 8279,
+      "title": "Willow"
+    },
+    {
+      "tgdb_id": 8280,
+      "title": "Windjammers"
+    },
+    {
+      "tgdb_id": 33446,
+      "title": "Buck Rogers: Planet of Zoom"
+    },
+    {
+      "tgdb_id": 8502,
+      "title": "ESPRa.De."
+    },
+    {
+      "tgdb_id": 8571,
+      "title": "Gauntlet Dark Legacy"
+    },
+    {
+      "tgdb_id": 8592,
+      "title": "Toki"
+    },
+    {
+      "tgdb_id": 8593,
+      "title": "Black Tiger"
+    },
+    {
+      "tgdb_id": 8597,
+      "title": "Street Fighter III: 3rd Strike"
+    },
+    {
+      "tgdb_id": 8598,
+      "title": "Super Sidekicks 3: The Next Glory"
+    },
+    {
+      "tgdb_id": 34818,
+      "title": "Van Van Car"
+    },
+    {
+      "tgdb_id": 34819,
+      "title": "Vandyke"
+    },
+    {
+      "tgdb_id": 34816,
+      "title": "Vanguard 2"
+    },
+    {
+      "tgdb_id": 8669,
+      "title": "Space Harrier"
+    },
+    {
+      "tgdb_id": 8670,
+      "title": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "tgdb_id": 8671,
+      "title": "Track & Field"
+    },
+    {
+      "tgdb_id": 8672,
+      "title": "King of the Monsters"
+    },
+    {
+      "tgdb_id": 8679,
+      "title": "Shock Troopers"
+    },
+    {
+      "tgdb_id": 8724,
+      "title": "'88 Games"
+    },
+    {
+      "tgdb_id": 8726,
+      "title": "Double Dragon II: The Revenge"
+    },
+    {
+      "tgdb_id": 8727,
+      "title": "Dungeons & Dragons: Shadow Over Mystara"
+    },
+    {
+      "tgdb_id": 8729,
+      "title": "Dungeons & Dragons: Tower of Doom"
+    },
+    {
+      "tgdb_id": 8730,
+      "title": "Final Fight Revenge"
+    },
+    {
+      "tgdb_id": 8731,
+      "title": "Frogger"
+    },
+    {
+      "tgdb_id": 8732,
+      "title": "Golden Tee 2K"
+    },
+    {
+      "tgdb_id": 8733,
+      "title": "Ghouls 'N Ghosts"
+    },
+    {
+      "tgdb_id": 8734,
+      "title": "Gradius III"
+    },
+    {
+      "tgdb_id": 8735,
+      "title": "Knights of the Round"
+    },
+    {
+      "tgdb_id": 8736,
+      "title": "Kung-Fu Master"
+    },
+    {
+      "tgdb_id": 8737,
+      "title": "Michael Jackson's Moonwalker"
+    },
+    {
+      "tgdb_id": 8738,
+      "title": "NARC"
+    },
+    {
+      "tgdb_id": 8739,
+      "title": "Pac-Land"
+    },
+    {
+      "tgdb_id": 8740,
+      "title": "Pang"
+    },
+    {
+      "tgdb_id": 8741,
+      "title": "Rainbow Islands"
+    },
+    {
+      "tgdb_id": 8742,
+      "title": "RoboCop"
+    },
+    {
+      "tgdb_id": 8743,
+      "title": "Rolling Thunder"
+    },
+    {
+      "tgdb_id": 8744,
+      "title": "Rygar"
+    },
+    {
+      "tgdb_id": 8745,
+      "title": "Shadow Dancer"
+    },
+    {
+      "tgdb_id": 8746,
+      "title": "Shadow Warriors"
+    },
+    {
+      "tgdb_id": 8747,
+      "title": "Shinobi"
+    },
+    {
+      "tgdb_id": 8748,
+      "title": "Smash TV"
+    },
+    {
+      "tgdb_id": 8749,
+      "title": "Snow Bros."
+    },
+    {
+      "tgdb_id": 9095,
+      "title": "800 Fathoms"
+    },
+    {
+      "tgdb_id": 9097,
+      "title": "AAARGH!"
+    },
+    {
+      "tgdb_id": 9098,
+      "title": "Ace Driver"
+    },
+    {
+      "tgdb_id": 9099,
+      "title": "Aggressors of Dark Kombat"
+    },
+    {
+      "tgdb_id": 8751,
+      "title": "Sunset Riders"
+    },
+    {
+      "tgdb_id": 8752,
+      "title": "Super Hang-On"
+    },
+    {
+      "tgdb_id": 8753,
+      "title": "Super Puzzle Fighter II Turbo"
+    },
+    {
+      "tgdb_id": 8754,
+      "title": "Wonder Boy"
+    },
+    {
+      "tgdb_id": 8755,
+      "title": "Wonder Boy III: Monster Lair"
+    },
+    {
+      "tgdb_id": 8756,
+      "title": "Wonder Boy in Monster Land"
+    },
+    {
+      "tgdb_id": 8757,
+      "title": "WWF WrestleFest"
+    },
+    {
+      "tgdb_id": 8758,
+      "title": "WWF Wrestlemania"
+    },
+    {
+      "tgdb_id": 8810,
+      "title": "Battlezone"
+    },
+    {
+      "tgdb_id": 8811,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 8812,
+      "title": "Captain America and the Avengers"
+    },
+    {
+      "tgdb_id": 8813,
+      "title": "Joe & Mac: Caveman Ninja"
+    },
+    {
+      "tgdb_id": 8814,
+      "title": "Centipede"
+    },
+    {
+      "tgdb_id": 8815,
+      "title": "Choplifter"
+    },
+    {
+      "tgdb_id": 8816,
+      "title": "DigDug"
+    },
+    {
+      "tgdb_id": 8817,
+      "title": "Joust"
+    },
+    {
+      "tgdb_id": 8818,
+      "title": "Mouse Trap"
+    },
+    {
+      "tgdb_id": 8819,
+      "title": "Pengo"
+    },
+    {
+      "tgdb_id": 8820,
+      "title": "Pole Position"
+    },
+    {
+      "tgdb_id": 8821,
+      "title": "Punch-Out!!"
+    },
+    {
+      "tgdb_id": 8822,
+      "title": "Rastan"
+    },
+    {
+      "tgdb_id": 8823,
+      "title": "Sea Wolf"
+    },
+    {
+      "tgdb_id": 8824,
+      "title": "Spy Hunter"
+    },
+    {
+      "tgdb_id": 8825,
+      "title": "Star Wars"
+    },
+    {
+      "tgdb_id": 8826,
+      "title": "Star Wars Trilogy Arcade"
+    },
+    {
+      "tgdb_id": 8827,
+      "title": "Tempest"
+    },
+    {
+      "tgdb_id": 8828,
+      "title": "Tetris"
+    },
+    {
+      "tgdb_id": 8829,
+      "title": "Warlords"
+    },
+    {
+      "tgdb_id": 8830,
+      "title": "Zaxxon"
+    },
+    {
+      "tgdb_id": 9087,
+      "title": "Battletoads"
+    },
+    {
+      "tgdb_id": 9088,
+      "title": "Funky Jet"
+    },
+    {
+      "tgdb_id": 9089,
+      "title": "Golden Axe: The Duel"
+    },
+    {
+      "tgdb_id": 9090,
+      "title": "Giga Wing"
+    },
+    {
+      "tgdb_id": 9091,
+      "title": "Giga Wing 2"
+    },
+    {
+      "tgdb_id": 9092,
+      "title": "Magical Drop II"
+    },
+    {
+      "tgdb_id": 9093,
+      "title": "Magical Drop III"
+    },
+    {
+      "tgdb_id": 9223,
+      "title": "Zarzon"
+    },
+    {
+      "tgdb_id": 9224,
+      "title": "Zed Blade"
+    },
+    {
+      "tgdb_id": 9225,
+      "title": "Zero Hour"
+    },
+    {
+      "tgdb_id": 9380,
+      "title": "Metal Slug X"
+    },
+    {
+      "tgdb_id": 36413,
+      "title": "Lady Master of Kung Fu"
+    },
+    {
+      "tgdb_id": 9826,
+      "title": "Tekken Tag Tournament"
+    },
+    {
+      "tgdb_id": 10048,
+      "title": "Super Street Fighter IV: Arcade Edition"
+    },
+    {
+      "tgdb_id": 10674,
+      "title": "Mario Kart Arcade GP 2"
+    },
+    {
+      "tgdb_id": 10681,
+      "title": "X-Men"
+    },
+    {
+      "tgdb_id": 10682,
+      "title": "Spider-Man: The Video Game"
+    },
+    {
+      "tgdb_id": 10683,
+      "title": "Alien vs. Predator"
+    },
+    {
+      "tgdb_id": 10684,
+      "title": "Marvel Super Heroes"
+    },
+    {
+      "tgdb_id": 10685,
+      "title": "Marvel Super Heroes vs. Street Fighter"
+    },
+    {
+      "tgdb_id": 10686,
+      "title": "Batman"
+    },
+    {
+      "tgdb_id": 10697,
+      "title": "G.I. Joe"
+    },
+    {
+      "tgdb_id": 10750,
+      "title": "Mario Kart Arcade GP"
+    },
+    {
+      "tgdb_id": 10890,
+      "title": "SegaSonic the Hedgehog"
+    },
+    {
+      "tgdb_id": 10901,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 10966,
+      "title": "NBA JAM"
+    },
+    {
+      "tgdb_id": 34714,
+      "title": "Sengoku Blade: Sengoku Ace Episode II"
+    },
+    {
+      "tgdb_id": 11013,
+      "title": "Three Wonders"
+    },
+    {
+      "tgdb_id": 11031,
+      "title": "NBA Jam Tournament Edition"
+    },
+    {
+      "tgdb_id": 11136,
+      "title": "Arcana Heart 3"
+    },
+    {
+      "tgdb_id": 33055,
+      "title": "Bloody Roar"
+    },
+    {
+      "tgdb_id": 33056,
+      "title": "Crazy Cross"
+    },
+    {
+      "tgdb_id": 11401,
+      "title": "Street Fighter Alpha: Warriors' Dreams"
+    },
+    {
+      "tgdb_id": 12044,
+      "title": "A.B.Cop Air Bike"
+    },
+    {
+      "tgdb_id": 12045,
+      "title": "Act-Fancer: Cybernetick Hyper Weapon"
+    },
+    {
+      "tgdb_id": 12046,
+      "title": "Air Attack"
+    },
+    {
+      "tgdb_id": 12047,
+      "title": "Air Combat 22"
+    },
+    {
+      "tgdb_id": 12048,
+      "title": "Air Duel"
+    },
+    {
+      "tgdb_id": 12049,
+      "title": "005"
+    },
+    {
+      "tgdb_id": 12050,
+      "title": "Alien3: The Gun"
+    },
+    {
+      "tgdb_id": 12051,
+      "title": "Alligator Hunt"
+    },
+    {
+      "tgdb_id": 12052,
+      "title": "Alpine Racer"
+    },
+    {
+      "tgdb_id": 12053,
+      "title": "Alpine Racer 2"
+    },
+    {
+      "tgdb_id": 12054,
+      "title": "American Speedway"
+    },
+    {
+      "tgdb_id": 12055,
+      "title": "Anteater"
+    },
+    {
+      "tgdb_id": 12056,
+      "title": "APB All-Points Bulletin"
+    },
+    {
+      "tgdb_id": 12057,
+      "title": "Arabian Fight"
+    },
+    {
+      "tgdb_id": 12058,
+      "title": "Arabian Magic"
+    },
+    {
+      "tgdb_id": 12059,
+      "title": "Arch Rivals"
+    },
+    {
+      "tgdb_id": 12063,
+      "title": "Area 88"
+    },
+    {
+      "tgdb_id": 12064,
+      "title": "Argus"
+    },
+    {
+      "tgdb_id": 12065,
+      "title": "Arkanoid Returns"
+    },
+    {
+      "tgdb_id": 12066,
+      "title": "Arlington Horse Racing"
+    },
+    {
+      "tgdb_id": 12067,
+      "title": "Arm Wrestling"
+    },
+    {
+      "tgdb_id": 12068,
+      "title": "Ashura Blaster"
+    },
+    {
+      "tgdb_id": 12069,
+      "title": "Asteroids Deluxe"
+    },
+    {
+      "tgdb_id": 12070,
+      "title": "Astro Blaster"
+    },
+    {
+      "tgdb_id": 12071,
+      "title": "Astro Fighter"
+    },
+    {
+      "tgdb_id": 12072,
+      "title": "Astron Belt"
+    },
+    {
+      "tgdb_id": 12073,
+      "title": "Asuka & Asuka"
+    },
+    {
+      "tgdb_id": 12074,
+      "title": "Asura Blade: Sword of Dynasty"
+    },
+    {
+      "tgdb_id": 12075,
+      "title": "Atari Football"
+    },
+    {
+      "tgdb_id": 12076,
+      "title": "Avenger"
+    },
+    {
+      "tgdb_id": 12077,
+      "title": "Avengers in Galactic Storm"
+    },
+    {
+      "tgdb_id": 12078,
+      "title": "Avenging Spirit"
+    },
+    {
+      "tgdb_id": 12111,
+      "title": "Bagman"
+    },
+    {
+      "tgdb_id": 12113,
+      "title": "Bang"
+    },
+    {
+      "tgdb_id": 12114,
+      "title": "Barrier"
+    },
+    {
+      "tgdb_id": 12115,
+      "title": "Battle Circuit"
+    },
+    {
+      "tgdb_id": 12116,
+      "title": "Batsugun"
+    },
+    {
+      "tgdb_id": 12117,
+      "title": "Battlantis"
+    },
+    {
+      "tgdb_id": 12118,
+      "title": "Best Bout Boxing"
+    },
+    {
+      "tgdb_id": 12119,
+      "title": "Battle Chopper"
+    },
+    {
+      "tgdb_id": 12120,
+      "title": "Battle Bakraid"
+    },
+    {
+      "tgdb_id": 12122,
+      "title": "Blaster"
+    },
+    {
+      "tgdb_id": 12123,
+      "title": "Block Block"
+    },
+    {
+      "tgdb_id": 12124,
+      "title": "Blood Brothers"
+    },
+    {
+      "tgdb_id": 12125,
+      "title": "Bonze Adventure"
+    },
+    {
+      "tgdb_id": 12126,
+      "title": "Bosconian"
+    },
+    {
+      "tgdb_id": 12127,
+      "title": "Back Street Soccer"
+    },
+    {
+      "tgdb_id": 12128,
+      "title": "Bubbles"
+    },
+    {
+      "tgdb_id": 12129,
+      "title": "Black Widow"
+    },
+    {
+      "tgdb_id": 12130,
+      "title": "Cameltry"
+    },
+    {
+      "tgdb_id": 12131,
+      "title": "Canyon Bomber"
+    },
+    {
+      "tgdb_id": 12132,
+      "title": "Capcom Bowling"
+    },
+    {
+      "tgdb_id": 12135,
+      "title": "CarnEvil"
+    },
+    {
+      "tgdb_id": 12136,
+      "title": "Carrier Air Wing"
+    },
+    {
+      "tgdb_id": 12137,
+      "title": "Crude Buster"
+    },
+    {
+      "tgdb_id": 12138,
+      "title": "Champion Baseball"
+    },
+    {
+      "tgdb_id": 12139,
+      "title": "Cloak & Dagger"
+    },
+    {
+      "tgdb_id": 12148,
+      "title": "Cosmo Gang"
+    },
+    {
+      "tgdb_id": 12149,
+      "title": "Crazy Balloon"
+    },
+    {
+      "tgdb_id": 12151,
+      "title": "Crossbow"
+    },
+    {
+      "tgdb_id": 12154,
+      "title": "Capcom Sports Club"
+    },
+    {
+      "tgdb_id": 12155,
+      "title": "Championship Sprint"
+    },
+    {
+      "tgdb_id": 12167,
+      "title": "Cube Quest"
+    },
+    {
+      "tgdb_id": 12169,
+      "title": "Cyberball 2072"
+    },
+    {
+      "tgdb_id": 12170,
+      "title": "Cyberbots: Full Metal Madness"
+    },
+    {
+      "tgdb_id": 12172,
+      "title": "Dark Adventure"
+    },
+    {
+      "tgdb_id": 36405,
+      "title": "Tōkidenshō Angel Eyes"
+    },
+    {
+      "tgdb_id": 12176,
+      "title": "Dimahoo"
+    },
+    {
+      "tgdb_id": 12177,
+      "title": "Domino Man"
+    },
+    {
+      "tgdb_id": 12178,
+      "title": "Don Doko Don"
+    },
+    {
+      "tgdb_id": 12180,
+      "title": "Discs of Tron"
+    },
+    {
+      "tgdb_id": 12181,
+      "title": "Mr. Do's Wild Ride"
+    },
+    {
+      "tgdb_id": 12184,
+      "title": "Dragon Saber"
+    },
+    {
+      "tgdb_id": 12185,
+      "title": "Darkstalkers"
+    },
+    {
+      "tgdb_id": 12186,
+      "title": "Dungeon Magic"
+    },
+    {
+      "tgdb_id": 12187,
+      "title": "Dynasty Wars"
+    },
+    {
+      "tgdb_id": 12189,
+      "title": "Eco Fighters"
+    },
+    {
+      "tgdb_id": 12190,
+      "title": "Empire City: 1931"
+    },
+    {
+      "tgdb_id": 12192,
+      "title": "Cyber Police ESWAT"
+    },
+    {
+      "tgdb_id": 12193,
+      "title": "Exerion"
+    },
+    {
+      "tgdb_id": 12195,
+      "title": "Express Raider"
+    },
+    {
+      "tgdb_id": 12197,
+      "title": "Food Fight"
+    },
+    {
+      "tgdb_id": 12200,
+      "title": "Flying Shark"
+    },
+    {
+      "tgdb_id": 12252,
+      "title": "Bega's Battle"
+    },
+    {
+      "tgdb_id": 12253,
+      "title": "Galaxy Ranger"
+    },
+    {
+      "tgdb_id": 12254,
+      "title": "GP World"
+    },
+    {
+      "tgdb_id": 12255,
+      "title": "Interstellar"
+    },
+    {
+      "tgdb_id": 12256,
+      "title": "Dragon's Lair II"
+    },
+    {
+      "tgdb_id": 12257,
+      "title": "M.A.C.H. 3"
+    },
+    {
+      "tgdb_id": 12258,
+      "title": "Road Blasters"
+    },
+    {
+      "tgdb_id": 12259,
+      "title": "Super Don Quix-ote"
+    },
+    {
+      "tgdb_id": 12260,
+      "title": "Thayer's Quest"
+    },
+    {
+      "tgdb_id": 12261,
+      "title": "Us Vs. Them"
+    },
+    {
+      "tgdb_id": 12262,
+      "title": "Galaga '88"
+    },
+    {
+      "tgdb_id": 12263,
+      "title": "Gladiator"
+    },
+    {
+      "tgdb_id": 12264,
+      "title": "Golden Tee Classic"
+    },
+    {
+      "tgdb_id": 12265,
+      "title": "Great 1000 Mile Rally"
+    },
+    {
+      "tgdb_id": 12266,
+      "title": "Guardians of the 'Hood"
+    },
+    {
+      "tgdb_id": 12267,
+      "title": "Gunbird"
+    },
+    {
+      "tgdb_id": 12268,
+      "title": "Guwange"
+    },
+    {
+      "tgdb_id": 12269,
+      "title": "Heated Barrel"
+    },
+    {
+      "tgdb_id": 12270,
+      "title": "American Horseshoes"
+    },
+    {
+      "tgdb_id": 12292,
+      "title": "Hat Trick Hero '93"
+    },
+    {
+      "tgdb_id": 12293,
+      "title": "Hat Trick Hero '94"
+    },
+    {
+      "tgdb_id": 12294,
+      "title": "Hunchback"
+    },
+    {
+      "tgdb_id": 12296,
+      "title": "Intrepid"
+    },
+    {
+      "tgdb_id": 12297,
+      "title": "I, Robot"
+    },
+    {
+      "tgdb_id": 12299,
+      "title": "Iron Horse"
+    },
+    {
+      "tgdb_id": 12300,
+      "title": "Jack The Giantkiller"
+    },
+    {
+      "tgdb_id": 12301,
+      "title": "Jail Break"
+    },
+    {
+      "tgdb_id": 12302,
+      "title": "Star Wars: Return Of The Jedi"
+    },
+    {
+      "tgdb_id": 12303,
+      "title": "Jumping Jack"
+    },
+    {
+      "tgdb_id": 12305,
+      "title": "Journey"
+    },
+    {
+      "tgdb_id": 12307,
+      "title": "Joust 2: Survival Of The Fittest"
+    },
+    {
+      "tgdb_id": 12308,
+      "title": "Jump Bug"
+    },
+    {
+      "tgdb_id": 12309,
+      "title": "Jungle King"
+    },
+    {
+      "tgdb_id": 12310,
+      "title": "Knuckle Bash"
+    },
+    {
+      "tgdb_id": 12311,
+      "title": "Karate Champ"
+    },
+    {
+      "tgdb_id": 12312,
+      "title": "Kick"
+    },
+    {
+      "tgdb_id": 12313,
+      "title": "Kicker"
+    },
+    {
+      "tgdb_id": 12314,
+      "title": "Kick And Run"
+    },
+    {
+      "tgdb_id": 12315,
+      "title": "KiKi KaiKai"
+    },
+    {
+      "tgdb_id": 12317,
+      "title": "Kozmik Krooz'r"
+    },
+    {
+      "tgdb_id": 12318,
+      "title": "Krull"
+    },
+    {
+      "tgdb_id": 12338,
+      "title": "Legion"
+    },
+    {
+      "tgdb_id": 12617,
+      "title": "Leprechaun"
+    },
+    {
+      "tgdb_id": 12619,
+      "title": "Lightning Fighters"
+    },
+    {
+      "tgdb_id": 12620,
+      "title": "Lunar Lander"
+    },
+    {
+      "tgdb_id": 12626,
+      "title": "Lucky & Wild"
+    },
+    {
+      "tgdb_id": 12627,
+      "title": "Make Trax"
+    },
+    {
+      "tgdb_id": 12628,
+      "title": "Mappy"
+    },
+    {
+      "tgdb_id": 12629,
+      "title": "Martial Masters"
+    },
+    {
+      "tgdb_id": 12630,
+      "title": "Mat Mania"
+    },
+    {
+      "tgdb_id": 12631,
+      "title": "Mega Man 2: The Power Fighters"
+    },
+    {
+      "tgdb_id": 12632,
+      "title": "Metamorphic Force"
+    },
+    {
+      "tgdb_id": 12633,
+      "title": "Major Havoc"
+    },
+    {
+      "tgdb_id": 12634,
+      "title": "Mikie: High School Graffiti"
+    },
+    {
+      "tgdb_id": 12636,
+      "title": "Mars Matrix"
+    },
+    {
+      "tgdb_id": 12638,
+      "title": "Wild West C.O.W.-Boys of Moo Mesa"
+    },
+    {
+      "tgdb_id": 12641,
+      "title": "Mouser"
+    },
+    {
+      "tgdb_id": 12644,
+      "title": "Mad Planets"
+    },
+    {
+      "tgdb_id": 12645,
+      "title": "Mr. Driller"
+    },
+    {
+      "tgdb_id": 12657,
+      "title": "Nastar"
+    },
+    {
+      "tgdb_id": 12659,
+      "title": "Nibbler"
+    },
+    {
+      "tgdb_id": 12660,
+      "title": "New Rally-X"
+    },
+    {
+      "tgdb_id": 12662,
+      "title": "The Outfoxies"
+    },
+    {
+      "tgdb_id": 12663,
+      "title": "Pandora's Palace"
+    },
+    {
+      "tgdb_id": 12664,
+      "title": "Puzzle Bobble 3"
+    },
+    {
+      "tgdb_id": 12665,
+      "title": "Puzzle Bobble 4"
+    },
+    {
+      "tgdb_id": 12666,
+      "title": "Peter Pack Rat"
+    },
+    {
+      "tgdb_id": 12671,
+      "title": "Pig Out"
+    },
+    {
+      "tgdb_id": 12672,
+      "title": "Pigskin"
+    },
+    {
+      "tgdb_id": 12673,
+      "title": "Poker Ladies"
+    },
+    {
+      "tgdb_id": 12674,
+      "title": "Penguin-Kun Wars"
+    },
+    {
+      "tgdb_id": 12675,
+      "title": "Pleiades"
+    },
+    {
+      "tgdb_id": 12676,
+      "title": "Ponpoko"
+    },
+    {
+      "tgdb_id": 12677,
+      "title": "Pooyan"
+    },
+    {
+      "tgdb_id": 12678,
+      "title": "Prehistoric Isle"
+    },
+    {
+      "tgdb_id": 12679,
+      "title": "Progear: Storm Of Progia"
+    },
+    {
+      "tgdb_id": 12680,
+      "title": "Psychic 5"
+    },
+    {
+      "tgdb_id": 12681,
+      "title": "Parallel Turn"
+    },
+    {
+      "tgdb_id": 12682,
+      "title": "Quantum"
+    },
+    {
+      "tgdb_id": 12683,
+      "title": "Radar Scope"
+    },
+    {
+      "tgdb_id": 12685,
+      "title": "Red Baron (Sierra)"
+    },
+    {
+      "tgdb_id": 12687,
+      "title": "Roc'n Rope"
+    },
+    {
+      "tgdb_id": 12689,
+      "title": "R-Type II"
+    },
+    {
+      "tgdb_id": 12690,
+      "title": "R-Type Leo"
+    },
+    {
+      "tgdb_id": 12693,
+      "title": "Super Basketball"
+    },
+    {
+      "tgdb_id": 12694,
+      "title": "Super Contra"
+    },
+    {
+      "tgdb_id": 12695,
+      "title": "Scramble"
+    },
+    {
+      "tgdb_id": 12696,
+      "title": "Street Fighter EX Plus"
+    },
+    {
+      "tgdb_id": 12697,
+      "title": "Street Fighter III: New Generation"
+    },
+    {
+      "tgdb_id": 12701,
+      "title": "Satan's Hollow"
+    },
+    {
+      "tgdb_id": 12825,
+      "title": "Shuffleshot"
+    },
+    {
+      "tgdb_id": 12826,
+      "title": "Shuuz"
+    },
+    {
+      "tgdb_id": 12829,
+      "title": "Sly Spy"
+    },
+    {
+      "tgdb_id": 12832,
+      "title": "Snake Pit"
+    },
+    {
+      "tgdb_id": 12833,
+      "title": "Snacks 'n Jaxson"
+    },
+    {
+      "tgdb_id": 12835,
+      "title": "Space Duel"
+    },
+    {
+      "tgdb_id": 12836,
+      "title": "Space Invaders DX"
+    },
+    {
+      "tgdb_id": 12837,
+      "title": "Super Qix"
+    },
+    {
+      "tgdb_id": 12839,
+      "title": "Speed Rumbler"
+    },
+    {
+      "tgdb_id": 12840,
+      "title": "Star Castle"
+    },
+    {
+      "tgdb_id": 12842,
+      "title": "Stratovox"
+    },
+    {
+      "tgdb_id": 12844,
+      "title": "Vs. Super Mario Bros."
+    },
+    {
+      "tgdb_id": 12845,
+      "title": "Swimmer"
+    },
+    {
+      "tgdb_id": 12846,
+      "title": "Super Zaxxon"
+    },
+    {
+      "tgdb_id": 12847,
+      "title": "Tac/Scan"
+    },
+    {
+      "tgdb_id": 12848,
+      "title": "Tank Battalion"
+    },
+    {
+      "tgdb_id": 12850,
+      "title": "Tetris Plus 2"
+    },
+    {
+      "tgdb_id": 12851,
+      "title": "Tetris: The Grand Master"
+    },
+    {
+      "tgdb_id": 12852,
+      "title": "Thief"
+    },
+    {
+      "tgdb_id": 12853,
+      "title": "Timber"
+    },
+    {
+      "tgdb_id": 12854,
+      "title": "Tumblepop"
+    },
+    {
+      "tgdb_id": 12855,
+      "title": "Ultra Tank"
+    },
+    {
+      "tgdb_id": 12857,
+      "title": "U.S. Championship V'Ball"
+    },
+    {
+      "tgdb_id": 12858,
+      "title": "Victory Road"
+    },
+    {
+      "tgdb_id": 12859,
+      "title": "Violent Storm"
+    },
+    {
+      "tgdb_id": 12860,
+      "title": "Vampire Savior: The Lord Of Vampire"
+    },
+    {
+      "tgdb_id": 12861,
+      "title": "Gradius II: Gofer no Yabou"
+    },
+    {
+      "tgdb_id": 12862,
+      "title": "Wacko"
+    },
+    {
+      "tgdb_id": 12863,
+      "title": "Warp & Warp"
+    },
+    {
+      "tgdb_id": 12864,
+      "title": "Warrior"
+    },
+    {
+      "tgdb_id": 12865,
+      "title": "Warrior Blade"
+    },
+    {
+      "tgdb_id": 12866,
+      "title": "World Class Bowling"
+    },
+    {
+      "tgdb_id": 12867,
+      "title": "War Of The Worlds"
+    },
+    {
+      "tgdb_id": 12868,
+      "title": "WWF Superstars"
+    },
+    {
+      "tgdb_id": 12869,
+      "title": "Xain'd Sleena"
+    },
+    {
+      "tgdb_id": 12870,
+      "title": "XX Mission"
+    },
+    {
+      "tgdb_id": 12871,
+      "title": "Xybots"
+    },
+    {
+      "tgdb_id": 12872,
+      "title": "Bubble Symphony"
+    },
+    {
+      "tgdb_id": 12875,
+      "title": "Fishin' Frenzy"
+    },
+    {
+      "tgdb_id": 12877,
+      "title": "Groove on Fight"
+    },
+    {
+      "tgdb_id": 12879,
+      "title": "Juno First"
+    },
+    {
+      "tgdb_id": 12882,
+      "title": "Pinball Action"
+    },
+    {
+      "tgdb_id": 12884,
+      "title": "Space Bomber"
+    },
+    {
+      "tgdb_id": 12952,
+      "title": "Silent Dragon"
+    },
+    {
+      "tgdb_id": 12953,
+      "title": "The Legend of Silkroad"
+    },
+    {
+      "tgdb_id": 12954,
+      "title": "The Simpsons Bowling"
+    },
+    {
+      "tgdb_id": 12955,
+      "title": "Warriors of Fate"
+    },
+    {
+      "tgdb_id": 32093,
+      "title": "Dark Edge"
+    },
+    {
+      "tgdb_id": 14589,
+      "title": "Yie Ar Kung-Fu"
+    },
+    {
+      "tgdb_id": 14942,
+      "title": "Boxing Bugs"
+    },
+    {
+      "tgdb_id": 14943,
+      "title": "Demon"
+    },
+    {
+      "tgdb_id": 14944,
+      "title": "Eliminator"
+    },
+    {
+      "tgdb_id": 14945,
+      "title": "Solar Quest"
+    },
+    {
+      "tgdb_id": 14946,
+      "title": "Speed Freak"
+    },
+    {
+      "tgdb_id": 14947,
+      "title": "Sundance"
+    },
+    {
+      "tgdb_id": 14948,
+      "title": "TailGunner"
+    },
+    {
+      "tgdb_id": 14949,
+      "title": "Zektor"
+    },
+    {
+      "tgdb_id": 14950,
+      "title": "Demolish Fist"
+    },
+    {
+      "tgdb_id": 14951,
+      "title": "Chase 1929"
+    },
+    {
+      "tgdb_id": 14952,
+      "title": "Dolphin Blue"
+    },
+    {
+      "tgdb_id": 14953,
+      "title": "Dirty Pigskin Football"
+    },
+    {
+      "tgdb_id": 14954,
+      "title": "Faster Than Speed"
+    },
+    {
+      "tgdb_id": 14955,
+      "title": "Force Five"
+    },
+    {
+      "tgdb_id": 14956,
+      "title": "Fist of the North Star"
+    },
+    {
+      "tgdb_id": 14957,
+      "title": "Guilty Gear Isuka"
+    },
+    {
+      "tgdb_id": 14958,
+      "title": "Kenju"
+    },
+    {
+      "tgdb_id": 14959,
+      "title": "The King of Fighters Neowave"
+    },
+    {
+      "tgdb_id": 14960,
+      "title": "The King of Fighters XI"
+    },
+    {
+      "tgdb_id": 14962,
+      "title": "The King of Fighters XII"
+    },
+    {
+      "tgdb_id": 14963,
+      "title": "Knights of Valour: The Seven Spirits"
+    },
+    {
+      "tgdb_id": 14964,
+      "title": "Maximum Speed"
+    },
+    {
+      "tgdb_id": 14965,
+      "title": "Neo Geo Battle Coliseum"
+    },
+    {
+      "tgdb_id": 14966,
+      "title": "Ranger Mission"
+    },
+    {
+      "tgdb_id": 14967,
+      "title": "The Rumble Fish"
+    },
+    {
+      "tgdb_id": 14968,
+      "title": "The Rumble Fish 2"
+    },
+    {
+      "tgdb_id": 14969,
+      "title": "Samurai Shodown VI"
+    },
+    {
+      "tgdb_id": 14970,
+      "title": "Sega Bass Fishing Challenge"
+    },
+    {
+      "tgdb_id": 14971,
+      "title": "Sega Clay Challenge"
+    },
+    {
+      "tgdb_id": 14972,
+      "title": "Sports Shooting USA"
+    },
+    {
+      "tgdb_id": 14973,
+      "title": "Extreme Hunting 2 Tournament Edition"
+    },
+    {
+      "tgdb_id": 14974,
+      "title": "Extreme Hunting"
+    },
+    {
+      "tgdb_id": 14975,
+      "title": "Behind Enemy Lines"
+    },
+    {
+      "tgdb_id": 14976,
+      "title": "Desert Tank"
+    },
+    {
+      "tgdb_id": 14977,
+      "title": "Dead or Alive"
+    },
+    {
+      "tgdb_id": 14978,
+      "title": "Gunblade NY"
+    },
+    {
+      "tgdb_id": 14979,
+      "title": "Motor Raid"
+    },
+    {
+      "tgdb_id": 14980,
+      "title": "Pilot Kids"
+    },
+    {
+      "tgdb_id": 14981,
+      "title": "Sonic Championship"
+    },
+    {
+      "tgdb_id": 14982,
+      "title": "Sega Ski Super G"
+    },
+    {
+      "tgdb_id": 14983,
+      "title": "Sky Target"
+    },
+    {
+      "tgdb_id": 14984,
+      "title": "Sega Rally Championship"
+    },
+    {
+      "tgdb_id": 14985,
+      "title": "Sega Touring Car Championship"
+    },
+    {
+      "tgdb_id": 14986,
+      "title": "Virtua Striker"
+    },
+    {
+      "tgdb_id": 14987,
+      "title": "Wave Runner"
+    },
+    {
+      "tgdb_id": 14988,
+      "title": "Zero Gunner"
+    },
+    {
+      "tgdb_id": 14996,
+      "title": "Guilty Gear XX"
+    },
+    {
+      "tgdb_id": 14999,
+      "title": "The Maze Of The Kings"
+    },
+    {
+      "tgdb_id": 15001,
+      "title": "Slashout"
+    },
+    {
+      "tgdb_id": 15002,
+      "title": "Spikers Battle"
+    },
+    {
+      "tgdb_id": 15004,
+      "title": "Virtua NBA"
+    },
+    {
+      "tgdb_id": 15006,
+      "title": "Virtua Striker 3"
+    },
+    {
+      "tgdb_id": 15078,
+      "title": "Heavy Barrel"
+    },
+    {
+      "tgdb_id": 15079,
+      "title": "Ms. PacMan"
+    },
+    {
+      "tgdb_id": 15080,
+      "title": "Q*bert"
+    },
+    {
+      "tgdb_id": 15081,
+      "title": "RoadBlasters"
+    },
+    {
+      "tgdb_id": 15410,
+      "title": "Deadstorm Pirates"
+    },
+    {
+      "tgdb_id": 16156,
+      "title": "Guerrilla War"
+    },
+    {
+      "tgdb_id": 16248,
+      "title": "Ikari Warriors"
+    },
+    {
+      "tgdb_id": 16257,
+      "title": "Lethal Enforcers"
+    },
+    {
+      "tgdb_id": 16258,
+      "title": "Mario Bros."
+    },
+    {
+      "tgdb_id": 16290,
+      "title": "Rampage World Tour"
+    },
+    {
+      "tgdb_id": 16296,
+      "title": "Rampart"
+    },
+    {
+      "tgdb_id": 16483,
+      "title": "Get Bass: Sega Bass Fishing"
+    },
+    {
+      "tgdb_id": 31795,
+      "title": "Waku Waku Sonic Patrol Car"
+    },
+    {
+      "tgdb_id": 16790,
+      "title": "Alex Kidd: The Lost Stars"
+    },
+    {
+      "tgdb_id": 16865,
+      "title": "Indy 500"
+    },
+    {
+      "tgdb_id": 16866,
+      "title": "Virtua Fighter 2"
+    },
+    {
+      "tgdb_id": 17094,
+      "title": "Mortal Kombat 3"
+    },
+    {
+      "tgdb_id": 17417,
+      "title": "Green Beret"
+    },
+    {
+      "tgdb_id": 17996,
+      "title": "Carnival"
+    },
+    {
+      "tgdb_id": 31799,
+      "title": "Bust-A-Move Again"
+    },
+    {
+      "tgdb_id": 18823,
+      "title": "Ninja Master's: Haou Ninpou-ko"
+    },
+    {
+      "tgdb_id": 32229,
+      "title": "Ninja-Kun: Majou no Bouken"
+    },
+    {
+      "tgdb_id": 33190,
+      "title": "Nebulas ray"
+    },
+    {
+      "tgdb_id": 35566,
+      "title": "Insector X"
+    },
+    {
+      "tgdb_id": 35567,
+      "title": "Tokio"
+    },
+    {
+      "tgdb_id": 35569,
+      "title": "Side pocket"
+    },
+    {
+      "tgdb_id": 19507,
+      "title": "4-D Warriors"
+    },
+    {
+      "tgdb_id": 19508,
+      "title": "Aeroboto"
+    },
+    {
+      "tgdb_id": 19509,
+      "title": "Air Gallet"
+    },
+    {
+      "tgdb_id": 19510,
+      "title": "Backfire!"
+    },
+    {
+      "tgdb_id": 19516,
+      "title": "Metal Slug 3"
+    },
+    {
+      "tgdb_id": 19517,
+      "title": "Metal Slug 4"
+    },
+    {
+      "tgdb_id": 19518,
+      "title": "Metal Slug 5"
+    },
+    {
+      "tgdb_id": 19671,
+      "title": "Dynamite Cop"
+    },
+    {
+      "tgdb_id": 19672,
+      "title": "Last Bronx"
+    },
+    {
+      "tgdb_id": 19673,
+      "title": "Manx TT Superbike"
+    },
+    {
+      "tgdb_id": 19675,
+      "title": "Top Skater"
+    },
+    {
+      "tgdb_id": 19677,
+      "title": "Over Rev"
+    },
+    {
+      "tgdb_id": 19715,
+      "title": "Dirt Devils"
+    },
+    {
+      "tgdb_id": 19716,
+      "title": "The Lost World: Jurassic Park"
+    },
+    {
+      "tgdb_id": 19717,
+      "title": "Fighting Vipers 2"
+    },
+    {
+      "tgdb_id": 28026,
+      "title": "Street Fighter EX2 Plus"
+    },
+    {
+      "tgdb_id": 19718,
+      "title": "Emergency Call Ambulance"
+    },
+    {
+      "tgdb_id": 19719,
+      "title": "Harley-Davidson & L.A. Riders"
+    },
+    {
+      "tgdb_id": 19720,
+      "title": "L.A. Machineguns: Rage Of The Machines"
+    },
+    {
+      "tgdb_id": 19721,
+      "title": "Le Mans 24 Hours"
+    },
+    {
+      "tgdb_id": 19722,
+      "title": "Magical Truck Adventure"
+    },
+    {
+      "tgdb_id": 19723,
+      "title": "Scud Race"
+    },
+    {
+      "tgdb_id": 19724,
+      "title": "The Ocean Hunter"
+    },
+    {
+      "tgdb_id": 19725,
+      "title": "Spike Out"
+    },
+    {
+      "tgdb_id": 19726,
+      "title": "Sega Rally 2 Championship"
+    },
+    {
+      "tgdb_id": 19727,
+      "title": "Virtua Fighter 3"
+    },
+    {
+      "tgdb_id": 19728,
+      "title": "Virtua Striker 2"
+    },
+    {
+      "tgdb_id": 19729,
+      "title": "Cyber Troopers Virtual-On"
+    },
+    {
+      "tgdb_id": 19730,
+      "title": "Cyber Troopers Virtual-On: Oratorio Tangram"
+    },
+    {
+      "tgdb_id": 19731,
+      "title": "Fighting Vipers"
+    },
+    {
+      "tgdb_id": 19732,
+      "title": "The House of the Dead"
+    },
+    {
+      "tgdb_id": 19733,
+      "title": "Sega Water Ski"
+    },
+    {
+      "tgdb_id": 19734,
+      "title": "Virtua Cop"
+    },
+    {
+      "tgdb_id": 19735,
+      "title": "Virtua Cop 2"
+    },
+    {
+      "tgdb_id": 19736,
+      "title": "Rail Chase 2"
+    },
+    {
+      "tgdb_id": 19792,
+      "title": "Art of Fighting 2"
+    },
+    {
+      "tgdb_id": 19793,
+      "title": "Art of Fighting 3"
+    },
+    {
+      "tgdb_id": 28725,
+      "title": "Alcon"
+    },
+    {
+      "tgdb_id": 28726,
+      "title": "Ali Baba and 40 Thieves"
+    },
+    {
+      "tgdb_id": 28727,
+      "title": "Ambush"
+    },
+    {
+      "tgdb_id": 20207,
+      "title": "King of the Monsters 2"
+    },
+    {
+      "tgdb_id": 20700,
+      "title": "Paperboy"
+    },
+    {
+      "tgdb_id": 21008,
+      "title": "Kid Niki: Radical Ninja"
+    },
+    {
+      "tgdb_id": 21012,
+      "title": "Magician Lord"
+    },
+    {
+      "tgdb_id": 21013,
+      "title": "Marble Madness"
+    },
+    {
+      "tgdb_id": 21018,
+      "title": "Super Dodge Ball"
+    },
+    {
+      "tgdb_id": 21019,
+      "title": "Tiger Heli"
+    },
+    {
+      "tgdb_id": 21384,
+      "title": "Gain Ground"
+    },
+    {
+      "tgdb_id": 21565,
+      "title": "Asterix"
+    },
+    {
+      "tgdb_id": 21566,
+      "title": "Double Dragon 3: The Rosetta Stone"
+    },
+    {
+      "tgdb_id": 22610,
+      "title": "The King of Dragons"
+    },
+    {
+      "tgdb_id": 22618,
+      "title": "Airwolf"
+    },
+    {
+      "tgdb_id": 22620,
+      "title": "Gals Panic"
+    },
+    {
+      "tgdb_id": 22621,
+      "title": "Superman"
+    },
+    {
+      "tgdb_id": 22623,
+      "title": "Sonic Wings 3"
+    },
+    {
+      "tgdb_id": 22624,
+      "title": "Neo Bomberman"
+    },
+    {
+      "tgdb_id": 22625,
+      "title": "The King of Fighters 2002"
+    },
+    {
+      "tgdb_id": 22658,
+      "title": "Street Fighter II: Champion Edition"
+    },
+    {
+      "tgdb_id": 22659,
+      "title": "Super Sidekicks"
+    },
+    {
+      "tgdb_id": 23647,
+      "title": "Arkanoid: Revenge of DOH"
+    },
+    {
+      "tgdb_id": 23648,
+      "title": "Bionic Commando"
+    },
+    {
+      "tgdb_id": 23649,
+      "title": "Bomber Man World"
+    },
+    {
+      "tgdb_id": 23658,
+      "title": "Bonanza Bros."
+    },
+    {
+      "tgdb_id": 23659,
+      "title": "Brave Blade"
+    },
+    {
+      "tgdb_id": 23660,
+      "title": "BreakThru"
+    },
+    {
+      "tgdb_id": 23661,
+      "title": "Bubble Memories"
+    },
+    {
+      "tgdb_id": 23662,
+      "title": "Bucky O'Hare"
+    },
+    {
+      "tgdb_id": 23663,
+      "title": "Burning Force"
+    },
+    {
+      "tgdb_id": 23699,
+      "title": "Caliber .50"
+    },
+    {
+      "tgdb_id": 23700,
+      "title": "Chase Bombers"
+    },
+    {
+      "tgdb_id": 23701,
+      "title": "Chase H.Q."
+    },
+    {
+      "tgdb_id": 23702,
+      "title": "Cotton 2: Magical Night Dreams"
+    },
+    {
+      "tgdb_id": 23703,
+      "title": "Cotton: Fantastic Night Dreams"
+    },
+    {
+      "tgdb_id": 23704,
+      "title": "The Crystal of Kings"
+    },
+    {
+      "tgdb_id": 23730,
+      "title": "Fix It Felix Jr."
+    },
+    {
+      "tgdb_id": 23763,
+      "title": "Mercs"
+    },
+    {
+      "tgdb_id": 23888,
+      "title": "Sexy Parodius"
+    },
+    {
+      "tgdb_id": 24051,
+      "title": "Battle Rangers"
+    },
+    {
+      "tgdb_id": 24052,
+      "title": "Blades of Steel"
+    },
+    {
+      "tgdb_id": 24053,
+      "title": "Bottom of the Ninth"
+    },
+    {
+      "tgdb_id": 24054,
+      "title": "Champion Wrestler"
+    },
+    {
+      "tgdb_id": 24055,
+      "title": "F-1 Dream"
+    },
+    {
+      "tgdb_id": 24056,
+      "title": "Football Champ"
+    },
+    {
+      "tgdb_id": 24179,
+      "title": "Hit The Ice"
+    },
+    {
+      "tgdb_id": 24180,
+      "title": "Hot Chase"
+    },
+    {
+      "tgdb_id": 24181,
+      "title": "Hyper Sports"
+    },
+    {
+      "tgdb_id": 24182,
+      "title": "Jr. PacMan"
+    },
+    {
+      "tgdb_id": 24183,
+      "title": "Kick Off"
+    },
+    {
+      "tgdb_id": 24184,
+      "title": "Kick Rider"
+    },
+    {
+      "tgdb_id": 24185,
+      "title": "Load Runner 4"
+    },
+    {
+      "tgdb_id": 24186,
+      "title": "Ironman Off Road"
+    },
+    {
+      "tgdb_id": 24187,
+      "title": "Pang! 3"
+    },
+    {
+      "tgdb_id": 24188,
+      "title": "Pitfall II: Lost Caverns"
+    },
+    {
+      "tgdb_id": 24195,
+      "title": "RedLine Racer"
+    },
+    {
+      "tgdb_id": 24196,
+      "title": "Relief Pitcher"
+    },
+    {
+      "tgdb_id": 24197,
+      "title": "Road Fighter"
+    },
+    {
+      "tgdb_id": 24198,
+      "title": "Super Champion Baseball"
+    },
+    {
+      "tgdb_id": 24199,
+      "title": "Super Volley Ball"
+    },
+    {
+      "tgdb_id": 24200,
+      "title": "Final Blow"
+    },
+    {
+      "tgdb_id": 24249,
+      "title": "Tail to Nose"
+    },
+    {
+      "tgdb_id": 24250,
+      "title": "Tank Force"
+    },
+    {
+      "tgdb_id": 24251,
+      "title": "Traverse USA"
+    },
+    {
+      "tgdb_id": 24252,
+      "title": "World Court"
+    },
+    {
+      "tgdb_id": 24253,
+      "title": "Worl Cup 95 Volleyball"
+    },
+    {
+      "tgdb_id": 24254,
+      "title": "Boulder Dash"
+    },
+    {
+      "tgdb_id": 24422,
+      "title": "The Tower of Druaga"
+    },
+    {
+      "tgdb_id": 24425,
+      "title": "Tehkan World Cup"
+    },
+    {
+      "tgdb_id": 24426,
+      "title": "Darius Gaiden"
+    },
+    {
+      "tgdb_id": 24452,
+      "title": "Pocket Gal"
+    },
+    {
+      "tgdb_id": 24680,
+      "title": "Magic Sword: Heroic Fantasy"
+    },
+    {
+      "tgdb_id": 24771,
+      "title": "The Main Event"
+    },
+    {
+      "tgdb_id": 24773,
+      "title": "Ring Rage"
+    },
+    {
+      "tgdb_id": 24774,
+      "title": "DonPachi"
+    },
+    {
+      "tgdb_id": 35410,
+      "title": "Astroids"
+    },
+    {
+      "tgdb_id": 24905,
+      "title": "Super Sidekicks 2"
+    },
+    {
+      "tgdb_id": 24932,
+      "title": "Hook"
+    },
+    {
+      "tgdb_id": 32652,
+      "title": "Acrobat Mission"
+    },
+    {
+      "tgdb_id": 25719,
+      "title": "Azurian Attack"
+    },
+    {
+      "tgdb_id": 25722,
+      "title": "Zzyzzyxx"
+    },
+    {
+      "tgdb_id": 25001,
+      "title": "Cyber-Lip"
+    },
+    {
+      "tgdb_id": 25002,
+      "title": "E.D.F. Earth Defense Force"
+    },
+    {
+      "tgdb_id": 25003,
+      "title": "Fantasy Zone"
+    },
+    {
+      "tgdb_id": 25004,
+      "title": "Fantasy Zone II: The Tears of Opa-Opa"
+    },
+    {
+      "tgdb_id": 25005,
+      "title": "GangBusters"
+    },
+    {
+      "tgdb_id": 25006,
+      "title": "Mega Man: The Power Battle"
+    },
+    {
+      "tgdb_id": 25008,
+      "title": "Thunder Cross"
+    },
+    {
+      "tgdb_id": 25009,
+      "title": "Thunder Cross II"
+    },
+    {
+      "tgdb_id": 25010,
+      "title": "Xexex"
+    },
+    {
+      "tgdb_id": 25015,
+      "title": "Qix"
+    },
+    {
+      "tgdb_id": 25565,
+      "title": "Bust-a-Move"
+    },
+    {
+      "tgdb_id": 25574,
+      "title": "Circus"
+    },
+    {
+      "tgdb_id": 25575,
+      "title": "Robot Bowl"
+    },
+    {
+      "tgdb_id": 25576,
+      "title": "Car Polo"
+    },
+    {
+      "tgdb_id": 25577,
+      "title": "Side Trak"
+    },
+    {
+      "tgdb_id": 25578,
+      "title": "Rip Cord"
+    },
+    {
+      "tgdb_id": 25579,
+      "title": "Fire One"
+    },
+    {
+      "tgdb_id": 25580,
+      "title": "Crash"
+    },
+    {
+      "tgdb_id": 25581,
+      "title": "Star Fire"
+    },
+    {
+      "tgdb_id": 25583,
+      "title": "Targ"
+    },
+    {
+      "tgdb_id": 25584,
+      "title": "Spectar"
+    },
+    {
+      "tgdb_id": 25585,
+      "title": "Hard Hat"
+    },
+    {
+      "tgdb_id": 25586,
+      "title": "Victory"
+    },
+    {
+      "tgdb_id": 25587,
+      "title": "Teeter Torture"
+    },
+    {
+      "tgdb_id": 25588,
+      "title": "Fax"
+    },
+    {
+      "tgdb_id": 25589,
+      "title": "Top Gunner"
+    },
+    {
+      "tgdb_id": 25590,
+      "title": "Robby Roto"
+    },
+    {
+      "tgdb_id": 25591,
+      "title": "Super Tank"
+    },
+    {
+      "tgdb_id": 25592,
+      "title": "Looping"
+    },
+    {
+      "tgdb_id": 25593,
+      "title": "Gridlee"
+    },
+    {
+      "tgdb_id": 25594,
+      "title": "Alien Arena"
+    },
+    {
+      "tgdb_id": 25605,
+      "title": "Breakers"
+    },
+    {
+      "tgdb_id": 25606,
+      "title": "Fatal Fury 3: Road to the Final Victory"
+    },
+    {
+      "tgdb_id": 25607,
+      "title": "Galaxy Fight: Universal Warriors"
+    },
+    {
+      "tgdb_id": 25608,
+      "title": "Kizuna Encounter: Super Tag Battle"
+    },
+    {
+      "tgdb_id": 25609,
+      "title": "NAM-1975"
+    },
+    {
+      "tgdb_id": 25610,
+      "title": "Neo Geo Cup '98: The Road to the Victory"
+    },
+    {
+      "tgdb_id": 25611,
+      "title": "Over Top"
+    },
+    {
+      "tgdb_id": 25612,
+      "title": "Pulstar"
+    },
+    {
+      "tgdb_id": 25664,
+      "title": "Splatterhouse"
+    },
+    {
+      "tgdb_id": 31732,
+      "title": "Street Fighter II: Rainbow Edition"
+    },
+    {
+      "tgdb_id": 25665,
+      "title": "Die Hard Arcade"
+    },
+    {
+      "tgdb_id": 25732,
+      "title": "CRIME FIGHTERS 2"
+    },
+    {
+      "tgdb_id": 25741,
+      "title": "Defend The Terra Attack On The Red UFO"
+    },
+    {
+      "tgdb_id": 25742,
+      "title": "Dragon Buster"
+    },
+    {
+      "tgdb_id": 25743,
+      "title": "Buster Bros"
+    },
+    {
+      "tgdb_id": 25744,
+      "title": "Alien challenge"
+    },
+    {
+      "tgdb_id": 25745,
+      "title": "Alien Sector"
+    },
+    {
+      "tgdb_id": 25779,
+      "title": "Dig Dug II"
+    },
+    {
+      "tgdb_id": 25780,
+      "title": "Gradius"
+    },
+    {
+      "tgdb_id": 25781,
+      "title": "Pac-Mania"
+    },
+    {
+      "tgdb_id": 25782,
+      "title": "Xevious"
+    },
+    {
+      "tgdb_id": 25783,
+      "title": "TwinBee"
+    },
+    {
+      "tgdb_id": 25784,
+      "title": "Toobin'"
+    },
+    {
+      "tgdb_id": 25785,
+      "title": "Street Fighter II Turbo: Hyper Fighting"
+    },
+    {
+      "tgdb_id": 25786,
+      "title": "Mutation Nation"
+    },
+    {
+      "tgdb_id": 25787,
+      "title": "Samurai Shodown"
+    },
+    {
+      "tgdb_id": 25788,
+      "title": "Samurai Shodown II"
+    },
+    {
+      "tgdb_id": 25789,
+      "title": "Samurai Shodown III"
+    },
+    {
+      "tgdb_id": 25790,
+      "title": "The King of Fighters '94"
+    },
+    {
+      "tgdb_id": 25791,
+      "title": "The King of Fighters '95"
+    },
+    {
+      "tgdb_id": 25792,
+      "title": "The King of Fighters '96"
+    },
+    {
+      "tgdb_id": 25793,
+      "title": "The King of Fighters '97"
+    },
+    {
+      "tgdb_id": 25794,
+      "title": "The King of Fighters '98"
+    },
+    {
+      "tgdb_id": 25798,
+      "title": "Real Bout Fatal Fury Special"
+    },
+    {
+      "tgdb_id": 25799,
+      "title": "Real Bout Fatal Fury"
+    },
+    {
+      "tgdb_id": 25800,
+      "title": "Mystic Warriors: Wrath of the Ninjas"
+    },
+    {
+      "tgdb_id": 25801,
+      "title": "Master of Weapon"
+    },
+    {
+      "tgdb_id": 25831,
+      "title": "A.D. 2083"
+    },
+    {
+      "tgdb_id": 25832,
+      "title": "Action Hollywood"
+    },
+    {
+      "tgdb_id": 25859,
+      "title": "Surprise Attack"
+    },
+    {
+      "tgdb_id": 26044,
+      "title": "Hyper Street Fighter II: The Anniversary Edition"
+    },
+    {
+      "tgdb_id": 26045,
+      "title": "Street Fighter III: 2nd Impact"
+    },
+    {
+      "tgdb_id": 26046,
+      "title": "Denjin Makai"
+    },
+    {
+      "tgdb_id": 26047,
+      "title": "Guardians: Denjin Makai II"
+    },
+    {
+      "tgdb_id": 26099,
+      "title": "Dragon Master"
+    },
+    {
+      "tgdb_id": 26100,
+      "title": "Blade Master"
+    },
+    {
+      "tgdb_id": 26101,
+      "title": "Samurai Shodown IV"
+    },
+    {
+      "tgdb_id": 26209,
+      "title": "Cabal"
+    },
+    {
+      "tgdb_id": 26302,
+      "title": "Haunted Castle"
+    },
+    {
+      "tgdb_id": 26397,
+      "title": "Fatal Fury: King of Fighters"
+    },
+    {
+      "tgdb_id": 26399,
+      "title": "Fatal Fury 2"
+    },
+    {
+      "tgdb_id": 26415,
+      "title": "Robo Army"
+    },
+    {
+      "tgdb_id": 26416,
+      "title": "Samurai Shodown V"
+    },
+    {
+      "tgdb_id": 26417,
+      "title": "Sengoku"
+    },
+    {
+      "tgdb_id": 26418,
+      "title": "Sengoku 2"
+    },
+    {
+      "tgdb_id": 26419,
+      "title": "Sengoku 3"
+    },
+    {
+      "tgdb_id": 26420,
+      "title": "SNK vs. Capcom: SVC Chaos"
+    },
+    {
+      "tgdb_id": 26421,
+      "title": "The King of Fighters '99"
+    },
+    {
+      "tgdb_id": 26422,
+      "title": "The King of Fighters 2000"
+    },
+    {
+      "tgdb_id": 26423,
+      "title": "The King of Fighters 2001"
+    },
+    {
+      "tgdb_id": 26424,
+      "title": "The King of Fighters 2003"
+    },
+    {
+      "tgdb_id": 26435,
+      "title": "Mr. Do! (Universal)"
+    },
+    {
+      "tgdb_id": 26634,
+      "title": "Pac-Man"
+    },
+    {
+      "tgdb_id": 26635,
+      "title": "Puck-Man"
+    },
+    {
+      "tgdb_id": 26669,
+      "title": "Real Bout Fatal Fury 2: The Newcomers"
+    },
+    {
+      "tgdb_id": 26670,
+      "title": "Shock Troopers - 2nd Squad"
+    },
+    {
+      "tgdb_id": 26754,
+      "title": "Baseball Stars 2"
+    },
+    {
+      "tgdb_id": 26755,
+      "title": "Neo Mr. Do!"
+    },
+    {
+      "tgdb_id": 26756,
+      "title": "Hang-On"
+    },
+    {
+      "tgdb_id": 26757,
+      "title": "Rambo III"
+    },
+    {
+      "tgdb_id": 26791,
+      "title": "Neo Turf Masters"
+    },
+    {
+      "tgdb_id": 26792,
+      "title": "Street Fighter: The Movie"
+    },
+    {
+      "tgdb_id": 26793,
+      "title": "Last Blade"
+    },
+    {
+      "tgdb_id": 26794,
+      "title": "Last Blade 2"
+    },
+    {
+      "tgdb_id": 26795,
+      "title": "The Ultimate 11: SNK Football Championship"
+    },
+    {
+      "tgdb_id": 26796,
+      "title": "Ah Eikou No Koshien"
+    },
+    {
+      "tgdb_id": 26797,
+      "title": "Batman Forever"
+    },
+    {
+      "tgdb_id": 26798,
+      "title": "Battle K-Road"
+    },
+    {
+      "tgdb_id": 26799,
+      "title": "Blood Storm"
+    },
+    {
+      "tgdb_id": 26800,
+      "title": "Blood Warrior"
+    },
+    {
+      "tgdb_id": 26801,
+      "title": "Breakers Revenge"
+    },
+    {
+      "tgdb_id": 26802,
+      "title": "Burning Fight"
+    },
+    {
+      "tgdb_id": 26803,
+      "title": "Burning Rival"
+    },
+    {
+      "tgdb_id": 26804,
+      "title": "Double Dragon"
+    },
+    {
+      "tgdb_id": 26805,
+      "title": "Dragoon Might"
+    },
+    {
+      "tgdb_id": 26806,
+      "title": "Far East of Eden: Kabuki Klash"
+    },
+    {
+      "tgdb_id": 26807,
+      "title": "Fatal Fury Special"
+    },
+    {
+      "tgdb_id": 26808,
+      "title": "Fight Fever"
+    },
+    {
+      "tgdb_id": 26809,
+      "title": "Fighter's History"
+    },
+    {
+      "tgdb_id": 26810,
+      "title": "Fighting Layer"
+    },
+    {
+      "tgdb_id": 26811,
+      "title": "Fire Trap"
+    },
+    {
+      "tgdb_id": 26812,
+      "title": "Gaia Crusaders"
+    },
+    {
+      "tgdb_id": 26813,
+      "title": "Garou: Mark of the Wolves"
+    },
+    {
+      "tgdb_id": 26814,
+      "title": "Goal! Goal! Goal!"
+    },
+    {
+      "tgdb_id": 26815,
+      "title": "Power Instinct Legends"
+    },
+    {
+      "tgdb_id": 26816,
+      "title": "Kaiser Knuckle"
+    },
+    {
+      "tgdb_id": 26817,
+      "title": "Fighter's History Dynamite"
+    },
+    {
+      "tgdb_id": 26818,
+      "title": "Magical Cat Adventure"
+    },
+    {
+      "tgdb_id": 26819,
+      "title": "Martial Champion"
+    },
+    {
+      "tgdb_id": 26820,
+      "title": "Power Instinct Matrimelee"
+    },
+    {
+      "tgdb_id": 26822,
+      "title": "Metamoqester"
+    },
+    {
+      "tgdb_id": 26823,
+      "title": "Monster Maulers"
+    },
+    {
+      "tgdb_id": 26848,
+      "title": "Night Slashers"
+    },
+    {
+      "tgdb_id": 26849,
+      "title": "Night Warriors: Darkstalkers' Revenge"
+    },
+    {
+      "tgdb_id": 26850,
+      "title": "Oriental Legend"
+    },
+    {
+      "tgdb_id": 26854,
+      "title": "OutRunners"
+    },
+    {
+      "tgdb_id": 26855,
+      "title": "Pit Fighter"
+    },
+    {
+      "tgdb_id": 26856,
+      "title": "Power Instinct"
+    },
+    {
+      "tgdb_id": 26857,
+      "title": "Power Instinct 2"
+    },
+    {
+      "tgdb_id": 26858,
+      "title": "Pretty Soldier Sailor Moon"
+    },
+    {
+      "tgdb_id": 26859,
+      "title": "Purikura Daisakusen"
+    },
+    {
+      "tgdb_id": 26860,
+      "title": "PuLiRuLa"
+    },
+    {
+      "tgdb_id": 26861,
+      "title": "Rad Mobile"
+    },
+    {
+      "tgdb_id": 26862,
+      "title": "Rad Rally"
+    },
+    {
+      "tgdb_id": 26863,
+      "title": "Rally Bike"
+    },
+    {
+      "tgdb_id": 26864,
+      "title": "Ring of Destruction: Slam Masters 2"
+    },
+    {
+      "tgdb_id": 26865,
+      "title": "RoboCop 2"
+    },
+    {
+      "tgdb_id": 26866,
+      "title": "Samurai Shodown V Special"
+    },
+    {
+      "tgdb_id": 26867,
+      "title": "Saturday Night Slam Masters"
+    },
+    {
+      "tgdb_id": 26868,
+      "title": "Savage Reign"
+    },
+    {
+      "tgdb_id": 26869,
+      "title": "SD Fighters"
+    },
+    {
+      "tgdb_id": 26870,
+      "title": "Special Criminal Investigation"
+    },
+    {
+      "tgdb_id": 26871,
+      "title": "Super Pang"
+    },
+    {
+      "tgdb_id": 26872,
+      "title": "Tattoo Assassins"
+    },
+    {
+      "tgdb_id": 26874,
+      "title": "Ultimate Mortal Kombat 3"
+    },
+    {
+      "tgdb_id": 26875,
+      "title": "Vamf x1/2"
+    },
+    {
+      "tgdb_id": 26878,
+      "title": "Vendetta"
+    },
+    {
+      "tgdb_id": 26879,
+      "title": "World Heroes"
+    },
+    {
+      "tgdb_id": 26880,
+      "title": "World Heroes 2"
+    },
+    {
+      "tgdb_id": 26881,
+      "title": "World Heroes 2 Jet"
+    },
+    {
+      "tgdb_id": 26883,
+      "title": "World Heroes Perfect"
+    },
+    {
+      "tgdb_id": 36409,
+      "title": "Mirax"
+    },
+    {
+      "tgdb_id": 36410,
+      "title": "Mangchi"
+    },
+    {
+      "tgdb_id": 26887,
+      "title": "Voltage Fighter Gowcaizer"
+    },
+    {
+      "tgdb_id": 26890,
+      "title": "Waku Waku 7"
+    },
+    {
+      "tgdb_id": 26891,
+      "title": "Salamander 2"
+    },
+    {
+      "tgdb_id": 26893,
+      "title": "Rage of the Dragons"
+    },
+    {
+      "tgdb_id": 26894,
+      "title": "Metal Slug"
+    },
+    {
+      "tgdb_id": 26899,
+      "title": "Knuckle Heads"
+    },
+    {
+      "tgdb_id": 26901,
+      "title": "Death Brade"
+    },
+    {
+      "tgdb_id": 26906,
+      "title": "Stone Ball"
+    },
+    {
+      "tgdb_id": 26907,
+      "title": "Survival Arts"
+    },
+    {
+      "tgdb_id": 26909,
+      "title": "Ta•o Taido"
+    },
+    {
+      "tgdb_id": 26914,
+      "title": "Shogun Warriors"
+    },
+    {
+      "tgdb_id": 26915,
+      "title": "BattleCry"
+    },
+    {
+      "tgdb_id": 26916,
+      "title": "Best of Best"
+    },
+    {
+      "tgdb_id": 26917,
+      "title": "Blazing Tornado"
+    },
+    {
+      "tgdb_id": 26918,
+      "title": "Brute Force"
+    },
+    {
+      "tgdb_id": 26919,
+      "title": "Crime Fighters"
+    },
+    {
+      "tgdb_id": 26920,
+      "title": "The Fallen Angels"
+    },
+    {
+      "tgdb_id": 26921,
+      "title": "Fantasy"
+    },
+    {
+      "tgdb_id": 26922,
+      "title": "FlashGal"
+    },
+    {
+      "tgdb_id": 26923,
+      "title": "Karate Blazers"
+    },
+    {
+      "tgdb_id": 26924,
+      "title": "Ashita No Joe"
+    },
+    {
+      "tgdb_id": 26925,
+      "title": "Legionnaire"
+    },
+    {
+      "tgdb_id": 26926,
+      "title": "Ninja Baseball Bat Man"
+    },
+    {
+      "tgdb_id": 26927,
+      "title": "Plasma Sword: Nightmare of Bilstein"
+    },
+    {
+      "tgdb_id": 26928,
+      "title": "Riding Fight"
+    },
+    {
+      "tgdb_id": 26929,
+      "title": "Rise of the Robots (Prototype)"
+    },
+    {
+      "tgdb_id": 26932,
+      "title": "Violence Fight"
+    },
+    {
+      "tgdb_id": 26933,
+      "title": "Superior Soldiers"
+    },
+    {
+      "tgdb_id": 26935,
+      "title": "Star Gladiator Episode I: Final Crusade"
+    },
+    {
+      "tgdb_id": 26937,
+      "title": "Jackie Chan: The Kung-Fu Master"
+    },
+    {
+      "tgdb_id": 26938,
+      "title": "Jackie Chan in Fists of Fire"
+    },
+    {
+      "tgdb_id": 27358,
+      "title": "MegaPony"
+    },
+    {
+      "tgdb_id": 27507,
+      "title": "Silent Hill: The Arcade"
+    },
+    {
+      "tgdb_id": 27804,
+      "title": "NBA Showtime: NBA On NBC"
+    },
+    {
+      "tgdb_id": 27841,
+      "title": "Gyruss"
+    },
+    {
+      "tgdb_id": 27842,
+      "title": "Time Pilot"
+    },
+    {
+      "tgdb_id": 27843,
+      "title": "Phoenix"
+    },
+    {
+      "tgdb_id": 27898,
+      "title": "Astra Super Stars"
+    },
+    {
+      "tgdb_id": 27905,
+      "title": "Fatal Fury: Wild Ambition"
+    },
+    {
+      "tgdb_id": 27907,
+      "title": "Melty Blood: Act Cadenza"
+    },
+    {
+      "tgdb_id": 27908,
+      "title": "Melty Blood: Act Cadenza Ver. B"
+    },
+    {
+      "tgdb_id": 27909,
+      "title": "Neo Drift Out: New Technology"
+    },
+    {
+      "tgdb_id": 28027,
+      "title": "Battle Arena Toshinden 2"
+    },
+    {
+      "tgdb_id": 28608,
+      "title": "NFL Blitz 99"
+    },
+    {
+      "tgdb_id": 28609,
+      "title": "NFL Blitz 2000 Gold Edition"
+    },
+    {
+      "tgdb_id": 28610,
+      "title": "Lethal Enforcers II Gun Fighters"
+    },
+    {
+      "tgdb_id": 28612,
+      "title": "Crime Patrol"
+    },
+    {
+      "tgdb_id": 28614,
+      "title": "Crime Patrol 2: Drug Wars"
+    },
+    {
+      "tgdb_id": 28615,
+      "title": "Mad Dog McCree"
+    },
+    {
+      "tgdb_id": 28616,
+      "title": "Area 51/Maximum Force Duo"
+    },
+    {
+      "tgdb_id": 28617,
+      "title": "Cruis'n USA"
+    },
+    {
+      "tgdb_id": 28618,
+      "title": "Cruis'n World"
+    },
+    {
+      "tgdb_id": 28619,
+      "title": "NFL Blitz"
+    },
+    {
+      "tgdb_id": 28620,
+      "title": "Tekken"
+    },
+    {
+      "tgdb_id": 28621,
+      "title": "Tekken 2"
+    },
+    {
+      "tgdb_id": 28623,
+      "title": "Tekken 3"
+    },
+    {
+      "tgdb_id": 28624,
+      "title": "Time Crisis II"
+    },
+    {
+      "tgdb_id": 28625,
+      "title": "NBA Maximum Hangtime"
+    },
+    {
+      "tgdb_id": 28626,
+      "title": "California Speed"
+    },
+    {
+      "tgdb_id": 28627,
+      "title": "Crazy Taxi"
+    },
+    {
+      "tgdb_id": 28628,
+      "title": "Terminator 2: Judgment Day"
+    },
+    {
+      "tgdb_id": 28629,
+      "title": "Baseball Stars Professional"
+    },
+    {
+      "tgdb_id": 28656,
+      "title": "Confidential Mission"
+    },
+    {
+      "tgdb_id": 28657,
+      "title": "The House Of The Dead 2"
+    },
+    {
+      "tgdb_id": 28658,
+      "title": "Lupin The 3rd The Shooting"
+    },
+    {
+      "tgdb_id": 28659,
+      "title": "Jambo Safari"
+    },
+    {
+      "tgdb_id": 28660,
+      "title": "NASCAR"
+    },
+    {
+      "tgdb_id": 28661,
+      "title": "Smashing Drive"
+    },
+    {
+      "tgdb_id": 28663,
+      "title": "Capcom Vs. SNK: Millennium Fight 2000"
+    },
+    {
+      "tgdb_id": 28664,
+      "title": "Capcom Vs. SNK 2: Mark of The Millennium 2001"
+    },
+    {
+      "tgdb_id": 28668,
+      "title": "Dead or Alive 2 Millennium"
+    },
+    {
+      "tgdb_id": 28716,
+      "title": "Aero Fighters 3"
+    },
+    {
+      "tgdb_id": 28718,
+      "title": "Cannon Spike"
+    },
+    {
+      "tgdb_id": 28728,
+      "title": "Amidar"
+    },
+    {
+      "tgdb_id": 28729,
+      "title": "Andro Dunos"
+    },
+    {
+      "tgdb_id": 28730,
+      "title": "Arbalester"
+    },
+    {
+      "tgdb_id": 28731,
+      "title": "Armed Formation F"
+    },
+    {
+      "tgdb_id": 28732,
+      "title": "Atomic Point"
+    },
+    {
+      "tgdb_id": 28733,
+      "title": "Aurail"
+    },
+    {
+      "tgdb_id": 28734,
+      "title": "The Battle Road"
+    },
+    {
+      "tgdb_id": 28735,
+      "title": "Bay Route"
+    },
+    {
+      "tgdb_id": 28736,
+      "title": "The Berlin Wall"
+    },
+    {
+      "tgdb_id": 28737,
+      "title": "Big Karnak"
+    },
+    {
+      "tgdb_id": 28738,
+      "title": "Biomechanical Toy"
+    },
+    {
+      "tgdb_id": 28739,
+      "title": "Black Hole"
+    },
+    {
+      "tgdb_id": 28740,
+      "title": "Blood Bros."
+    },
+    {
+      "tgdb_id": 28741,
+      "title": "Bells & Whistles"
+    },
+    {
+      "tgdb_id": 28742,
+      "title": "Blue Print"
+    },
+    {
+      "tgdb_id": 28743,
+      "title": "Brain"
+    },
+    {
+      "tgdb_id": 28744,
+      "title": "Calipso"
+    },
+    {
+      "tgdb_id": 28748,
+      "title": "Cosmic Avenger"
+    },
+    {
+      "tgdb_id": 28749,
+      "title": "Check Man"
+    },
+    {
+      "tgdb_id": 28750,
+      "title": "Chelnov"
+    },
+    {
+      "tgdb_id": 28751,
+      "title": "Crazy Kong"
+    },
+    {
+      "tgdb_id": 28752,
+      "title": "Cobra Command"
+    },
+    {
+      "tgdb_id": 28753,
+      "title": "Cookie & Bibi 3"
+    },
+    {
+      "tgdb_id": 28754,
+      "title": "Crossed Swords"
+    },
+    {
+      "tgdb_id": 28755,
+      "title": "Crush Roller"
+    },
+    {
+      "tgdb_id": 28756,
+      "title": "Captain Silver"
+    },
+    {
+      "tgdb_id": 28757,
+      "title": "The Combatribes"
+    },
+    {
+      "tgdb_id": 28758,
+      "title": "Cue Brick"
+    },
+    {
+      "tgdb_id": 28759,
+      "title": "Dark Seal"
+    },
+    {
+      "tgdb_id": 28760,
+      "title": "Carnica"
+    },
+    {
+      "tgdb_id": 28761,
+      "title": "Dead Connection"
+    },
+    {
+      "tgdb_id": 28762,
+      "title": "Demon's World"
+    },
+    {
+      "tgdb_id": 28763,
+      "title": "Devil Fish"
+    },
+    {
+      "tgdb_id": 28764,
+      "title": "Devastators"
+    },
+    {
+      "tgdb_id": 28765,
+      "title": "Digger Man"
+    },
+    {
+      "tgdb_id": 28767,
+      "title": "Dino Rex"
+    },
+    {
+      "tgdb_id": 28768,
+      "title": "Dogyuun"
+    },
+    {
+      "tgdb_id": 28769,
+      "title": "Downtown"
+    },
+    {
+      "tgdb_id": 28770,
+      "title": "Dream Shopper"
+    },
+    {
+      "tgdb_id": 28771,
+      "title": "Dragon Unit"
+    },
+    {
+      "tgdb_id": 28772,
+      "title": "Dream Soccer '94"
+    },
+    {
+      "tgdb_id": 28780,
+      "title": "Stakes Winner"
+    },
+    {
+      "tgdb_id": 28781,
+      "title": "Stakes Winner 2"
+    },
+    {
+      "tgdb_id": 28782,
+      "title": "WWF Royal Rumble"
+    },
+    {
+      "tgdb_id": 28783,
+      "title": "Ninja Assault"
+    },
+    {
+      "tgdb_id": 28785,
+      "title": "Invasion - The Abductors"
+    },
+    {
+      "tgdb_id": 28902,
+      "title": "Off Road Challenge"
+    },
+    {
+      "tgdb_id": 28910,
+      "title": "2 on 2 Open Ice Challenge"
+    },
+    {
+      "tgdb_id": 28911,
+      "title": "ASO II: Last Guardian"
+    },
+    {
+      "tgdb_id": 28912,
+      "title": "Astro Invader"
+    },
+    {
+      "tgdb_id": 28913,
+      "title": "Athena"
+    },
+    {
+      "tgdb_id": 28914,
+      "title": "Bad Lands"
+    },
+    {
+      "tgdb_id": 28915,
+      "title": "Blazing Star"
+    },
+    {
+      "tgdb_id": 28916,
+      "title": "Block Out"
+    },
+    {
+      "tgdb_id": 28917,
+      "title": "Blue's Journey"
+    },
+    {
+      "tgdb_id": 28918,
+      "title": "Bomb Jack Twin"
+    },
+    {
+      "tgdb_id": 28919,
+      "title": "Boot Camp"
+    },
+    {
+      "tgdb_id": 28920,
+      "title": "Break Thru"
+    },
+    {
+      "tgdb_id": 28921,
+      "title": "Burnin' Rubber"
+    },
+    {
+      "tgdb_id": 28946,
+      "title": "Dynamite Duke"
+    },
+    {
+      "tgdb_id": 28948,
+      "title": "Enduro Racer"
+    },
+    {
+      "tgdb_id": 28949,
+      "title": "Exed Exes"
+    },
+    {
+      "tgdb_id": 28950,
+      "title": "Explosive Breaker"
+    },
+    {
+      "tgdb_id": 28951,
+      "title": "Eyes"
+    },
+    {
+      "tgdb_id": 28952,
+      "title": "Football Frenzy"
+    },
+    {
+      "tgdb_id": 28953,
+      "title": "Fever SOS"
+    },
+    {
+      "tgdb_id": 28954,
+      "title": "Fire Shark"
+    },
+    {
+      "tgdb_id": 28955,
+      "title": "Flicky"
+    },
+    {
+      "tgdb_id": 28957,
+      "title": "Azumanga Daioh Puzzle Bobble"
+    },
+    {
+      "tgdb_id": 28958,
+      "title": "Dynamite Deka EX ~Asian Dynamite~"
+    },
+    {
+      "tgdb_id": 28962,
+      "title": "Chopper I"
+    },
+    {
+      "tgdb_id": 28963,
+      "title": "Congo Bongo"
+    },
+    {
+      "tgdb_id": 28964,
+      "title": "Cosmo Gang The Video"
+    },
+    {
+      "tgdb_id": 28965,
+      "title": "Crazy Cop"
+    },
+    {
+      "tgdb_id": 28966,
+      "title": "Cuby Bop"
+    },
+    {
+      "tgdb_id": 28967,
+      "title": "Devil World"
+    },
+    {
+      "tgdb_id": 28968,
+      "title": "Drift Out"
+    },
+    {
+      "tgdb_id": 28969,
+      "title": "Dyger"
+    },
+    {
+      "tgdb_id": 28970,
+      "title": "Dynamite Dux"
+    },
+    {
+      "tgdb_id": 28971,
+      "title": "Euro Champ '92"
+    },
+    {
+      "tgdb_id": 28972,
+      "title": "Faster Harder More Challenging Q*bert"
+    },
+    {
+      "tgdb_id": 37092,
+      "title": "Steel Force"
+    },
+    {
+      "tgdb_id": 37093,
+      "title": "News"
+    },
+    {
+      "tgdb_id": 37094,
+      "title": "Puzz Loop 2"
+    },
+    {
+      "tgdb_id": 37095,
+      "title": "Puzzle King"
+    },
+    {
+      "tgdb_id": 29002,
+      "title": "Virtua Fighter 4"
+    },
+    {
+      "tgdb_id": 29003,
+      "title": "Virtua Fighter 4 Evolution"
+    },
+    {
+      "tgdb_id": 29004,
+      "title": "Virtua Fighter 4 Final Tuned"
+    },
+    {
+      "tgdb_id": 29084,
+      "title": "Alpha Mission II"
+    },
+    {
+      "tgdb_id": 29085,
+      "title": "Battle Flip Shot"
+    },
+    {
+      "tgdb_id": 29086,
+      "title": "Spinal Breakers"
+    },
+    {
+      "tgdb_id": 29087,
+      "title": "Twinkle Star Sprites"
+    },
+    {
+      "tgdb_id": 29088,
+      "title": "2020 Super Baseball"
+    },
+    {
+      "tgdb_id": 29089,
+      "title": "Mega Twins"
+    },
+    {
+      "tgdb_id": 29090,
+      "title": "Wild Fang"
+    },
+    {
+      "tgdb_id": 29091,
+      "title": "Forgotten Worlds"
+    },
+    {
+      "tgdb_id": 29092,
+      "title": "Bomberman: Panic Bomber"
+    },
+    {
+      "tgdb_id": 29093,
+      "title": "Truxton"
+    },
+    {
+      "tgdb_id": 29094,
+      "title": "Truxton II"
+    },
+    {
+      "tgdb_id": 29095,
+      "title": "Oni - The Ninja Master"
+    },
+    {
+      "tgdb_id": 29096,
+      "title": "Knights of Valour"
+    },
+    {
+      "tgdb_id": 29148,
+      "title": "Do DonPachi"
+    },
+    {
+      "tgdb_id": 29196,
+      "title": "Dragon Blaze"
+    },
+    {
+      "tgdb_id": 29197,
+      "title": "Super Slams"
+    },
+    {
+      "tgdb_id": 29198,
+      "title": "Gaplus"
+    },
+    {
+      "tgdb_id": 29199,
+      "title": "Super Slam"
+    },
+    {
+      "tgdb_id": 29341,
+      "title": "Gang Busters"
+    },
+    {
+      "tgdb_id": 29342,
+      "title": "Gang Wars"
+    },
+    {
+      "tgdb_id": 29343,
+      "title": "Ghost Pilots"
+    },
+    {
+      "tgdb_id": 29344,
+      "title": "Ghox"
+    },
+    {
+      "tgdb_id": 29345,
+      "title": "Gimme a Break"
+    },
+    {
+      "tgdb_id": 29346,
+      "title": "Gridiron Fight"
+    },
+    {
+      "tgdb_id": 29347,
+      "title": "Growl"
+    },
+    {
+      "tgdb_id": 29348,
+      "title": "Guzzler"
+    },
+    {
+      "tgdb_id": 29449,
+      "title": "The Fairyland Story"
+    },
+    {
+      "tgdb_id": 29450,
+      "title": "Fancy World - Earth of Crisis"
+    },
+    {
+      "tgdb_id": 29451,
+      "title": "Funky Fish"
+    },
+    {
+      "tgdb_id": 29452,
+      "title": "Flash Point"
+    },
+    {
+      "tgdb_id": 29453,
+      "title": "The Final Round"
+    },
+    {
+      "tgdb_id": 29455,
+      "title": "Gardia"
+    },
+    {
+      "tgdb_id": 29456,
+      "title": "Grind Stormer"
+    },
+    {
+      "tgdb_id": 29457,
+      "title": "Gunforce"
+    },
+    {
+      "tgdb_id": 29458,
+      "title": "Gun & Frontier"
+    },
+    {
+      "tgdb_id": 29459,
+      "title": "Gun.Smoke"
+    },
+    {
+      "tgdb_id": 29460,
+      "title": "Gyrodine"
+    },
+    {
+      "tgdb_id": 29461,
+      "title": "Head Panic"
+    },
+    {
+      "tgdb_id": 29462,
+      "title": "Hellfire"
+    },
+    {
+      "tgdb_id": 29463,
+      "title": "Hammerin' Harry"
+    },
+    {
+      "tgdb_id": 29464,
+      "title": "Hippodrome"
+    },
+    {
+      "tgdb_id": 29466,
+      "title": "Hotdog Storm"
+    },
+    {
+      "tgdb_id": 29467,
+      "title": "Heavy Metal"
+    },
+    {
+      "tgdb_id": 29472,
+      "title": "Heavyweight Champ"
+    },
+    {
+      "tgdb_id": 29473,
+      "title": "Ikari III"
+    },
+    {
+      "tgdb_id": 29474,
+      "title": "In the Hunt"
+    },
+    {
+      "tgdb_id": 29475,
+      "title": "Jump Kids"
+    },
+    {
+      "tgdb_id": 29509,
+      "title": "Batrider"
+    },
+    {
+      "tgdb_id": 29510,
+      "title": "Battle Garegga"
+    },
+    {
+      "tgdb_id": 29511,
+      "title": "DoDonPachi"
+    },
+    {
+      "tgdb_id": 29525,
+      "title": "Cybattler"
+    },
+    {
+      "tgdb_id": 29543,
+      "title": "Kageki"
+    },
+    {
+      "tgdb_id": 29544,
+      "title": "Konami GT"
+    },
+    {
+      "tgdb_id": 29545,
+      "title": "Last Resort"
+    },
+    {
+      "tgdb_id": 29546,
+      "title": "LED Storm"
+    },
+    {
+      "tgdb_id": 29547,
+      "title": "Legend Of Hero Tonma"
+    },
+    {
+      "tgdb_id": 29548,
+      "title": "Liquid Kids"
+    },
+    {
+      "tgdb_id": 29761,
+      "title": "Gorf"
+    },
+    {
+      "tgdb_id": 29762,
+      "title": "Fast Freddie"
+    },
+    {
+      "tgdb_id": 29763,
+      "title": "Crazy Climber"
+    },
+    {
+      "tgdb_id": 29855,
+      "title": "D-day"
+    },
+    {
+      "tgdb_id": 29895,
+      "title": "Boot Hill"
+    },
+    {
+      "tgdb_id": 29903,
+      "title": "Demolition Derby"
+    },
+    {
+      "tgdb_id": 29910,
+      "title": "Final Furlong"
+    },
+    {
+      "tgdb_id": 29915,
+      "title": "Golden Tee Live"
+    },
+    {
+      "tgdb_id": 29934,
+      "title": "Gemini Wing"
+    },
+    {
+      "tgdb_id": 29935,
+      "title": "Parodius Da! Shinwa kara Owarai e"
+    },
+    {
+      "tgdb_id": 29962,
+      "title": "Soul Edge"
+    },
+    {
+      "tgdb_id": 29964,
+      "title": "RayForce"
+    },
+    {
+      "tgdb_id": 30066,
+      "title": "Baby Pac-Man"
+    },
+    {
+      "tgdb_id": 30067,
+      "title": "Pac-Man Plus"
+    },
+    {
+      "tgdb_id": 30068,
+      "title": "Computer Space"
+    },
+    {
+      "tgdb_id": 30100,
+      "title": "Marchen Maze"
+    },
+    {
+      "tgdb_id": 30104,
+      "title": "Puzz Loop"
+    },
+    {
+      "tgdb_id": 30108,
+      "title": "Minasan"
+    },
+    {
+      "tgdb_id": 30114,
+      "title": "Guardian Force"
+    },
+    {
+      "tgdb_id": 30116,
+      "title": "Elevator Action Returns"
+    },
+    {
+      "tgdb_id": 30196,
+      "title": "Guilty Gear Xrd"
+    },
+    {
+      "tgdb_id": 30281,
+      "title": "Ninja Hayate"
+    },
+    {
+      "tgdb_id": 30283,
+      "title": "Tank"
+    },
+    {
+      "tgdb_id": 30284,
+      "title": "Rally-X"
+    },
+    {
+      "tgdb_id": 30285,
+      "title": "Golden Tee Golf"
+    },
+    {
+      "tgdb_id": 30372,
+      "title": "Frogs"
+    },
+    {
+      "tgdb_id": 30374,
+      "title": "Galaxy Game"
+    },
+    {
+      "tgdb_id": 30376,
+      "title": "Golden Tee Fore! 2004"
+    },
+    {
+      "tgdb_id": 30381,
+      "title": "Gran Trak 10"
+    },
+    {
+      "tgdb_id": 30383,
+      "title": "Guitar Freaks"
+    },
+    {
+      "tgdb_id": 30420,
+      "title": "Maneater"
+    },
+    {
+      "tgdb_id": 30436,
+      "title": "Plump Pop"
+    },
+    {
+      "tgdb_id": 30447,
+      "title": "Quadrapong"
+    },
+    {
+      "tgdb_id": 30451,
+      "title": "Rebound"
+    },
+    {
+      "tgdb_id": 30649,
+      "title": "Jumping Pop"
+    },
+    {
+      "tgdb_id": 30650,
+      "title": "Kangaroo"
+    },
+    {
+      "tgdb_id": 30651,
+      "title": "Karnov"
+    },
+    {
+      "tgdb_id": 30652,
+      "title": "The Killing Blade"
+    },
+    {
+      "tgdb_id": 30653,
+      "title": "King & Balloon"
+    },
+    {
+      "tgdb_id": 30654,
+      "title": "Kingdom Grand Prix"
+    },
+    {
+      "tgdb_id": 35175,
+      "title": "Terra Cresta"
+    },
+    {
+      "tgdb_id": 30665,
+      "title": "Lode Runner II"
+    },
+    {
+      "tgdb_id": 30667,
+      "title": "Lethal Thunder"
+    },
+    {
+      "tgdb_id": 30668,
+      "title": "Levers"
+    },
+    {
+      "tgdb_id": 30669,
+      "title": "Lizard Wizard"
+    },
+    {
+      "tgdb_id": 30670,
+      "title": "The Legend of Kage"
+    },
+    {
+      "tgdb_id": 30671,
+      "title": "Lost Tomb"
+    },
+    {
+      "tgdb_id": 30675,
+      "title": "Legendary Wings"
+    },
+    {
+      "tgdb_id": 30676,
+      "title": "Mad Gear"
+    },
+    {
+      "tgdb_id": 30677,
+      "title": "Marine Boy"
+    },
+    {
+      "tgdb_id": 30750,
+      "title": "Soulcalibur III"
+    },
+    {
+      "tgdb_id": 30774,
+      "title": "Spectral vs. Generation"
+    },
+    {
+      "tgdb_id": 30783,
+      "title": "Asura Buster: Eternal Warriors"
+    },
+    {
+      "tgdb_id": 31037,
+      "title": "Denjinmakai"
+    },
+    {
+      "tgdb_id": 31045,
+      "title": "Tumble Pop"
+    },
+    {
+      "tgdb_id": 31051,
+      "title": "Virtua Racing"
+    },
+    {
+      "tgdb_id": 31083,
+      "title": "ASO - Armored Scrum Object"
+    },
+    {
+      "tgdb_id": 31102,
+      "title": "Muchi Muchi Pork!"
+    },
+    {
+      "tgdb_id": 31192,
+      "title": "Vampire Hunter 2"
+    },
+    {
+      "tgdb_id": 31193,
+      "title": "Vampire Savior 2"
+    },
+    {
+      "tgdb_id": 31195,
+      "title": "Darius II"
+    },
+    {
+      "tgdb_id": 31196,
+      "title": "Dragon Ball Z"
+    },
+    {
+      "tgdb_id": 31197,
+      "title": "Espgaluda II"
+    },
+    {
+      "tgdb_id": 36248,
+      "title": "JoJo's Venture"
+    },
+    {
+      "tgdb_id": 31214,
+      "title": "Sonic Wings Limited"
+    },
+    {
+      "tgdb_id": 31215,
+      "title": "S.T.G - Strike Gunner"
+    },
+    {
+      "tgdb_id": 31216,
+      "title": "Zero Wing"
+    },
+    {
+      "tgdb_id": 31217,
+      "title": "Super Cobra"
+    },
+    {
+      "tgdb_id": 31218,
+      "title": "G-Loc - Air Battle"
+    },
+    {
+      "tgdb_id": 31219,
+      "title": "Robotron: 2084"
+    },
+    {
+      "tgdb_id": 31242,
+      "title": "G-Darius"
+    },
+    {
+      "tgdb_id": 31251,
+      "title": "Mariner"
+    },
+    {
+      "tgdb_id": 31252,
+      "title": "Meta Fox"
+    },
+    {
+      "tgdb_id": 31253,
+      "title": "Metro-Cross"
+    },
+    {
+      "tgdb_id": 31254,
+      "title": "Magical Crystals"
+    },
+    {
+      "tgdb_id": 31255,
+      "title": "Space Invaders 95"
+    },
+    {
+      "tgdb_id": 31256,
+      "title": "Minefield"
+    },
+    {
+      "tgdb_id": 31257,
+      "title": "Mole Attack"
+    },
+    {
+      "tgdb_id": 31258,
+      "title": "Moon Quasar"
+    },
+    {
+      "tgdb_id": 31259,
+      "title": "MoreMore plus"
+    },
+    {
+      "tgdb_id": 31260,
+      "title": "Mighty! Pang"
+    },
+    {
+      "tgdb_id": 31261,
+      "title": "Mr. TNT"
+    },
+    {
+      "tgdb_id": 31262,
+      "title": "Mister Viking"
+    },
+    {
+      "tgdb_id": 31263,
+      "title": "Multi Champ"
+    },
+    {
+      "tgdb_id": 31264,
+      "title": "SRD Super Real Darwin"
+    },
+    {
+      "tgdb_id": 31265,
+      "title": "My Hero"
+    },
+    {
+      "tgdb_id": 31266,
+      "title": "Mystic Riders"
+    },
+    {
+      "tgdb_id": 31267,
+      "title": "Mysterious Stones"
+    },
+    {
+      "tgdb_id": 31268,
+      "title": "Super Space Invaders 91"
+    },
+    {
+      "tgdb_id": 31278,
+      "title": "Circus Charlie"
+    },
+    {
+      "tgdb_id": 31293,
+      "title": "Star Wars: The Empire Strikes Back"
+    },
+    {
+      "tgdb_id": 31297,
+      "title": "NebulasRay"
+    },
+    {
+      "tgdb_id": 31321,
+      "title": "Trio The Punch – Never Forget Me..."
+    },
+    {
+      "tgdb_id": 31425,
+      "title": "The Typing of the Dead 2"
+    },
+    {
+      "tgdb_id": 31515,
+      "title": "Rave Racer"
+    },
+    {
+      "tgdb_id": 31555,
+      "title": "Laser Clay Shooting System"
+    },
+    {
+      "tgdb_id": 31569,
+      "title": "Metal Saver"
+    },
+    {
+      "tgdb_id": 35887,
+      "title": "Night Driver"
+    },
+    {
+      "tgdb_id": 31627,
+      "title": "Athena In Wonderland"
+    },
+    {
+      "tgdb_id": 31629,
+      "title": "Alien Storm"
+    },
+    {
+      "tgdb_id": 31630,
+      "title": "Dragon Breed"
+    },
+    {
+      "tgdb_id": 31631,
+      "title": "Dyna Gears"
+    },
+    {
+      "tgdb_id": 31632,
+      "title": "G.I.JOE A Real American Hero"
+    },
+    {
+      "tgdb_id": 31633,
+      "title": "Gun Force II (Geo Storm)"
+    },
+    {
+      "tgdb_id": 31634,
+      "title": "Macross"
+    },
+    {
+      "tgdb_id": 31635,
+      "title": "Macross II"
+    },
+    {
+      "tgdb_id": 31639,
+      "title": "Mach Breakers"
+    },
+    {
+      "tgdb_id": 31640,
+      "title": "Mazinger Z"
+    },
+    {
+      "tgdb_id": 31641,
+      "title": "Os Man"
+    },
+    {
+      "tgdb_id": 31642,
+      "title": "Power Drift"
+    },
+    {
+      "tgdb_id": 31643,
+      "title": "Rolling Thunder 2"
+    },
+    {
+      "tgdb_id": 31644,
+      "title": "Sol Divide"
+    },
+    {
+      "tgdb_id": 31647,
+      "title": "Jungle Hunt"
+    },
+    {
+      "tgdb_id": 31650,
+      "title": "Ninja Gaiden"
+    },
+    {
+      "tgdb_id": 31651,
+      "title": "Marvel Land"
+    },
+    {
+      "tgdb_id": 31653,
+      "title": "Psycho Soldier"
+    },
+    {
+      "tgdb_id": 31654,
+      "title": "P.O.W.: Prisoners of War"
+    },
+    {
+      "tgdb_id": 31655,
+      "title": "Phelios"
+    },
+    {
+      "tgdb_id": 31656,
+      "title": "Sonson"
+    },
+    {
+      "tgdb_id": 31657,
+      "title": "Street Smart"
+    },
+    {
+      "tgdb_id": 31658,
+      "title": "S.L.Y Special Project Y"
+    },
+    {
+      "tgdb_id": 31659,
+      "title": "Wardner"
+    },
+    {
+      "tgdb_id": 31660,
+      "title": "Legend Of Valkyrie"
+    },
+    {
+      "tgdb_id": 31661,
+      "title": "Vigilante"
+    },
+    {
+      "tgdb_id": 31662,
+      "title": "Batman"
+    },
+    {
+      "tgdb_id": 31663,
+      "title": "Midnight Resistance"
+    },
+    {
+      "tgdb_id": 31678,
+      "title": "Forty-Love"
+    },
+    {
+      "tgdb_id": 34430,
+      "title": "Gauntlet Legends"
+    },
+    {
+      "tgdb_id": 34431,
+      "title": "Vs. Ice Climber"
+    },
+    {
+      "tgdb_id": 31680,
+      "title": "'99 : The Last War"
+    },
+    {
+      "tgdb_id": 31681,
+      "title": "Datsun 280 Zzzap"
+    },
+    {
+      "tgdb_id": 31685,
+      "title": "Spinmaster"
+    },
+    {
+      "tgdb_id": 31686,
+      "title": "Sonic Wings 2"
+    },
+    {
+      "tgdb_id": 31730,
+      "title": "Mille Miglia 2: Great 1000 Miles Rally"
+    },
+    {
+      "tgdb_id": 31731,
+      "title": "Shadow Force"
+    },
+    {
+      "tgdb_id": 31733,
+      "title": "Virtua Fighter"
+    },
+    {
+      "tgdb_id": 31868,
+      "title": "BurgerTime"
+    },
+    {
+      "tgdb_id": 31869,
+      "title": "Popeye"
+    },
+    {
+      "tgdb_id": 31870,
+      "title": "Dr. Mario"
+    },
+    {
+      "tgdb_id": 31876,
+      "title": "Ms. Pac Man (Speedup Hack)"
+    },
+    {
+      "tgdb_id": 32082,
+      "title": "The Astyanax"
+    },
+    {
+      "tgdb_id": 32090,
+      "title": "Chiller"
+    },
+    {
+      "tgdb_id": 32102,
+      "title": "Renegade"
+    },
+    {
+      "tgdb_id": 32103,
+      "title": "Strider 2"
+    },
+    {
+      "tgdb_id": 32144,
+      "title": "The Ninja Warriors"
+    },
+    {
+      "tgdb_id": 32175,
+      "title": "Wayne Gretzky's 3D Hockey"
+    },
+    {
+      "tgdb_id": 32176,
+      "title": "Vapor TRX"
+    },
+    {
+      "tgdb_id": 32307,
+      "title": "JoJo's Bizarre Adventure"
+    },
+    {
+      "tgdb_id": 32326,
+      "title": "Demon Front"
+    },
+    {
+      "tgdb_id": 32327,
+      "title": "Osman"
+    },
+    {
+      "tgdb_id": 32328,
+      "title": "Cannon Dancer (Osman)"
+    },
+    {
+      "tgdb_id": 32473,
+      "title": "The Ninja Kids"
+    },
+    {
+      "tgdb_id": 32474,
+      "title": "Age Of Heroes - Silkroad 2"
+    },
+    {
+      "tgdb_id": 32647,
+      "title": "Atari Baseball"
+    },
+    {
+      "tgdb_id": 32668,
+      "title": "Crazy Fight"
+    },
+    {
+      "tgdb_id": 32695,
+      "title": "Strato Fighter"
+    },
+    {
+      "tgdb_id": 32696,
+      "title": "Twin Hawk"
+    },
+    {
+      "tgdb_id": 32697,
+      "title": "Final Star Force"
+    },
+    {
+      "tgdb_id": 32736,
+      "title": "Action fighter"
+    },
+    {
+      "tgdb_id": 32737,
+      "title": "Capcom World 2 - Adventure Quiz"
+    },
+    {
+      "tgdb_id": 32738,
+      "title": "Bonk's adventure"
+    },
+    {
+      "tgdb_id": 32739,
+      "title": "BCStory"
+    },
+    {
+      "tgdb_id": 32741,
+      "title": "BlaZeon"
+    },
+    {
+      "tgdb_id": 32742,
+      "title": "Body Slam"
+    },
+    {
+      "tgdb_id": 33564,
+      "title": "Loco-Motion"
+    },
+    {
+      "tgdb_id": 32948,
+      "title": "Nitro Ball"
+    },
+    {
+      "tgdb_id": 32950,
+      "title": "Burglar x"
+    },
+    {
+      "tgdb_id": 32952,
+      "title": "Captain tomaday"
+    },
+    {
+      "tgdb_id": 34435,
+      "title": "Sharpshooter"
+    },
+    {
+      "tgdb_id": 34434,
+      "title": "Mace: The Dark Age"
+    },
+    {
+      "tgdb_id": 32955,
+      "title": "Choky! Choky!"
+    },
+    {
+      "tgdb_id": 32977,
+      "title": "Dangun Feveron"
+    },
+    {
+      "tgdb_id": 34440,
+      "title": "Crypt Killer"
+    },
+    {
+      "tgdb_id": 34433,
+      "title": "Maximum Force"
+    },
+    {
+      "tgdb_id": 32980,
+      "title": "Dragon World II"
+    },
+    {
+      "tgdb_id": 32981,
+      "title": "Dunk Shot"
+    },
+    {
+      "tgdb_id": 32982,
+      "title": "EightMan"
+    },
+    {
+      "tgdb_id": 33030,
+      "title": "Zwackery"
+    },
+    {
+      "tgdb_id": 33032,
+      "title": "Zupapa"
+    },
+    {
+      "tgdb_id": 33101,
+      "title": "Zintrick / Oshidashi Zentrix"
+    },
+    {
+      "tgdb_id": 33103,
+      "title": "Zing zing zip"
+    },
+    {
+      "tgdb_id": 33105,
+      "title": "Zunzunkyou No Yabou"
+    },
+    {
+      "tgdb_id": 33110,
+      "title": "Cavelon"
+    },
+    {
+      "tgdb_id": 33111,
+      "title": "Joy Joy kid"
+    },
+    {
+      "tgdb_id": 33155,
+      "title": "Nekketsu Koukou Dodgeball Bu"
+    },
+    {
+      "tgdb_id": 33156,
+      "title": "Nekketsu Kouha Kunio Kun"
+    },
+    {
+      "tgdb_id": 33191,
+      "title": "Naughty mouse"
+    },
+    {
+      "tgdb_id": 33192,
+      "title": "Nemesis"
+    },
+    {
+      "tgdb_id": 33193,
+      "title": "Ninja clowns"
+    },
+    {
+      "tgdb_id": 33194,
+      "title": "Nightmare in the dark"
+    },
+    {
+      "tgdb_id": 33195,
+      "title": "Namco classics volume 1"
+    },
+    {
+      "tgdb_id": 33196,
+      "title": "Noboranka"
+    },
+    {
+      "tgdb_id": 33197,
+      "title": "Night stocker"
+    },
+    {
+      "tgdb_id": 33198,
+      "title": "Namco classics volume 2"
+    },
+    {
+      "tgdb_id": 33199,
+      "title": "No mans land"
+    },
+    {
+      "tgdb_id": 33200,
+      "title": "Ninja kid 2"
+    },
+    {
+      "tgdb_id": 33201,
+      "title": "Ninja emaki"
+    },
+    {
+      "tgdb_id": 33202,
+      "title": "Night striker"
+    },
+    {
+      "tgdb_id": 33203,
+      "title": "Name that tune"
+    },
+    {
+      "tgdb_id": 33204,
+      "title": "Nato defense"
+    },
+    {
+      "tgdb_id": 33205,
+      "title": "Naughty boy"
+    },
+    {
+      "tgdb_id": 33206,
+      "title": "Neratte chu"
+    },
+    {
+      "tgdb_id": 33209,
+      "title": "600"
+    },
+    {
+      "tgdb_id": 33211,
+      "title": "Zip & zap"
+    },
+    {
+      "tgdb_id": 33212,
+      "title": "Zero zone"
+    },
+    {
+      "tgdb_id": 33213,
+      "title": "Zero point 2"
+    },
+    {
+      "tgdb_id": 33214,
+      "title": "Shadowland"
+    },
+    {
+      "tgdb_id": 33215,
+      "title": "Youjyuden"
+    },
+    {
+      "tgdb_id": 33216,
+      "title": "Kamikaze cabbie"
+    },
+    {
+      "tgdb_id": 33217,
+      "title": "Yam yam"
+    },
+    {
+      "tgdb_id": 33218,
+      "title": "Go go mr yamaguchi"
+    },
+    {
+      "tgdb_id": 33219,
+      "title": "New fantasia"
+    },
+    {
+      "tgdb_id": 33220,
+      "title": "New hidden catch"
+    },
+    {
+      "tgdb_id": 33221,
+      "title": "Net wars"
+    },
+    {
+      "tgdb_id": 33222,
+      "title": "Space fury"
+    },
+    {
+      "tgdb_id": 33223,
+      "title": "Sky smasher"
+    },
+    {
+      "tgdb_id": 33322,
+      "title": "Bank Panic"
+    },
+    {
+      "tgdb_id": 33444,
+      "title": "1 On 1 Government"
+    },
+    {
+      "tgdb_id": 33463,
+      "title": "Berzerk"
+    },
+    {
+      "tgdb_id": 33536,
+      "title": "Dragon's Lair"
+    },
+    {
+      "tgdb_id": 33555,
+      "title": "Frenzy"
+    },
+    {
+      "tgdb_id": 33556,
+      "title": "Crazy Climber 2"
+    },
+    {
+      "tgdb_id": 34759,
+      "title": "Xmultiply"
+    },
+    {
+      "tgdb_id": 34760,
+      "title": "Xyonix"
+    },
+    {
+      "tgdb_id": 33565,
+      "title": "Hyper Pac-Man"
+    },
+    {
+      "tgdb_id": 33566,
+      "title": "Lock 'N' Chase"
+    },
+    {
+      "tgdb_id": 33567,
+      "title": "Millipede"
+    },
+    {
+      "tgdb_id": 33568,
+      "title": "Xenophobe"
+    },
+    {
+      "tgdb_id": 33569,
+      "title": "Star Trek: Strategic Operations Simulator"
+    },
+    {
+      "tgdb_id": 33570,
+      "title": "Stargate"
+    },
+    {
+      "tgdb_id": 33610,
+      "title": "Rip Off"
+    },
+    {
+      "tgdb_id": 33635,
+      "title": "Point Blank"
+    },
+    {
+      "tgdb_id": 33636,
+      "title": "Point Blank 2"
+    },
+    {
+      "tgdb_id": 33638,
+      "title": "Primal Rage"
+    },
+    {
+      "tgdb_id": 33639,
+      "title": "Atomic Robo-Kid"
+    },
+    {
+      "tgdb_id": 33640,
+      "title": "Radiant Silvergun"
+    },
+    {
+      "tgdb_id": 33642,
+      "title": "Time Crisis"
+    },
+    {
+      "tgdb_id": 33643,
+      "title": "Zoo Keeper"
+    },
+    {
+      "tgdb_id": 33644,
+      "title": "Zombie Raid"
+    },
+    {
+      "tgdb_id": 33646,
+      "title": "Jurassic Park"
+    },
+    {
+      "tgdb_id": 34427,
+      "title": "Front Line"
+    },
+    {
+      "tgdb_id": 33690,
+      "title": "Gaiapolis"
+    },
+    {
+      "tgdb_id": 33733,
+      "title": "Sonic the Hedgehog"
+    },
+    {
+      "tgdb_id": 33852,
+      "title": "Jackal"
+    },
+    {
+      "tgdb_id": 33853,
+      "title": "Twin Cobra"
+    },
+    {
+      "tgdb_id": 33869,
+      "title": "Star Wars Arcade"
+    },
+    {
+      "tgdb_id": 33888,
+      "title": "Space Invaders Part II"
+    },
+    {
+      "tgdb_id": 34436,
+      "title": "Black Heart"
+    },
+    {
+      "tgdb_id": 34437,
+      "title": "Bubble Bobble 2"
+    },
+    {
+      "tgdb_id": 34438,
+      "title": "B-Wings"
+    },
+    {
+      "tgdb_id": 34439,
+      "title": "Battlezone"
+    },
+    {
+      "tgdb_id": 34025,
+      "title": "Cadash"
+    },
+    {
+      "tgdb_id": 34036,
+      "title": "Street Hoop"
+    },
+    {
+      "tgdb_id": 34042,
+      "title": "StarBlade"
+    },
+    {
+      "tgdb_id": 34678,
+      "title": "Thunder Blade"
+    },
+    {
+      "tgdb_id": 34102,
+      "title": "Viper Phase 1"
+    },
+    {
+      "tgdb_id": 34296,
+      "title": "Area 51"
+    },
+    {
+      "tgdb_id": 34174,
+      "title": "Beast Busters"
+    },
+    {
+      "tgdb_id": 34175,
+      "title": "Beastorizer"
+    },
+    {
+      "tgdb_id": 34176,
+      "title": "Big Striker"
+    },
+    {
+      "tgdb_id": 34177,
+      "title": "Blaze On"
+    },
+    {
+      "tgdb_id": 34178,
+      "title": "Blomby Car"
+    },
+    {
+      "tgdb_id": 34182,
+      "title": "Change Air Blade"
+    },
+    {
+      "tgdb_id": 34183,
+      "title": "Charlie Ninja"
+    },
+    {
+      "tgdb_id": 34184,
+      "title": "Cool Boarders Arcade Jam"
+    },
+    {
+      "tgdb_id": 34185,
+      "title": "Cosmic Cop"
+    },
+    {
+      "tgdb_id": 34186,
+      "title": "Cotton Boomerang"
+    },
+    {
+      "tgdb_id": 34187,
+      "title": "Cyber Cycles"
+    },
+    {
+      "tgdb_id": 34188,
+      "title": "Cyber Sled"
+    },
+    {
+      "tgdb_id": 34189,
+      "title": "Cycle Warriors"
+    },
+    {
+      "tgdb_id": 34190,
+      "title": "Dead Or Alive ++"
+    },
+    {
+      "tgdb_id": 34191,
+      "title": "Dirt Dash"
+    },
+    {
+      "tgdb_id": 34192,
+      "title": "DoDonPachi Dai-Fukkatsu Ver 1.5"
+    },
+    {
+      "tgdb_id": 34193,
+      "title": "DoDonPachi Dai-Ou-Jou V101"
+    },
+    {
+      "tgdb_id": 34194,
+      "title": "Drift Out '94 - The Hard Order"
+    },
+    {
+      "tgdb_id": 34195,
+      "title": "Driver's Edge"
+    },
+    {
+      "tgdb_id": 34196,
+      "title": "Dunk Mania"
+    },
+    {
+      "tgdb_id": 34197,
+      "title": "Bomber Man"
+    },
+    {
+      "tgdb_id": 34432,
+      "title": "Judge Dredd"
+    },
+    {
+      "tgdb_id": 34295,
+      "title": "Area 51: Site 4"
+    },
+    {
+      "tgdb_id": 34297,
+      "title": "Cyvern"
+    },
+    {
+      "tgdb_id": 34349,
+      "title": "Exciting Soccer II"
+    },
+    {
+      "tgdb_id": 34350,
+      "title": "Indoor Soccer"
+    },
+    {
+      "tgdb_id": 34429,
+      "title": "Police Trainer"
+    },
+    {
+      "tgdb_id": 34441,
+      "title": "GunNail"
+    },
+    {
+      "tgdb_id": 34442,
+      "title": "Slipstream"
+    },
+    {
+      "tgdb_id": 34443,
+      "title": "Twin Bee Yahhoo!"
+    },
+    {
+      "tgdb_id": 34444,
+      "title": "Trigon"
+    },
+    {
+      "tgdb_id": 35596,
+      "title": "Riot City"
+    },
+    {
+      "tgdb_id": 35597,
+      "title": "Silent Dragon US"
+    },
+    {
+      "tgdb_id": 35598,
+      "title": "War of Aero"
+    },
+    {
+      "tgdb_id": 34641,
+      "title": "Vulgus"
+    },
+    {
+      "tgdb_id": 34669,
+      "title": "Euro League"
+    },
+    {
+      "tgdb_id": 34683,
+      "title": "Street Fighter Zero"
+    },
+    {
+      "tgdb_id": 35478,
+      "title": "Sinistar"
+    },
+    {
+      "tgdb_id": 34712,
+      "title": "The King of Fighters 10th Anniversary 2005 Unique"
+    },
+    {
+      "tgdb_id": 34775,
+      "title": "Wrestle War"
+    },
+    {
+      "tgdb_id": 34777,
+      "title": "Water balls"
+    },
+    {
+      "tgdb_id": 34827,
+      "title": "9 Ball Shootout"
+    },
+    {
+      "tgdb_id": 34830,
+      "title": "Appoooh"
+    },
+    {
+      "tgdb_id": 34831,
+      "title": "Avengers"
+    },
+    {
+      "tgdb_id": 34925,
+      "title": "Gun Fight"
+    },
+    {
+      "tgdb_id": 34929,
+      "title": "Breakout"
+    },
+    {
+      "tgdb_id": 35027,
+      "title": "Last Duel"
+    },
+    {
+      "tgdb_id": 35071,
+      "title": "Knights of valour yitongzhongyuan"
+    },
+    {
+      "tgdb_id": 35072,
+      "title": "Samurai Aces"
+    },
+    {
+      "tgdb_id": 35073,
+      "title": "Soccer Brawl"
+    },
+    {
+      "tgdb_id": 35074,
+      "title": "Snow bros 2"
+    },
+    {
+      "tgdb_id": 35075,
+      "title": "Snow bros 3"
+    },
+    {
+      "tgdb_id": 35079,
+      "title": "DoDonPachi II - Bee Storm"
+    },
+    {
+      "tgdb_id": 35081,
+      "title": "Tetris The Grand Master 2"
+    },
+    {
+      "tgdb_id": 35082,
+      "title": "The Gladiator : Road of the Sword"
+    },
+    {
+      "tgdb_id": 35218,
+      "title": "Excelsior"
+    },
+    {
+      "tgdb_id": 35518,
+      "title": "7ordi"
+    },
+    {
+      "tgdb_id": 35479,
+      "title": "Gravitar"
+    },
+    {
+      "tgdb_id": 35482,
+      "title": "Wizard of Wor"
+    },
+    {
+      "tgdb_id": 35759,
+      "title": "Phozon"
+    },
+    {
+      "tgdb_id": 35546,
+      "title": "DigDug II"
+    },
+    {
+      "tgdb_id": 35547,
+      "title": "Amazing Maze"
+    },
+    {
+      "tgdb_id": 35548,
+      "title": "Vanguard"
+    },
+    {
+      "tgdb_id": 35570,
+      "title": "Super VolleyBall"
+    },
+    {
+      "tgdb_id": 35571,
+      "title": "Tecmo World Cup '90"
+    },
+    {
+      "tgdb_id": 35572,
+      "title": "US AAF Mustang"
+    },
+    {
+      "tgdb_id": 35573,
+      "title": "Powered Gears"
+    },
+    {
+      "tgdb_id": 35612,
+      "title": "Red Baron (Atari)"
+    },
+    {
+      "tgdb_id": 35604,
+      "title": "PacNPal"
+    },
+    {
+      "tgdb_id": 35607,
+      "title": "SkyKid"
+    },
+    {
+      "tgdb_id": 35608,
+      "title": "Toy Pop"
+    },
+    {
+      "tgdb_id": 35609,
+      "title": "Baraduke"
+    },
+    {
+      "tgdb_id": 35611,
+      "title": "Grobda"
+    },
+    {
+      "tgdb_id": 35655,
+      "title": "Grid Seeker: Project Storm Hammer"
+    },
+    {
+      "tgdb_id": 35656,
+      "title": "Motos (Namco)"
+    },
+    {
+      "tgdb_id": 35690,
+      "title": "1943 Kai: Midway Kaisen"
+    },
+    {
+      "tgdb_id": 35709,
+      "title": "Crystal Castles"
+    },
+    {
+      "tgdb_id": 35710,
+      "title": "Liberator"
+    },
+    {
+      "tgdb_id": 35760,
+      "title": "SkyKid Deluxe"
+    },
+    {
+      "tgdb_id": 35761,
+      "title": "D. D. Crew"
+    },
+    {
+      "tgdb_id": 35762,
+      "title": "Daioh"
+    },
+    {
+      "tgdb_id": 35763,
+      "title": "Dark Tower"
+    },
+    {
+      "tgdb_id": 35764,
+      "title": "Altered Beast"
+    },
+    {
+      "tgdb_id": 35765,
+      "title": "DJ Boy"
+    },
+    {
+      "tgdb_id": 35766,
+      "title": "Desert Breaker"
+    },
+    {
+      "tgdb_id": 35769,
+      "title": "Gunbarich"
+    },
+    {
+      "tgdb_id": 35772,
+      "title": "Sound Voltex: Booth"
+    },
+    {
+      "tgdb_id": 35773,
+      "title": "Sound Voltex II: Infinite Infection"
+    },
+    {
+      "tgdb_id": 35774,
+      "title": "Sound Voltex III: Gravity Wars"
+    },
+    {
+      "tgdb_id": 35811,
+      "title": "Bostilda"
+    },
+    {
+      "tgdb_id": 35812,
+      "title": "Storm"
+    },
+    {
+      "tgdb_id": 35813,
+      "title": "Rapid Hero"
+    },
+    {
+      "tgdb_id": 35814,
+      "title": "Armed Police Batrider"
+    },
+    {
+      "tgdb_id": 35815,
+      "title": "BRap Boy"
+    },
+    {
+      "tgdb_id": 35816,
+      "title": "B. C. Story"
+    },
+    {
+      "tgdb_id": 35817,
+      "title": "Bells and Whistles"
+    },
+    {
+      "tgdb_id": 35818,
+      "title": "Bio-Ship Paladin"
+    },
+    {
+      "tgdb_id": 35821,
+      "title": "Blandia"
+    },
+    {
+      "tgdb_id": 35823,
+      "title": "Blue Hawk"
+    },
+    {
+      "tgdb_id": 35825,
+      "title": "Knuckle Joe"
+    },
+    {
+      "tgdb_id": 35826,
+      "title": "Bonze Adventure"
+    },
+    {
+      "tgdb_id": 35827,
+      "title": "Boogie Wings"
+    },
+    {
+      "tgdb_id": 35829,
+      "title": "Buccaneers"
+    },
+    {
+      "tgdb_id": 35831,
+      "title": "Chuka Taisen (Cloud Master)"
+    },
+    {
+      "tgdb_id": 35832,
+      "title": "Continental Circus"
+    },
+    {
+      "tgdb_id": 35835,
+      "title": "Diet Go Go"
+    },
+    {
+      "tgdb_id": 35836,
+      "title": "Diver Boy"
+    },
+    {
+      "tgdb_id": 35846,
+      "title": "Chain Reaction"
+    },
+    {
+      "tgdb_id": 35848,
+      "title": "Double AXLE"
+    },
+    {
+      "tgdb_id": 35851,
+      "title": "Dragon Ball Z 2 Super Battle"
+    },
+    {
+      "tgdb_id": 35852,
+      "title": "E-SWAT: Cyber Police"
+    },
+    {
+      "tgdb_id": 35853,
+      "title": "E.D.F. - Earth Defense Force"
+    },
+    {
+      "tgdb_id": 35854,
+      "title": "Eight Forces"
+    },
+    {
+      "tgdb_id": 35855,
+      "title": "Escape Kids"
+    },
+    {
+      "tgdb_id": 35857,
+      "title": "Espgaluda"
+    },
+    {
+      "tgdb_id": 35858,
+      "title": "Exc3lsior"
+    },
+    {
+      "tgdb_id": 35859,
+      "title": "Extermination"
+    },
+    {
+      "tgdb_id": 35860,
+      "title": "Extreme Downhill"
+    },
+    {
+      "tgdb_id": 35861,
+      "title": "Deletar"
+    },
+    {
+      "tgdb_id": 35862,
+      "title": "Exzisus"
+    },
+    {
+      "tgdb_id": 35863,
+      "title": "F-1 Grand Prix"
+    },
+    {
+      "tgdb_id": 35864,
+      "title": "F-1 Grand Prix Part II"
+    },
+    {
+      "tgdb_id": 35865,
+      "title": "Fever S.O.S."
+    },
+    {
+      "tgdb_id": 35866,
+      "title": "Fighting Fantasy"
+    },
+    {
+      "tgdb_id": 35867,
+      "title": "Fixeight"
+    },
+    {
+      "tgdb_id": 35963,
+      "title": "Marvin's Maze"
+    },
+    {
+      "tgdb_id": 35964,
+      "title": "Q*bert's Qubes"
+    },
+    {
+      "tgdb_id": 35965,
+      "title": "Tazz-Mania"
+    },
+    {
+      "tgdb_id": 36182,
+      "title": "Mega Man III"
+    },
+    {
+      "tgdb_id": 36183,
+      "title": "Bloody Roar 2"
+    },
+    {
+      "tgdb_id": 36184,
+      "title": "Ganryu"
+    },
+    {
+      "tgdb_id": 36185,
+      "title": "Knights of Valour 2"
+    },
+    {
+      "tgdb_id": 36186,
+      "title": "Ninja Combat"
+    },
+    {
+      "tgdb_id": 36187,
+      "title": "Thunder Fox"
+    },
+    {
+      "tgdb_id": 36198,
+      "title": "Abcop - A.B. Cop"
+    },
+    {
+      "tgdb_id": 36202,
+      "title": "Twinkle"
+    },
+    {
+      "tgdb_id": 36205,
+      "title": "Toppy & Rappy"
+    },
+    {
+      "tgdb_id": 36206,
+      "title": "Turbo Force"
+    },
+    {
+      "tgdb_id": 36207,
+      "title": "Twin Adventure"
+    },
+    {
+      "tgdb_id": 36209,
+      "title": "Super Trio"
+    },
+    {
+      "tgdb_id": 36215,
+      "title": "Squash"
+    },
+    {
+      "tgdb_id": 36211,
+      "title": "Dokkaebi-ga Ganda"
+    },
+    {
+      "tgdb_id": 36212,
+      "title": "Twins"
+    },
+    {
+      "tgdb_id": 36213,
+      "title": "Baryon"
+    },
+    {
+      "tgdb_id": 36214,
+      "title": "Funky Ball"
+    },
+    {
+      "tgdb_id": 36217,
+      "title": "Kozure Ookami"
+    },
+    {
+      "tgdb_id": 36218,
+      "title": "Tang Tang"
+    },
+    {
+      "tgdb_id": 36219,
+      "title": "Swat Police"
+    },
+    {
+      "tgdb_id": 36220,
+      "title": "Twin Action"
+    },
+    {
+      "tgdb_id": 36221,
+      "title": "Success Joe"
+    },
+    {
+      "tgdb_id": 36236,
+      "title": "Sprint One"
+    },
+    {
+      "tgdb_id": 36237,
+      "title": "Super Sprint"
+    },
+    {
+      "tgdb_id": 36246,
+      "title": "Ketsui: Kizuna Jigoku Tachi"
+    },
+    {
+      "tgdb_id": 36406,
+      "title": "Pang Pang"
+    },
+    {
+      "tgdb_id": 36407,
+      "title": "Packin Bang Bang"
+    },
+    {
+      "tgdb_id": 36408,
+      "title": "Ninja Kazan"
+    },
+    {
+      "tgdb_id": 36414,
+      "title": "Grasspin"
+    },
+    {
+      "tgdb_id": 36415,
+      "title": "Guardian"
+    },
+    {
+      "tgdb_id": 36416,
+      "title": "GP Rider"
+    },
+    {
+      "tgdb_id": 36417,
+      "title": "Galaxy Force II"
+    },
+    {
+      "tgdb_id": 36418,
+      "title": "Flying Tiger"
+    },
+    {
+      "tgdb_id": 36419,
+      "title": "B. Rap Boys"
+    },
+    {
+      "tgdb_id": 36420,
+      "title": "Bullet"
+    },
+    {
+      "tgdb_id": 36421,
+      "title": "Clutch Hitter"
+    },
+    {
+      "tgdb_id": 36423,
+      "title": "Ace Attacker"
+    },
+    {
+      "tgdb_id": 36424,
+      "title": "Air Assault"
+    },
+    {
+      "tgdb_id": 36425,
+      "title": "XESS - The New Revolution"
+    },
+    {
+      "tgdb_id": 36426,
+      "title": "Thunder Heroes"
+    },
+    {
+      "tgdb_id": 36427,
+      "title": "Riot"
+    },
+    {
+      "tgdb_id": 36434,
+      "title": "Aqua Jet"
+    },
+    {
+      "tgdb_id": 36435,
+      "title": "RoadWars"
+    },
+    {
+      "tgdb_id": 36436,
+      "title": "Big Run"
+    },
+    {
+      "tgdb_id": 36437,
+      "title": "Buggy Boy"
+    },
+    {
+      "tgdb_id": 36438,
+      "title": "Chequered Flag"
+    },
+    {
+      "tgdb_id": 36439,
+      "title": "Combat School"
+    },
+    {
+      "tgdb_id": 36440,
+      "title": "Cisco Heat"
+    },
+    {
+      "tgdb_id": 36441,
+      "title": "Lethal Crash Race"
+    },
+    {
+      "tgdb_id": 36442,
+      "title": "Dead Angle"
+    },
+    {
+      "tgdb_id": 36443,
+      "title": "Desert War"
+    },
+    {
+      "tgdb_id": 36444,
+      "title": "Dig Dug"
+    },
+    {
+      "tgdb_id": 36447,
+      "title": "Dog Fight"
+    },
+    {
+      "tgdb_id": 36448,
+      "title": "Duck Hunt"
+    },
+    {
+      "tgdb_id": 36449,
+      "title": "The Cliffhanger - Edward Randy"
+    },
+    {
+      "tgdb_id": 36450,
+      "title": "Excitebike"
+    },
+    {
+      "tgdb_id": 36451,
+      "title": "F1 Exhaust Note"
+    },
+    {
+      "tgdb_id": 36452,
+      "title": "Grand Prix Star"
+    },
+    {
+      "tgdb_id": 36453,
+      "title": "Fantastic Journey"
+    },
+    {
+      "tgdb_id": 36455,
+      "title": "Fast Lane"
+    },
+    {
+      "tgdb_id": 36456,
+      "title": "Final Fight 2"
+    },
+    {
+      "tgdb_id": 36457,
+      "title": "Fighter & Attacker"
+    },
+    {
+      "tgdb_id": 36458,
+      "title": "Final Lap R"
+    },
+    {
+      "tgdb_id": 36459,
+      "title": "Final Lap"
+    },
+    {
+      "tgdb_id": 36460,
+      "title": "Gold Medalist"
+    },
+    {
+      "tgdb_id": 36461,
+      "title": "Gradius 4"
+    },
+    {
+      "tgdb_id": 36462,
+      "title": "Gratia - Second Earth"
+    },
+    {
+      "tgdb_id": 36463,
+      "title": "Danny Sullivan's Indy Heat"
+    },
+    {
+      "tgdb_id": 36464,
+      "title": "Lode Runner"
+    },
+    {
+      "tgdb_id": 36465,
+      "title": "Super Spacefortress Macross"
+    },
+    {
+      "tgdb_id": 36466,
+      "title": "Mobile Suit Gundam"
+    },
+    {
+      "tgdb_id": 36467,
+      "title": "Konami's Ping Pong"
+    },
+    {
+      "tgdb_id": 36468,
+      "title": "Pole Position II"
+    },
+    {
+      "tgdb_id": 36469,
+      "title": "Quartet"
+    },
+    {
+      "tgdb_id": 36470,
+      "title": "Racing Hero"
+    },
+    {
+      "tgdb_id": 36472,
+      "title": "Raiders"
+    },
+    {
+      "tgdb_id": 36473,
+      "title": "Road Riot 4WD"
+    },
+    {
+      "tgdb_id": 36474,
+      "title": "Road Runner"
+    },
+    {
+      "tgdb_id": 36475,
+      "title": "Super Football Champ"
+    },
+    {
+      "tgdb_id": 36476,
+      "title": "Side by Side 2"
+    },
+    {
+      "tgdb_id": 36477,
+      "title": "Silk Worm"
+    },
+    {
+      "tgdb_id": 36478,
+      "title": "Slip Stream"
+    },
+    {
+      "tgdb_id": 36479,
+      "title": "Super Monaco GP"
+    },
+    {
+      "tgdb_id": 36480,
+      "title": "Soul Calibur"
+    },
+    {
+      "tgdb_id": 36481,
+      "title": "Speed Racer"
+    },
+    {
+      "tgdb_id": 36482,
+      "title": "Thunder Dragon"
+    },
+    {
+      "tgdb_id": 36483,
+      "title": "Tetris Plus"
+    },
+    {
+      "tgdb_id": 36484,
+      "title": "Tiger Road"
+    },
+    {
+      "tgdb_id": 36485,
+      "title": "Time Scanner"
+    },
+    {
+      "tgdb_id": 36486,
+      "title": "Tropical Angel"
+    },
+    {
+      "tgdb_id": 36487,
+      "title": "World Rally"
+    },
+    {
+      "tgdb_id": 36911,
+      "title": "Final Tetris"
+    },
+    {
+      "tgdb_id": 36961,
+      "title": "Chiki Chiki Boys"
+    },
+    {
+      "tgdb_id": 36962,
+      "title": "Daimakaimura"
+    },
+    {
+      "tgdb_id": 36963,
+      "title": "Dragon Bowl"
+    },
+    {
+      "tgdb_id": 36985,
+      "title": "Eight Man"
+    },
+    {
+      "tgdb_id": 36986,
+      "title": "Fantasia II"
+    },
+    {
+      "tgdb_id": 36987,
+      "title": "Gogetsuji Legends"
+    },
+    {
+      "tgdb_id": 36998,
+      "title": "Top Hunter"
+    },
+    {
+      "tgdb_id": 36999,
+      "title": "Thrash Rally"
+    },
+    {
+      "tgdb_id": 37024,
+      "title": "Honey Dolls"
+    },
+    {
+      "tgdb_id": 37025,
+      "title": "Hyper Pacman"
+    },
+    {
+      "tgdb_id": 37031,
+      "title": "Gundhara - Juudan Arashi"
+    },
+    {
+      "tgdb_id": 37032,
+      "title": "Hydra"
+    },
+    {
+      "tgdb_id": 37035,
+      "title": "King of Boxer"
+    },
+    {
+      "tgdb_id": 37042,
+      "title": "Mad Motor"
+    },
+    {
+      "tgdb_id": 37049,
+      "title": "Masked Riders Club: Battle Race"
+    },
+    {
+      "tgdb_id": 37051,
+      "title": "Mobile Suit Gundam: EX Revue"
+    },
+    {
+      "tgdb_id": 37059,
+      "title": "OutRun"
+    },
+    {
+      "tgdb_id": 37056,
+      "title": "NBA Hangtime"
+    },
+    {
+      "tgdb_id": 37057,
+      "title": "Numan Athletics"
+    },
+    {
+      "tgdb_id": 37058,
+      "title": "Ninja Spirit"
+    },
+    {
+      "tgdb_id": 37060,
+      "title": "Oscar"
+    },
+    {
+      "tgdb_id": 37061,
+      "title": "Punk Shot"
+    },
+    {
+      "tgdb_id": 37062,
+      "title": "Puzzle Bobble"
+    },
+    {
+      "tgdb_id": 37063,
+      "title": "Puzzle Bobble 2"
+    },
+    {
+      "tgdb_id": 37064,
+      "title": "S.P.Y. Special Project Y"
+    },
+    {
+      "tgdb_id": 37065,
+      "title": "Super Xevious"
+    },
+    {
+      "tgdb_id": 37066,
+      "title": "Tecmo World Soccer '96"
+    },
+    {
+      "tgdb_id": 37067,
+      "title": "Super Spy"
+    },
+    {
+      "tgdb_id": 37068,
+      "title": "Puzzled"
+    },
+    {
+      "tgdb_id": 37069,
+      "title": "Riding Hero"
+    },
+    {
+      "tgdb_id": 37070,
+      "title": "Sangokushi II"
+    },
+    {
+      "tgdb_id": 37071,
+      "title": "Sorcer Striker"
+    },
+    {
+      "tgdb_id": 37072,
+      "title": "Spin Master"
+    },
+    {
+      "tgdb_id": 37073,
+      "title": "Super Muscle Bomber"
+    },
+    {
+      "tgdb_id": 37074,
+      "title": "Legend Of Makai"
+    },
+    {
+      "tgdb_id": 37075,
+      "title": "Legend Of Succes Joe"
+    },
+    {
+      "tgdb_id": 37076,
+      "title": "Magical Drop"
+    },
+    {
+      "tgdb_id": 37077,
+      "title": "Mahou Daisakusen"
+    },
+    {
+      "tgdb_id": 37078,
+      "title": "Miss Mister World '96"
+    },
+    {
+      "tgdb_id": 37079,
+      "title": "MoreMore"
+    },
+    {
+      "tgdb_id": 37080,
+      "title": "NeoMr.Do!"
+    },
+    {
+      "tgdb_id": 37081,
+      "title": "Ninja Commando"
+    },
+    {
+      "tgdb_id": 37084,
+      "title": "Pleasure Goal"
+    },
+    {
+      "tgdb_id": 37085,
+      "title": "Pocket Fighter"
+    },
+    {
+      "tgdb_id": 37086,
+      "title": "Pop 'n Bounce"
+    },
+    {
+      "tgdb_id": 37096,
+      "title": "Puzzle Uo Poko"
+    },
+    {
+      "tgdb_id": 37097,
+      "title": "Puzzle De Pon!"
+    },
+    {
+      "tgdb_id": 37103,
+      "title": "Street Fighter Zero 2"
+    },
+    {
+      "tgdb_id": 37104,
+      "title": "Street Fighter Zero 3"
+    },
+    {
+      "tgdb_id": 37105,
+      "title": "Puzzle & Action: Ichidant-R"
+    },
+    {
+      "tgdb_id": 37118,
+      "title": "Power Spikes II"
+    },
+    {
+      "tgdb_id": 37155,
+      "title": "Badlands"
+    },
+    {
+      "tgdb_id": 37156,
+      "title": "Cliff Hanger"
+    },
+    {
+      "tgdb_id": 37157,
+      "title": "Esh's Aurunmilla"
+    },
+    {
+      "tgdb_id": 37158,
+      "title": "Space Ace"
+    },
+    {
+      "tgdb_id": 37159,
+      "title": "Star Blazer"
+    },
+    {
+      "tgdb_id": 37172,
+      "title": "Tengai"
+    },
+    {
+      "tgdb_id": 37173,
+      "title": "Thunder Zone"
+    },
+    {
+      "tgdb_id": 37183,
+      "title": "Total Carnage"
+    },
+    {
+      "tgdb_id": 37568,
+      "title": "Super Street Fighter II X: Grand Master Challenge"
+    },
+    {
+      "tgdb_id": 38187,
+      "title": "Battle City"
+    },
+    {
+      "tgdb_id": 38396,
+      "title": "The Alphax Z"
+    },
+    {
+      "tgdb_id": 38414,
+      "title": "Dragon Spirit"
+    },
+    {
+      "tgdb_id": 38514,
+      "title": "Tag Team Wrestling"
+    },
+    {
+      "tgdb_id": 38683,
+      "title": "Heiankyo Alien"
+    },
+    {
+      "tgdb_id": 38685,
+      "title": "Zodiack"
+    },
+    {
+      "tgdb_id": 38686,
+      "title": "X-Multiply"
+    },
+    {
+      "tgdb_id": 38687,
+      "title": "Wiz, The"
+    },
+    {
+      "tgdb_id": 38688,
+      "title": "WEC Le Mans 24"
+    },
+    {
+      "tgdb_id": 38689,
+      "title": "Vulcan Venture"
+    },
+    {
+      "tgdb_id": 38690,
+      "title": "Viper"
+    },
+    {
+      "tgdb_id": 38691,
+      "title": "Vindicators"
+    },
+    {
+      "tgdb_id": 38692,
+      "title": "Vindicators Part II"
+    },
+    {
+      "tgdb_id": 38693,
+      "title": "Vimana"
+    },
+    {
+      "tgdb_id": 38694,
+      "title": "Venture"
+    },
+    {
+      "tgdb_id": 38695,
+      "title": "Vapor Trail"
+    },
+    {
+      "tgdb_id": 38696,
+      "title": "Valtric"
+    },
+    {
+      "tgdb_id": 38697,
+      "title": "UFO Robo Dangar"
+    },
+    {
+      "tgdb_id": 38698,
+      "title": "Trojan"
+    },
+    {
+      "tgdb_id": 38710,
+      "title": "Invinco"
+    },
+    {
+      "tgdb_id": 38791,
+      "title": "City Connection"
+    },
+    {
+      "tgdb_id": 38792,
+      "title": "Cosmic Guerrilla"
+    },
+    {
+      "tgdb_id": 38794,
+      "title": "Galaxy Wars"
+    },
+    {
+      "tgdb_id": 38795,
+      "title": "Image Fight"
+    },
+    {
+      "tgdb_id": 38796,
+      "title": "Kyros"
+    },
+    {
+      "tgdb_id": 38797,
+      "title": "Mars"
+    },
+    {
+      "tgdb_id": 38798,
+      "title": "Monster Bash"
+    },
+    {
+      "tgdb_id": 38799,
+      "title": "Mr. Do's Castle"
+    },
+    {
+      "tgdb_id": 38800,
+      "title": "Pinbo"
+    },
+    {
+      "tgdb_id": 38801,
+      "title": "Saint Dragon"
+    },
+    {
+      "tgdb_id": 38802,
+      "title": "Slap Fight"
+    },
+    {
+      "tgdb_id": 38803,
+      "title": "Space Firebird"
+    },
+    {
+      "tgdb_id": 38805,
+      "title": "Space Panic"
+    },
+    {
+      "tgdb_id": 38806,
+      "title": "Star Force"
+    },
+    {
+      "tgdb_id": 38807,
+      "title": "Super Bagman"
+    },
+    {
+      "tgdb_id": 38808,
+      "title": "Tecmo Knight"
+    },
+    {
+      "tgdb_id": 38809,
+      "title": "Teddy Boy Blues"
+    },
+    {
+      "tgdb_id": 38810,
+      "title": "Terra Force"
+    },
+    {
+      "tgdb_id": 38811,
+      "title": "Glob, The"
+    },
+    {
+      "tgdb_id": 38812,
+      "title": "Lunar Rescue"
+    },
+    {
+      "tgdb_id": 38813,
+      "title": "Mega Zone"
+    },
+    {
+      "tgdb_id": 38814,
+      "title": "Pleiads"
+    },
+    {
+      "tgdb_id": 38815,
+      "title": "Time Pilot 84"
+    },
+    {
+      "tgdb_id": 38816,
+      "title": "UniWar S"
+    },
+    {
+      "tgdb_id": 38817,
+      "title": "Space Odyssey"
+    },
+    {
+      "tgdb_id": 38818,
+      "title": "Space Laser"
+    },
+    {
+      "tgdb_id": 38819,
+      "title": "Son Son"
+    },
+    {
+      "tgdb_id": 38821,
+      "title": "Sky Diver"
+    },
+    {
+      "tgdb_id": 38822,
+      "title": "Sinbad Mystery"
+    },
+    {
+      "tgdb_id": 38823,
+      "title": "Senjyo"
+    },
+    {
+      "tgdb_id": 38824,
+      "title": "Sengoku Ace"
+    },
+    {
+      "tgdb_id": 38829,
+      "title": "Ark Area"
+    },
+    {
+      "tgdb_id": 38830,
+      "title": "Armored Car"
+    },
+    {
+      "tgdb_id": 38831,
+      "title": "Atari Soccer"
+    },
+    {
+      "tgdb_id": 38832,
+      "title": "Avalanche"
+    },
+    {
+      "tgdb_id": 38833,
+      "title": "Baluba-louk no Densetsu"
+    },
+    {
+      "tgdb_id": 38834,
+      "title": "Basketball"
+    },
+    {
+      "tgdb_id": 38835,
+      "title": "Battle of Atlantis"
+    },
+    {
+      "tgdb_id": 38836,
+      "title": "Bio Attack"
+    },
+    {
+      "tgdb_id": 38837,
+      "title": "Blast Off"
+    },
+    {
+      "tgdb_id": 38838,
+      "title": "Blasto"
+    },
+    {
+      "tgdb_id": 38839,
+      "title": "Blazer"
+    },
+    {
+      "tgdb_id": 38840,
+      "title": "Block Hole"
+    },
+    {
+      "tgdb_id": 38858,
+      "title": "Fighting Soccer"
+    },
+    {
+      "tgdb_id": 38860,
+      "title": "Blockade"
+    },
+    {
+      "tgdb_id": 38861,
+      "title": "Bogey Manor"
+    },
+    {
+      "tgdb_id": 38862,
+      "title": "Bomb Bee"
+    },
+    {
+      "tgdb_id": 38863,
+      "title": "Boulder Dash Part 2"
+    },
+    {
+      "tgdb_id": 38864,
+      "title": "Butasan"
+    },
+    {
+      "tgdb_id": 38865,
+      "title": "Cerberus"
+    },
+    {
+      "tgdb_id": 38866,
+      "title": "Challenger"
+    },
+    {
+      "tgdb_id": 38867,
+      "title": "Changes"
+    },
+    {
+      "tgdb_id": 38868,
+      "title": "Checkmate"
+    },
+    {
+      "tgdb_id": 38869,
+      "title": "Cheeky Mouse"
+    },
+    {
+      "tgdb_id": 38870,
+      "title": "Chicken Shift"
+    },
+    {
+      "tgdb_id": 38871,
+      "title": "Colony 7"
+    },
+    {
+      "tgdb_id": 38872,
+      "title": "Cop 01"
+    },
+    {
+      "tgdb_id": 38873,
+      "title": "Cosmic Alien"
+    },
+    {
+      "tgdb_id": 38874,
+      "title": "Galivan - Cosmo Police"
+    },
+    {
+      "tgdb_id": 38875,
+      "title": "Cutie Q"
+    },
+    {
+      "tgdb_id": 38878,
+      "title": "D-Day (Centuri)"
+    },
+    {
+      "tgdb_id": 38879,
+      "title": "Danger Zone"
+    },
+    {
+      "tgdb_id": 38880,
+      "title": "Dangerous Seed"
+    },
+    {
+      "tgdb_id": 38881,
+      "title": "Darwin 4078"
+    },
+    {
+      "tgdb_id": 38886,
+      "title": "Depthcharge"
+    },
+    {
+      "tgdb_id": 38887,
+      "title": "Disco No.1"
+    },
+    {
+      "tgdb_id": 38888,
+      "title": "Do! Run Run"
+    },
+    {
+      "tgdb_id": 38889,
+      "title": "Dominos"
+    },
+    {
+      "tgdb_id": 38890,
+      "title": "Dr. Toppel's Tankentai"
+    },
+    {
+      "tgdb_id": 38891,
+      "title": "Escape from the Planet of the Robot Monsters"
+    },
+    {
+      "tgdb_id": 38892,
+      "title": "Espial"
+    },
+    {
+      "tgdb_id": 38893,
+      "title": "Exciting Soccer"
+    },
+    {
+      "tgdb_id": 38894,
+      "title": "Exerizer"
+    },
+    {
+      "tgdb_id": 38895,
+      "title": "Exterminator"
+    },
+    {
+      "tgdb_id": 38896,
+      "title": "Face Off"
+    },
+    {
+      "tgdb_id": 38897,
+      "title": "Fighting Golf"
+    },
+    {
+      "tgdb_id": 38898,
+      "title": "Fighting Hawk"
+    },
+    {
+      "tgdb_id": 38899,
+      "title": "Finalizer - Super Transformation"
+    },
+    {
+      "tgdb_id": 38900,
+      "title": "Fire Truck"
+    },
+    {
+      "tgdb_id": 38903,
+      "title": "Freeze"
+    },
+    {
+      "tgdb_id": 38904,
+      "title": "Frisky Tom"
+    },
+    {
+      "tgdb_id": 38905,
+      "title": "Future Spy"
+    },
+    {
+      "tgdb_id": 38906,
+      "title": "Galactic Warriors"
+    },
+    {
+      "tgdb_id": 38907,
+      "title": "Ganbare Ginkun"
+    },
+    {
+      "tgdb_id": 38908,
+      "title": "Garyo Retsuden"
+    },
+    {
+      "tgdb_id": 38909,
+      "title": "Gee Bee"
+    },
+    {
+      "tgdb_id": 38910,
+      "title": "Genpei ToumaDen"
+    },
+    {
+      "tgdb_id": 38911,
+      "title": "Gondomania"
+    },
+    {
+      "tgdb_id": 38928,
+      "title": "Hachoo!"
+    },
+    {
+      "tgdb_id": 38927,
+      "title": "Gun Dealer"
+    },
+    {
+      "tgdb_id": 38929,
+      "title": "Hat Trick"
+    },
+    {
+      "tgdb_id": 38930,
+      "title": "Hatris"
+    },
+    {
+      "tgdb_id": 38931,
+      "title": "Hebereke No Popoon"
+    },
+    {
+      "tgdb_id": 38932,
+      "title": "High Impact Football"
+    },
+    {
+      "tgdb_id": 38933,
+      "title": "High Way Race"
+    },
+    {
+      "tgdb_id": 39013,
+      "title": "Baku Baku"
+    },
+    {
+      "tgdb_id": 39014,
+      "title": "Baku Baku Animal"
+    },
+    {
+      "tgdb_id": 39015,
+      "title": "Bullfight"
+    },
+    {
+      "tgdb_id": 39016,
+      "title": "Burger Time"
+    },
+    {
+      "tgdb_id": 39020,
+      "title": "Hopper Robo"
+    },
+    {
+      "tgdb_id": 39021,
+      "title": "Hopping Mappy"
+    },
+    {
+      "tgdb_id": 39022,
+      "title": "Hot Shocker"
+    },
+    {
+      "tgdb_id": 39023,
+      "title": "Hustle"
+    },
+    {
+      "tgdb_id": 39024,
+      "title": "I'm Sorry"
+    },
+    {
+      "tgdb_id": 39025,
+      "title": "Invinco/Deep Scan"
+    },
+    {
+      "tgdb_id": 39026,
+      "title": "Invinco/ Head on 2"
+    },
+    {
+      "tgdb_id": 39027,
+      "title": "Ivan IRONMAN Stewart’s Super Off-Road: The Track-Pak"
+    },
+    {
+      "tgdb_id": 39028,
+      "title": "Jack Rabbit"
+    },
+    {
+      "tgdb_id": 39029,
+      "title": "Jump Coaster"
+    },
+    {
+      "tgdb_id": 39030,
+      "title": "Jungler"
+    },
+    {
+      "tgdb_id": 39031,
+      "title": "Kaos"
+    },
+    {
+      "tgdb_id": 39032,
+      "title": "Killer Comet"
+    },
+    {
+      "tgdb_id": 39033,
+      "title": "Kodure Ookami"
+    },
+    {
+      "tgdb_id": 39034,
+      "title": "Kuri Kinton"
+    },
+    {
+      "tgdb_id": 39035,
+      "title": "Land Sea Air Squad"
+    },
+    {
+      "tgdb_id": 39036,
+      "title": "Lasso"
+    },
+    {
+      "tgdb_id": 39037,
+      "title": "Last Mission"
+    },
+    {
+      "tgdb_id": 39038,
+      "title": "Lode Runner III - The Golden Labyrinth"
+    },
+    {
+      "tgdb_id": 39039,
+      "title": "Lode Runner - Teikoku Karano Dasshutsu"
+    },
+    {
+      "tgdb_id": 39040,
+      "title": "Logic Pro 2"
+    },
+    {
+      "tgdb_id": 39041,
+      "title": "M.I.A. Missing in Action"
+    },
+    {
+      "tgdb_id": 39042,
+      "title": "Macho Mouse"
+    },
+    {
+      "tgdb_id": 39043,
+      "title": "Mad Crasher"
+    },
+    {
+      "tgdb_id": 39044,
+      "title": "Mania Challenge"
+    },
+    {
+      "tgdb_id": 39046,
+      "title": "RollerGames"
+    },
+    {
+      "tgdb_id": 39169,
+      "title": "Violent Storm New"
+    },
+    {
+      "tgdb_id": 39254,
+      "title": "Rod-Land"
+    },
+    {
+      "tgdb_id": 39255,
+      "title": "Rolling Crash / Moon Base"
+    },
+    {
+      "tgdb_id": 39257,
+      "title": "Return of the Invaders"
+    },
+    {
+      "tgdb_id": 39258,
+      "title": "Regulus"
+    },
+    {
+      "tgdb_id": 39260,
+      "title": "Rompers"
+    },
+    {
+      "tgdb_id": 39262,
+      "title": "Ozma Wars"
+    },
+    {
+      "tgdb_id": 39265,
+      "title": "Pioneer Balloon"
+    },
+    {
+      "tgdb_id": 39266,
+      "title": "Pipe Dream"
+    },
+    {
+      "tgdb_id": 39267,
+      "title": "Pirate Ship Higemaru"
+    }
+  ]
+}

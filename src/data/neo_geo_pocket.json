@@ -1,13 +1,51 @@
-[
-  "Neo Geo Cup '98",
-  "Samurai Shodown!",
-  "Baseball Stars",
-  "King of Fighters R-1",
-  "Neo Cherry Master",
-  "NeoGeoCup '98 Plus",
-  "Pocket Tennis",
-  "Renketsu Puzzle Tsunagete Pon!",
-  "Melon-chan no Seichou Nikki",
-  "Shogi no Tatsujin",
-  "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series"
-]
+{
+  "tgbd_id": 4922,
+  "tgdb_alias": "neo-geo-pocket",
+  "name": "Neo Geo Pocket",
+  "titles": [
+    {
+      "tgdb_id": 36003,
+      "title": "Neo Geo Cup '98"
+    },
+    {
+      "tgdb_id": 27583,
+      "title": "Samurai Shodown!"
+    },
+    {
+      "tgdb_id": 27868,
+      "title": "Baseball Stars"
+    },
+    {
+      "tgdb_id": 27869,
+      "title": "King of Fighters R-1"
+    },
+    {
+      "tgdb_id": 27870,
+      "title": "Neo Cherry Master"
+    },
+    {
+      "tgdb_id": 27871,
+      "title": "NeoGeoCup '98 Plus"
+    },
+    {
+      "tgdb_id": 27872,
+      "title": "Pocket Tennis"
+    },
+    {
+      "tgdb_id": 34148,
+      "title": "Renketsu Puzzle Tsunagete Pon!"
+    },
+    {
+      "tgdb_id": 34149,
+      "title": "Melon-chan no Seichou Nikki"
+    },
+    {
+      "tgdb_id": 34150,
+      "title": "Shogi no Tatsujin"
+    },
+    {
+      "tgdb_id": 36721,
+      "title": "King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series"
+    }
+  ]
+}

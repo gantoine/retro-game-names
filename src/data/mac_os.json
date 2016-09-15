@@ -1,98 +1,391 @@
-[
-  "Castle Crashers",
-  "Portal 2",
-  "Left 4 Dead",
-  "Assassin's Creed: Brotherhood",
-  "Battlefield: Bad Company 2",
-  "Football Manager 2012",
-  "Total Annihilation",
-  "Batman: Arkham Asylum",
-  "iBomber Defense",
-  "Bejeweled 3",
-  "The Graveyard",
-  "Team Fortress 2",
-  "Poker Night at the Inventory",
-  "Furmins",
-  "Qasir al-Wasat",
-  "Diablo III",
-  "Psychonauts",
-  "Closure",
-  "Spy Hunter",
-  "The Cave",
-  "Botanicula",
-  "Braid",
-  "Critter Crunch",
-  "DeathSpank: Thongs of Virtue",
-  "Colin McRae: DiRT 2",
-  "Dungeon Defenders",
-  "Dungeon Hunter: Alliance",
-  "Free Realms",
-  "Guitar Hero: World Tour",
-  "The Orange Box",
-  "Iron Sky Invasion",
-  "LIMBO",
-  "Madden NFL 08",
-  "Football Manager 2013",
-  "Kentucky Route Zero",
-  "Galaxy on Fire 2 Full HD",
-  "Penny Arcade Adventures: Episode One",
-  "Penny Arcade Adventures: Episode Two",
-  "Prince of Persia (2008)",
-  "Puzzle Agent",
-  "R.U.S.E.",
-  "Rochard",
-  "Shank 2",
-  "Shatter",
-  "The Sims 3",
-  "The Sims 3: Pets",
-  "Skylanders: Spyro's Adventure",
-  "The 39 Steps",
-  "World of Warcraft: Mists of Pandaria",
-  "Planetary Annihilation",
-  "MDK",
-  "Bad Piggies",
-  "The Baconing",
-  "Bitfighter",
-  "Oolite",
-  "UemeU",
-  "CivCraft - Legends of Ellaria",
-  "Teslagrad",
-  "Power Pete",
-  "Hearthstone: Heroes of Warcraft",
-  "Star Trek Online",
-  "Ufo: Alien Invasion",
-  "Fishdom H2O: Hidden Odyssey",
-  "Defender's Quest:  Valley of the Forgotten",
-  "Brawlhalla",
-  "Quarterstaff: The Tomb of Setmoth",
-  "Gold Rush! Anniversary",
-  "10000000",
-  "Sunless Sea",
-  "Oddworld: New 'n' Tasty",
-  "Total War: Attila",
-  "Endless Legend",
-  "Thorns & Spells",
-  "Shadow Warrior Classic Redux",
-  "Oids",
-  "Scarab of Ra",
-  "Egoboo",
-  "Chop Suey",
-  "The Fool's Errand",
-  "Rolie,Polie,Olie Legends 2",
-  "Spacestation Pheta",
-  "Armikrog",
-  "The Ancient Art of War",
-  "StarCraft II: Wings of Liberty",
-  "StarCraft II: Heart of the Swarm",
-  "Warcraft III: The Frozen Throne",
-  "Reach for the Stars",
-  "Spaceward Ho!",
-  "F/A-18 Hornet 2.0",
-  "Football Manager 2008",
-  "Crystal Picnic",
-  "Rolie Polie Olie Edge",
-  "Ancestory",
-  "Pancake Surprise!",
-  "Emily Wants To Play",
-  "Star Citizen"
-]
+{
+  "tgbd_id": 37,
+  "tgdb_alias": "mac-os",
+  "name": "Mac OS",
+  "titles": [
+    {
+      "tgdb_id": 15348,
+      "title": "Castle Crashers"
+    },
+    {
+      "tgdb_id": 6271,
+      "title": "Portal 2"
+    },
+    {
+      "tgdb_id": 8158,
+      "title": "Left 4 Dead"
+    },
+    {
+      "tgdb_id": 8171,
+      "title": "Assassin's Creed: Brotherhood"
+    },
+    {
+      "tgdb_id": 8180,
+      "title": "Battlefield: Bad Company 2"
+    },
+    {
+      "tgdb_id": 9084,
+      "title": "Football Manager 2012"
+    },
+    {
+      "tgdb_id": 9042,
+      "title": "Total Annihilation"
+    },
+    {
+      "tgdb_id": 9056,
+      "title": "Batman: Arkham Asylum"
+    },
+    {
+      "tgdb_id": 9451,
+      "title": "iBomber Defense"
+    },
+    {
+      "tgdb_id": 10049,
+      "title": "Bejeweled 3"
+    },
+    {
+      "tgdb_id": 10374,
+      "title": "The Graveyard"
+    },
+    {
+      "tgdb_id": 10376,
+      "title": "Team Fortress 2"
+    },
+    {
+      "tgdb_id": 10520,
+      "title": "Poker Night at the Inventory"
+    },
+    {
+      "tgdb_id": 10845,
+      "title": "Furmins"
+    },
+    {
+      "tgdb_id": 11149,
+      "title": "Qasir al-Wasat"
+    },
+    {
+      "tgdb_id": 11958,
+      "title": "Diablo III"
+    },
+    {
+      "tgdb_id": 12508,
+      "title": "Psychonauts"
+    },
+    {
+      "tgdb_id": 14403,
+      "title": "Closure"
+    },
+    {
+      "tgdb_id": 14445,
+      "title": "Spy Hunter"
+    },
+    {
+      "tgdb_id": 14827,
+      "title": "The Cave"
+    },
+    {
+      "tgdb_id": 15041,
+      "title": "Botanicula"
+    },
+    {
+      "tgdb_id": 15330,
+      "title": "Braid"
+    },
+    {
+      "tgdb_id": 15383,
+      "title": "Critter Crunch"
+    },
+    {
+      "tgdb_id": 15415,
+      "title": "DeathSpank: Thongs of Virtue"
+    },
+    {
+      "tgdb_id": 15428,
+      "title": "Colin McRae: DiRT 2"
+    },
+    {
+      "tgdb_id": 15463,
+      "title": "Dungeon Defenders"
+    },
+    {
+      "tgdb_id": 15465,
+      "title": "Dungeon Hunter: Alliance"
+    },
+    {
+      "tgdb_id": 15582,
+      "title": "Free Realms"
+    },
+    {
+      "tgdb_id": 15640,
+      "title": "Guitar Hero: World Tour"
+    },
+    {
+      "tgdb_id": 15646,
+      "title": "The Orange Box"
+    },
+    {
+      "tgdb_id": 15694,
+      "title": "Iron Sky Invasion"
+    },
+    {
+      "tgdb_id": 15761,
+      "title": "LIMBO"
+    },
+    {
+      "tgdb_id": 15828,
+      "title": "Madden NFL 08"
+    },
+    {
+      "tgdb_id": 16133,
+      "title": "Football Manager 2013"
+    },
+    {
+      "tgdb_id": 16135,
+      "title": "Kentucky Route Zero"
+    },
+    {
+      "tgdb_id": 16158,
+      "title": "Galaxy on Fire 2 Full HD"
+    },
+    {
+      "tgdb_id": 16170,
+      "title": "Penny Arcade Adventures: Episode One"
+    },
+    {
+      "tgdb_id": 16174,
+      "title": "Penny Arcade Adventures: Episode Two"
+    },
+    {
+      "tgdb_id": 16203,
+      "title": "Prince of Persia (2008)"
+    },
+    {
+      "tgdb_id": 16245,
+      "title": "Puzzle Agent"
+    },
+    {
+      "tgdb_id": 16263,
+      "title": "R.U.S.E."
+    },
+    {
+      "tgdb_id": 16349,
+      "title": "Rochard"
+    },
+    {
+      "tgdb_id": 16507,
+      "title": "Shank 2"
+    },
+    {
+      "tgdb_id": 16514,
+      "title": "Shatter"
+    },
+    {
+      "tgdb_id": 16550,
+      "title": "The Sims 3"
+    },
+    {
+      "tgdb_id": 16552,
+      "title": "The Sims 3: Pets"
+    },
+    {
+      "tgdb_id": 16606,
+      "title": "Skylanders: Spyro's Adventure"
+    },
+    {
+      "tgdb_id": 16621,
+      "title": "The 39 Steps"
+    },
+    {
+      "tgdb_id": 16982,
+      "title": "World of Warcraft: Mists of Pandaria"
+    },
+    {
+      "tgdb_id": 17129,
+      "title": "Planetary Annihilation"
+    },
+    {
+      "tgdb_id": 17370,
+      "title": "MDK"
+    },
+    {
+      "tgdb_id": 17390,
+      "title": "Bad Piggies"
+    },
+    {
+      "tgdb_id": 18086,
+      "title": "The Baconing"
+    },
+    {
+      "tgdb_id": 18538,
+      "title": "Bitfighter"
+    },
+    {
+      "tgdb_id": 18924,
+      "title": "Oolite"
+    },
+    {
+      "tgdb_id": 18981,
+      "title": "UemeU"
+    },
+    {
+      "tgdb_id": 19247,
+      "title": "CivCraft - Legends of Ellaria"
+    },
+    {
+      "tgdb_id": 20643,
+      "title": "Teslagrad"
+    },
+    {
+      "tgdb_id": 20757,
+      "title": "Power Pete"
+    },
+    {
+      "tgdb_id": 21554,
+      "title": "Hearthstone: Heroes of Warcraft"
+    },
+    {
+      "tgdb_id": 22579,
+      "title": "Star Trek Online"
+    },
+    {
+      "tgdb_id": 23876,
+      "title": "Ufo: Alien Invasion"
+    },
+    {
+      "tgdb_id": 23985,
+      "title": "Fishdom H2O: Hidden Odyssey"
+    },
+    {
+      "tgdb_id": 24779,
+      "title": "Defender's Quest:  Valley of the Forgotten"
+    },
+    {
+      "tgdb_id": 24892,
+      "title": "Brawlhalla"
+    },
+    {
+      "tgdb_id": 25082,
+      "title": "Quarterstaff: The Tomb of Setmoth"
+    },
+    {
+      "tgdb_id": 25095,
+      "title": "Gold Rush! Anniversary"
+    },
+    {
+      "tgdb_id": 25604,
+      "title": "10000000"
+    },
+    {
+      "tgdb_id": 25628,
+      "title": "Sunless Sea"
+    },
+    {
+      "tgdb_id": 25637,
+      "title": "Oddworld: New 'n' Tasty"
+    },
+    {
+      "tgdb_id": 25653,
+      "title": "Total War: Attila"
+    },
+    {
+      "tgdb_id": 27586,
+      "title": "Endless Legend"
+    },
+    {
+      "tgdb_id": 35428,
+      "title": "Thorns & Spells"
+    },
+    {
+      "tgdb_id": 29154,
+      "title": "Shadow Warrior Classic Redux"
+    },
+    {
+      "tgdb_id": 29942,
+      "title": "Oids"
+    },
+    {
+      "tgdb_id": 30027,
+      "title": "Scarab of Ra"
+    },
+    {
+      "tgdb_id": 30264,
+      "title": "Egoboo"
+    },
+    {
+      "tgdb_id": 30345,
+      "title": "Chop Suey"
+    },
+    {
+      "tgdb_id": 30367,
+      "title": "The Fool's Errand"
+    },
+    {
+      "tgdb_id": 30459,
+      "title": "Rolie,Polie,Olie Legends 2"
+    },
+    {
+      "tgdb_id": 30491,
+      "title": "Spacestation Pheta"
+    },
+    {
+      "tgdb_id": 30624,
+      "title": "Armikrog"
+    },
+    {
+      "tgdb_id": 30746,
+      "title": "The Ancient Art of War"
+    },
+    {
+      "tgdb_id": 31281,
+      "title": "StarCraft II: Wings of Liberty"
+    },
+    {
+      "tgdb_id": 31298,
+      "title": "StarCraft II: Heart of the Swarm"
+    },
+    {
+      "tgdb_id": 31316,
+      "title": "Warcraft III: The Frozen Throne"
+    },
+    {
+      "tgdb_id": 31447,
+      "title": "Reach for the Stars"
+    },
+    {
+      "tgdb_id": 31513,
+      "title": "Spaceward Ho!"
+    },
+    {
+      "tgdb_id": 31514,
+      "title": "F/A-18 Hornet 2.0"
+    },
+    {
+      "tgdb_id": 31517,
+      "title": "Football Manager 2008"
+    },
+    {
+      "tgdb_id": 31723,
+      "title": "Crystal Picnic"
+    },
+    {
+      "tgdb_id": 35088,
+      "title": "Rolie Polie Olie Edge"
+    },
+    {
+      "tgdb_id": 35325,
+      "title": "Ancestory"
+    },
+    {
+      "tgdb_id": 36210,
+      "title": "Pancake Surprise!"
+    },
+    {
+      "tgdb_id": 36933,
+      "title": "Emily Wants To Play"
+    },
+    {
+      "tgdb_id": 38399,
+      "title": "Star Citizen"
+    }
+  ]
+}

@@ -1,6 +1,23 @@
-[
-  "Aquales",
-  "Akumajou Dracula",
-  "Nostalgia 1907",
-  "Star Wars: Attack on the Death Star"
-]
+{
+  "tgbd_id": 4931,
+  "tgdb_alias": "x68000",
+  "name": "X68000",
+  "titles": [
+    {
+      "tgdb_id": 35176,
+      "title": "Aquales"
+    },
+    {
+      "tgdb_id": 31754,
+      "title": "Akumajou Dracula"
+    },
+    {
+      "tgdb_id": 32763,
+      "title": "Nostalgia 1907"
+    },
+    {
+      "tgdb_id": 33398,
+      "title": "Star Wars: Attack on the Death Star"
+    }
+  ]
+}

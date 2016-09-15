@@ -1,11 +1,43 @@
-[
-  "Banana",
-  "Armor Battle",
-  "Baseball (GW)",
-  "Astro Wars",
-  "Demon Driver",
-  "Galaxy Invader 1000",
-  "Caveman",
-  "Puckman",
-  "Crazy Kong"
-]
+{
+  "tgbd_id": 4951,
+  "tgdb_alias": "lcd",
+  "name": "Handheld Electronic Games (LCD)",
+  "titles": [
+    {
+      "tgdb_id": 33304,
+      "title": "Banana"
+    },
+    {
+      "tgdb_id": 33303,
+      "title": "Armor Battle"
+    },
+    {
+      "tgdb_id": 33305,
+      "title": "Baseball (GW)"
+    },
+    {
+      "tgdb_id": 34662,
+      "title": "Astro Wars"
+    },
+    {
+      "tgdb_id": 34664,
+      "title": "Demon Driver"
+    },
+    {
+      "tgdb_id": 34665,
+      "title": "Galaxy Invader 1000"
+    },
+    {
+      "tgdb_id": 34666,
+      "title": "Caveman"
+    },
+    {
+      "tgdb_id": 34667,
+      "title": "Puckman"
+    },
+    {
+      "tgdb_id": 34668,
+      "title": "Crazy Kong"
+    }
+  ]
+}

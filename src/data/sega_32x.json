@@ -1,44 +1,175 @@
-[
-  "Space Harrier",
-  "Knuckles' Chaotix",
-  "Kolibri",
-  "Blackthorne",
-  "Golf Magazine: 36 Great Holes Starring Fred Couples",
-  "BC Racers",
-  "Cosmic Carnage",
-  "Doom",
-  "Metal Head",
-  "Mortal Kombat II",
-  "Primal Rage",
-  "Shadow Squadron",
-  "The Amazing Spider-Man: Web of Fire",
-  "Star Wars Arcade",
-  "Tempo",
-  "Virtua Fighter",
-  "Virtua Racing Deluxe",
-  "Brutal: Above the Claw",
-  "Star Trek: Starfleet Academy - Starship Bridge Simulator",
-  "WWF RAW",
-  "DarXide",
-  "Motocross Championship",
-  "NBA Jam Tournament Edition",
-  "Pitfall: The Mayan Adventure",
-  "RBI Baseball '95",
-  "T-Mek",
-  "Toughman Contest",
-  "Zaxxon's Motherbase 2000",
-  "Corpse Killer",
-  "NFL Quarterback Club",
-  "WWF WrestleMania: The Arcade Game",
-  "Slam City with Scottie Pippen",
-  "Virtua Hamster",
-  "Sangokushi IV",
-  "X-Men",
-  "World Series Baseball Starring Deion Sanders",
-  "FIFA Soccer 96",
-  "After Burner",
-  "Romance of the Three Kingdoms IV: Wall of Fire",
-  "Soulstar X",
-  "Night Trap",
-  "Supreme Warrior"
-]
+{
+  "tgbd_id": 33,
+  "tgdb_alias": "sega-32x",
+  "name": "Sega 32X",
+  "titles": [
+    {
+      "tgdb_id": 117,
+      "title": "Space Harrier"
+    },
+    {
+      "tgdb_id": 2290,
+      "title": "Knuckles' Chaotix"
+    },
+    {
+      "tgdb_id": 2609,
+      "title": "Kolibri"
+    },
+    {
+      "tgdb_id": 9074,
+      "title": "Blackthorne"
+    },
+    {
+      "tgdb_id": 4911,
+      "title": "Golf Magazine: 36 Great Holes Starring Fred Couples"
+    },
+    {
+      "tgdb_id": 4913,
+      "title": "BC Racers"
+    },
+    {
+      "tgdb_id": 4914,
+      "title": "Cosmic Carnage"
+    },
+    {
+      "tgdb_id": 4917,
+      "title": "Doom"
+    },
+    {
+      "tgdb_id": 4918,
+      "title": "Metal Head"
+    },
+    {
+      "tgdb_id": 4919,
+      "title": "Mortal Kombat II"
+    },
+    {
+      "tgdb_id": 4922,
+      "title": "Primal Rage"
+    },
+    {
+      "tgdb_id": 4923,
+      "title": "Shadow Squadron"
+    },
+    {
+      "tgdb_id": 4925,
+      "title": "The Amazing Spider-Man: Web of Fire"
+    },
+    {
+      "tgdb_id": 4926,
+      "title": "Star Wars Arcade"
+    },
+    {
+      "tgdb_id": 4927,
+      "title": "Tempo"
+    },
+    {
+      "tgdb_id": 4928,
+      "title": "Virtua Fighter"
+    },
+    {
+      "tgdb_id": 4929,
+      "title": "Virtua Racing Deluxe"
+    },
+    {
+      "tgdb_id": 5295,
+      "title": "Brutal: Above the Claw"
+    },
+    {
+      "tgdb_id": 5970,
+      "title": "Star Trek: Starfleet Academy - Starship Bridge Simulator"
+    },
+    {
+      "tgdb_id": 38401,
+      "title": "WWF RAW"
+    },
+    {
+      "tgdb_id": 9075,
+      "title": "DarXide"
+    },
+    {
+      "tgdb_id": 9076,
+      "title": "Motocross Championship"
+    },
+    {
+      "tgdb_id": 9077,
+      "title": "NBA Jam Tournament Edition"
+    },
+    {
+      "tgdb_id": 9079,
+      "title": "Pitfall: The Mayan Adventure"
+    },
+    {
+      "tgdb_id": 9080,
+      "title": "RBI Baseball '95"
+    },
+    {
+      "tgdb_id": 9081,
+      "title": "T-Mek"
+    },
+    {
+      "tgdb_id": 9082,
+      "title": "Toughman Contest"
+    },
+    {
+      "tgdb_id": 9083,
+      "title": "Zaxxon's Motherbase 2000"
+    },
+    {
+      "tgdb_id": 11036,
+      "title": "Corpse Killer"
+    },
+    {
+      "tgdb_id": 14262,
+      "title": "NFL Quarterback Club"
+    },
+    {
+      "tgdb_id": 14263,
+      "title": "WWF WrestleMania: The Arcade Game"
+    },
+    {
+      "tgdb_id": 14602,
+      "title": "Slam City with Scottie Pippen"
+    },
+    {
+      "tgdb_id": 20518,
+      "title": "Virtua Hamster"
+    },
+    {
+      "tgdb_id": 20519,
+      "title": "Sangokushi IV"
+    },
+    {
+      "tgdb_id": 20520,
+      "title": "X-Men"
+    },
+    {
+      "tgdb_id": 20521,
+      "title": "World Series Baseball Starring Deion Sanders"
+    },
+    {
+      "tgdb_id": 20522,
+      "title": "FIFA Soccer 96"
+    },
+    {
+      "tgdb_id": 26762,
+      "title": "After Burner"
+    },
+    {
+      "tgdb_id": 30674,
+      "title": "Romance of the Three Kingdoms IV: Wall of Fire"
+    },
+    {
+      "tgdb_id": 35756,
+      "title": "Soulstar X"
+    },
+    {
+      "tgdb_id": 36169,
+      "title": "Night Trap"
+    },
+    {
+      "tgdb_id": 36170,
+      "title": "Supreme Warrior"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "tgbd_id": 4926,
+  "tgdb_alias": "wonderswan-color",
+  "name": "WonderSwan Color",
+  "titles": [
+    {
+      "tgdb_id": 31925,
+      "title": "Tonpuusou"
+    },
+    {
+      "tgdb_id": 19544,
+      "title": "Blue Wing Blitz"
+    },
+    {
+      "tgdb_id": 19633,
+      "title": "Battle Spirit: Digimon Frontier"
+    },
+    {
+      "tgdb_id": 19634,
+      "title": "Dicing Knight Period"
+    },
+    {
+      "tgdb_id": 19635,
+      "title": "Battle Spirit: Digimon Tamers Ver 1.5"
+    },
+    {
+      "tgdb_id": 19636,
+      "title": "Final Lap Special: GT & Formula Machine"
+    },
+    {
+      "tgdb_id": 19637,
+      "title": "Guilty Gear Petit 2"
+    },
+    {
+      "tgdb_id": 19638,
+      "title": "Judgement Silversword: Rebirth Edition"
+    },
+    {
+      "tgdb_id": 19639,
+      "title": "One Piece Grand Battle: Swan Colosseum"
+    },
+    {
+      "tgdb_id": 19640,
+      "title": "RockMan EXE WS"
+    },
+    {
+      "tgdb_id": 19641,
+      "title": "Run=Dim: Return to Earth"
+    },
+    {
+      "tgdb_id": 19642,
+      "title": "Ultraman: Hikari no Kuni no Shisha"
+    },
+    {
+      "tgdb_id": 19643,
+      "title": "Wonder Classic"
+    },
+    {
+      "tgdb_id": 19796,
+      "title": "Dragon Ball"
+    },
+    {
+      "tgdb_id": 19797,
+      "title": "Final Fantasy"
+    },
+    {
+      "tgdb_id": 19798,
+      "title": "Mr. Driller"
+    },
+    {
+      "tgdb_id": 27693,
+      "title": "Alchemist Marie & Elie: Futari no Atelier"
+    },
+    {
+      "tgdb_id": 27694,
+      "title": "Another Heaven: Memory of Those Days"
+    },
+    {
+      "tgdb_id": 27695,
+      "title": "Arc the Lad: Kijin Fukkatsu"
+    },
+    {
+      "tgdb_id": 27696,
+      "title": "Digimon Tamers: Battle Spirit"
+    },
+    {
+      "tgdb_id": 27697,
+      "title": "Dark Eyes: BattleGate"
+    },
+    {
+      "tgdb_id": 27698,
+      "title": "Digimon Anode/Cathode Tamer: Veedramon Version"
+    },
+    {
+      "tgdb_id": 27699,
+      "title": "Digimon Adventure 02: D-1 Tamers"
+    },
+    {
+      "tgdb_id": 27700,
+      "title": "Digimon Tamers: Brave Tamer"
+    },
+    {
+      "tgdb_id": 27701,
+      "title": "Digimon Tamers: Digimon Medley"
+    },
+    {
+      "tgdb_id": 27702,
+      "title": "Digital Monsters: D Project"
+    },
+    {
+      "tgdb_id": 27703,
+      "title": "Digital Monsters Card Game Ver. WonderSwan Color"
+    },
+    {
+      "tgdb_id": 27704,
+      "title": "Dokodemo Hamster 3: O Dekake Safuran"
+    },
+    {
+      "tgdb_id": 27705,
+      "title": "Final Fantasy II"
+    },
+    {
+      "tgdb_id": 27706,
+      "title": "Final Fantasy IV"
+    },
+    {
+      "tgdb_id": 27707,
+      "title": "Flash Koibito-Kun"
+    },
+    {
+      "tgdb_id": 27708,
+      "title": "One Piece: Chopper no Daibouken"
+    },
+    {
+      "tgdb_id": 27709,
+      "title": "One Piece: Niji no Shima Densetsu"
+    },
+    {
+      "tgdb_id": 27710,
+      "title": "One Piece: Treasure Wars"
+    },
+    {
+      "tgdb_id": 27711,
+      "title": "One Piece: Treasure Wars 2: Buggyland e Youkoso"
+    },
+    {
+      "tgdb_id": 27712,
+      "title": "Front Mission"
+    },
+    {
+      "tgdb_id": 27713,
+      "title": "Gekitou! Crash Gear Turbo: Gear Champion League"
+    },
+    {
+      "tgdb_id": 27714,
+      "title": "Gensou Maden Saiyuuki Retribution: Hi no Ataru Basho De"
+    },
+    {
+      "tgdb_id": 27715,
+      "title": "Golden Axe"
+    },
+    {
+      "tgdb_id": 27716,
+      "title": "Gransta Chronicle"
+    },
+    {
+      "tgdb_id": 27717,
+      "title": "Guilty Gear Petit"
+    },
+    {
+      "tgdb_id": 27718,
+      "title": "Gunpey EX"
+    },
+    {
+      "tgdb_id": 27719,
+      "title": "Hanjuku Hero: Aa, Sekaiyo Hanjukunare...!"
+    },
+    {
+      "tgdb_id": 27720,
+      "title": "Hataraku Chocobo"
+    },
+    {
+      "tgdb_id": 27721,
+      "title": "Hunter X Hunter: Greed Island"
+    },
+    {
+      "tgdb_id": 27722,
+      "title": "Hunter X Hunter: Michibi Kareshi Mono"
+    },
+    {
+      "tgdb_id": 27724,
+      "title": "Hunter X Hunter: Sorezore no Ketsui"
+    },
+    {
+      "tgdb_id": 27725,
+      "title": "Inuyasha: Fuuun Emaki"
+    },
+    {
+      "tgdb_id": 27726,
+      "title": "Inuyasha: Kagome no Sengoku Nikki"
+    },
+    {
+      "tgdb_id": 27727,
+      "title": "Inuyasha: Kagome no Yume Nikki"
+    },
+    {
+      "tgdb_id": 27728,
+      "title": "Kidou Senshi Gundam Seed"
+    },
+    {
+      "tgdb_id": 27729,
+      "title": "Kidou Senshi Gundam Vol. 1 SIDE7"
+    },
+    {
+      "tgdb_id": 27730,
+      "title": "Kidou Senshi Gundam Vol. 2 Jaburo"
+    },
+    {
+      "tgdb_id": 27731,
+      "title": "Kidou Senshi Gundam Vol. 3 A Baoa Qu"
+    },
+    {
+      "tgdb_id": 27732,
+      "title": "Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha"
+    },
+    {
+      "tgdb_id": 27733,
+      "title": "Kinnikuman Nisei: Choujin Seisenshi"
+    },
+    {
+      "tgdb_id": 27734,
+      "title": "Kinnikuman Nisei: Dream Tag Match"
+    },
+    {
+      "tgdb_id": 27735,
+      "title": "Kurupara!"
+    },
+    {
+      "tgdb_id": 27736,
+      "title": "Last Alive"
+    },
+    {
+      "tgdb_id": 27738,
+      "title": "Makai Toushi SaGa"
+    },
+    {
+      "tgdb_id": 27739,
+      "title": "Meitantei Conan: Yuugure no Ouju"
+    },
+    {
+      "tgdb_id": 27740,
+      "title": "Memories Off Festa"
+    },
+    {
+      "tgdb_id": 27741,
+      "title": "Mikeneko Holmes: Ghost Panic"
+    },
+    {
+      "tgdb_id": 27742,
+      "title": "Namco Super Wars"
+    },
+    {
+      "tgdb_id": 27743,
+      "title": "Naruto: Konoha Ninpouchou"
+    },
+    {
+      "tgdb_id": 27744,
+      "title": "Pocket no Naka no Doraemon"
+    },
+    {
+      "tgdb_id": 27745,
+      "title": "Raku Jongg"
+    },
+    {
+      "tgdb_id": 27747,
+      "title": "Rhyme Rider Kerorican"
+    },
+    {
+      "tgdb_id": 27748,
+      "title": "Riviera: Yakusoku no Chi Riviera"
+    },
+    {
+      "tgdb_id": 27749,
+      "title": "RockMan EXE N1 Battle"
+    },
+    {
+      "tgdb_id": 27750,
+      "title": "Romancing SaGa"
+    },
+    {
+      "tgdb_id": 27751,
+      "title": "Saint Seiya: Ougon Densetsuhen Perfect Edition"
+    },
+    {
+      "tgdb_id": 27752,
+      "title": "SD Gundam Eiyuuden: Kishi Densetsu"
+    },
+    {
+      "tgdb_id": 27753,
+      "title": "SD Gundam Eiyuuden: Musha Densetsu"
+    },
+    {
+      "tgdb_id": 27754,
+      "title": "SD Gundam: Operation U.C."
+    },
+    {
+      "tgdb_id": 27755,
+      "title": "SD Gundam G Generation: Gather Beat 2"
+    },
+    {
+      "tgdb_id": 27756,
+      "title": "SD Gundam G Generation: Mono-Eye Gundams"
+    },
+    {
+      "tgdb_id": 27757,
+      "title": "Shaman King: Asu e no Ishi"
+    },
+    {
+      "tgdb_id": 27760,
+      "title": "Soroban Gu"
+    },
+    {
+      "tgdb_id": 27761,
+      "title": "Star Hearts: Hoshi to Daichi no Shisha"
+    },
+    {
+      "tgdb_id": 27762,
+      "title": "Super Robot Taisen Compact 3"
+    },
+    {
+      "tgdb_id": 27763,
+      "title": "Super Robot Taisen Compact for WonderSwan Color"
+    },
+    {
+      "tgdb_id": 27764,
+      "title": "Terrors 2"
+    },
+    {
+      "tgdb_id": 27765,
+      "title": "Tetris"
+    },
+    {
+      "tgdb_id": 27766,
+      "title": "Uchuu Senkan Yamato"
+    },
+    {
+      "tgdb_id": 27767,
+      "title": "Wild Card"
+    },
+    {
+      "tgdb_id": 27768,
+      "title": "X: Card of Fate"
+    },
+    {
+      "tgdb_id": 27769,
+      "title": "With You: Mitsumete Itai"
+    },
+    {
+      "tgdb_id": 27770,
+      "title": "Wizardry Scenario #1: Proving Grounds of the Mad Overlord"
+    },
+    {
+      "tgdb_id": 27771,
+      "title": "XI (sai) Little"
+    },
+    {
+      "tgdb_id": 34145,
+      "title": "Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori"
+    }
+  ]
+}

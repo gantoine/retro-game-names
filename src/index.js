@@ -64,7 +64,28 @@ function _inString(options, game) {
 
 function _randomPlatform(wanted) {
   const keys = wanted || Object.keys(platforms)
-  return uniqueRandomArray(keys)()
+  return _randomSkewed(keys)
+}
+
+function _randomSkewed(keys) {
+  let count = 0;
+
+  const data = _.map(keys, (key) => {
+    const weight = platforms[key].titles.length
+    count += weight;
+    return {title: key, weight: weight};
+  })
+
+  const rand = Math.random() * count;
+  let platform = '';
+
+  data.some((obj) => {
+    count -= obj.weight;
+    platform = obj.title;
+    return count < rand;
+  })
+
+  return platform;
 }
 
 export default mainExport

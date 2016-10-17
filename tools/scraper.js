@@ -52,7 +52,7 @@ function gotConsole(info) {
 /* eslint-disable no-console, no-invalid-this */
 function gotGames(gamesArray) {
   const platformInfo = {
-    tgbd_id: this.id,
+    tgdb_id: this.id,
     tgdb_alias: this.alias,
     name: this.name
   }

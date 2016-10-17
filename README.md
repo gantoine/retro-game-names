@@ -51,7 +51,7 @@ const consoles = retro.platforms()
 Returns all information for the given platform
 ```javascript
 const titles = retro.info('nintendo_entertainment_system_nes')
-// { tgbd_id: 7,
+// { tgdb_id: 7,
 //   tgdb_alias: 'nintendo-entertainment-system-nes',
 //   name: 'Nintendo Entertainment System (NES)',
 //   titles: [{title: '10-Yard Fight', tgdb_id: 317}, {title: '1942', tgdb_id: 4178}, ...]

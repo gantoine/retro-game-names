@@ -133,3 +133,7 @@ scraper = require('./tools/scraper.js')
 scraper.missing()
 ```
 Using `missing()` is prefered over `all()`, as it will hit TheGamesDB's API only when needed.
+
+## Status
+
+[![](https://codescene.io/projects/753/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/753/jobs/latest-successful/results)
